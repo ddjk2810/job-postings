@@ -385,6 +385,24 @@
       "scraper": "kinaxis_scraper",
       "enabled": true,
       "notes": "iCIMS platform, similar to Kinaxis"
+    },
+    {
+      "name": "Serval",
+      "slug": "serval",
+      "url": "https://jobs.ashbyhq.com/Serval",
+      "platform": "ashby",
+      "scraper": "ashby_scraper",
+      "ashby_id": "Serval",
+      "enabled": true
+    },
+    {
+      "name": "Bilt Rewards",
+      "slug": "bilt",
+      "url": "https://jobs.gem.com/bilt",
+      "platform": "gem",
+      "scraper": "generic_scraper",
+      "enabled": false,
+      "notes": "Gem platform - needs headless scraper, disabled for now"
     }
   ]
 }

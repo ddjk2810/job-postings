@@ -71,7 +71,9 @@
       "WebFetch(domain:careers.blueyonder.com)",
       "WebFetch(domain:www.medidata.com)",
       "WebFetch(domain:careers.yardi.com)",
-      "WebFetch(domain:www.serval.com)"
+      "WebFetch(domain:www.serval.com)",
+      "WebFetch(domain:jobs.gem.com)",
+      "WebFetch(domain:api.gem.com)"
     ]
   }
 }
