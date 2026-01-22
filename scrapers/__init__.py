@@ -13,6 +13,7 @@ from scrapers.kinaxis_scraper import KinaxisScraper
 from scrapers.generic_scraper import GenericScraper
 from scrapers.toast_scraper import ToastScraper
 from scrapers.ashby_scraper import AshbyScraper
+from scrapers.gem_scraper import GemScraper
 
 __all__ = [
     'BaseScraper',
@@ -27,5 +28,6 @@ __all__ = [
     'KinaxisScraper',
     'GenericScraper',
     'ToastScraper',
-    'AshbyScraper'
+    'AshbyScraper',
+    'GemScraper'
 ]

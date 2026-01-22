@@ -400,9 +400,8 @@
       "slug": "bilt",
       "url": "https://jobs.gem.com/bilt",
       "platform": "gem",
-      "scraper": "generic_scraper",
-      "enabled": true,
-      "notes": "Gem platform - may need headless scraper if generic fails"
+      "scraper": "gem_scraper",
+      "enabled": true
     }
   ]
 }
