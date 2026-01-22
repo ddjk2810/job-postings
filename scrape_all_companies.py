@@ -25,6 +25,11 @@ from scrapers.toast_scraper import ToastScraper
 from scrapers.generic_scraper import GenericScraper
 from scrapers.ashby_scraper import AshbyScraper
 from scrapers.gem_scraper import GemScraper
+from scrapers.successfactors_scraper import SuccessFactorsScraper
+from scrapers.tyler_scraper import TylerScraper
+from scrapers.simulationsplus_scraper import SimulationsPlusScraper
+from scrapers.dassault_scraper import DassaultScraper
+from scrapers.yardi_scraper import YardiScraper
 
 
 def load_companies_config(config_file='companies_config.json'):
@@ -67,6 +72,11 @@ def get_scraper_class(scraper_name):
         'generic_scraper': GenericScraper,
         'ashby_scraper': AshbyScraper,
         'gem_scraper': GemScraper,
+        'successfactors_scraper': SuccessFactorsScraper,
+        'tyler_scraper': TylerScraper,
+        'simulationsplus_scraper': SimulationsPlusScraper,
+        'dassault_scraper': DassaultScraper,
+        'yardi_scraper': YardiScraper,
     }
     return scrapers.get(scraper_name, GenericScraper)
 

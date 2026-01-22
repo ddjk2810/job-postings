@@ -113,9 +113,10 @@
       "name": "Dassault Systemes (3DS)",
       "slug": "3ds",
       "url": "https://www.3ds.com/careers/jobs",
-      "platform": "custom",
-      "scraper": "generic_scraper",
-      "enabled": true
+      "platform": "headless",
+      "scraper": "dassault_scraper",
+      "enabled": true,
+      "notes": "Vue.js dynamic site, requires headless browser"
     },
     {
       "name": "Guidewire",
@@ -147,10 +148,12 @@
     {
       "name": "Descartes",
       "slug": "descartes",
-      "url": "https://careers.descartes.com/join-our-team/#current-openings",
-      "platform": "custom",
-      "scraper": "generic_scraper",
-      "enabled": true
+      "url": "https://jobs.descartes.com/go/View-All-Jobs/2574817/",
+      "platform": "successfactors",
+      "scraper": "successfactors_scraper",
+      "enabled": true,
+      "all_jobs_url": "https://jobs.descartes.com/go/View-All-Jobs/2574817/",
+      "notes": "SAP SuccessFactors platform"
     },
     {
       "name": "Vertex",
@@ -232,10 +235,11 @@
     {
       "name": "Simulations Plus",
       "slug": "simulationsplus",
-      "url": "https://www.simulations-plus.com/career-center/#jobopenings",
-      "platform": "custom",
-      "scraper": "generic_scraper",
-      "enabled": true
+      "url": "https://www.simulations-plus.com/career-center/",
+      "platform": "headless",
+      "scraper": "simulationsplus_scraper",
+      "enabled": false,
+      "notes": "Company does not maintain a public job board - posts to external platforms only (Indeed, Glassdoor). Typically has 0-3 openings."
     },
     {
       "name": "Altus Group",
@@ -257,10 +261,11 @@
     {
       "name": "Tyler Technologies",
       "slug": "tyler",
-      "url": "https://www.tylertech.com/careers/job-openings",
-      "platform": "custom",
-      "scraper": "generic_scraper",
-      "enabled": true
+      "url": "https://www.tylertech.com/careers/job-listings",
+      "platform": "headless",
+      "scraper": "tyler_scraper",
+      "enabled": true,
+      "notes": "Uses Jobvite integration, requires headless browser"
     },
     {
       "name": "Axon",
@@ -402,6 +407,15 @@
       "platform": "gem",
       "scraper": "gem_scraper",
       "enabled": true
+    },
+    {
+      "name": "Yardi",
+      "slug": "yardi",
+      "url": "https://careers.yardi.com/openings/",
+      "platform": "headless",
+      "scraper": "yardi_scraper",
+      "enabled": true,
+      "notes": "Custom careers site, requires headless browser with anti-detection"
     }
   ]
 }

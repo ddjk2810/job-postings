@@ -14,6 +14,11 @@ from scrapers.generic_scraper import GenericScraper
 from scrapers.toast_scraper import ToastScraper
 from scrapers.ashby_scraper import AshbyScraper
 from scrapers.gem_scraper import GemScraper
+from scrapers.successfactors_scraper import SuccessFactorsScraper
+from scrapers.tyler_scraper import TylerScraper
+from scrapers.simulationsplus_scraper import SimulationsPlusScraper
+from scrapers.dassault_scraper import DassaultScraper
+from scrapers.yardi_scraper import YardiScraper
 
 __all__ = [
     'BaseScraper',
@@ -29,5 +34,10 @@ __all__ = [
     'GenericScraper',
     'ToastScraper',
     'AshbyScraper',
-    'GemScraper'
+    'GemScraper',
+    'SuccessFactorsScraper',
+    'TylerScraper',
+    'SimulationsPlusScraper',
+    'DassaultScraper',
+    'YardiScraper'
 ]
