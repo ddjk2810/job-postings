@@ -295,6 +295,96 @@
       "platform": "headless",
       "scraper": "servicetitan_scraper",
       "enabled": true
+    },
+    {
+      "name": "Lumin Digital",
+      "slug": "lumindigital",
+      "url": "https://jobs.lever.co/LuminDigital",
+      "platform": "lever",
+      "scraper": "lever_scraper",
+      "lever_id": "LuminDigital",
+      "enabled": true
+    },
+    {
+      "name": "Entrata",
+      "slug": "entrata",
+      "url": "https://jobs.lever.co/entrata",
+      "platform": "lever",
+      "scraper": "lever_scraper",
+      "lever_id": "entrata",
+      "enabled": true
+    },
+    {
+      "name": "Blend",
+      "slug": "blend",
+      "url": "https://blend.com/company/careers/job-openings/",
+      "platform": "greenhouse",
+      "scraper": "greenhouse_scraper",
+      "greenhouse_id": "blend",
+      "enabled": true
+    },
+    {
+      "name": "Parloa",
+      "slug": "parloa",
+      "url": "https://job-boards.eu.greenhouse.io/parloa",
+      "platform": "greenhouse",
+      "scraper": "greenhouse_scraper",
+      "greenhouse_id": "parloa",
+      "enabled": true
+    },
+    {
+      "name": "o9 Solutions",
+      "slug": "o9solutions",
+      "url": "https://o9solutions.wd5.myworkdayjobs.com/o9SolutionsExternal",
+      "platform": "workday",
+      "scraper": "workday_scraper",
+      "api_base": "https://o9solutions.wd5.myworkdayjobs.com/wday/cxs/o9solutions/o9SolutionsExternal/jobs",
+      "enabled": true
+    },
+    {
+      "name": "Blue Yonder",
+      "slug": "blueyonder",
+      "url": "https://careers.blueyonder.com/us/en/search-results",
+      "platform": "workday",
+      "scraper": "workday_scraper",
+      "api_base": "https://jda.wd5.myworkdayjobs.com/wday/cxs/jda/JDA_Careers/jobs",
+      "enabled": true
+    },
+    {
+      "name": "EliseAI",
+      "slug": "eliseai",
+      "url": "https://eliseai.com/careers",
+      "platform": "ashby",
+      "scraper": "ashby_scraper",
+      "ashby_id": "eliseai",
+      "enabled": true
+    },
+    {
+      "name": "Sierra AI",
+      "slug": "sierra",
+      "url": "https://sierra.ai/careers",
+      "platform": "ashby",
+      "scraper": "ashby_scraper",
+      "ashby_id": "Sierra",
+      "enabled": true
+    },
+    {
+      "name": "Decagon AI",
+      "slug": "decagon",
+      "url": "https://decagon.ai/careers",
+      "platform": "ashby",
+      "scraper": "ashby_scraper",
+      "ashby_id": "decagon",
+      "enabled": true
+    },
+    {
+      "name": "RealPage",
+      "slug": "realpage",
+      "url": "https://careers-realpagepms.icims.com/jobs/search",
+      "platform": "icims",
+      "scraper": "kinaxis_scraper",
+      "enabled": true,
+      "notes": "iCIMS platform, similar to Kinaxis"
     }
   ]
 }

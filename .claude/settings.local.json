@@ -56,7 +56,22 @@
       "Bash(git init:*)",
       "Bash(gh auth status:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(curl:*)",
+      "WebFetch(domain:api.lever.co)",
+      "WebFetch(domain:boards-api.greenhouse.io)",
+      "WebFetch(domain:blend.com)",
+      "WebFetch(domain:eliseai.com)",
+      "WebFetch(domain:sierra.ai)",
+      "WebFetch(domain:decagon.ai)",
+      "WebFetch(domain:www.biltrewards.com)",
+      "WebFetch(domain:careers.blueyonder.com)",
+      "WebFetch(domain:www.medidata.com)",
+      "WebFetch(domain:careers.yardi.com)",
+      "WebFetch(domain:www.serval.com)"
     ]
   }
 }

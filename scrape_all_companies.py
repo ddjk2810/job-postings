@@ -23,6 +23,7 @@ from scrapers.servicetitan_scraper import ServiceTitanScraper
 from scrapers.dayforce_scraper import DayforceScraper
 from scrapers.toast_scraper import ToastScraper
 from scrapers.generic_scraper import GenericScraper
+from scrapers.ashby_scraper import AshbyScraper
 
 
 def load_companies_config(config_file='companies_config.json'):
@@ -63,6 +64,7 @@ def get_scraper_class(scraper_name):
         'dayforce_scraper': DayforceScraper,
         'toast_scraper': ToastScraper,
         'generic_scraper': GenericScraper,
+        'ashby_scraper': AshbyScraper,
     }
     return scrapers.get(scraper_name, GenericScraper)
 
