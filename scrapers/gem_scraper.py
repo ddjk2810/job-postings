@@ -65,63 +65,75 @@ class GemScraper(HeadlessScraper):
                 # Try finding all links and filter for job-related ones
                 self.log("Trying to find job links...")
                 all_links = self.driver.find_elements(By.TAG_NAME, 'a')
+
+                # Get company slug from URL (e.g., 'bilt' from 'jobs.gem.com/bilt')
+                company_slug = url.rstrip('/').split('/')[-1]
+
                 job_elements = [
                     link for link in all_links
                     if '/jobs/' in (link.get_attribute('href') or '')
+                    or f'/{company_slug}/' in (link.get_attribute('href') or '')
                     or 'job' in (link.get_attribute('class') or '').lower()
                 ]
                 self.log(f"Found {len(job_elements)} potential job links")
 
             # Extract job information
             seen_urls = set()
+            company_slug = url.rstrip('/').split('/')[-1]
+
             for element in job_elements:
                 try:
                     # Get job URL
                     job_url = element.get_attribute('href')
                     if not job_url or job_url in seen_urls:
                         continue
-                    if '/jobs/' not in job_url:
+
+                    # Check if it's a job URL (contains /jobs/ or /company_slug/)
+                    if '/jobs/' not in job_url and f'/{company_slug}/' not in job_url:
+                        continue
+
+                    # Skip if it's just the main board URL
+                    if job_url.rstrip('/') == url.rstrip('/'):
                         continue
 
                     seen_urls.add(job_url)
 
-                    # Try to get job title
-                    title = None
+                    # Get the full text from the link element
+                    full_text = element.text.strip()
 
-                    # Try getting text from the element
-                    title = element.text.strip()
+                    # Gem format: "Title\nLocation\n·\nWork Type" or similar
+                    lines = [l.strip() for l in full_text.split('\n') if l.strip() and l.strip() != '·']
 
-                    # If element has nested structure, try to find title
-                    if not title or len(title) > 200:
-                        try:
-                            title_el = element.find_element(By.CSS_SELECTOR, 'h2, h3, h4, [class*="title"], [class*="Title"]')
-                            title = title_el.text.strip()
-                        except Exception:
-                            pass
+                    # First line is usually the title
+                    title = lines[0] if lines else None
 
-                    if not title:
+                    # Second line is usually location
+                    location = lines[1] if len(lines) > 1 else 'Not specified'
+
+                    # Check for work type (Remote/In office)
+                    work_type = ''
+                    for line in lines:
+                        if 'remote' in line.lower() or 'in office' in line.lower() or 'hybrid' in line.lower():
+                            work_type = line
+                            break
+
+                    if not title or len(title) < 3:
                         # Extract from URL as last resort
                         title = job_url.split('/')[-1].replace('-', ' ').title()
 
-                    # Try to get location
-                    location = 'Not specified'
-                    try:
-                        loc_el = element.find_element(By.CSS_SELECTOR, '[class*="location"], [class*="Location"]')
-                        location = loc_el.text.strip()
-                    except Exception:
-                        pass
-
-                    # Try to get department
+                    # Try to get department from parent/sibling elements
                     department = 'Not specified'
                     try:
-                        dept_el = element.find_element(By.CSS_SELECTOR, '[class*="department"], [class*="Department"], [class*="team"], [class*="Team"]')
-                        department = dept_el.text.strip()
+                        # Look for department header above job listings
+                        parent = element.find_element(By.XPATH, './ancestor::div[contains(@class, "department") or contains(@class, "team") or contains(@class, "category")]')
+                        dept_header = parent.find_element(By.CSS_SELECTOR, 'h2, h3, h4, [class*="header"]')
+                        department = dept_header.text.strip()
                     except Exception:
                         pass
 
                     # Check if remote
                     remote = 'No'
-                    if 'remote' in location.lower() or 'remote' in title.lower():
+                    if 'remote' in location.lower() or 'remote' in title.lower() or 'remote' in work_type.lower():
                         remote = 'Yes'
 
                     job_info = {
@@ -130,7 +142,7 @@ class GemScraper(HeadlessScraper):
                         'location': location,
                         'posting_date': 'Not specified',
                         'remote': remote,
-                        'region': 'Not specified',
+                        'region': 'Americas' if 'new york' in location.lower() or 'remote' in location.lower() else 'Not specified',
                         'url': job_url
                     }
 
