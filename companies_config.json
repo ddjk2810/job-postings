@@ -1,0 +1,300 @@
+{
+  "companies": [
+    {
+      "name": "Veeva",
+      "slug": "veeva",
+      "url": "https://careers.veeva.com/job-search-results/",
+      "platform": "custom",
+      "scraper": "veeva_scraper",
+      "enabled": true
+    },
+    {
+      "name": "HubSpot",
+      "slug": "hubspot",
+      "url": "https://www.hubspot.com/careers/jobs?page=1",
+      "platform": "ripplematch",
+      "scraper": "generic_scraper",
+      "enabled": true,
+      "notes": "Uses RippleMatch third-party platform"
+    },
+    {
+      "name": "Salesforce",
+      "slug": "salesforce",
+      "url": "https://careers.salesforce.com/en/jobs/",
+      "platform": "custom",
+      "scraper": "generic_scraper",
+      "enabled": true
+    },
+    {
+      "name": "Kinaxis",
+      "slug": "kinaxis",
+      "url": "https://careers-kinaxis.icims.com/",
+      "platform": "headless",
+      "scraper": "kinaxis_scraper",
+      "enabled": true
+    },
+    {
+      "name": "ServiceNow",
+      "slug": "servicenow",
+      "url": "https://careers.servicenow.com/jobs/",
+      "platform": "custom",
+      "scraper": "generic_scraper",
+      "enabled": true
+    },
+    {
+      "name": "Ensono",
+      "slug": "ensono",
+      "url": "https://recruiting.ultipro.com/ONE1018ONSO/JobBoard/1955ffa6-bda6-4c95-8412-2c731d693ab2/?q=&o=postedDateDesc",
+      "platform": "ultipro",
+      "scraper": "generic_scraper",
+      "enabled": true
+    },
+    {
+      "name": "Workday",
+      "slug": "workday",
+      "url": "https://workday.wd5.myworkdayjobs.com/Workday/",
+      "platform": "workday",
+      "scraper": "workday_scraper",
+      "enabled": true,
+      "api_base": "https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs"
+    },
+    {
+      "name": "Autodesk",
+      "slug": "autodesk",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext",
+      "platform": "workday",
+      "scraper": "workday_scraper",
+      "enabled": true,
+      "api_base": "https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs"
+    },
+    {
+      "name": "Bentley",
+      "slug": "bentley",
+      "url": "https://jobs.bentley.com/search",
+      "platform": "custom",
+      "scraper": "generic_scraper",
+      "enabled": true
+    },
+    {
+      "name": "Nemetschek",
+      "slug": "nemetschek",
+      "url": "https://www.nemetschek.com/en/company/career",
+      "platform": "custom",
+      "scraper": "generic_scraper",
+      "enabled": true
+    },
+    {
+      "name": "Procore",
+      "slug": "procore",
+      "url": "https://careers.procore.com/jobs/search",
+      "platform": "headless",
+      "scraper": "procore_scraper",
+      "enabled": true
+    },
+    {
+      "name": "Alkami",
+      "slug": "alkami",
+      "url": "https://alkami.wd12.myworkdayjobs.com/Alkami",
+      "platform": "workday",
+      "scraper": "workday_scraper",
+      "enabled": true,
+      "api_base": "https://alkami.wd12.myworkdayjobs.com/wday/cxs/alkami/Alkami/jobs"
+    },
+    {
+      "name": "nCino",
+      "slug": "ncino",
+      "url": "https://ncino.wd5.myworkdayjobs.com/nCinoCareers",
+      "platform": "workday",
+      "scraper": "workday_scraper",
+      "enabled": true,
+      "api_base": "https://ncino.wd5.myworkdayjobs.com/wday/cxs/ncino/nCinoCareers/jobs"
+    },
+    {
+      "name": "Dassault Systemes (3DS)",
+      "slug": "3ds",
+      "url": "https://www.3ds.com/careers/jobs",
+      "platform": "custom",
+      "scraper": "generic_scraper",
+      "enabled": true
+    },
+    {
+      "name": "Guidewire",
+      "slug": "guidewire",
+      "url": "https://guidewire.wd5.myworkdayjobs.com/external",
+      "platform": "workday",
+      "scraper": "workday_scraper",
+      "enabled": true,
+      "api_base": "https://guidewire.wd5.myworkdayjobs.com/wday/cxs/guidewire/external/jobs"
+    },
+    {
+      "name": "Manhattan Associates",
+      "slug": "manhattan",
+      "url": "https://manh.wd5.myworkdayjobs.com/en-US/External/jobs",
+      "platform": "workday",
+      "scraper": "workday_scraper",
+      "enabled": true,
+      "api_base": "https://manh.wd5.myworkdayjobs.com/wday/cxs/manh/External/jobs"
+    },
+    {
+      "name": "SPS Commerce",
+      "slug": "spscommerce",
+      "url": "https://spscommerce.wd108.myworkdayjobs.com/en-US/SPS",
+      "platform": "workday",
+      "scraper": "workday_scraper",
+      "enabled": true,
+      "api_base": "https://spscommerce.wd108.myworkdayjobs.com/wday/cxs/spscommerce/SPS/jobs"
+    },
+    {
+      "name": "Descartes",
+      "slug": "descartes",
+      "url": "https://careers.descartes.com/join-our-team/#current-openings",
+      "platform": "custom",
+      "scraper": "generic_scraper",
+      "enabled": true
+    },
+    {
+      "name": "Vertex",
+      "slug": "vertex",
+      "url": "https://vertexinc.wd1.myworkdayjobs.com/VertexInc",
+      "platform": "workday",
+      "scraper": "workday_scraper",
+      "enabled": true,
+      "api_base": "https://vertexinc.wd1.myworkdayjobs.com/wday/cxs/vertexinc/VertexInc/jobs"
+    },
+    {
+      "name": "BlackLine",
+      "slug": "blackline",
+      "url": "https://careers.blackline.com/careers-home/jobs",
+      "platform": "custom",
+      "scraper": "generic_scraper",
+      "enabled": true
+    },
+    {
+      "name": "Q2",
+      "slug": "q2",
+      "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2",
+      "platform": "workday",
+      "scraper": "workday_scraper",
+      "enabled": true,
+      "api_base": "https://q2ebanking.wd5.myworkdayjobs.com/wday/cxs/q2ebanking/Q2/jobs"
+    },
+    {
+      "name": "CCC Intelligent Solutions",
+      "slug": "ccc",
+      "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external",
+      "platform": "workday",
+      "scraper": "workday_scraper",
+      "enabled": true,
+      "api_base": "https://cccis.wd1.myworkdayjobs.com/wday/cxs/cccis/broadbean_external/jobs"
+    },
+    {
+      "name": "Shopify",
+      "slug": "shopify",
+      "url": "https://www.shopify.com/careers",
+      "platform": "custom",
+      "scraper": "generic_scraper",
+      "enabled": true
+    },
+    {
+      "name": "Bill.com",
+      "slug": "bill",
+      "url": "https://www.bill.com/jobs",
+      "platform": "greenhouse",
+      "scraper": "greenhouse_scraper",
+      "enabled": true,
+      "greenhouse_id": "billcom"
+    },
+    {
+      "name": "Workiva",
+      "slug": "workiva",
+      "url": "https://workiva.wd503.myworkdayjobs.com/careers",
+      "platform": "workday",
+      "scraper": "workday_scraper",
+      "enabled": true,
+      "api_base": "https://workiva.wd503.myworkdayjobs.com/wday/cxs/workiva/careers/jobs"
+    },
+    {
+      "name": "AppFolio",
+      "slug": "appfolio",
+      "url": "https://www.appfolio.com/open-roles",
+      "platform": "headless",
+      "scraper": "appfolio_scraper",
+      "enabled": true
+    },
+    {
+      "name": "Certara",
+      "slug": "certara",
+      "url": "https://careers.certara.com/jobs",
+      "platform": "headless",
+      "scraper": "certara_scraper",
+      "enabled": true
+    },
+    {
+      "name": "Simulations Plus",
+      "slug": "simulationsplus",
+      "url": "https://www.simulations-plus.com/career-center/#jobopenings",
+      "platform": "custom",
+      "scraper": "generic_scraper",
+      "enabled": true
+    },
+    {
+      "name": "Altus Group",
+      "slug": "altus",
+      "url": "https://altusgroup.wd3.myworkdayjobs.com/AltusGroup",
+      "platform": "workday",
+      "scraper": "workday_scraper",
+      "enabled": true,
+      "api_base": "https://altusgroup.wd3.myworkdayjobs.com/wday/cxs/altusgroup/AltusGroup/jobs"
+    },
+    {
+      "name": "Toast",
+      "slug": "toast",
+      "url": "https://careers.toasttab.com/jobs/search",
+      "platform": "headless",
+      "scraper": "toast_scraper",
+      "enabled": true
+    },
+    {
+      "name": "Tyler Technologies",
+      "slug": "tyler",
+      "url": "https://www.tylertech.com/careers/job-openings",
+      "platform": "custom",
+      "scraper": "generic_scraper",
+      "enabled": true
+    },
+    {
+      "name": "Axon",
+      "slug": "axon",
+      "url": "https://www.axon.com/careers/all",
+      "platform": "custom",
+      "scraper": "generic_scraper",
+      "enabled": true
+    },
+    {
+      "name": "Corpay",
+      "slug": "corpay",
+      "url": "https://corpay.wd103.myworkdayjobs.com/Ext_001",
+      "platform": "workday",
+      "scraper": "workday_scraper",
+      "enabled": true,
+      "api_base": "https://corpay.wd103.myworkdayjobs.com/wday/cxs/corpay/Ext_001/jobs"
+    },
+    {
+      "name": "Corpay (Dayforce)",
+      "slug": "corpay-dayforce",
+      "url": "https://jobs.dayforcehcm.com/en-US/corpay/CANDIDATEPORTAL",
+      "platform": "headless",
+      "scraper": "dayforce_scraper",
+      "enabled": true,
+      "notes": "Dayforce HCM platform"
+    },
+    {
+      "name": "ServiceTitan",
+      "slug": "servicetitan",
+      "url": "https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan",
+      "platform": "headless",
+      "scraper": "servicetitan_scraper",
+      "enabled": true
+    }
+  ]
+}

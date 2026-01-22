@@ -1,0 +1,31 @@
+DAILY JOB SCRAPER - MORNING PROMPT
+===================================
+
+Use one of these prompts each morning to run the job scraper and get a summary:
+
+
+OPTION 1 - Short version:
+-------------------------
+Run the job scraper, compare results to yesterday, and give me:
+1. New job counts vs yesterday by company
+2. Summary of new job postings for each company
+
+
+OPTION 2 - More explicit:
+-------------------------
+Run scrape_all_companies.py, then do a direct CSV comparison between today and yesterday's job data. Show me:
+1. A table with yesterday's count, today's count, new jobs, and removed jobs per company
+2. A summary of the new job postings grouped by company with job titles and locations
+
+
+OPTION 3 - One-liner:
+---------------------
+Run the daily job scraper and summarize new postings vs yesterday
+
+
+===================================
+What Claude will do:
+1. Run scrape_all_companies.py
+2. Compare today's CSVs to yesterday's CSVs
+3. Show comparison table (yesterday count, today count, new, removed)
+4. List new jobs by company with titles and locations

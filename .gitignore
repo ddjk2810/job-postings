@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs (keep automation logs but ignore temp logs)
+*.log
+!logs/*.log
+
+# Local config (if any)
+.env
+*.local
+
+# Temporary files
+*.tmp
+*.temp
+nul
