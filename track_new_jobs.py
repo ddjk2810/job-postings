@@ -108,28 +108,69 @@ def update_tracking_database(company_dir, current_jobs_set):
     print(f"  Updated tracking database: {len(jobs_list)} jobs tracked")
 
 
-def load_tracking_database(company_dir):
+def find_previous_csv(company_dir, company_slug, today):
     """
-    Load the tracking database.
+    Find the most recent CSV file before today to use as baseline.
 
     Args:
         company_dir (Path): Company directory
+        company_slug (str): Company slug
+        today (str): Today's date in YYYY-MM-DD format
+
+    Returns:
+        Path or None: Path to the most recent previous CSV file
+    """
+    import re
+
+    # Look for job files matching pattern {slug}_jobs_{date}.csv
+    pattern = re.compile(rf'^{re.escape(company_slug)}_jobs_(\d{{4}}-\d{{2}}-\d{{2}})\.csv$')
+
+    previous_files = []
+    for f in company_dir.iterdir():
+        match = pattern.match(f.name)
+        if match:
+            file_date = match.group(1)
+            if file_date < today:  # Only files before today
+                previous_files.append((file_date, f))
+
+    if not previous_files:
+        return None
+
+    # Sort by date descending and return the most recent
+    previous_files.sort(key=lambda x: x[0], reverse=True)
+    return previous_files[0][1]
+
+
+def load_tracking_database(company_dir, company_slug=None, today=None):
+    """
+    Load the tracking database, falling back to most recent CSV if no database exists.
+
+    Args:
+        company_dir (Path): Company directory
+        company_slug (str): Company slug (needed for CSV fallback)
+        today (str): Today's date (needed for CSV fallback)
 
     Returns:
         set: Set of previously tracked job identifiers
     """
     db_file = company_dir / 'jobs_tracking.json'
 
-    if not db_file.exists():
-        return set()
+    if db_file.exists():
+        with open(db_file, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        # Convert list of lists back to set of tuples
+        jobs_set = set(tuple(job) for job in data.get('jobs', []))
+        return jobs_set
 
-    with open(db_file, 'r', encoding='utf-8') as f:
-        data = json.load(f)
+    # No tracking database - try to find previous CSV as baseline
+    if company_slug and today:
+        previous_csv = find_previous_csv(company_dir, company_slug, today)
+        if previous_csv:
+            print(f"  No tracking database, using previous CSV as baseline: {previous_csv.name}")
+            jobs_set, _ = load_jobs_from_csv(previous_csv)
+            return jobs_set
 
-    # Convert list of lists back to set of tuples
-    jobs_set = set(tuple(job) for job in data.get('jobs', []))
-
-    return jobs_set
+    return set()
 
 
 def track_company(company_slug):
@@ -162,8 +203,8 @@ def track_company(company_slug):
     current_jobs_set, current_jobs_list = load_jobs_from_csv(today_file)
     print(f"  Current jobs: {len(current_jobs_set)}")
 
-    # Load previous jobs from tracking database
-    previous_jobs_set = load_tracking_database(company_dir)
+    # Load previous jobs from tracking database (or fallback to previous CSV)
+    previous_jobs_set = load_tracking_database(company_dir, company_slug, today)
 
     if not previous_jobs_set:
         print("  No previous data found (first run)")

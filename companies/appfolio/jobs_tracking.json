@@ -1,24 +1,29 @@
 {
-  "last_updated": "2026-01-21T21:00:14.797542",
-  "job_count": 36,
+  "last_updated": "2026-01-26T12:26:21.021215",
+  "job_count": 39,
   "jobs": [
-    [
-      "Business Development Representative - Upmarket",
-      "Not specified",
-      "2 Locations"
-    ],
     [
       "Manager, Software Engineering",
       "Not specified",
       "8 Locations"
     ],
     [
-      "Software Engineer II - Accounting",
+      "Associate Product Support Specialist - LiveEasy",
+      "Not specified",
+      "Columbus, Ohio"
+    ],
+    [
+      "Growth Account Executive - SMB",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr. Product Manager",
       "Not specified",
       "8 Locations"
     ],
     [
-      "Software Engineer II - Accounting Receivables",
+      "Software Engineer II - Investment Manager",
       "Not specified",
       "8 Locations"
     ],
@@ -28,12 +33,22 @@
       "3 Locations"
     ],
     [
-      "Software Engineer II - Investment Manager",
+      "Business Development Representative - Upmarket",
       "Not specified",
-      "8 Locations"
+      "2 Locations"
     ],
     [
-      "Sr. Software Engineer - Platform/CI",
+      "Sr. Software Engineer - FolioScreen",
+      "Not specified",
+      "7 Locations"
+    ],
+    [
+      "Sr. Account Executive - SMB",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Software Engineer II",
       "Not specified",
       "8 Locations"
     ],
@@ -43,24 +58,9 @@
       "2 Locations"
     ],
     [
-      "Growth Account Executive - SMB",
+      "Sr. Workplace Services Specialist",
       "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr. Software Engineer - Affordable Housing",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Sr. Internal Audit Manager",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Sr. Machine Learning Engineer - Realm-X",
-      "Not specified",
-      "9 Locations"
+      "Columbus, Ohio"
     ],
     [
       "SVP, Engineering",
@@ -68,22 +68,17 @@
       "2 Locations"
     ],
     [
-      "Sr. Software Engineer - Deployment Platform",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Software Engineer II - Resident Concierge",
+      "Sr. Software Engineer - Resident Concierge",
       "Not specified",
       "9 Locations"
     ],
     [
-      "Staff Software Engineer - Communications",
+      "Account Executive - SMB",
       "Not specified",
-      "9 Locations"
+      "2 Locations"
     ],
     [
-      "Sr. Software Engineer - Data Query",
+      "Software Engineer II - Accounting Receivables",
       "Not specified",
       "8 Locations"
     ],
@@ -93,39 +88,24 @@
       "2 Locations"
     ],
     [
-      "Associate Product Support Specialist - LiveEasy",
+      "Sr. Site Reliability Engineer - Observability",
       "Not specified",
-      "Columbus, Ohio"
+      "9 Locations"
     ],
     [
-      "Sr. Billing Specialist",
+      "Staff Software Engineer - Communications",
       "Not specified",
-      "2 Locations"
+      "9 Locations"
     ],
     [
-      "Account Executive - SMB",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Director, Corporate Finance",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Sr. Workplace Services Specialist",
-      "Not specified",
-      "Columbus, Ohio"
-    ],
-    [
-      "Business Development Representative - SMB",
-      "Not specified",
-      "Santa Barbara, California"
-    ],
-    [
-      "Real-Time Data Engineer II",
+      "Sr. Software Engineer - Platform",
       "Not specified",
       "8 Locations"
+    ],
+    [
+      "Staff Data Science Engineer, Data Operations",
+      "Not specified",
+      "5 Locations"
     ],
     [
       "Manager, Onboarding Services",
@@ -133,7 +113,62 @@
       "8 Locations"
     ],
     [
+      "Sr. Software Engineer - Affordable Housing",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Sr. Software Engineer - Data Query",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
       "Sr. HR Generalist",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr. Machine Learning Engineer - Realm-X",
+      "Not specified",
+      "9 Locations"
+    ],
+    [
+      "SVP, Client Services",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Sr. Internal Audit Manager",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Growth Business Development Representative - SMB",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr. Events Technology Manager",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Director, Corporate Finance",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Software Engineer II - Resident Concierge",
+      "Not specified",
+      "9 Locations"
+    ],
+    [
+      "Real-Time Data Engineer II",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Sr. Billing Specialist",
       "Not specified",
       "2 Locations"
     ],
@@ -148,39 +183,19 @@
       "8 Locations"
     ],
     [
-      "Sr. Events Technology Manager",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Sr. Product Manager",
+      "Sr. Software Engineer - Deployment Platform",
       "Not specified",
       "8 Locations"
     ],
     [
-      "Staff Data Science Engineer, Data Operations",
+      "Business Development Representative - SMB",
       "Not specified",
-      "5 Locations"
+      "Santa Barbara, California"
     ],
     [
-      "Sr. Site Reliability Engineer - Observability",
+      "Account Executive - Horizon",
       "Not specified",
-      "9 Locations"
-    ],
-    [
-      "Growth Business Development Representative - SMB",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr. Software Engineer - Resident Concierge",
-      "Not specified",
-      "9 Locations"
-    ],
-    [
-      "SVP, Client Services",
-      "Not specified",
-      "8 Locations"
+      "4 Locations"
     ]
   ]
 }
