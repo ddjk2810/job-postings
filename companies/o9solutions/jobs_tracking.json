@@ -1,21 +1,11 @@
 {
-  "last_updated": "2026-01-26T12:26:21.188139",
-  "job_count": 23,
+  "last_updated": "2026-01-27T06:47:28.597165",
+  "job_count": 26,
   "jobs": [
     [
-      "Technical Consultant, Senior",
+      "Sr. Functional Consultant",
       "Not specified",
-      "Tokyo, Japan"
-    ],
-    [
-      "Financial Analyst, Senior",
-      "Not specified",
-      "Bangalore, Karnataka, India"
-    ],
-    [
-      "Solution Consulting",
-      "Not specified",
-      "Tokyo, Japan"
+      "Works From Home - Sao Paulo, Brazil"
     ],
     [
       "Machine Learning Engineer EMEA",
@@ -23,19 +13,24 @@
       "6 Locations"
     ],
     [
-      "DevOps Manager",
+      "Technical Consultant, Senior",
       "Not specified",
-      "Works From Home - Sao Paulo, Brazil"
+      "Tokyo, Japan"
     ],
     [
-      "Account Executive, CP",
-      "Not specified",
-      "53 Locations"
-    ],
-    [
-      "Director,  Demand Planning Solution Architect",
+      "Senior Data Scientist - Demand Forecasting",
       "Not specified",
       "Bangalore, Karnataka, India"
+    ],
+    [
+      "Talent Management Specialist III",
+      "Not specified",
+      "Bangalore, Karnataka, India"
+    ],
+    [
+      "HRIS Specialist II",
+      "Not specified",
+      "Dallas, Texas, United States"
     ],
     [
       "DevOps Engineer",
@@ -43,9 +38,29 @@
       "Seoul, South Korea"
     ],
     [
+      "Solution Architect",
+      "Not specified",
+      "Works From Home - Sao Paulo, Brazil"
+    ],
+    [
       "Functional Consultant, Delivery",
       "Not specified",
       "Tokyo, Japan"
+    ],
+    [
+      "Solution Consulting",
+      "Not specified",
+      "Tokyo, Japan"
+    ],
+    [
+      "Senior Technical Consultant",
+      "Not specified",
+      "Dallas, Texas, United States"
+    ],
+    [
+      "Human Resources Specialist",
+      "Not specified",
+      "Dallas, Texas, United States"
     ],
     [
       "Account Executive EMEA",
@@ -58,29 +73,9 @@
       "Tokyo, Japan"
     ],
     [
-      "Director, Business Development",
-      "Not specified",
-      "Dallas, Texas, United States"
-    ],
-    [
-      "Sr. Functional Consultant",
-      "Not specified",
-      "Works From Home - Sao Paulo, Brazil"
-    ],
-    [
-      "Delivery Manager",
+      "Senior Manager, Delivery",
       "Not specified",
       "Tokyo, Japan"
-    ],
-    [
-      "Talent Management Specialist III",
-      "Not specified",
-      "Bangalore, Karnataka, India"
-    ],
-    [
-      "Sr. Administrative Assistant",
-      "Not specified",
-      "Dallas, Texas, United States"
     ],
     [
       "Account Executive EMEA",
@@ -88,14 +83,9 @@
       "London, UK"
     ],
     [
-      "Human Resources Specialist",
+      "Delivery Manager",
       "Not specified",
-      "Dallas, Texas, United States"
-    ],
-    [
-      "Senior Technical Consultant",
-      "Not specified",
-      "Dallas, Texas, United States"
+      "Tokyo, Japan"
     ],
     [
       "Account Executive",
@@ -103,19 +93,44 @@
       "Tokyo, Japan"
     ],
     [
+      "Solutions Consulting Manager, SIM",
+      "Not specified",
+      "52 Locations"
+    ],
+    [
+      "Account Executive, CP",
+      "Not specified",
+      "53 Locations"
+    ],
+    [
+      "Director, Business Development",
+      "Not specified",
+      "Dallas, Texas, United States"
+    ],
+    [
+      "Sr. Administrative Assistant",
+      "Not specified",
+      "Dallas, Texas, United States"
+    ],
+    [
+      "Director,  Demand Planning Solution Architect",
+      "Not specified",
+      "Bangalore, Karnataka, India"
+    ],
+    [
+      "DevOps Manager",
+      "Not specified",
+      "Works From Home - Sao Paulo, Brazil"
+    ],
+    [
       "Sr. DevOps Engineer",
       "Not specified",
       "Works From Home - Sao Paulo, Brazil"
     ],
     [
-      "HRIS Specialist II",
+      "Financial Analyst, Senior",
       "Not specified",
-      "Dallas, Texas, United States"
-    ],
-    [
-      "Senior Manager, Delivery",
-      "Not specified",
-      "Tokyo, Japan"
+      "Bangalore, Karnataka, India"
     ]
   ]
 }

@@ -1,0 +1,84 @@
+title,department,openings,locations,all_locations,regions,remote_available
+"Software Engineer, Agent",Engineering,9,"Atlanta, GA; London; Madrid (and 6 more)","Atlanta, GA | London | Madrid | Munich | New York, NY | Paris | San Francisco, CA | Singapore | Tokyo",Not specified,Yes
+Enterprise Account Executive,Sales,6,"Atlanta, GA; Canada - Remote; New York, NY (and 3 more)","Atlanta, GA | Canada - Remote | New York, NY | San Francisco, CA | Tokyo | US - Remote",Not specified,Yes
+"Product Manager, Agent Development",Product,5,"Atlanta, GA; London; New York, NY (and 2 more)","Atlanta, GA | London | New York, NY | San Francisco, CA | Singapore",Not specified,No
+Business Recruiter,Operations,4,"Atlanta, GA; London; New York, NY (and 1 more)","Atlanta, GA | London | New York, NY | San Francisco, CA",Not specified,No
+Commercial Counsel,Legal,4,"Atlanta, GA; London; New York, NY (and 1 more)","Atlanta, GA | London | New York, NY | San Francisco, CA",Not specified,No
+Recruiting Coordinator (Contract),Operations,4,"London; New York, NY; San Francisco, CA (and 1 more)","London | New York, NY | San Francisco, CA | Singapore",Not specified,No
+Sales Engineer,Sales,4,"Atlanta, GA; New York, NY; San Francisco, CA (and 1 more)","Atlanta, GA | New York, NY | San Francisco, CA | US - Remote",Not specified,Yes
+"Strategist, Agent Development",Product,4,"London; New York, NY; San Francisco, CA (and 1 more)","London | New York, NY | San Francisco, CA | Singapore",Not specified,No
+Technical Recruiter,Operations,4,"Atlanta, GA; London; New York, NY (and 1 more)","Atlanta, GA | London | New York, NY | San Francisco, CA",Not specified,No
+"Software Engineer, Agent (New Grad)",Early Career,3,"London; New York, NY; San Francisco, CA","London | New York, NY | San Francisco, CA",Not specified,No
+"Engineering Manager, Agent",Engineering,2,"New York, NY; San Francisco, CA","New York, NY | San Francisco, CA",Not specified,No
+"Enterprise Account Executive, Europe",Sales,2,London; Munich,London | Munich,Not specified,Yes
+"Strategist, Agent Development (French speaking)",Product,2,London; Paris,London | Paris,Not specified,Yes
+"Strategist, Agent Development (Spanish speaking)",Product,2,London; Madrid,London | Madrid,Not specified,Yes
+University Recruiter,Operations,2,"New York, NY; San Francisco, CA","New York, NY | San Francisco, CA",Not specified,No
+APX (New Grad),Early Career,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+Brand Visual Designer (Contract),Marketing & Communications,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+Business Development,Partnerships,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+Communications Manager,Marketing & Communications,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+Customer Marketer,Marketing & Communications,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+"Enterprise Account Executive, Europe (Arabic speaking)",Sales,1,London,London,Not specified,No
+"Enterprise Account Executive, Europe (French speaking)",Sales,1,London,London,Not specified,No
+"Enterprise Account Executive, Europe (German speaking)",Sales,1,London,London,Not specified,No
+"Enterprise Account Executive, Europe (Italian speaking)",Sales,1,London,London,Not specified,No
+Enterprise Sales Leader,Sales,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+Event Coordinator,Marketing & Communications,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+Executive Assistant & Office Manager,Operations,1,Singapore,Singapore,Not specified,No
+Field Marketing Associate,Marketing & Communications,1,London,London,Not specified,No
+Field Marketing Manager,Marketing & Communications,1,London,London,Not specified,No
+GTM Operations Analyst,Operations,1,Singapore,Singapore,Not specified,No
+Global Benefits Manager,Operations,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+IT Operations Lead,IT,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+"Intern, Agent Development (Summer 2026)",Early Career,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+"Operations Manager, Product & Engineering",Operations,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+Payroll Manager,Operations,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+People Operations Manager,Operations,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+People Programs Manager,Operations,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+Pricing Strategy and Operations,Operations,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+Product Designer,Product,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+"Product Manager, Agent Development ",Product,1,Tokyo,Tokyo,Not specified,No
+"Product Manager, Agent Development (Arabic speaking)",Product,1,London,London,Not specified,No
+"Product Manager, Agent Development (French speaking)",Product,1,London,London,Not specified,No
+"Product Manager, Agent Development (German speaking)",Product,1,London,London,Not specified,No
+"Product Manager, Agent Development (Italian speaking)",Product,1,London,London,Not specified,No
+"Product Manager, Agent Development (Spanish speaking)",Product,1,London,London,Not specified,No
+"Product Manager, Agent Platform",Product,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+Product Marketing Manager,Marketing & Communications,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+Recruiting Operations Specialist,Operations,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+Revenue Operations,Operations,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+Sales Compensation ,Operations,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+Sales Engineer (APAC),Sales,1,Singapore,Singapore,Not specified,No
+Sales Engineer (French speaking),Sales,1,London,London,Not specified,No
+Sales Engineer (German speaking),Sales,1,London,London,Not specified,No
+Sales Engineer (Spanish speaking),Sales,1,London,London,Not specified,No
+Sales Engineering Manager,Sales,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+Security Engineer,Engineering,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+Security TPM,Compliance,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+"Software Engineer, Agent ",Engineering,1,Toronto,Toronto,Not specified,No
+"Software Engineer, Agent (Arabic speaking)",Engineering,1,London,London,Not specified,No
+"Software Engineer, Agent (French speaking)",Engineering,1,London,London,Not specified,No
+"Software Engineer, Agent (German speaking)",Engineering,1,London,London,Not specified,No
+"Software Engineer, Agent (Italian speaking)",Engineering,1,London,London,Not specified,No
+"Software Engineer, Agent (Spanish speaking)",Engineering,1,London,London,Not specified,No
+"Software Engineer, Agent Architecture",Engineering,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+"Software Engineer, Agent Data Platform",Engineering,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+"Software Engineer, Agent Studio",Engineering,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+"Software Engineer, Demo Platform",Engineering,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+"Software Engineer, Developer Ecosystem",Partnerships,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+"Software Engineer, Frontend",Engineering,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+"Software Engineer, Infrastructure",Engineering,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+"Software Engineer, Infrastructure ",Engineering,1,London,London,Not specified,No
+"Software Engineer, Insights",Engineering,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+"Software Engineer, Mobile",Engineering,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+"Software Engineer, Platform",Engineering,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+"Software Engineer, Security",Engineering,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+"Software Engineer, Site Reliability (SRE)",Engineering,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+"Software Engineer, Voice",Engineering,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+"Strategist, Agent Development ",Product,1,Munich,Munich,Not specified,Yes
+"Strategist, Agent Development (Arabic speaking)",Product,1,London,London,Not specified,No
+"Strategist, Agent Development (German speaking)",Product,1,London,London,Not specified,No
+"Strategist, Agent Development (Italian speaking)",Product,1,London,London,Not specified,No
+Vendor Programs Lead,Operations,1,"San Francisco, CA","San Francisco, CA",Not specified,No
+Web Producer,Marketing & Communications,1,"San Francisco, CA","San Francisco, CA",Not specified,No
