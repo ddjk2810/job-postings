@@ -1,21 +1,31 @@
 {
-  "last_updated": "2026-01-27T06:47:29.019787",
-  "job_count": 11,
+  "last_updated": "2026-01-28T06:48:11.038981",
+  "job_count": 10,
   "jobs": [
+    [
+      "Account Manager",
+      "Not specified",
+      "Montgomery, Alabama"
+    ],
+    [
+      "Director of Technology",
+      "Not specified",
+      "Denver, Colorado"
+    ],
+    [
+      "Associate CloudOps Engineer",
+      "Not specified",
+      "Manila, Philippines"
+    ],
     [
       "GIS Services Specialist",
       "Not specified",
       "Latham, New York"
     ],
     [
-      "Supervisory Team Lead, Software Engineering",
+      "Software Engineer",
       "Not specified",
-      "Troy, Michigan"
-    ],
-    [
-      "Associate CloudOps Engineer",
-      "Not specified",
-      "Manila, Philippines"
+      "Yarmouth, Maine"
     ],
     [
       "Applications Administrator",
@@ -28,14 +38,9 @@
       "Plano, Texas"
     ],
     [
-      "Solution Consultant",
+      "Senior Software Engineer",
       "Not specified",
-      "Troy, Michigan"
-    ],
-    [
-      "Accounts Payable Specialist",
-      "Not specified",
-      "Memphis, Tennessee"
+      "Herndon, Virginia"
     ],
     [
       "Sr. Director of Delivery",
@@ -43,19 +48,9 @@
       "Herndon, Virginia"
     ],
     [
-      "Software Engineer",
+      "Supervisory Team Lead, Software Engineering",
       "Not specified",
-      "Yarmouth, Maine"
-    ],
-    [
-      "Senior Software Engineer",
-      "Not specified",
-      "Herndon, Virginia"
-    ],
-    [
-      "Director of Technology",
-      "Not specified",
-      "Denver, Colorado"
+      "Troy, Michigan"
     ]
   ]
 }

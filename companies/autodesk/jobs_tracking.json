@@ -1,81 +1,16 @@
 {
-  "last_updated": "2026-01-27T06:47:27.724230",
-  "job_count": 38,
+  "last_updated": "2026-01-28T06:48:09.732495",
+  "job_count": 40,
   "jobs": [
     [
-      "Senior Software Developer",
+      "Data Security Engineering Manager",
       "Not specified",
-      "AMER - Canada - Quebec - Montreal - 10 Rue Duke"
+      "Pune, IND"
     ],
     [
-      "DevOps Admin- Github",
+      "AI Research Manager/Scientist, Post-training",
       "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Senior Machine Learning Developer",
-      "Not specified",
-      "9 Locations"
-    ],
-    [
-      "Senior Full-Stack Engineer (Front Oriented)",
-      "Not specified",
-      "Tel Aviv, ISR"
-    ],
-    [
-      "Product Security Compliance Manager",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Director, Sales Forecasting Lead",
-      "Not specified",
-      "California, USA - Remote"
-    ],
-    [
-      "Principal Software Developer in Test",
-      "Not specified",
-      "AMER - Canada - Quebec - Montreal - 10 Rue Duke"
-    ],
-    [
-      "Principal Software Developer",
-      "Not specified",
-      "Quebec, CAN - Remote"
-    ],
-    [
-      "Senior Manager & Sr Principal Experience Designer",
-      "Not specified",
-      "Norway - Oslo"
-    ],
-    [
-      "Senior Technical Content Developer, Media & Entertainment (M&E)",
-      "Not specified",
-      "7 Locations"
-    ],
-    [
-      "Technical Support Specialist - Fusion Operations",
-      "Not specified",
-      "Krak\u00f3w, POL"
-    ],
-    [
-      "Director, Product Solution Interlock Lead",
-      "Not specified",
-      "AMER - United States - California - Offsite/Home"
-    ],
-    [
-      "Intern Software Developer, Stagiaire en d\u00e9veloppement logiciel",
-      "Not specified",
-      "Montreal, QC, CAN"
-    ],
-    [
-      "Industry & Audience Campaign Manager, Manufacturing",
-      "Not specified",
-      "Montreal, QC, CAN"
-    ],
-    [
-      "Intern, Full Stack Developer",
-      "Not specified",
-      "AMER - Canada - Ontario - Offsite/Home"
+      "San Francisco, CA, USA"
     ],
     [
       "Senior Data Engineer",
@@ -83,49 +18,14 @@
       "Barcelona, ESP"
     ],
     [
-      "Subject Matter Expert, Construction (NAMER Adoption)",
-      "Not specified",
-      "Georgia, USA - Remote"
-    ],
-    [
-      "Senior Software Engineer",
-      "Not specified",
-      "AMER - Canada - Ontario - Toronto - University Ave"
-    ],
-    [
-      "Sr Principal Data Engineer",
-      "Not specified",
-      "California, USA - Remote"
-    ],
-    [
-      "Software QA Engineer",
-      "Not specified",
-      "Pune, IND"
-    ],
-    [
-      "Intern Software Developer, Stagiaire en D\u00e9veloppement Logiciel",
+      "Senior Software Developer",
       "Not specified",
       "Montreal, QC, CAN"
     ],
     [
-      "Program Manager & Strategic Initiatives",
+      "Fusion Platform Product Manager - Remote (US)",
       "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Senior Machine Learning Engineer",
-      "Not specified",
-      "Vancouver, BC, CAN"
-    ],
-    [
-      "Intern, Senior Financial Analyst, PSET FP&A",
-      "Not specified",
-      "Toronto, ON, CAN"
-    ],
-    [
-      "Industry & Audience Campaign Manager, Consumer Products",
-      "Not specified",
-      "Montreal, QC, CAN"
+      "7 Locations"
     ],
     [
       "Audience Marketing Manager, MEP and Structural Engineering",
@@ -133,24 +33,14 @@
       "6 Locations"
     ],
     [
-      "Software Developer, Civil3D",
+      "Senior Technical Content Developer, Media & Entertainment (M&E)",
       "Not specified",
-      "Toronto, ON, CAN"
+      "7 Locations"
     ],
     [
-      "Site Reliability Engineer",
+      "Senior Director, Data Engineering",
       "Not specified",
-      "Pune, IND"
-    ],
-    [
-      "Senior Software Developer",
-      "Not specified",
-      "Montreal, QC, CAN"
-    ],
-    [
-      "Senior DevOps Developer - AEC Data",
-      "Not specified",
-      "2 Locations"
+      "San Francisco, CA, USA"
     ],
     [
       "Sr.\u00a0Director \u2013 Go-to-market Strategy & Operations Interlock Lead\u00a0(GS&O)",
@@ -158,9 +48,19 @@
       "California, USA - Remote"
     ],
     [
-      "Director, Customer Success Interlock Lead",
+      "Product Security Compliance Manager",
       "Not specified",
-      "AMER - United States - California - Offsite/Home"
+      "4 Locations"
+    ],
+    [
+      "Intern, Physics-Based Character Motion Research",
+      "Not specified",
+      "Toronto, ON, CAN"
+    ],
+    [
+      "Director, Sales Forecasting Lead",
+      "Not specified",
+      "California, USA - Remote"
     ],
     [
       "Subject Matter Expert, Construction (NAMER Adoption)",
@@ -168,9 +68,59 @@
       "Colorado, USA - Remote"
     ],
     [
-      "PhD Intern, Computational Physics-Shape Optimization",
+      "Principal Software Development Engineer (TypeScript and Java)",
+      "Not specified",
+      "Krak\u00f3w, POL"
+    ],
+    [
+      "Principal Engineer (Nodejs/Typescript)",
+      "Not specified",
+      "Pune, IND"
+    ],
+    [
+      "Intern Software Developer, Stagiaire en d\u00e9veloppement logiciel",
+      "Not specified",
+      "Montreal, QC, CAN"
+    ],
+    [
+      "Director, Customer Success Interlock Lead",
+      "Not specified",
+      "AMER - United States - California - Offsite/Home"
+    ],
+    [
+      "Software Developer in Test - Media & Entertainment",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Principal Software Developer Engineer, Software Engineer: Generative AI , C#",
+      "Not specified",
+      "Boston, MA, USA"
+    ],
+    [
+      "Intern, Software Developer",
       "Not specified",
       "Toronto, ON, CAN"
+    ],
+    [
+      "DevOps Admin- Github",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Senior Software Developer",
+      "Not specified",
+      "AMER - Canada - Quebec - Montreal - 10 Rue Duke"
+    ],
+    [
+      "Senior Social Media & Influencer Manager, Media & Entertainment",
+      "Not specified",
+      "7 Locations"
+    ],
+    [
+      "Analyst Relations Manager",
+      "Not specified",
+      "10 Locations"
     ],
     [
       "Director, Marketing Interlock Lead",
@@ -178,19 +128,79 @@
       "California, USA - Remote"
     ],
     [
-      "Director User Experience, AEC Platform Data",
+      "Principal Engineer (Full Stack)",
+      "Not specified",
+      "Bengaluru, IND"
+    ],
+    [
+      "Intern, Model Based Systems Engineering",
+      "Not specified",
+      "Toronto, ON, CAN"
+    ],
+    [
+      "Senior Manager, GTM Strategic Finance",
+      "Not specified",
+      "Toronto, ON, CAN"
+    ],
+    [
+      "Industry & Audience Campaign Manager, Manufacturing",
+      "Not specified",
+      "Montreal, QC, CAN"
+    ],
+    [
+      "Intern, Software Engineering",
+      "Not specified",
+      "Dublin, IRL"
+    ],
+    [
+      "Subject Matter Expert, Construction (NAMER Adoption)",
+      "Not specified",
+      "Georgia, USA - Remote"
+    ],
+    [
+      "Industry & Audience Campaign Manager, Consumer Products",
+      "Not specified",
+      "Montreal, QC, CAN"
+    ],
+    [
+      "Principal Software Developer in Test",
+      "Not specified",
+      "AMER - Canada - Quebec - Montreal - 10 Rue Duke"
+    ],
+    [
+      "Senior Machine Learning Developer",
+      "Not specified",
+      "9 Locations"
+    ],
+    [
+      "Program Manager & Strategic Initiatives",
       "Not specified",
       "3 Locations"
     ],
     [
-      "Production Support Analyst",
+      "Director, Product Solution Interlock Lead",
       "Not specified",
-      "San Francisco, CA, USA"
+      "AMER - United States - California - Offsite/Home"
     ],
     [
-      "Senior Social Media & Influencer Manager, Media & Entertainment",
+      "Intern Software Developer, Stagiaire en D\u00e9veloppement Logiciel",
       "Not specified",
-      "7 Locations"
+      "Montreal, QC, CAN"
+    ],
+    [
+      "Partnership Marketing Specialist",
+      "Not specified",
+      "Denver, CO, USA"
+    ],
+    [
+      "Principal Product Manager, AI Strategy \u2013 PDMS Platform",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Senior Finance Business Partner, Platform Strategy",
+      "Not specified",
+      "AMER - Canada - Ontario - Toronto - University Ave"
     ]
   ]
 }

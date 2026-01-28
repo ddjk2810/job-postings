@@ -1,54 +1,14 @@
 {
-  "last_updated": "2026-01-27T06:47:27.992256",
-  "job_count": 38,
+  "last_updated": "2026-01-28T06:48:10.061185",
+  "job_count": 39,
   "jobs": [
     [
-      "Staff Data Science Consultant - Supply Chain Operations Analytics",
+      "Senior Enterprise Architect",
       "Not specified",
-      "Bangalore"
+      "6 Locations"
     ],
     [
-      "Lead, Sales Compensation",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Solution Architect - Consulting (SCM)",
-      "Not specified",
-      "Pune - BY"
-    ],
-    [
-      "Technical Architect - ServiceNow ITSM & CSM",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Software Engineer II -  Java, SQL",
-      "Not specified",
-      "Pune"
-    ],
-    [
-      "Technical Architect - Consulting(Java, Spring boot, SQL)",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Enterprise Solution Architect \u2013 Automotive Factory and Supply Chain Planning",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "System Engineer I - Desktop Support",
-      "Not specified",
-      "Pune - BYDS"
-    ],
-    [
-      "Sr Support Engineer 1 - Control-M Admin, Shell/Powershell, Control-M EM/Server",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Technical Architect - Warehouse Management Systems",
+      "Technical Architect - Transportation Management Systems",
       "Not specified",
       "3 Locations"
     ],
@@ -58,34 +18,9 @@
       "2 Locations"
     ],
     [
-      "Senior Director, Sales Operations Business Partner",
-      "Not specified",
-      "Dallas"
-    ],
-    [
       "Sr Support Engineer 2 - Windows Server Admin/ITIL/Azure/VMware",
       "Not specified",
       "Bangalore"
-    ],
-    [
-      "Sr Software Engineer - Core Java, SQL",
-      "Not specified",
-      "Pune - BY"
-    ],
-    [
-      "IN-Support Engineer 2-F5,Palo Alto firewall",
-      "Not specified",
-      "IND - Coimbatore (708)"
-    ],
-    [
-      "IN-Support Engineer 2-F5,Palo Alto Firewall",
-      "Not specified",
-      "IND - Coimbatore (708)"
-    ],
-    [
-      "Strategic Operations Program Support Director",
-      "Not specified",
-      "Monterrey"
     ],
     [
       "Global Business Practices Director",
@@ -93,79 +28,9 @@
       "5 Locations"
     ],
     [
-      "IN-Sr Support Engineer 1-F5,Palo Alto firewall",
-      "Not specified",
-      "IND - Coimbatore (708)"
-    ],
-    [
-      "Staff Data Science Consultant II - Supply Chain",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
       "Software Engineer II - React Js & Typescript",
       "Not specified",
       "Hyderabad"
-    ],
-    [
-      "Lead Software Engineer - Java, Microservices & Cloud",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Staff Software Engineer - NodeJs, ReactJs, NextJs & Microservices",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Sr. Staff Data Science Consultant - Supply Chain",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Senior Software Engineer",
-      "Not specified",
-      "London"
-    ],
-    [
-      "IN-Support Engineer 1 - Cloud (L1 Infra Ops, Monitoring tools, AppDynamics, Zabbix, Azure Cloud)",
-      "Not specified",
-      "IND - Coimbatore (708)"
-    ],
-    [
-      "Senior Security Engineer (DevSecOps)",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Senior Enterprise Architect",
-      "Not specified",
-      "6 Locations"
-    ],
-    [
-      "Lead Software Engineer -  ReactJS & Microservices",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Sr. QA Engineer - Robot & Python",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Sr Support Engineer - JDA/BY Fulfilment/Demand/Order Optimization/Enterprise Supply Planning(ESP) & PLSQL",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Senior Certification Specialist - Certification Program Development & Project,Program Management",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Technical Architect - Transportation Management Systems",
-      "Not specified",
-      "3 Locations"
     ],
     [
       "Tax Technology Manager",
@@ -173,14 +38,24 @@
       "2 Locations"
     ],
     [
-      "Sr Software Engineer ( Gen AI)",
-      "Not specified",
-      "Dallas"
-    ],
-    [
-      "Technical Account Advisor - TAM/SaaS/Supply Chain/ITIL",
+      "Sr Support Engineer - JDA/BY Fulfilment/Demand/Order Optimization/Enterprise Supply Planning(ESP) & PLSQL",
       "Not specified",
       "Bangalore"
+    ],
+    [
+      "ITIL Process Manager (Program Manager)",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Staff Data Scientist I - Supply Chain Operations Analytics",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Technical Consultant - Java, SQL",
+      "Not specified",
+      "Pune - BY"
     ],
     [
       "Staff Software Engineer I - Java, Microservices & Springboot",
@@ -188,7 +63,137 @@
       "Bangalore"
     ],
     [
+      "Lead Software Engineer - Java, Microservices & Cloud",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "System Engineer I - Desktop Support",
+      "Not specified",
+      "Pune - BYDS"
+    ],
+    [
+      "Technical Architect - ServiceNow ITSM & CSM",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Sr Support Engineer 1 - Control-M Admin, Shell/Powershell, Control-M EM/Server",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Lead, Sales Compensation",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Staff Data Science Consultant - Supply Chain Operations Analytics",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Senior FullStack Software Engineer ( React and NodeJS)",
+      "Not specified",
+      "7 Locations"
+    ],
+    [
+      "Technical Architect - Consulting(Java, Spring boot, SQL)",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Senior Director, Sales Operations Business Partner",
+      "Not specified",
+      "Dallas"
+    ],
+    [
+      "Support Engineer 2 - Blue Yonder TMS/Transportation Management",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Enterprise Solution Architect \u2013 Automotive Factory and Supply Chain Planning",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Software Engineer II -  Java, SQL",
+      "Not specified",
+      "Pune"
+    ],
+    [
+      "VP, Demo, POC, & Pilot",
+      "Not specified",
+      "Dallas"
+    ],
+    [
+      "Sr Software Engineer - Core Java, SQL",
+      "Not specified",
+      "Pune - BY"
+    ],
+    [
+      "Strategic Operations Program Support Director",
+      "Not specified",
+      "Monterrey"
+    ],
+    [
+      "Lead Software Engineer -  ReactJS & Microservices",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Sr Cloud Delivery Manager",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Sr Technical Consultant",
+      "Not specified",
+      "Monterrey"
+    ],
+    [
+      "IN-Support Engineer 1 - Cloud (L1 Infra Ops, Monitoring tools, AppDynamics, Zabbix, Azure Cloud)",
+      "Not specified",
+      "IND - Coimbatore (708)"
+    ],
+    [
+      "Staff Software Engineer - NodeJs, ReactJs, NextJs & Microservices",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Senior Security Engineer (DevSecOps)",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Staff Software Engineer",
+      "Not specified",
+      "10 Locations"
+    ],
+    [
+      "Technical Architect - Warehouse Management Systems",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Sr. Staff Data Science Consultant - Supply Chain",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
       "Data Science Consultant II - Supply Chain Operations Analytics",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Staff Data Science Consultant II - Supply Chain",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Sr. QA Engineer - Robot & Python",
       "Not specified",
       "Bangalore"
     ]

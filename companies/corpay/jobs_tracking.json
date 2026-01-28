@@ -1,106 +1,21 @@
 {
-  "last_updated": "2026-01-27T06:47:28.167602",
+  "last_updated": "2026-01-28T06:48:10.238440",
   "job_count": 40,
   "jobs": [
     [
-      "Customer Experience Specialist",
+      "Data Analyst",
       "Not specified",
-      "Auckland - IVP"
+      "Berlin - IVP"
     ],
     [
-      "Payments Compliance Analyst",
+      "Collections Officer",
       "Not specified",
-      "2 Locations"
+      "Ipswich"
     ],
     [
-      "Senior Sales Analyst",
+      "Business Support Administator",
       "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Customer Service Specialist (Polish speaking)",
-      "Not specified",
-      "Prague"
-    ],
-    [
-      "Variable Sales - Compensation Analyst",
-      "Not specified",
-      "Chennai - Cross Border"
-    ],
-    [
-      "Senior SEO Manager",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Enterprise Architect",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Senior Power BI Developer & Analytics Lead",
-      "Not specified",
-      "Chennai - Cross Border"
-    ],
-    [
-      "Regulatory Compliance Officer \u2013 Portugal",
-      "Not specified",
-      "Madrid Genova - Cross Border"
-    ],
-    [
-      "Marketing Director UKF & CPC",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "FX Developer",
-      "Not specified",
-      "Madrid Genova - Cross Border"
-    ],
-    [
-      "Business Development Executive",
-      "Not specified",
-      "Sheffield"
-    ],
-    [
-      "AR Accountant",
-      "Not specified",
-      "Prague"
-    ],
-    [
-      "Head of FP&A",
-      "Not specified",
-      "Prague"
-    ],
-    [
-      "Finance Manager",
-      "Not specified",
-      "Chennai - Cross Border"
-    ],
-    [
-      "Junior Commercial Analyst",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Senior Flutter Developer",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Customer Success Specialist",
-      "Not specified",
-      "Auckland - IVP"
-    ],
-    [
-      "Accounts Receivable Coordinator",
-      "Not specified",
-      "Vancouver - Parking"
-    ],
-    [
-      "Sales Executive",
-      "Not specified",
-      "Knaresborough"
+      "Swindon"
     ],
     [
       "AP accountant",
@@ -108,14 +23,34 @@
       "Prague"
     ],
     [
-      "Regulatory Compliance Analyst",
+      "Accounts Receivable Coordinator",
       "Not specified",
-      "London Wood Street - Cross Border"
+      "Vancouver - Parking"
     ],
     [
-      "Client Project Executive",
+      "Inside Sales Professional",
       "Not specified",
-      "Hatfield - Parking"
+      "2 Locations"
+    ],
+    [
+      "Business Development Executive",
+      "Not specified",
+      "Sheffield"
+    ],
+    [
+      "Global Employer Branding Lead",
+      "Not specified",
+      "India Remote - Cross Border"
+    ],
+    [
+      "Head of FP&A",
+      "Not specified",
+      "Prague"
+    ],
+    [
+      "Senior Product Manager (15 month FTC - Maternity cover)",
+      "Not specified",
+      "Vancouver - Parking"
     ],
     [
       "Paid Media Manager",
@@ -123,9 +58,29 @@
       "2 Locations"
     ],
     [
-      "Customer Support Advisor",
+      "AR Accountant",
       "Not specified",
-      "Meriden"
+      "Prague"
+    ],
+    [
+      "Regulatory Compliance Officer \u2013 Portugal",
+      "Not specified",
+      "Madrid Genova - Cross Border"
+    ],
+    [
+      "Customer Service Back Office (Maternity Cover)",
+      "Not specified",
+      "Prague"
+    ],
+    [
+      "Payments Compliance Analyst",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sales Executive",
+      "Not specified",
+      "Swindon"
     ],
     [
       "Customer Services Advisor",
@@ -133,14 +88,14 @@
       "Swindon"
     ],
     [
-      "Regulatory Compliance Officer \u2013 France",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
       "Salesforce Developer",
       "Not specified",
       "Chennai - Cross Border"
+    ],
+    [
+      "Senior Flutter Developer",
+      "Not specified",
+      "3 Locations"
     ],
     [
       "Card Product Manager",
@@ -148,12 +103,7 @@
       "London Vincent Square - IVP"
     ],
     [
-      "Business Development Manager - B2B - FTC",
-      "Not specified",
-      "Hatfield - Parking"
-    ],
-    [
-      "Inside Sales Professional",
+      "Marketing Director UKF & CPC",
       "Not specified",
       "2 Locations"
     ],
@@ -168,19 +118,79 @@
       "Chennai - Cross Border"
     ],
     [
+      "Customer Support Advisor",
+      "Not specified",
+      "Meriden"
+    ],
+    [
+      "Regulatory Compliance Officer \u2013 France",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Enterprise Architect",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Customer Experience Specialist",
+      "Not specified",
+      "Auckland - IVP"
+    ],
+    [
+      "FX Developer",
+      "Not specified",
+      "Madrid Genova - Cross Border"
+    ],
+    [
+      "Variable Sales - Compensation Analyst",
+      "Not specified",
+      "Chennai - Cross Border"
+    ],
+    [
+      "Customer Success Specialist",
+      "Not specified",
+      "Auckland - IVP"
+    ],
+    [
+      "Business Development Manager - B2B - FTC",
+      "Not specified",
+      "Hatfield - Parking"
+    ],
+    [
+      "Senior SEO Manager",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
       "Business Development Executive",
       "Not specified",
       "Swindon"
     ],
     [
-      "Customer Service Back Office (Maternity Cover)",
+      "Regulatory Compliance Analyst",
+      "Not specified",
+      "London Wood Street - Cross Border"
+    ],
+    [
+      "Customer Service Specialist (Polish speaking)",
       "Not specified",
       "Prague"
     ],
     [
-      "Business Support Administator",
+      "Sales Executive",
       "Not specified",
-      "Swindon"
+      "Knaresborough"
+    ],
+    [
+      "Finance Manager",
+      "Not specified",
+      "Chennai - Cross Border"
+    ],
+    [
+      "Senior Sales Analyst",
+      "Not specified",
+      "2 Locations"
     ],
     [
       "Business Development Representative",
@@ -188,19 +198,9 @@
       "Copenhagen"
     ],
     [
-      "Senior Product Manager (15 month FTC - Maternity cover)",
+      "Client Project Executive",
       "Not specified",
-      "Vancouver - Parking"
-    ],
-    [
-      "Sales Executive",
-      "Not specified",
-      "Swindon"
-    ],
-    [
-      "Data Analyst",
-      "Not specified",
-      "2 Locations"
+      "Hatfield - Parking"
     ]
   ]
 }
