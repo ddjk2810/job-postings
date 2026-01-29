@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-28T06:48:11.038981",
-  "job_count": 10,
+  "last_updated": "2026-01-29T07:00:35.431718",
+  "job_count": 11,
   "jobs": [
     [
       "Account Manager",
@@ -8,9 +8,24 @@
       "Montgomery, Alabama"
     ],
     [
+      "Sr. Director of Delivery",
+      "Not specified",
+      "Herndon, Virginia"
+    ],
+    [
       "Director of Technology",
       "Not specified",
       "Denver, Colorado"
+    ],
+    [
+      "Sr. Software Engineer",
+      "Not specified",
+      "Plano, Texas"
+    ],
+    [
+      "Applications Administrator",
+      "Not specified",
+      "Plano, Texas"
     ],
     [
       "Associate CloudOps Engineer",
@@ -23,17 +38,12 @@
       "Latham, New York"
     ],
     [
-      "Software Engineer",
+      "Deployment Engineer (Linux)",
       "Not specified",
-      "Yarmouth, Maine"
+      "Troy, Michigan"
     ],
     [
-      "Applications Administrator",
-      "Not specified",
-      "Plano, Texas"
-    ],
-    [
-      "Sr. Software Engineer",
+      "IT SOX Compliance Manager",
       "Not specified",
       "Plano, Texas"
     ],
@@ -43,14 +53,9 @@
       "Herndon, Virginia"
     ],
     [
-      "Sr. Director of Delivery",
+      "Software Engineer",
       "Not specified",
-      "Herndon, Virginia"
-    ],
-    [
-      "Supervisory Team Lead, Software Engineering",
-      "Not specified",
-      "Troy, Michigan"
+      "Yarmouth, Maine"
     ]
   ]
 }

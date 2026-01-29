@@ -1,79 +1,9 @@
 {
-  "last_updated": "2026-01-28T06:48:10.061185",
+  "last_updated": "2026-01-29T07:00:34.437260",
   "job_count": 39,
   "jobs": [
     [
-      "Senior Enterprise Architect",
-      "Not specified",
-      "6 Locations"
-    ],
-    [
-      "Technical Architect - Transportation Management Systems",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Business Strategist - Automotive Factory and Supply Chain Planning",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr Support Engineer 2 - Windows Server Admin/ITIL/Azure/VMware",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Global Business Practices Director",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Software Engineer II - React Js & Typescript",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Tax Technology Manager",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr Support Engineer - JDA/BY Fulfilment/Demand/Order Optimization/Enterprise Supply Planning(ESP) & PLSQL",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "ITIL Process Manager (Program Manager)",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Staff Data Scientist I - Supply Chain Operations Analytics",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Technical Consultant - Java, SQL",
-      "Not specified",
-      "Pune - BY"
-    ],
-    [
-      "Staff Software Engineer I - Java, Microservices & Springboot",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Lead Software Engineer - Java, Microservices & Cloud",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "System Engineer I - Desktop Support",
-      "Not specified",
-      "Pune - BYDS"
-    ],
-    [
-      "Technical Architect - ServiceNow ITSM & CSM",
+      "Sr Cloud Delivery Manager",
       "Not specified",
       "Bangalore"
     ],
@@ -83,102 +13,7 @@
       "Bangalore"
     ],
     [
-      "Lead, Sales Compensation",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Staff Data Science Consultant - Supply Chain Operations Analytics",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Senior FullStack Software Engineer ( React and NodeJS)",
-      "Not specified",
-      "7 Locations"
-    ],
-    [
-      "Technical Architect - Consulting(Java, Spring boot, SQL)",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Senior Director, Sales Operations Business Partner",
-      "Not specified",
-      "Dallas"
-    ],
-    [
-      "Support Engineer 2 - Blue Yonder TMS/Transportation Management",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Enterprise Solution Architect \u2013 Automotive Factory and Supply Chain Planning",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Software Engineer II -  Java, SQL",
-      "Not specified",
-      "Pune"
-    ],
-    [
-      "VP, Demo, POC, & Pilot",
-      "Not specified",
-      "Dallas"
-    ],
-    [
-      "Sr Software Engineer - Core Java, SQL",
-      "Not specified",
-      "Pune - BY"
-    ],
-    [
-      "Strategic Operations Program Support Director",
-      "Not specified",
-      "Monterrey"
-    ],
-    [
-      "Lead Software Engineer -  ReactJS & Microservices",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Sr Cloud Delivery Manager",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Sr Technical Consultant",
-      "Not specified",
-      "Monterrey"
-    ],
-    [
-      "IN-Support Engineer 1 - Cloud (L1 Infra Ops, Monitoring tools, AppDynamics, Zabbix, Azure Cloud)",
-      "Not specified",
-      "IND - Coimbatore (708)"
-    ],
-    [
-      "Staff Software Engineer - NodeJs, ReactJs, NextJs & Microservices",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Senior Security Engineer (DevSecOps)",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Staff Software Engineer",
-      "Not specified",
-      "10 Locations"
-    ],
-    [
-      "Technical Architect - Warehouse Management Systems",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Sr. Staff Data Science Consultant - Supply Chain",
+      "Sr Technical Architect - ServiceNow Architect, CSM, CSDM & ITOM",
       "Not specified",
       "Bangalore"
     ],
@@ -188,14 +23,179 @@
       "Bangalore"
     ],
     [
-      "Staff Data Science Consultant II - Supply Chain",
+      "Technical Architect - Warehouse Management Systems",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Technical Architect - Transportation Management Systems",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Senior Director, Sales Operations Business Partner",
+      "Not specified",
+      "Dallas"
+    ],
+    [
+      "Project Manager (Engineering Manager,Java,Springboot,Mircroservices,Kafka)",
       "Not specified",
       "Bangalore"
+    ],
+    [
+      "Strategic Operations Program Support Director",
+      "Not specified",
+      "Monterrey"
+    ],
+    [
+      "Senior DevOps Engineer",
+      "Not specified",
+      "16 Locations"
+    ],
+    [
+      "ITIL Process Manager (Program Manager)",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Staff Software Engineer",
+      "Not specified",
+      "10 Locations"
+    ],
+    [
+      "Solution Architect",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Senior FullStack Software Engineer ( React and NodeJS)",
+      "Not specified",
+      "16 Locations"
+    ],
+    [
+      "Enterprise Solution Architect \u2013 Automotive Factory and Supply Chain Planning",
+      "Not specified",
+      "2 Locations"
     ],
     [
       "Sr. QA Engineer - Robot & Python",
       "Not specified",
       "Bangalore"
+    ],
+    [
+      "Technical Architect - Consulting(Java, Spring boot, SQL)",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Staff Data Scientist I - Supply Chain Operations Analytics",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Sr Staff Software Engineer - Java, Microservices & Springboot",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Global Business Practices Director",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Lead, Sales Compensation",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "VP, Demo, POC, & Pilot",
+      "Not specified",
+      "Dallas"
+    ],
+    [
+      "Lead Software Engineer - Java, Microservices & Cloud",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Sr. Staff Data Science Consultant - Supply Chain",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Sr Technical Consultant",
+      "Not specified",
+      "Monterrey"
+    ],
+    [
+      "Software Engineer II - React Js & Typescript",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Support Engineer 2 - Blue Yonder TMS/Transportation Management",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Staff Software Engineer - NodeJs, ReactJs, NextJs & Microservices",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Business Strategist - Automotive Factory and Supply Chain Planning",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr Software Engineer - Core Java, SQL",
+      "Not specified",
+      "Pune - BY"
+    ],
+    [
+      "Support Engineer1 - PLSQL, DBMS & AppD",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Technical Consultant - Java, SQL",
+      "Not specified",
+      "Pune - BY"
+    ],
+    [
+      "Lead Software Engineer -  ReactJS & Microservices",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "System Engineer I - Desktop Support",
+      "Not specified",
+      "Pune - BYDS"
+    ],
+    [
+      "Software Engineer II-(Backend Developer,Python,Microservices,Kafka,Nosql)",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Staff Data Science Consultant II - Supply Chain",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Senior Security Engineer (DevSecOps)",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Staff Data Science Consultant - Supply Chain Operations Analytics",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Tax Technology Manager",
+      "Not specified",
+      "2 Locations"
     ]
   ]
 }
