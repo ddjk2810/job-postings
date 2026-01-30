@@ -1,104 +1,9 @@
 {
-  "last_updated": "2026-01-29T07:00:35.122362",
+  "last_updated": "2026-01-30T07:03:03.514347",
   "job_count": 35,
   "jobs": [
     [
-      "Manager, Software Engineering",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
       "Application Support Analyst",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Staff Developer Experience Platform Engineer",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "Data Migration Engineer",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Product Owner",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Senior Enterprise Application Support Engineer",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "Staff Software Engineer",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Tradeshow and Events Associate",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Senior Program Manager",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Sr. Director, Product Security & Engineering",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Senior Site Reliability Engineer",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "Site Reliability Engineer",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Quality Engineer",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "Senior Business Analyst",
-      "Not specified",
-      "Sydney, Australia"
-    ],
-    [
-      "Sr. Software Engineer",
-      "Not specified",
-      "Cary, North Carolina"
-    ],
-    [
-      "Product Manager",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Customer Experience Manager",
-      "Not specified",
-      "United States"
-    ],
-    [
-      "Intermediate Software Engineer",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "Senior Quality Engineer",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "Business Analyst",
       "Not specified",
       "Austin, TX"
     ],
@@ -108,47 +13,32 @@
       "Austin, TX"
     ],
     [
+      "Associate Customer Success Manager",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
       "Regulatory Compliance Analyst",
       "Not specified",
       "3 Locations"
     ],
     [
-      "Lead Operations Analyst",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "Senior Consultant Partnership Manager",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Senior Regional Sales Manager, Relationship Pricing",
-      "Not specified",
-      "Remote, U.S."
-    ],
-    [
-      "Senior Software Engineer",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "Associate Marketing Operations Specialist",
-      "Not specified",
-      "Remote, Mexico"
-    ],
-    [
-      "Senior Software Developer in Test",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "Implementation Engineer",
+      "Sales Development Representative",
       "Not specified",
       "Austin, TX"
     ],
     [
-      "Senior Tax Accountant - US Sales Tax",
+      "Tradeshow and Events Associate",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Senior Quality Engineer",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "Senior Software Developer in Test",
       "Not specified",
       "Bangalore, India"
     ],
@@ -158,12 +48,67 @@
       "Austin, TX"
     ],
     [
+      "Lead Operations Analyst",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "Site Reliability Engineer",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Senior Regional Sales Manager, Relationship Pricing",
+      "Not specified",
+      "Remote, U.S."
+    ],
+    [
+      "Senior Business Analyst",
+      "Not specified",
+      "Sydney, Australia"
+    ],
+    [
+      "Senior Software Engineer",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "Staff Software Engineer",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Senior Program Manager",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Sr. Software Engineer",
+      "Not specified",
+      "Cary, North Carolina"
+    ],
+    [
       "Application Support Analyst",
       "Not specified",
       "Lincoln, Nebraska"
     ],
     [
-      "Associate Customer Success Manager",
+      "Senior Site Reliability Engineer",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "Associate Data Engineer",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "Application Support Analyst",
+      "Not specified",
+      "Remote, Mexico"
+    ],
+    [
+      "Data Migration Engineer",
       "Not specified",
       "Austin, TX"
     ],
@@ -173,9 +118,64 @@
       "2 Locations"
     ],
     [
-      "Associate Data Engineer",
+      "Customer Experience Manager",
+      "Not specified",
+      "United States"
+    ],
+    [
+      "Associate Marketing Operations Specialist",
+      "Not specified",
+      "Remote, Mexico"
+    ],
+    [
+      "Business Analyst",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Senior Enterprise Application Support Engineer",
       "Not specified",
       "Bangalore, India"
+    ],
+    [
+      "Product Owner",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Sr. Director, Product Security & Engineering",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Product Manager",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Senior Tax Accountant - US Sales Tax",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "Senior Consultant Partnership Manager",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Manager, Software Engineering",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Staff Developer Experience Platform Engineer",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "Implementation Engineer",
+      "Not specified",
+      "Austin, TX"
     ]
   ]
 }

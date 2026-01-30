@@ -1,16 +1,11 @@
 {
-  "last_updated": "2026-01-29T07:00:35.431718",
-  "job_count": 11,
+  "last_updated": "2026-01-30T07:03:03.811365",
+  "job_count": 12,
   "jobs": [
     [
-      "Account Manager",
+      "Associate CloudOps Engineer",
       "Not specified",
-      "Montgomery, Alabama"
-    ],
-    [
-      "Sr. Director of Delivery",
-      "Not specified",
-      "Herndon, Virginia"
+      "Manila, Philippines"
     ],
     [
       "Director of Technology",
@@ -18,24 +13,19 @@
       "Denver, Colorado"
     ],
     [
-      "Sr. Software Engineer",
+      "Senior Tax Accountant",
       "Not specified",
       "Plano, Texas"
     ],
     [
-      "Applications Administrator",
+      "Multimedia Designer",
       "Not specified",
-      "Plano, Texas"
+      "Yarmouth, Maine"
     ],
     [
-      "Associate CloudOps Engineer",
+      "Sr. Director of Delivery",
       "Not specified",
-      "Manila, Philippines"
-    ],
-    [
-      "GIS Services Specialist",
-      "Not specified",
-      "Latham, New York"
+      "Herndon, Virginia"
     ],
     [
       "Deployment Engineer (Linux)",
@@ -43,7 +33,7 @@
       "Troy, Michigan"
     ],
     [
-      "IT SOX Compliance Manager",
+      "Sr. Software Engineer",
       "Not specified",
       "Plano, Texas"
     ],
@@ -56,6 +46,21 @@
       "Software Engineer",
       "Not specified",
       "Yarmouth, Maine"
+    ],
+    [
+      "Account Manager",
+      "Not specified",
+      "Montgomery, Alabama"
+    ],
+    [
+      "GIS Services Specialist",
+      "Not specified",
+      "Latham, New York"
+    ],
+    [
+      "Applications Administrator",
+      "Not specified",
+      "Plano, Texas"
     ]
   ]
 }
