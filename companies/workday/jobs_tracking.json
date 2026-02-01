@@ -1,76 +1,11 @@
 {
-  "last_updated": "2026-01-31T06:51:03.740956",
+  "last_updated": "2026-02-01T07:01:12.146878",
   "job_count": 40,
   "jobs": [
     [
-      "Manager, Product Management, US Federal",
-      "Not specified",
-      "USA, GA, Atlanta"
-    ],
-    [
-      "Business Development Representative (French Speaker)",
-      "Not specified",
-      "Ireland, Dublin"
-    ],
-    [
-      "Software Development Engineer - Pipedream",
-      "Not specified",
-      "Canada, BC, Vancouver"
-    ],
-    [
-      "Software Development Engineer, SRE (US Federal)",
-      "Not specified",
-      "USA, CO, Boulder"
-    ],
-    [
-      "Solution Consultant HCM",
-      "Not specified",
-      "Poland, Warsaw"
-    ],
-    [
-      "Account Executive - Medium Enterprise",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr Manager, Customer Success",
+      "Senior Auditor, Internal Audit \u2013 Operational Audits",
       "Not specified",
       "Costa Rica"
-    ],
-    [
-      "Sr Software Development Engineer for AI",
-      "Not specified",
-      "Canada, BC, Vancouver"
-    ],
-    [
-      "Director, Employee & Labour Relations",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Account Executive Customer Base Medium Enterprise, Tech",
-      "Not specified",
-      "United Kingdom, London"
-    ],
-    [
-      "Principal Enterprise Architect - AI",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Commercial Account Executive - Emerging Enterprise, Nordics",
-      "Not specified",
-      "Sweden, Stockholm"
-    ],
-    [
-      "Sr Director, Business Evolution Business Architecture",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Account Executive Medium Enterprise - Retail, Hospitality & Transport",
-      "Not specified",
-      "United Kingdom, London"
     ],
     [
       "Principal Software Engineer - Evisort AI",
@@ -78,14 +13,34 @@
       "2 Locations"
     ],
     [
-      "Sr. Associate Software Development Engineer - Pipedream",
+      "Principal Enterprise Architect - AI",
       "Not specified",
-      "USA, MI, Remote"
+      "3 Locations"
     ],
     [
-      "Account Executive - Healthcare",
+      "Business Development Representative - Korean Speaking",
       "Not specified",
-      "2 Locations"
+      "Singapore"
+    ],
+    [
+      "Sr Manager, Customer Success",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Manager, Product Management, US Federal",
+      "Not specified",
+      "USA, GA, Atlanta"
+    ],
+    [
+      "Sr Director, Business Evolution Business Architecture",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Product Manager",
+      "Not specified",
+      "Ireland, Dublin"
     ],
     [
       "Sana Learn Senior Engagement Manager",
@@ -93,14 +48,59 @@
       "8 Locations"
     ],
     [
-      "M&A Finance Integration Senior Manager",
+      "Functional Consultant - Financial Software",
       "Not specified",
-      "USA, CA, Pleasanton"
+      "Poland, Warsaw"
+    ],
+    [
+      "Sr. Associate Software Development Engineer - Pipedream",
+      "Not specified",
+      "USA, MI, Remote"
     ],
     [
       "Sr. Solution Consultant",
       "Not specified",
       "2 Locations"
+    ],
+    [
+      "Regional Sales Director - Large Enterprise - Customer Base",
+      "Not specified",
+      "USA, GA, Atlanta"
+    ],
+    [
+      "Solution Consultant HCM",
+      "Not specified",
+      "Poland, Warsaw"
+    ],
+    [
+      "Principal Asset Manager, IT Service Management",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Business Development Representative (French Speaker)",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "Account Executive - Medium Enterprise",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "M&A Finance Integration Senior Manager",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Software Development Engineer, SRE (US Federal)",
+      "Not specified",
+      "USA, CO, Boulder"
+    ],
+    [
+      "Account Executive Medium Enterprise - Retail, Hospitality & Transport",
+      "Not specified",
+      "United Kingdom, London"
     ],
     [
       "Sr Workday HCM Functional Consultant",
@@ -113,64 +113,9 @@
       "IND.Chennai"
     ],
     [
-      "Product Manager",
-      "Not specified",
-      "Ireland, Dublin"
-    ],
-    [
-      "Large Enterprise Account Executive, Customer Base FSI",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Business Development Representative - Korean Speaking",
-      "Not specified",
-      "Singapore"
-    ],
-    [
-      "Regional Sales Director - Large Enterprise - Customer Base",
-      "Not specified",
-      "USA, GA, Atlanta"
-    ],
-    [
-      "Manager, Software Development Engineering",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
       "Senior Manager, Enterprise Performance",
       "Not specified",
       "USA, CA, Pleasanton"
-    ],
-    [
-      "EMEA Strategy Manager",
-      "Not specified",
-      "United Kingdom, London"
-    ],
-    [
-      "Engagement Manager - Project management - HCM or Financial  implementations - Paradox",
-      "Not specified",
-      "USA, IL, Chicago"
-    ],
-    [
-      "Marketing Manager",
-      "Not specified",
-      "Singapore"
-    ],
-    [
-      "Principal Asset Manager, IT Service Management",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Principal Financial Implementation Consultant",
-      "Not specified",
-      "72 Locations"
-    ],
-    [
-      "Senior Auditor, Internal Audit \u2013 Operational Audits",
-      "Not specified",
-      "Costa Rica"
     ],
     [
       "Accountant",
@@ -178,19 +123,44 @@
       "USA, CA, Pleasanton"
     ],
     [
-      "Functional Consultant - Financial Software",
-      "Not specified",
-      "Poland, Warsaw"
-    ],
-    [
-      "Product Specialist - Workday Platform (Workday Build, Workday Data Cloud) and AI Agents",
-      "Not specified",
-      "7 Locations"
-    ],
-    [
       "Sr Extend Consultant - Workday Success Plans",
       "Not specified",
       "3 Locations"
+    ],
+    [
+      "Sr Software Development Engineer for AI",
+      "Not specified",
+      "Canada, BC, Vancouver"
+    ],
+    [
+      "Director, Employee & Labour Relations",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Large Enterprise Account Executive, Customer Base FSI",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "EMEA Strategy Manager",
+      "Not specified",
+      "United Kingdom, London"
+    ],
+    [
+      "Commercial Account Executive - Emerging Enterprise, Nordics",
+      "Not specified",
+      "Sweden, Stockholm"
+    ],
+    [
+      "Account Executive - Healthcare",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Account Executive Customer Base Medium Enterprise, Tech",
+      "Not specified",
+      "United Kingdom, London"
     ],
     [
       "Senior Consultant - Financials, FSI Industry",
@@ -198,9 +168,39 @@
       "71 Locations"
     ],
     [
-      "Solution Consultant",
+      "Product Specialist - Workday Platform (Workday Build, Workday Data Cloud) and AI Agents",
       "Not specified",
-      "United Kingdom, London"
+      "7 Locations"
+    ],
+    [
+      "Manager, Software Development Engineering",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Engagement Manager - Project management - HCM or Financial  implementations - Paradox",
+      "Not specified",
+      "USA, IL, Chicago"
+    ],
+    [
+      "Principal Financial Implementation Consultant",
+      "Not specified",
+      "72 Locations"
+    ],
+    [
+      "Software Development Engineer - Pipedream",
+      "Not specified",
+      "Canada, BC, Vancouver"
+    ],
+    [
+      "Sr Solution Consultant",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Senior Technical Integration Consultant (Financials) - Consultant(e) Technique S\u00e9nior (Finance)",
+      "Not specified",
+      "5 Locations"
     ]
   ]
 }

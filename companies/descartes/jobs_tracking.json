@@ -1,9 +1,24 @@
 {
-  "last_updated": "2026-01-31T06:51:02.932912",
+  "last_updated": "2026-02-01T07:01:11.308391",
   "job_count": 25,
   "jobs": [
     [
-      "AI Solutions Architect",
+      "Business Analyst",
+      "Not specified",
+      "UY"
+    ],
+    [
+      "Senior Systems Engineer",
+      "Not specified",
+      "Namestovo, SK, 029 01 \u2022 Philippines, PH"
+    ],
+    [
+      "Technical Support Representative",
+      "Not specified",
+      "Montevideo, UY"
+    ],
+    [
+      "Business Development Representative",
       "Not specified",
       "US"
     ],
@@ -11,16 +26,6 @@
       "Technical Support Representative",
       "Not specified",
       "BG"
-    ],
-    [
-      "Software Test Engineer",
-      "Not specified",
-      "Zilina, SK, 010 01"
-    ],
-    [
-      "Business Analyst",
-      "Not specified",
-      "UY"
     ],
     [
       "Financial Analyst",
@@ -33,24 +38,9 @@
       "Waterloo, ON, N2V 1C6"
     ],
     [
-      "Technical Architect",
+      "Senior Solutions Consultant( FTZ, FTA Specialist)",
       "Not specified",
-      "Gurugram, HR, IN, 122018"
-    ],
-    [
-      "Site Reliability Engineer",
-      "Not specified",
-      "BR"
-    ],
-    [
-      "Support Agent Trainee",
-      "Not specified",
-      "Leipzig, DE, 4109"
-    ],
-    [
-      "Senior Software Engineer- JavaScript (Node.js, React)",
-      "Not specified",
-      "Sencur, SI, SI-4208"
+      "Waterloo, ON, N2V 1C6"
     ],
     [
       "Technical Account Manager",
@@ -58,44 +48,14 @@
       "US"
     ],
     [
-      "Customer Support Representative",
+      "Support Agent Trainee",
       "Not specified",
-      "Makati City, PH"
+      "Leipzig, DE, 4109"
     ],
     [
-      "Technical Team Lead, JavaScript (Node.js, React)",
+      "Software Test Engineer",
       "Not specified",
-      "Sencur, SI, SI-4208"
-    ],
-    [
-      "Account Executive LSP",
-      "Not specified",
-      "Malmo, SE, 211 20"
-    ],
-    [
-      "Technical Support Representative",
-      "Not specified",
-      "Montevideo, UY"
-    ],
-    [
-      "Client Onboarding Specialist",
-      "Not specified",
-      "BG"
-    ],
-    [
-      "Quality Analyst",
-      "Not specified",
-      "Gurugram, HR, IN, 122018"
-    ],
-    [
-      "Business Development Representative",
-      "Not specified",
-      "US"
-    ],
-    [
-      "Senior Solutions Consultant( FTZ, FTA Specialist)",
-      "Not specified",
-      "Waterloo, ON, N2V 1C6"
+      "Zilina, SK, 010 01"
     ],
     [
       "Implementation Consultant",
@@ -108,6 +68,41 @@
       "US"
     ],
     [
+      "Customer Support Representative",
+      "Not specified",
+      "Makati City, PH"
+    ],
+    [
+      "Account Executive ( German Speaking)",
+      "Not specified",
+      "DE"
+    ],
+    [
+      "AI Solutions Architect",
+      "Not specified",
+      "US"
+    ],
+    [
+      "Client Onboarding Specialist",
+      "Not specified",
+      "BG"
+    ],
+    [
+      "Support Specialist",
+      "Not specified",
+      "US"
+    ],
+    [
+      "Technical Architect",
+      "Not specified",
+      "Gurugram, HR, IN, 122018"
+    ],
+    [
+      "Senior Software Engineer- JavaScript (Node.js, React)",
+      "Not specified",
+      "Sencur, SI, SI-4208"
+    ],
+    [
       "Senior Account Manager",
       "Not specified",
       "Rheinfelden, CH, 4310"
@@ -118,14 +113,19 @@
       "US"
     ],
     [
-      "Senior Systems Engineer",
+      "Technical Team Lead, JavaScript (Node.js, React)",
       "Not specified",
-      "Namestovo, SK, 029 01 \u2022 Philippines, PH"
+      "Sencur, SI, SI-4208"
     ],
     [
-      "Support Specialist",
+      "Account Executive LSP",
       "Not specified",
-      "US"
+      "Malmo, SE, 211 20"
+    ],
+    [
+      "Site Reliability Engineer",
+      "Not specified",
+      "BR"
     ]
   ]
 }

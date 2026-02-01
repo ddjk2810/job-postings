@@ -1,34 +1,14 @@
 {
-  "last_updated": "2026-01-31T06:51:02.897881",
+  "last_updated": "2026-02-01T07:01:11.279544",
   "job_count": 61,
   "jobs": [
     [
-      "Commercial Counsel",
+      "Senior GTM Recruiter, EMEA",
       "General & Administrative",
-      "San Francisco"
-    ],
-    [
-      "Engineering Manager, Agents",
-      "Engineering",
       "London"
     ],
     [
-      "Product Manager",
-      "Product & Design",
-      "San Francisco"
-    ],
-    [
-      "Senior GTM Recruiter",
-      "General & Administrative",
-      "San Francisco"
-    ],
-    [
-      "Product Operations Manager",
-      "Product & Design",
-      "San Francisco"
-    ],
-    [
-      "Staff Software Engineer, Voice Agent",
+      "Staff Research Engineer, Voice",
       "Engineering",
       "San Francisco"
     ],
@@ -38,14 +18,19 @@
       "San Francisco"
     ],
     [
-      "Product Manager, Voice Agent",
-      "Product & Design",
+      "Strategic Alliances & Partnerships Lead",
+      "Founder's Office",
       "San Francisco"
     ],
     [
-      "Senior GTM Recruiter, EMEA",
+      "Commercial Counsel",
       "General & Administrative",
-      "London"
+      "San Francisco"
+    ],
+    [
+      "Senior Software Engineer, Agents",
+      "Engineering",
+      "New York City"
     ],
     [
       "Senior Software Engineer, Insights",
@@ -53,12 +38,7 @@
       "San Francisco"
     ],
     [
-      "Director, Strategic Accounts",
-      "Sales",
-      "Remote"
-    ],
-    [
-      "Senior Agent Product Manager, Strategic",
+      "CX Enablement Lead",
       "APM & Post Sales Operations",
       "San Francisco"
     ],
@@ -68,73 +48,23 @@
       "San Francisco"
     ],
     [
-      "Staff Software Engineer, Insights",
-      "Engineering",
-      "San Francisco"
-    ],
-    [
-      "Human Resources Generalist, EMEA",
-      "General & Administrative",
-      "London"
-    ],
-    [
-      "CX Enablement Lead",
-      "APM & Post Sales Operations",
-      "San Francisco"
-    ],
-    [
-      "Senior Solutions Engineer",
-      "Sales",
-      "New York City"
-    ],
-    [
-      "Customer Engineer, Agent Builder",
-      "APM & Post Sales Operations",
-      "San Francisco"
-    ],
-    [
-      "Senior Solutions Engineer",
-      "Sales",
-      "London"
-    ],
-    [
-      "Staff Software Engineer, Infrastructure",
-      "Engineering",
-      "San Francisco"
-    ],
-    [
       "Engineering Manager, Insights",
       "Engineering",
       "San Francisco"
     ],
     [
-      "Senior Research Engineer",
-      "Engineering",
+      "Product Operations Manager",
+      "Product & Design",
       "San Francisco"
     ],
     [
-      "AI Conversation Designer",
+      "Director of Customer Engineering, Agent Builder",
       "APM & Post Sales Operations",
-      "Remote"
-    ],
-    [
-      "Enterprise Account Executive",
-      "Sales",
-      "London"
+      "San Francisco"
     ],
     [
       "Senior Solutions Engineer",
       "Sales",
-      "San Francisco"
-    ],
-    [
-      "Founder's Office, Founder Associate",
-      "Founder's Office",
-      "San Francisco"
-    ],
-    [
-      "Senior Agent Product Manager",
-      "APM & Post Sales Operations",
       "New York City"
     ],
     [
@@ -143,48 +73,33 @@
       "New York City"
     ],
     [
-      "Solutions Architect - Infrastructure ",
+      "Agent Success Manager",
+      "APM & Post Sales Operations",
+      "San Francisco"
+    ],
+    [
+      "AI Conversation Designer",
+      "APM & Post Sales Operations",
+      "Remote"
+    ],
+    [
+      "Staff Software Engineer, Infrastructure",
+      "Engineering",
+      "San Francisco"
+    ],
+    [
+      "Director, Strategic Accounts",
+      "Sales",
+      "Remote"
+    ],
+    [
+      "Senior Solutions Engineer",
       "Sales",
       "San Francisco"
     ],
     [
-      "Agent Success Manager ",
-      "APM & Post Sales Operations",
-      "New York City"
-    ],
-    [
-      "Senior Software Engineer, Agents",
-      "Engineering",
-      "New York City"
-    ],
-    [
-      "Staff Software Engineer, Agent Development",
-      "Engineering",
-      "New York City"
-    ],
-    [
-      "Senior Software Engineer, Infrastructure",
-      "Engineering",
-      "New York City"
-    ],
-    [
-      "Talent Associate",
-      "General & Administrative",
-      "New York City"
-    ],
-    [
-      "Strategic Alliances & Partnerships Lead",
-      "Founder's Office",
-      "San Francisco"
-    ],
-    [
-      "Senior Software Engineer, Agent Orchestration",
-      "Engineering",
-      "San Francisco"
-    ],
-    [
-      "Implementation Manager",
-      "APM & Post Sales Operations",
+      "Field Marketing Coordinator",
+      "Marketing",
       "San Francisco"
     ],
     [
@@ -198,9 +113,134 @@
       "San Francisco"
     ],
     [
+      "Senior Agent Product Manager, Strategic",
+      "APM & Post Sales Operations",
+      "New York City"
+    ],
+    [
+      "Engineering Manager, Agent Orchestration",
+      "Engineering",
+      "San Francisco"
+    ],
+    [
+      "Senior Research Engineer",
+      "Engineering",
+      "San Francisco"
+    ],
+    [
+      "Senior Software Engineer, Voice Agent",
+      "Engineering",
+      "San Francisco"
+    ],
+    [
       "Executive Assistant",
       "General & Administrative",
       "New York City"
+    ],
+    [
+      "Senior Software Engineer, Infrastructure",
+      "Engineering",
+      "New York City"
+    ],
+    [
+      "Senior Agent Product Manager, Strategic",
+      "APM & Post Sales Operations",
+      "San Francisco"
+    ],
+    [
+      "Brand Designer",
+      "Marketing",
+      "San Francisco"
+    ],
+    [
+      "Senior Software Engineer, Infrastructure",
+      "Engineering",
+      "San Francisco"
+    ],
+    [
+      "Staff Software Engineer, Agent Development",
+      "Engineering",
+      "New York City"
+    ],
+    [
+      "Director, Strategic Accounts",
+      "Sales",
+      "London"
+    ],
+    [
+      "Senior Agent Product Manager",
+      "APM & Post Sales Operations",
+      "New York City"
+    ],
+    [
+      "Staff Research Engineer",
+      "Engineering",
+      "San Francisco"
+    ],
+    [
+      "Agent Success Manager ",
+      "APM & Post Sales Operations",
+      "New York City"
+    ],
+    [
+      "Engineering Manager, Agents",
+      "Engineering",
+      "London"
+    ],
+    [
+      "Head of Sales Enablement",
+      "Sales",
+      "San Francisco"
+    ],
+    [
+      "Founder's Office, Founder Associate",
+      "Founder's Office",
+      "San Francisco"
+    ],
+    [
+      "Staff Software Engineer, Agent Orchestration",
+      "Engineering",
+      "San Francisco"
+    ],
+    [
+      "Product Manager, Voice Agent",
+      "Product & Design",
+      "San Francisco"
+    ],
+    [
+      "Product Manager",
+      "Product & Design",
+      "San Francisco"
+    ],
+    [
+      "Senior Agent Product Manager",
+      "APM & Post Sales Operations",
+      "San Francisco"
+    ],
+    [
+      "Solutions Architect - Salesforce ",
+      "Sales",
+      "San Francisco"
+    ],
+    [
+      "Senior Solutions Engineer",
+      "Sales",
+      "London"
+    ],
+    [
+      "Senior GTM Recruiter",
+      "General & Administrative",
+      "San Francisco"
+    ],
+    [
+      "Enterprise Account Executive ",
+      "Sales",
+      "New York City"
+    ],
+    [
+      "Enterprise Account Executive",
+      "Sales",
+      "London"
     ],
     [
       "Sales Development Representative (SDR)",
@@ -208,8 +248,8 @@
       "San Francisco"
     ],
     [
-      "Agent Success Manager",
-      "APM & Post Sales Operations",
+      "Senior Software Engineer, Agent Orchestration",
+      "Engineering",
       "San Francisco"
     ],
     [
@@ -225,41 +265,36 @@
     [
       "Enterprise Account Executive ",
       "Sales",
+      "San Francisco"
+    ],
+    [
+      "Solutions Architect - Infrastructure ",
+      "Sales",
+      "San Francisco"
+    ],
+    [
+      "Implementation Manager",
+      "APM & Post Sales Operations",
+      "San Francisco"
+    ],
+    [
+      "Human Resources Generalist, EMEA",
+      "General & Administrative",
+      "London"
+    ],
+    [
+      "Talent Associate",
+      "General & Administrative",
       "New York City"
     ],
     [
-      "Senior Agent Product Manager",
+      "Staff Software Engineer, Insights",
+      "Engineering",
+      "San Francisco"
+    ],
+    [
+      "Customer Engineer, Agent Builder",
       "APM & Post Sales Operations",
-      "San Francisco"
-    ],
-    [
-      "Field Marketing Coordinator",
-      "Marketing",
-      "San Francisco"
-    ],
-    [
-      "Senior Software Engineer, Infrastructure",
-      "Engineering",
-      "San Francisco"
-    ],
-    [
-      "Engineering Manager, Agent Orchestration",
-      "Engineering",
-      "San Francisco"
-    ],
-    [
-      "Senior Software Engineer, Voice Agent",
-      "Engineering",
-      "San Francisco"
-    ],
-    [
-      "Director of Customer Engineering, Agent Builder",
-      "APM & Post Sales Operations",
-      "San Francisco"
-    ],
-    [
-      "Brand Designer",
-      "Marketing",
       "San Francisco"
     ],
     [
@@ -268,43 +303,8 @@
       "San Francisco"
     ],
     [
-      "Staff Research Engineer, Voice",
+      "Staff Software Engineer, Voice Agent",
       "Engineering",
-      "San Francisco"
-    ],
-    [
-      "Director, Strategic Accounts",
-      "Sales",
-      "London"
-    ],
-    [
-      "Enterprise Account Executive ",
-      "Sales",
-      "San Francisco"
-    ],
-    [
-      "Staff Research Engineer",
-      "Engineering",
-      "San Francisco"
-    ],
-    [
-      "Senior Agent Product Manager, Strategic",
-      "APM & Post Sales Operations",
-      "New York City"
-    ],
-    [
-      "Head of Sales Enablement",
-      "Sales",
-      "San Francisco"
-    ],
-    [
-      "Staff Software Engineer, Agent Orchestration",
-      "Engineering",
-      "San Francisco"
-    ],
-    [
-      "Solutions Architect - Salesforce ",
-      "Sales",
       "San Francisco"
     ]
   ]

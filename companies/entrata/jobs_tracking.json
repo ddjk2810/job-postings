@@ -1,10 +1,20 @@
 {
-  "last_updated": "2026-01-31T06:51:03.018316",
+  "last_updated": "2026-02-01T07:01:11.395831",
   "job_count": 32,
   "jobs": [
     [
-      "Industry Principal, Insurance",
+      "Regional Vice President of Sales, Central Region",
       "Sales",
+      "Dallas, TX"
+    ],
+    [
+      "Senior Video Producer and Editor",
+      "Creative",
+      "Lehi, Utah"
+    ],
+    [
+      "Senior Product Manager, Accounting Suite",
+      "Product Management",
       "Lehi, Utah"
     ],
     [
@@ -13,9 +23,9 @@
       "Pune, India"
     ],
     [
-      "Customer Success Manager",
-      "Customer Success",
-      "Lehi, Utah"
+      "Talent Sourcer",
+      "Talent Acquisition",
+      "Pune, India"
     ],
     [
       "Customer Service Representative",
@@ -23,17 +33,12 @@
       "Logan, UT"
     ],
     [
-      "Senior Video Producer and Editor",
-      "Creative",
-      "Lehi, Utah"
+      "Key Account Support Engineer",
+      "Technical Support",
+      "United States"
     ],
     [
-      "Software Engineer",
-      "Software Development",
-      "Pune, India"
-    ],
-    [
-      "Talent Partner - Volume Hiring (CTH- 6 months)",
+      "Talent Partner (CTH- 6 months)",
       "People",
       "Pune, India"
     ],
@@ -43,99 +48,14 @@
       "Lehi, Utah"
     ],
     [
-      "Utility Billing Specialist",
-      "Utilities",
+      "Product Education Manager",
+      "Product Training",
       "United States"
     ],
     [
-      "Head - Service Operations",
-      "Product Management",
-      "Pune, India"
-    ],
-    [
-      "Senior AI Software Engineer",
-      "Software Development",
-      "Lehi, Utah"
-    ],
-    [
-      "Customer Service Representative (Insurance)",
-      "Resident Insure",
-      "Lehi, Utah"
-    ],
-    [
-      "Business Development Representative",
-      "Business Development",
-      "Lehi, Utah"
-    ],
-    [
-      "Head of Analytics",
+      "Software Engineer",
       "Software Development",
       "Pune, India"
-    ],
-    [
-      "Talent Sourcer",
-      "Talent Acquisition",
-      "Pune, India"
-    ],
-    [
-      "Talent Partner (CTH- 6 months)",
-      "People",
-      "Pune, India"
-    ],
-    [
-      "Key Account Support Engineer",
-      "Technical Support",
-      "United States"
-    ],
-    [
-      "Regional Vice President of Sales (IC)",
-      "Sales",
-      "Lehi, Utah"
-    ],
-    [
-      "Invoice Acquisition Specialist",
-      "Utilities",
-      "Pune, India"
-    ],
-    [
-      "Senior Product Manager, Accounting Suite",
-      "Product Management",
-      "Lehi, Utah"
-    ],
-    [
-      "Background Verification Analyst",
-      "Technical Support",
-      "United States"
-    ],
-    [
-      "Regional Vice President of Sales, East Region (IC-Enterprise)",
-      "Sales",
-      "Illinois"
-    ],
-    [
-      "Senior Machine Learning Engineer",
-      "Software Development",
-      "Lehi, Utah"
-    ],
-    [
-      "Regional Vice President of Sales, Central Region",
-      "Sales",
-      "Dallas, TX"
-    ],
-    [
-      "Team Lead, India Contact Center",
-      "Leasing Center",
-      "Pune, India"
-    ],
-    [
-      "Insurance Sales Agent",
-      "Resident Insure",
-      "Lehi, Utah"
-    ],
-    [
-      "Senior Accountant",
-      "Accounting",
-      "Lehi, Utah"
     ],
     [
       "Software Engineer",
@@ -143,13 +63,33 @@
       "Tel Aviv, Israel"
     ],
     [
-      "Contact Center Professional",
+      "Invoice Acquisition Specialist",
+      "Utilities",
+      "Pune, India"
+    ],
+    [
+      "Regional Vice President of Sales, East Region (IC-Enterprise)",
+      "Sales",
+      "Illinois"
+    ],
+    [
+      "Team Lead, India Contact Center",
       "Leasing Center",
       "Pune, India"
     ],
     [
+      "Senior Machine Learning Engineer",
+      "Software Development",
+      "Lehi, Utah"
+    ],
+    [
       "Associate Digital Marketing Consultant",
       "Digital Marketing",
+      "Pune, India"
+    ],
+    [
+      "Head of Analytics",
+      "Software Development",
       "Pune, India"
     ],
     [
@@ -158,9 +98,69 @@
       "Pune, India"
     ],
     [
-      "Product Education Manager",
-      "Product Training",
+      "Industry Principal, Insurance",
+      "Sales",
+      "Lehi, Utah"
+    ],
+    [
+      "Senior AI Software Engineer",
+      "Software Development",
+      "Lehi, Utah"
+    ],
+    [
+      "Head - Service Operations",
+      "Product Management",
+      "Pune, India"
+    ],
+    [
+      "Regional Vice President of Sales (IC)",
+      "Sales",
+      "Lehi, Utah"
+    ],
+    [
+      "Senior Accountant",
+      "Accounting",
+      "Lehi, Utah"
+    ],
+    [
+      "Business Development Representative",
+      "Business Development",
+      "Lehi, Utah"
+    ],
+    [
+      "Utility Billing Specialist",
+      "Utilities",
       "United States"
+    ],
+    [
+      "Insurance Sales Agent",
+      "Resident Insure",
+      "Lehi, Utah"
+    ],
+    [
+      "Contact Center Professional",
+      "Leasing Center",
+      "Pune, India"
+    ],
+    [
+      "Customer Success Manager",
+      "Customer Success",
+      "Lehi, Utah"
+    ],
+    [
+      "Background Verification Analyst",
+      "Technical Support",
+      "United States"
+    ],
+    [
+      "Talent Partner - Volume Hiring (CTH- 6 months)",
+      "People",
+      "Pune, India"
+    ],
+    [
+      "Customer Service Representative (Insurance)",
+      "Resident Insure",
+      "Lehi, Utah"
     ]
   ]
 }

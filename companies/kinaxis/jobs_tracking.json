@@ -1,101 +1,11 @@
 {
-  "last_updated": "2026-01-31T06:51:03.103427",
+  "last_updated": "2026-02-01T07:01:11.509512",
   "job_count": 49,
   "jobs": [
     [
-      "Sr. Director, Sales",
-      "Not specified",
-      "IN-Remote"
-    ],
-    [
-      "VP, Sales",
-      "Not specified",
-      "FR-Remote"
-    ],
-    [
-      "Senior Software Developer, Supply Chain Execution, 12-Month Term",
-      "Not specified",
-      "NL-Rotterdam"
-    ],
-    [
-      "Senior Information Security Analyst",
-      "Not specified",
-      "JP-Tokyo"
-    ],
-    [
-      "Solution Consultant, Intermediate - IND",
+      "Technology NPI Consultant, Intermediate",
       "Not specified",
       "IN-TN-Perungudi, Chennai"
-    ],
-    [
-      "Legal Counsel",
-      "Not specified",
-      "IE-Remote"
-    ],
-    [
-      "Technical Data Architect, Platform & Data Products",
-      "Not specified",
-      "CA-Remote"
-    ],
-    [
-      "Software Developer 2, Python Backend Developer",
-      "Not specified",
-      "IN-KA-Bangalore"
-    ],
-    [
-      "Senior Solution Consultant",
-      "Not specified",
-      "DE-Remote"
-    ],
-    [
-      "Senior Solution Consultant",
-      "Not specified",
-      "FR-Remote"
-    ],
-    [
-      "Facilities Coordinator",
-      "Not specified",
-      "CA-ON-Ottawa"
-    ],
-    [
-      "Senior Application Consultant",
-      "Not specified",
-      "RO-Remote"
-    ],
-    [
-      "Director of Procurement",
-      "Not specified",
-      "CA-Remote"
-    ],
-    [
-      "Staff Software Developer, Front End Technology",
-      "Not specified",
-      "CA-ON-Ottawa"
-    ],
-    [
-      "Technology Consultant",
-      "Not specified",
-      "JP-Tokyo"
-    ],
-    [
-      "Solution Consultant",
-      "Not specified",
-      "IN-KA-Bangalore"
-    ],
-    [
-      "Business Consultant",
-      "Not specified",
-      "IN-Remote"
-    ],
-    [
-      "Technology Consultant - IND",
-      "Not specified",
-      "IN-TN-Perungudi, Chennai"
-    ],
-    [
-      "Senior Data Engineer, AI Solutions ( 12 months Contract)",
-      "Not specified",
-      "CA-Remote"
     ],
     [
       "Solution Consultant, Entry - IND",
@@ -103,69 +13,9 @@
       "IN-TN-Perungudi, Chennai"
     ],
     [
-      "Senior Technology Consultant - IND",
-      "Not specified",
-      "IN-TN-Perungudi, Chennai"
-    ],
-    [
-      "Intern Support and Learning Platform Administrator",
-      "Not specified",
-      "UK-Remote"
-    ],
-    [
-      "Business Development Representative",
-      "Not specified",
-      "UK-Remote"
-    ],
-    [
       "Business Consultant - USA",
       "Not specified",
       "US-Remote"
-    ],
-    [
-      "Account Executive",
-      "Not specified",
-      "IT-"
-    ],
-    [
-      "Staff Algorithms Developer, C++",
-      "Not specified",
-      "CA-ON-Ottawa"
-    ],
-    [
-      "Senior Solution Consultant - IND",
-      "Not specified",
-      "IN-TN-Perungudi, Chennai"
-    ],
-    [
-      "Database Specialist",
-      "Not specified",
-      "CA-ON-Ottawa"
-    ],
-    [
-      "Software Developer, C++",
-      "Not specified",
-      "CA-ON-Ottawa"
-    ],
-    [
-      "Software Test Developer 1 - Java Automation",
-      "Not specified",
-      "IN-KA-Bangalore"
-    ],
-    [
-      "Account Executive",
-      "Not specified",
-      "SE-"
-    ],
-    [
-      "Client Partner",
-      "Not specified",
-      "US-Remote"
-    ],
-    [
-      "Co-op/Intern Support and Learning Platform Administrator",
-      "Not specified",
-      "CA-ON-Ottawa"
     ],
     [
       "Solution Architect - IND",
@@ -173,12 +23,132 @@
       "IN-KA-Bangalore"
     ],
     [
+      "Intern Support and Learning Platform Administrator",
+      "Not specified",
+      "UK-Remote"
+    ],
+    [
       "Instructor",
       "Not specified",
       "IE-Remote"
     ],
     [
-      "Co-op/Intern Talent Acquisition Coordinator",
+      "Software Test Developer 1 - Java Automation",
+      "Not specified",
+      "IN-KA-Bangalore"
+    ],
+    [
+      "Staff Software Developer, Front End Technology",
+      "Not specified",
+      "CA-ON-Ottawa"
+    ],
+    [
+      "Senior Site Reliability Engineer - Infra",
+      "Not specified",
+      "TW-Remote"
+    ],
+    [
+      "Program Manager, Product Operations",
+      "Not specified",
+      "CA-ON-Toronto"
+    ],
+    [
+      "Senior Application Consultant",
+      "Not specified",
+      "RO-Remote"
+    ],
+    [
+      "Senior Solution Consultant - IND",
+      "Not specified",
+      "IN-TN-Perungudi, Chennai"
+    ],
+    [
+      "Staff Algorithms Developer, C++",
+      "Not specified",
+      "CA-ON-Ottawa"
+    ],
+    [
+      "Product Manager, Platform",
+      "Not specified",
+      "CA-Remote"
+    ],
+    [
+      "Technology Consultant",
+      "Not specified",
+      "JP-Tokyo"
+    ],
+    [
+      "Sr. Director, Sales",
+      "Not specified",
+      "IN-Remote"
+    ],
+    [
+      "Business Development Representative",
+      "Not specified",
+      "UK-Remote"
+    ],
+    [
+      "Senior Information Security Analyst",
+      "Not specified",
+      "JP-Tokyo"
+    ],
+    [
+      "Co-op/Intern Support and Learning Platform Administrator",
+      "Not specified",
+      "CA-ON-Ottawa"
+    ],
+    [
+      "Client Partner",
+      "Not specified",
+      "US-Remote"
+    ],
+    [
+      "Technical Data Architect, Platform & Data Products",
+      "Not specified",
+      "CA-Remote"
+    ],
+    [
+      "Legal Counsel",
+      "Not specified",
+      "IE-Remote"
+    ],
+    [
+      "Senior Software Developer, Supply Chain Execution, 12-Month Term",
+      "Not specified",
+      "NL-Rotterdam"
+    ],
+    [
+      "Solution Consultant, Intermediate - IND",
+      "Not specified",
+      "IN-TN-Perungudi, Chennai"
+    ],
+    [
+      "VP, Sales",
+      "Not specified",
+      "FR-Remote"
+    ],
+    [
+      "Database Specialist",
+      "Not specified",
+      "CA-ON-Ottawa"
+    ],
+    [
+      "Senior Technology Consultant - IND",
+      "Not specified",
+      "IN-TN-Perungudi, Chennai"
+    ],
+    [
+      "Software Developer, C++",
+      "Not specified",
+      "CA-ON-Ottawa"
+    ],
+    [
+      "Business Consultant",
+      "Not specified",
+      "IN-Remote"
+    ],
+    [
+      "Facilities Coordinator",
       "Not specified",
       "CA-ON-Ottawa"
     ],
@@ -188,54 +158,29 @@
       "NL-Remote"
     ],
     [
-      "Associate Solution Consultant - IND",
-      "Not specified",
-      "IN-TN-Perungudi, Chennai"
-    ],
-    [
-      "Product Manager, Platform",
-      "Not specified",
-      "CA-Remote"
-    ],
-    [
       "Director, Product Management, Platform",
       "Not specified",
       "CA-Remote"
     ],
     [
-      "Senior Manager, Business Consulting",
-      "Not specified",
-      "IN-Remote"
-    ],
-    [
-      "Senior Site Reliability Engineer - Infra",
-      "Not specified",
-      "TW-Remote"
-    ],
-    [
-      "Technology NPI Consultant, Intermediate",
+      "Technology Consultant - IND",
       "Not specified",
       "IN-TN-Perungudi, Chennai"
     ],
     [
-      "Account Executive - East Region",
+      "Senior Solution Consultant",
       "Not specified",
-      "US-Remote"
+      "FR-Remote"
     ],
     [
-      "Co-op/Intern Site Reliability Engineer",
+      "Account Executive",
+      "Not specified",
+      "SE-"
+    ],
+    [
+      "Co-op/Intern Talent Acquisition Coordinator",
       "Not specified",
       "CA-ON-Ottawa"
-    ],
-    [
-      "Program Manager, Product Operations",
-      "Not specified",
-      "CA-ON-Toronto"
-    ],
-    [
-      "Senior Delivery Manager",
-      "Not specified",
-      "JP-Tokyo"
     ],
     [
       "Compensation Analyst - 18 Month Term",
@@ -243,9 +188,64 @@
       "CA-ON-Ottawa"
     ],
     [
+      "Senior Solution Consultant",
+      "Not specified",
+      "DE-Remote"
+    ],
+    [
       "Head of Field Marketing, EMEA",
       "Not specified",
       "FR-Remote"
+    ],
+    [
+      "Senior Delivery Manager",
+      "Not specified",
+      "JP-Tokyo"
+    ],
+    [
+      "Co-op/Intern Site Reliability Engineer",
+      "Not specified",
+      "CA-ON-Ottawa"
+    ],
+    [
+      "Account Executive - East Region",
+      "Not specified",
+      "US-Remote"
+    ],
+    [
+      "Associate Solution Consultant - IND",
+      "Not specified",
+      "IN-TN-Perungudi, Chennai"
+    ],
+    [
+      "Software Developer 2, Python Backend Developer",
+      "Not specified",
+      "IN-KA-Bangalore"
+    ],
+    [
+      "Senior Manager, Business Consulting",
+      "Not specified",
+      "IN-Remote"
+    ],
+    [
+      "Account Executive",
+      "Not specified",
+      "IT-"
+    ],
+    [
+      "Senior Data Engineer, AI Solutions ( 12 months Contract)",
+      "Not specified",
+      "CA-Remote"
+    ],
+    [
+      "Director of Procurement",
+      "Not specified",
+      "CA-Remote"
+    ],
+    [
+      "Solution Consultant",
+      "Not specified",
+      "IN-KA-Bangalore"
     ]
   ]
 }
