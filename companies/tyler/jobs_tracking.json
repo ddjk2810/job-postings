@@ -1,39 +1,9 @@
 {
-  "last_updated": "2026-02-01T07:01:12.052920",
+  "last_updated": "2026-02-02T07:12:56.472458",
   "job_count": 16,
   "jobs": [
     [
-      "Tax Accountant",
-      "Not specified",
-      "Manila, Philippines"
-    ],
-    [
       "Senior Tax Accountant",
-      "Not specified",
-      "Plano, Texas"
-    ],
-    [
-      "Associate CloudOps Engineer",
-      "Not specified",
-      "Manila, Philippines"
-    ],
-    [
-      "Sr. Software Engineer",
-      "Not specified",
-      "Plano, Texas"
-    ],
-    [
-      "GIS Services Specialist",
-      "Not specified",
-      "Latham, New York"
-    ],
-    [
-      "Account Manager",
-      "Not specified",
-      "Montgomery, Alabama"
-    ],
-    [
-      "Applications Administrator",
       "Not specified",
       "Plano, Texas"
     ],
@@ -43,32 +13,17 @@
       "Denver, Colorado"
     ],
     [
-      "Deployment Engineer (Linux)",
+      "Account Manager",
       "Not specified",
-      "Troy, Michigan"
+      "Montgomery, Alabama"
     ],
     [
-      "Sr. Director of Delivery",
-      "Not specified",
-      "Herndon, Virginia"
-    ],
-    [
-      "Revenue Specialist",
+      "CloudOps Engineer",
       "Not specified",
       "Manila, Philippines"
     ],
     [
-      "Technical Services Internship, Summer 2026",
-      "Not specified",
-      "Yarmouth, Maine"
-    ],
-    [
-      "Software Engineer",
-      "Not specified",
-      "Yarmouth, Maine"
-    ],
-    [
-      "Trade Show Logistics Coordinator",
+      "Sr. Software Engineer",
       "Not specified",
       "Plano, Texas"
     ],
@@ -78,9 +33,54 @@
       "Herndon, Virginia"
     ],
     [
-      "CloudOps Engineer",
+      "GIS Services Specialist",
+      "Not specified",
+      "Latham, New York"
+    ],
+    [
+      "Trade Show Logistics Coordinator",
+      "Not specified",
+      "Plano, Texas"
+    ],
+    [
+      "Revenue Specialist",
       "Not specified",
       "Manila, Philippines"
+    ],
+    [
+      "Software Engineer",
+      "Not specified",
+      "Yarmouth, Maine"
+    ],
+    [
+      "Associate CloudOps Engineer",
+      "Not specified",
+      "Manila, Philippines"
+    ],
+    [
+      "Applications Administrator",
+      "Not specified",
+      "Plano, Texas"
+    ],
+    [
+      "Deployment Engineer (Linux)",
+      "Not specified",
+      "Troy, Michigan"
+    ],
+    [
+      "Tax Accountant",
+      "Not specified",
+      "Manila, Philippines"
+    ],
+    [
+      "Technical Services Internship, Summer 2026",
+      "Not specified",
+      "Yarmouth, Maine"
+    ],
+    [
+      "Sr. Director of Delivery",
+      "Not specified",
+      "Herndon, Virginia"
     ]
   ]
 }
