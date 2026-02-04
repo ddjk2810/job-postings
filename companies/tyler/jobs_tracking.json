@@ -1,11 +1,21 @@
 {
-  "last_updated": "2026-02-03T07:03:27.884922",
-  "job_count": 16,
+  "last_updated": "2026-02-04T07:04:28.456386",
+  "job_count": 19,
   "jobs": [
     [
-      "Account Manager",
+      "Revenue Specialist",
       "Not specified",
-      "Montgomery, Alabama"
+      "Manila, Philippines"
+    ],
+    [
+      "Associate CloudOps Engineer",
+      "Not specified",
+      "Manila, Philippines"
+    ],
+    [
+      "Tax Accountant",
+      "Not specified",
+      "Manila, Philippines"
     ],
     [
       "Senior Tax Accountant",
@@ -13,7 +23,52 @@
       "Plano, Texas"
     ],
     [
-      "Applications Administrator",
+      "Director of Technology",
+      "Not specified",
+      "Denver, Colorado"
+    ],
+    [
+      "Client Success Tools Administrator",
+      "Not specified",
+      "Manila, Philippines"
+    ],
+    [
+      "Senior Software Engineer",
+      "Not specified",
+      "Herndon, Virginia"
+    ],
+    [
+      "Software Engineer",
+      "Not specified",
+      "Yarmouth, Maine"
+    ],
+    [
+      "Project Manager (Public Safety)",
+      "Not specified",
+      "Troy, Michigan"
+    ],
+    [
+      "GIS Services Specialist",
+      "Not specified",
+      "Latham, New York"
+    ],
+    [
+      "Sr. Director of Delivery",
+      "Not specified",
+      "Herndon, Virginia"
+    ],
+    [
+      "Technical Services Internship, Summer 2026",
+      "Not specified",
+      "Yarmouth, Maine"
+    ],
+    [
+      "Associate Project Manager (Public Safety)",
+      "Not specified",
+      "Troy, Michigan"
+    ],
+    [
+      "Sr. Software Engineer",
       "Not specified",
       "Plano, Texas"
     ],
@@ -23,64 +78,24 @@
       "Plano, Texas"
     ],
     [
-      "Associate CloudOps Engineer",
-      "Not specified",
-      "Manila, Philippines"
-    ],
-    [
-      "Director of Technology",
-      "Not specified",
-      "Denver, Colorado"
-    ],
-    [
-      "Senior Software Engineer",
-      "Not specified",
-      "Herndon, Virginia"
-    ],
-    [
-      "Deployment Engineer (Linux)",
-      "Not specified",
-      "Troy, Michigan"
-    ],
-    [
-      "Tax Accountant",
-      "Not specified",
-      "Manila, Philippines"
-    ],
-    [
-      "Sr. Director of Implementation",
-      "Not specified",
-      "Herndon, Virginia"
-    ],
-    [
-      "GIS Services Specialist",
-      "Not specified",
-      "Latham, New York"
-    ],
-    [
-      "Software Engineer",
-      "Not specified",
-      "Yarmouth, Maine"
-    ],
-    [
-      "Revenue Specialist",
-      "Not specified",
-      "Manila, Philippines"
-    ],
-    [
-      "Technical Services Internship, Summer 2026",
-      "Not specified",
-      "Yarmouth, Maine"
-    ],
-    [
-      "Sr. Software Engineer",
-      "Not specified",
-      "Plano, Texas"
-    ],
-    [
       "CloudOps Engineer",
       "Not specified",
       "Manila, Philippines"
+    ],
+    [
+      "Software Development Intern, Year-Round (January Start)",
+      "Not specified",
+      "Orono, Maine"
+    ],
+    [
+      "Account Manager",
+      "Not specified",
+      "Montgomery, Alabama"
+    ],
+    [
+      "Applications Administrator",
+      "Not specified",
+      "Plano, Texas"
     ]
   ]
 }

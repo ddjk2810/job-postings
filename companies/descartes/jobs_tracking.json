@@ -1,36 +1,11 @@
 {
-  "last_updated": "2026-02-03T07:03:27.061837",
-  "job_count": 23,
+  "last_updated": "2026-02-04T07:04:27.694707",
+  "job_count": 24,
   "jobs": [
-    [
-      "Technical Team Lead, JavaScript (Node.js, React)",
-      "Not specified",
-      "Sencur, SI, SI-4208"
-    ],
     [
       "Support Specialist",
       "Not specified",
       "US"
-    ],
-    [
-      "Technical Support Representative",
-      "Not specified",
-      "Montevideo, UY"
-    ],
-    [
-      "PR &amp; Marketing Communications Manager",
-      "Not specified",
-      "Amersfoort, NL, 10 3812 RK"
-    ],
-    [
-      "Senior Account Manager",
-      "Not specified",
-      "Rheinfelden, CH, 4310"
-    ],
-    [
-      "Account Executive LSP",
-      "Not specified",
-      "Malmo, SE, 211 20"
     ],
     [
       "Client Onboarding Specialist",
@@ -38,9 +13,9 @@
       "BG"
     ],
     [
-      "Business Development Representative",
+      "Customer Support Representative",
       "Not specified",
-      "US"
+      "Makati City, PH"
     ],
     [
       "Implementation Consultant",
@@ -48,34 +23,9 @@
       "US"
     ],
     [
-      "Technical Support Representative",
+      "PR &amp; Marketing Communications Manager",
       "Not specified",
-      "BG"
-    ],
-    [
-      "Expertise Centre Manager",
-      "Not specified",
-      "DE"
-    ],
-    [
-      "Financial Analyst",
-      "Not specified",
-      "Gurugram, HR, IN, 122018"
-    ],
-    [
-      "Senior Software Engineer- JavaScript (Node.js, React)",
-      "Not specified",
-      "Sencur, SI, SI-4208"
-    ],
-    [
-      "Customer Support Representative",
-      "Not specified",
-      "Makati City, PH"
-    ],
-    [
-      "Manager, Billing",
-      "Not specified",
-      "Waterloo, ON, N2V 1C6"
+      "Amersfoort, NL, 10 3812 RK"
     ],
     [
       "Software Test Engineer",
@@ -83,27 +33,17 @@
       "Zilina, SK, 010 01"
     ],
     [
-      "Technical Account Manager",
+      "Customer Support Representative",
       "Not specified",
-      "US"
+      "Zilina, SK, 010 01"
     ],
     [
-      "Senior Systems Engineer",
+      "Technical Architect",
       "Not specified",
-      "Namestovo, SK, 029 01 \u2022 Philippines, PH"
+      "Gurugram, HR, IN, 122018"
     ],
     [
-      "Director, Corporate Development",
-      "Not specified",
-      "Waterloo, ON, N2V 1C6"
-    ],
-    [
-      "Site Reliability Engineer",
-      "Not specified",
-      "BR"
-    ],
-    [
-      "Hyper-V and Storage Administrator",
+      "Manager, Billing",
       "Not specified",
       "Waterloo, ON, N2V 1C6"
     ],
@@ -113,9 +53,74 @@
       "DE"
     ],
     [
-      "Technical Architect",
+      "Senior Account Manager",
+      "Not specified",
+      "Rheinfelden, CH, 4310"
+    ],
+    [
+      "Expertise Centre Manager",
+      "Not specified",
+      "DE"
+    ],
+    [
+      "Director, Corporate Development",
+      "Not specified",
+      "Waterloo, ON, N2V 1C6"
+    ],
+    [
+      "Account Executive LSP",
+      "Not specified",
+      "Malmo, SE, 211 20"
+    ],
+    [
+      "Senior Software Engineer- JavaScript (Node.js, React)",
+      "Not specified",
+      "Sencur, SI, SI-4208"
+    ],
+    [
+      "Business Development Representative",
+      "Not specified",
+      "US"
+    ],
+    [
+      "Hyper-V and Storage Administrator",
+      "Not specified",
+      "Waterloo, ON, N2V 1C6"
+    ],
+    [
+      "Business Analyst",
+      "Not specified",
+      "UY"
+    ],
+    [
+      "Technical Team Lead, JavaScript (Node.js, React)",
+      "Not specified",
+      "Sencur, SI, SI-4208"
+    ],
+    [
+      "Senior Systems Engineer",
+      "Not specified",
+      "Namestovo, SK, 029 01 \u2022 Philippines, PH"
+    ],
+    [
+      "Financial Analyst",
       "Not specified",
       "Gurugram, HR, IN, 122018"
+    ],
+    [
+      "Site Reliability Engineer",
+      "Not specified",
+      "BR"
+    ],
+    [
+      "Technical Support Representative",
+      "Not specified",
+      "BG"
+    ],
+    [
+      "Technical Account Manager",
+      "Not specified",
+      "US"
     ]
   ]
 }
