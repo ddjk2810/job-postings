@@ -1,16 +1,11 @@
 {
-  "last_updated": "2026-02-04T07:04:28.456386",
-  "job_count": 19,
+  "last_updated": "2026-02-05T07:10:33.344875",
+  "job_count": 18,
   "jobs": [
     [
-      "Revenue Specialist",
+      "Senior Tax Accountant",
       "Not specified",
-      "Manila, Philippines"
-    ],
-    [
-      "Associate CloudOps Engineer",
-      "Not specified",
-      "Manila, Philippines"
+      "Plano, Texas"
     ],
     [
       "Tax Accountant",
@@ -18,34 +13,24 @@
       "Manila, Philippines"
     ],
     [
-      "Senior Tax Accountant",
+      "Applications Administrator",
       "Not specified",
       "Plano, Texas"
-    ],
-    [
-      "Director of Technology",
-      "Not specified",
-      "Denver, Colorado"
-    ],
-    [
-      "Client Success Tools Administrator",
-      "Not specified",
-      "Manila, Philippines"
-    ],
-    [
-      "Senior Software Engineer",
-      "Not specified",
-      "Herndon, Virginia"
-    ],
-    [
-      "Software Engineer",
-      "Not specified",
-      "Yarmouth, Maine"
     ],
     [
       "Project Manager (Public Safety)",
       "Not specified",
       "Troy, Michigan"
+    ],
+    [
+      "CloudOps Engineer",
+      "Not specified",
+      "Manila, Philippines"
+    ],
+    [
+      "Director of Technology",
+      "Not specified",
+      "Denver, Colorado"
     ],
     [
       "GIS Services Specialist",
@@ -63,11 +48,6 @@
       "Yarmouth, Maine"
     ],
     [
-      "Associate Project Manager (Public Safety)",
-      "Not specified",
-      "Troy, Michigan"
-    ],
-    [
       "Sr. Software Engineer",
       "Not specified",
       "Plano, Texas"
@@ -78,24 +58,39 @@
       "Plano, Texas"
     ],
     [
-      "CloudOps Engineer",
-      "Not specified",
-      "Manila, Philippines"
-    ],
-    [
-      "Software Development Intern, Year-Round (January Start)",
-      "Not specified",
-      "Orono, Maine"
-    ],
-    [
       "Account Manager",
       "Not specified",
       "Montgomery, Alabama"
     ],
     [
-      "Applications Administrator",
+      "Revenue Specialist",
       "Not specified",
-      "Plano, Texas"
+      "Manila, Philippines"
+    ],
+    [
+      "Software Engineer",
+      "Not specified",
+      "Yarmouth, Maine"
+    ],
+    [
+      "Associate Project Manager (Public Safety)",
+      "Not specified",
+      "Troy, Michigan"
+    ],
+    [
+      "Associate CloudOps Engineer",
+      "Not specified",
+      "Manila, Philippines"
+    ],
+    [
+      "Senior Software Engineer",
+      "Not specified",
+      "Herndon, Virginia"
+    ],
+    [
+      "Software Development Intern, Year-Round (January Start)",
+      "Not specified",
+      "Orono, Maine"
     ]
   ]
 }

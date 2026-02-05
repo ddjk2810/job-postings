@@ -1,74 +1,14 @@
 {
-  "last_updated": "2026-02-04T07:04:28.095154",
-  "job_count": 47,
+  "last_updated": "2026-02-05T07:10:32.997658",
+  "job_count": 48,
   "jobs": [
-    [
-      "Senior Field Marketing Manager (f/m/d)*",
-      "Not specified",
-      "London"
-    ],
     [
       "Enterprise Engagement Manager (f/m/d)*",
       "Not specified",
       "Berlin Office; Munich Office"
     ],
     [
-      "Enterprise Account Executive - Switzerland (f/m/d)*",
-      "Not specified",
-      "Remotely in Europe "
-    ],
-    [
-      "Engineering Manager - Site Reliability Engineering/DevEx (f/m/d)*",
-      "Not specified",
-      "Berlin Office"
-    ],
-    [
-      "Sr Enterprise Account Executive - Central U.S",
-      "Not specified",
-      "Remotely in the USA"
-    ],
-    [
-      "SAP Solution Architect \u2013 Finance & Subscription Systems (f/m/d)*",
-      "Not specified",
-      "Berlin Office"
-    ],
-    [
-      "Global Partnerships Manager - BPO",
-      "Not specified",
-      "New York Office"
-    ],
-    [
-      "Senior Forward Deployed Engineer (f/m/d)",
-      "Not specified",
-      "London"
-    ],
-    [
-      "Senior Salesforce Administrator",
-      "Not specified",
-      "New York Office"
-    ],
-    [
-      "Senior IS&T Governance Partner",
-      "Not specified",
-      "New York Office; Remotely in the USA"
-    ],
-    [
-      "Senior Value Consultant - West / Central U.S",
-      "Not specified",
-      "Remotely in the USA"
-    ],
-    [
-      "Sr Enterprise Account Executive - East U.S",
-      "Not specified",
-      "Remotely in the USA"
-    ],
-    [
-      "Team Lead Forward Deployed Engineering (f/m/d)",
-      "Not specified",
-      "Berlin Office"
-    ],
-    [
-      "Staff Product Designer - Consumer Experience (f/m/d)*",
+      "Sales Director - Enterprise DACH (f/m/d)*",
       "Not specified",
       "Berlin Office"
     ],
@@ -78,14 +18,14 @@
       "Remotely in Europe "
     ],
     [
-      "Business Development Executive - DACH (f/m/d)*",
+      "Technical Project Manager \u2013 Agentic AI Deployments",
       "Not specified",
-      "Berlin Office"
+      "New York Office"
     ],
     [
-      "Program Manager - Engineering Delivery Excellence (f/m/d)*",
+      "Global Partnerships Manager - BPO",
       "Not specified",
-      "Berlin Office"
+      "New York Office"
     ],
     [
       "Senior Forward Deployed Engineer - EMEA (f/m/d)",
@@ -93,84 +33,9 @@
       "Remotely in Europe "
     ],
     [
-      "(Senior) Partner Solution Engineer - DACH (f/m/d)*",
-      "Not specified",
-      "Berlin Office; Munich Office; Remotely in Germany"
-    ],
-    [
-      "Lead/Senior Solution Engineer (PreSales) Germany (f/m/d)*",
-      "Not specified",
-      "Berlin Office; Munich Office; Remotely in Germany"
-    ],
-    [
-      "Principal Software Engineer (f/m/d)*",
-      "Not specified",
-      "Berlin Office; Remotely in Europe ; Remotely in Germany"
-    ],
-    [
-      "Business Development Executive - Southern Europe (f/m/d)*",
-      "Not specified",
-      "London"
-    ],
-    [
-      "Sales Director - Enterprise DACH (f/m/d)*",
+      "Business Development Executive - DACH (f/m/d)*",
       "Not specified",
       "Berlin Office"
-    ],
-    [
-      "Lead Agent Architect (f/m/d)*",
-      "Not specified",
-      "Berlin Office; Munich Office; Remotely in Germany"
-    ],
-    [
-      "Senior Enterprise Engagement Manager (f/m/d)*",
-      "Not specified",
-      "Berlin Office; Munich Office; Remotely in Germany"
-    ],
-    [
-      "GSI Partnerships Manager -  (Conversational AI & Agentic AI)",
-      "Not specified",
-      "New York Office"
-    ],
-    [
-      "Senior/Lead Solution Engineer (PreSales) Spain (w/m/d)*",
-      "Not specified",
-      "Remotely in Europe "
-    ],
-    [
-      "Working Student GSI & BPO Partnerships (f/m/d)*",
-      "Not specified",
-      "Berlin Office"
-    ],
-    [
-      "Lead AI Agent Architect (f/m/d)*",
-      "Not specified",
-      "New York Office"
-    ],
-    [
-      "Senior Agent Architect (f/m/d)*",
-      "Not specified",
-      "Berlin Office; Munich Office; Remotely in Germany"
-    ],
-    [
-      "Senior Field Marketing Manager ",
-      "Not specified",
-      "New York Office"
-    ],
-    [
-      "Senior Forward Deployed Engineer (f/m/d)",
-      "Not specified",
-      "Remotely in Germany"
-    ],
-    [
-      "Senior Instructional Designer (f/m/d)*",
-      "Not specified",
-      "Berlin Office; Munich Office; Remotely in Germany"
-    ],
-    [
-      "Partnerships Manager - UKI and Northern Europe",
-      "Not specified",
-      "London"
     ],
     [
       "Senior/Lead Solution Engineer (PreSales) UK (w/m/d)*",
@@ -178,9 +43,44 @@
       "Dublin; London"
     ],
     [
-      "Engineering Manager - Product Engineering (f/m/d)*",
+      "Staff Product Designer - Consumer Experience (f/m/d)*",
       "Not specified",
-      "Berlin Office; Remotely in Germany"
+      "Berlin Office"
+    ],
+    [
+      "Team Lead Forward Deployed Engineering (f/m/d)",
+      "Not specified",
+      "Berlin Office"
+    ],
+    [
+      "Engineering Manager - Site Reliability Engineering/DevEx (f/m/d)*",
+      "Not specified",
+      "Berlin Office"
+    ],
+    [
+      "Business Development Executive - Southern Europe (f/m/d)*",
+      "Not specified",
+      "London"
+    ],
+    [
+      "RVP - North America",
+      "Not specified",
+      "Remotely in the USA"
+    ],
+    [
+      "Senior Enterprise Engagement Manager (f/m/d)*",
+      "Not specified",
+      "Berlin Office; Munich Office; Remotely in Germany"
+    ],
+    [
+      "Senior Forward Deployed Engineer - US",
+      "Not specified",
+      "New York Office; Remotely in the USA"
+    ],
+    [
+      "(Senior) Partner Solution Engineer - DACH (f/m/d)*",
+      "Not specified",
+      "Berlin Office; Munich Office; Remotely in Germany"
     ],
     [
       "Forward Deployed Engineer, DevOps",
@@ -188,12 +88,137 @@
       "New York Office"
     ],
     [
-      "Business Development Executive - Southern Europe (f/m/d)*",
+      "Senior/Lead Solution Engineer (PreSales) France (w/m/d)*",
       "Not specified",
       "Remotely in Europe "
     ],
     [
+      "Engineering Manager - Product Engineering (f/m/d)*",
+      "Not specified",
+      "Berlin Office; Remotely in Germany"
+    ],
+    [
+      "Enterprise Account Executive - Switzerland (f/m/d)*",
+      "Not specified",
+      "Remotely in Europe "
+    ],
+    [
+      "Senior Field Marketing Manager (f/m/d)*",
+      "Not specified",
+      "London"
+    ],
+    [
+      "Sr Enterprise Account Executive - Central U.S",
+      "Not specified",
+      "Remotely in the USA"
+    ],
+    [
+      "Program Manager - Engineering Delivery Excellence (f/m/d)*",
+      "Not specified",
+      "Berlin Office"
+    ],
+    [
+      "Lead Solutions Engineer - West / Central U.S",
+      "Not specified",
+      "Remotely in the USA"
+    ],
+    [
+      "Senior Forward Deployed Engineer (f/m/d)",
+      "Not specified",
+      "London"
+    ],
+    [
+      "Senior Forward Deployed Engineer (f/m/d)",
+      "Not specified",
+      "Remotely in Germany"
+    ],
+    [
+      "Documentation Specialist (f/m/d)*",
+      "Not specified",
+      "Berlin Office"
+    ],
+    [
+      "Senior Field Marketing Manager ",
+      "Not specified",
+      "New York Office"
+    ],
+    [
+      "Senior Salesforce Administrator",
+      "Not specified",
+      "New York Office"
+    ],
+    [
+      "Lead/Senior Solution Engineer (PreSales) Switzerland (f/m/d)*",
+      "Not specified",
+      "Remotely in Europe "
+    ],
+    [
+      "Partnerships Manager - UKI and Northern Europe",
+      "Not specified",
+      "London"
+    ],
+    [
+      "Lead Agent Architect (f/m/d)*",
+      "Not specified",
+      "Berlin Office; Munich Office; Remotely in Germany"
+    ],
+    [
+      "Senior/Lead Solution Engineer (PreSales) Spain (w/m/d)*",
+      "Not specified",
+      "Remotely in Europe "
+    ],
+    [
+      "Senior Instructional Designer (f/m/d)*",
+      "Not specified",
+      "Berlin Office; Munich Office; Remotely in Germany"
+    ],
+    [
+      "Lead AI Agent Architect (f/m/d)*",
+      "Not specified",
+      "New York Office"
+    ],
+    [
+      "Senior Value Consultant - West / Central U.S",
+      "Not specified",
+      "Remotely in the USA"
+    ],
+    [
+      "Lead/Senior Solution Engineer (PreSales) Germany (f/m/d)*",
+      "Not specified",
+      "Berlin Office; Munich Office; Remotely in Germany"
+    ],
+    [
+      "Senior IS&T Governance Partner",
+      "Not specified",
+      "New York Office; Remotely in the USA"
+    ],
+    [
       "Staff Product Designer - Expert Experience (f/m/d)*",
+      "Not specified",
+      "Berlin Office"
+    ],
+    [
+      "Senior Agent Architect (f/m/d)*",
+      "Not specified",
+      "Berlin Office; Munich Office; Remotely in Germany"
+    ],
+    [
+      "Sr Enterprise Account Executive - East U.S",
+      "Not specified",
+      "Remotely in the USA"
+    ],
+    [
+      "Working Student GSI & BPO Partnerships (f/m/d)*",
+      "Not specified",
+      "Berlin Office"
+    ],
+    [
+      "Principal Software Engineer (f/m/d)*",
+      "Not specified",
+      "Berlin Office; Remotely in Europe ; Remotely in Germany"
+    ],
+    [
+      "SAP Solution Architect \u2013 Finance & Subscription Systems (f/m/d)*",
       "Not specified",
       "Berlin Office"
     ],
@@ -203,39 +228,19 @@
       "Berlin Office"
     ],
     [
-      "Senior Forward Deployed Engineer - US",
+      "GSI Partnerships Manager -  (Conversational AI & Agentic AI)",
       "Not specified",
-      "New York Office; Remotely in the USA"
+      "New York Office"
+    ],
+    [
+      "Business Development Executive - Southern Europe (f/m/d)*",
+      "Not specified",
+      "Remotely in Europe "
     ],
     [
       "Sr Enterprise Account Executive - West U.S",
       "Not specified",
       "Remotely in the USA"
-    ],
-    [
-      "Lead/Senior Solution Engineer (PreSales) Switzerland (f/m/d)*",
-      "Not specified",
-      "Remotely in Europe "
-    ],
-    [
-      "Lead Solutions Engineer - West / Central U.S",
-      "Not specified",
-      "Remotely in the USA"
-    ],
-    [
-      "Senior/Lead Solution Engineer (PreSales) France (w/m/d)*",
-      "Not specified",
-      "Remotely in Europe "
-    ],
-    [
-      "Documentation Specialist (f/m/d)*",
-      "Not specified",
-      "Berlin Office"
-    ],
-    [
-      "Technical Project Manager \u2013 Agentic AI Deployments",
-      "Not specified",
-      "New York Office"
     ]
   ]
 }

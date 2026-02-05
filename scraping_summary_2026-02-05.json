@@ -1,0 +1,348 @@
+{
+  "date": "2026-02-05",
+  "timestamp": "2026-02-05T07:10:31.912566",
+  "total_companies": 47,
+  "successful": 38,
+  "failed": 9,
+  "total_jobs": 2831,
+  "results": [
+    {
+      "success": true,
+      "company": "Veeva",
+      "slug": "veeva",
+      "job_count": 1000,
+      "csv_path": "companies/veeva/veeva_jobs_2026-02-05.csv"
+    },
+    {
+      "success": false,
+      "company": "HubSpot",
+      "slug": "hubspot",
+      "job_count": 0,
+      "csv_path": null,
+      "error": "No jobs found"
+    },
+    {
+      "success": false,
+      "company": "Salesforce",
+      "slug": "salesforce",
+      "job_count": 0,
+      "csv_path": null,
+      "error": "No jobs found"
+    },
+    {
+      "success": true,
+      "company": "Kinaxis",
+      "slug": "kinaxis",
+      "job_count": 48,
+      "csv_path": "companies/kinaxis/kinaxis_jobs_2026-02-05.csv"
+    },
+    {
+      "success": false,
+      "company": "ServiceNow",
+      "slug": "servicenow",
+      "job_count": 0,
+      "csv_path": null,
+      "error": "No jobs found"
+    },
+    {
+      "success": false,
+      "company": "Ensono",
+      "slug": "ensono",
+      "job_count": 0,
+      "csv_path": null,
+      "error": "No jobs found"
+    },
+    {
+      "success": true,
+      "company": "Workday",
+      "slug": "workday",
+      "job_count": 40,
+      "csv_path": "companies/workday/workday_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "Autodesk",
+      "slug": "autodesk",
+      "job_count": 40,
+      "csv_path": "companies/autodesk/autodesk_jobs_2026-02-05.csv"
+    },
+    {
+      "success": false,
+      "company": "Bentley",
+      "slug": "bentley",
+      "job_count": 0,
+      "csv_path": null,
+      "error": "No jobs found"
+    },
+    {
+      "success": false,
+      "company": "Nemetschek",
+      "slug": "nemetschek",
+      "job_count": 0,
+      "csv_path": null,
+      "error": "No jobs found"
+    },
+    {
+      "success": true,
+      "company": "Procore",
+      "slug": "procore",
+      "job_count": 162,
+      "csv_path": "companies/procore/procore_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "Alkami",
+      "slug": "alkami",
+      "job_count": 40,
+      "csv_path": "companies/alkami/alkami_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "nCino",
+      "slug": "ncino",
+      "job_count": 40,
+      "csv_path": "companies/ncino/ncino_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "Dassault Systemes (3DS)",
+      "slug": "3ds",
+      "job_count": 15,
+      "csv_path": "companies/3ds/3ds_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "Guidewire",
+      "slug": "guidewire",
+      "job_count": 40,
+      "csv_path": "companies/guidewire/guidewire_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "Manhattan Associates",
+      "slug": "manhattan",
+      "job_count": 39,
+      "csv_path": "companies/manhattan/manhattan_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "SPS Commerce",
+      "slug": "spscommerce",
+      "job_count": 53,
+      "csv_path": "companies/spscommerce/spscommerce_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "Descartes",
+      "slug": "descartes",
+      "job_count": 25,
+      "csv_path": "companies/descartes/descartes_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "Vertex",
+      "slug": "vertex",
+      "job_count": 22,
+      "csv_path": "companies/vertex/vertex_jobs_2026-02-05.csv"
+    },
+    {
+      "success": false,
+      "company": "BlackLine",
+      "slug": "blackline",
+      "job_count": 0,
+      "csv_path": null,
+      "error": "No jobs found"
+    },
+    {
+      "success": true,
+      "company": "Q2",
+      "slug": "q2",
+      "job_count": 40,
+      "csv_path": "companies/q2/q2_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "CCC Intelligent Solutions",
+      "slug": "ccc",
+      "job_count": 40,
+      "csv_path": "companies/ccc/ccc_jobs_2026-02-05.csv"
+    },
+    {
+      "success": false,
+      "company": "Shopify",
+      "slug": "shopify",
+      "job_count": 0,
+      "csv_path": null,
+      "error": "No jobs found"
+    },
+    {
+      "success": true,
+      "company": "Bill.com",
+      "slug": "bill",
+      "job_count": 70,
+      "csv_path": "companies/bill/bill_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "Workiva",
+      "slug": "workiva",
+      "job_count": 40,
+      "csv_path": "companies/workiva/workiva_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "AppFolio",
+      "slug": "appfolio",
+      "job_count": 46,
+      "csv_path": "companies/appfolio/appfolio_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "Certara",
+      "slug": "certara",
+      "job_count": 13,
+      "csv_path": "companies/certara/certara_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "Altus Group",
+      "slug": "altus",
+      "job_count": 20,
+      "csv_path": "companies/altus/altus_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "Toast",
+      "slug": "toast",
+      "job_count": 262,
+      "csv_path": "companies/toast/toast_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "Tyler Technologies",
+      "slug": "tyler",
+      "job_count": 18,
+      "csv_path": "companies/tyler/tyler_jobs_2026-02-05.csv"
+    },
+    {
+      "success": false,
+      "company": "Axon",
+      "slug": "axon",
+      "job_count": 0,
+      "csv_path": null,
+      "error": "No jobs found"
+    },
+    {
+      "success": true,
+      "company": "Corpay",
+      "slug": "corpay",
+      "job_count": 40,
+      "csv_path": "companies/corpay/corpay_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "Corpay (Dayforce)",
+      "slug": "corpay-dayforce",
+      "job_count": 25,
+      "csv_path": "companies/corpay-dayforce/corpay-dayforce_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "ServiceTitan",
+      "slug": "servicetitan",
+      "job_count": 18,
+      "csv_path": "companies/servicetitan/servicetitan_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "Lumin Digital",
+      "slug": "lumindigital",
+      "job_count": 11,
+      "csv_path": "companies/lumindigital/lumindigital_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "Entrata",
+      "slug": "entrata",
+      "job_count": 34,
+      "csv_path": "companies/entrata/entrata_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "Blend",
+      "slug": "blend",
+      "job_count": 7,
+      "csv_path": "companies/blend/blend_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "Parloa",
+      "slug": "parloa",
+      "job_count": 48,
+      "csv_path": "companies/parloa/parloa_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "o9 Solutions",
+      "slug": "o9solutions",
+      "job_count": 30,
+      "csv_path": "companies/o9solutions/o9solutions_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "Blue Yonder",
+      "slug": "blueyonder",
+      "job_count": 40,
+      "csv_path": "companies/blueyonder/blueyonder_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "EliseAI",
+      "slug": "eliseai",
+      "job_count": 108,
+      "csv_path": "companies/eliseai/eliseai_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "Sierra AI",
+      "slug": "sierra",
+      "job_count": 128,
+      "csv_path": "companies/sierra/sierra_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "Decagon AI",
+      "slug": "decagon",
+      "job_count": 66,
+      "csv_path": "companies/decagon/decagon_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "RealPage",
+      "slug": "realpage",
+      "job_count": 50,
+      "csv_path": "companies/realpage/realpage_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "Serval",
+      "slug": "serval",
+      "job_count": 23,
+      "csv_path": "companies/serval/serval_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "Bilt Rewards",
+      "slug": "bilt",
+      "job_count": 14,
+      "csv_path": "companies/bilt/bilt_jobs_2026-02-05.csv"
+    },
+    {
+      "success": true,
+      "company": "Yardi",
+      "slug": "yardi",
+      "job_count": 76,
+      "csv_path": "companies/yardi/yardi_jobs_2026-02-05.csv"
+    }
+  ]
+}
