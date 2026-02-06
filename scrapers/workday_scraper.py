@@ -45,6 +45,7 @@ class WorkdayScraper(BaseScraper):
         offset = 0
         limit = 20
         total_fetched = 0
+        total_jobs = None
 
         while True:
             # Workday API typically uses POST with JSON payload
@@ -126,7 +127,10 @@ class WorkdayScraper(BaseScraper):
                     continue
 
             # Check if there are more pages
-            total_jobs = data.get('total', 0)
+            # Only set total_jobs from the first response (subsequent pages may return 0)
+            page_total = data.get('total', 0)
+            if total_jobs is None and page_total > 0:
+                total_jobs = page_total
             self.log(f"Fetched {total_fetched}/{total_jobs} jobs")
 
             if total_fetched >= total_jobs:

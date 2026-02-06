@@ -73,7 +73,8 @@
       "WebFetch(domain:careers.yardi.com)",
       "WebFetch(domain:www.serval.com)",
       "WebFetch(domain:jobs.gem.com)",
-      "WebFetch(domain:api.gem.com)"
+      "WebFetch(domain:api.gem.com)",
+      "Bash(git rebase:*)"
     ]
   }
 }
