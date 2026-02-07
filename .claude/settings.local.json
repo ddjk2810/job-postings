@@ -74,7 +74,16 @@
       "WebFetch(domain:www.serval.com)",
       "WebFetch(domain:jobs.gem.com)",
       "WebFetch(domain:api.gem.com)",
-      "Bash(git rebase:*)"
+      "WebFetch(domain:jobs.descartes.com)",
+      "WebFetch(domain:api.smartrecruiters.com)",
+      "WebFetch(domain:boards.greenhouse.io)",
+      "WebFetch(domain:apply.workable.com)",
+      "WebFetch(domain:api.greenhouse.io)",
+      "WebFetch(domain:simulations-plus.bamboohr.com)",
+      "WebFetch(domain:builtin.com)",
+      "Bash(wc:*)",
+      "Bash(git pull:*)",
+      "Bash(git stash:*)"
     ]
   }
 }
