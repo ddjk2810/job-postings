@@ -1,77 +1,12 @@
 {
-  "last_updated": "2026-02-07T15:02:57.481153",
+  "last_updated": "2026-02-07T20:19:49.422901",
   "job_count": 34,
   "active_count": 34,
   "jobs": [
     [
-      "Customer Service Representative",
-      "Technical Support",
-      "Logan, UT"
-    ],
-    [
-      "Head - Service Operations",
-      "Product Management",
+      "Talent Sourcer",
+      "Talent Acquisition",
       "Pune, India"
-    ],
-    [
-      "Product Owner",
-      "Product Management",
-      "Pune, India"
-    ],
-    [
-      "Regional Vice President of Sales, Central Region",
-      "Sales",
-      "Dallas, TX"
-    ],
-    [
-      "Admin & Facilities Partner",
-      "People",
-      "Pune, India"
-    ],
-    [
-      "Talent Partner - Volume Hiring (CTH- 6 months)",
-      "People",
-      "Pune, India"
-    ],
-    [
-      "Team Lead, India Contact Center",
-      "Leasing Center",
-      "Pune, India"
-    ],
-    [
-      "Invoice Acquisition Specialist",
-      "Utilities",
-      "Pune, India"
-    ],
-    [
-      "Associate Digital Marketing Consultant",
-      "Digital Marketing",
-      "Pune, India"
-    ],
-    [
-      "Head of Analytics",
-      "Software Development",
-      "Pune, India"
-    ],
-    [
-      "Industry Principal, Insurance",
-      "Sales",
-      "Lehi, Utah"
-    ],
-    [
-      "Customer Service Representative (Insurance)",
-      "Resident Insure",
-      "Lehi, Utah"
-    ],
-    [
-      "Product Education Manager",
-      "Product Training",
-      "United States"
-    ],
-    [
-      "Instructional Designer",
-      "Product Training",
-      "Lehi, Utah"
     ],
     [
       "Accounting Lead Technical Support Engineer",
@@ -79,63 +14,13 @@
       "Lehi, Utah"
     ],
     [
-      "Senior Product Manager, Accounting Suite",
+      "Associate Digital Marketing Consultant",
+      "Digital Marketing",
+      "Pune, India"
+    ],
+    [
+      "Head - Service Operations",
       "Product Management",
-      "Lehi, Utah"
-    ],
-    [
-      "Business Development Representative",
-      "Business Development",
-      "Lehi, Utah"
-    ],
-    [
-      "Insurance Sales Agent",
-      "Resident Insure",
-      "Lehi, Utah"
-    ],
-    [
-      "Equity Plan Administrator",
-      "FP&A",
-      "Lehi, Utah"
-    ],
-    [
-      "Customer Success Manager",
-      "Customer Success",
-      "Lehi, Utah"
-    ],
-    [
-      "Utility Auditor",
-      "Utilities",
-      "United States"
-    ],
-    [
-      "Regional Vice President of Sales, East Region (IC-Enterprise)",
-      "Sales",
-      "Illinois"
-    ],
-    [
-      "Director of Product, AI Automations",
-      "Product Management",
-      "Lehi, Utah"
-    ],
-    [
-      "Regional Vice President of Sales (IC)",
-      "Sales",
-      "Lehi, Utah"
-    ],
-    [
-      "Senior Machine Learning Engineer",
-      "Software Development",
-      "Lehi, Utah"
-    ],
-    [
-      "Senior Accountant",
-      "Accounting",
-      "Lehi, Utah"
-    ],
-    [
-      "Talent Partner (CTH- 6 months)",
-      "People",
       "Pune, India"
     ],
     [
@@ -144,14 +29,44 @@
       "Pune, India"
     ],
     [
-      "Contact Center Professional",
-      "Leasing Center",
+      "Business Development Representative",
+      "Business Development",
+      "Lehi, Utah"
+    ],
+    [
+      "Talent Partner (CTH- 6 months)",
+      "People",
       "Pune, India"
     ],
     [
-      "Key Account Support Engineer",
-      "Technical Support",
+      "Utility Auditor",
+      "Utilities",
       "United States"
+    ],
+    [
+      "Regional Vice President of Sales (IC)",
+      "Sales",
+      "Lehi, Utah"
+    ],
+    [
+      "Talent Partner - Volume Hiring (CTH- 6 months)",
+      "People",
+      "Pune, India"
+    ],
+    [
+      "Product Owner",
+      "Product Management",
+      "Pune, India"
+    ],
+    [
+      "Product Education Manager",
+      "Product Training",
+      "United States"
+    ],
+    [
+      "Equity Plan Administrator",
+      "FP&A",
+      "Lehi, Utah"
     ],
     [
       "Senior AI Software Engineer",
@@ -164,14 +79,99 @@
       "Tel Aviv, Israel"
     ],
     [
+      "Team Lead, India Contact Center",
+      "Leasing Center",
+      "Pune, India"
+    ],
+    [
+      "Contact Center Professional",
+      "Leasing Center",
+      "Pune, India"
+    ],
+    [
+      "Insurance Sales Agent",
+      "Resident Insure",
+      "Lehi, Utah"
+    ],
+    [
+      "Head of Analytics",
+      "Software Development",
+      "Pune, India"
+    ],
+    [
+      "Customer Success Manager",
+      "Customer Success",
+      "Lehi, Utah"
+    ],
+    [
+      "Regional Vice President of Sales, East Region (IC-Enterprise)",
+      "Sales",
+      "Illinois"
+    ],
+    [
+      "Senior Product Manager, Accounting Suite",
+      "Product Management",
+      "Lehi, Utah"
+    ],
+    [
+      "Instructional Designer",
+      "Product Training",
+      "Lehi, Utah"
+    ],
+    [
+      "Customer Service Representative",
+      "Technical Support",
+      "Logan, UT"
+    ],
+    [
+      "Regional Vice President of Sales, Central Region",
+      "Sales",
+      "Dallas, TX"
+    ],
+    [
+      "Senior Machine Learning Engineer",
+      "Software Development",
+      "Lehi, Utah"
+    ],
+    [
       "Graphic Design Intern",
       "Creative",
       "Lehi, Utah"
     ],
     [
-      "Talent Sourcer",
-      "Talent Acquisition",
+      "Industry Principal, Insurance",
+      "Sales",
+      "Lehi, Utah"
+    ],
+    [
+      "Senior Accountant",
+      "Accounting",
+      "Lehi, Utah"
+    ],
+    [
+      "Customer Service Representative (Insurance)",
+      "Resident Insure",
+      "Lehi, Utah"
+    ],
+    [
+      "Admin & Facilities Partner",
+      "People",
       "Pune, India"
+    ],
+    [
+      "Invoice Acquisition Specialist",
+      "Utilities",
+      "Pune, India"
+    ],
+    [
+      "Director of Product, AI Automations",
+      "Product Management",
+      "Lehi, Utah"
+    ],
+    [
+      "Key Account Support Engineer",
+      "Technical Support",
+      "United States"
     ]
   ]
 }

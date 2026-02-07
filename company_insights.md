@@ -1,80 +1,64 @@
 
-## Company Hiring Priorities (2026-01-26 -> 2026-02-07)
+## Company Hiring Priorities (2026-02-06 -> 2026-02-07)
 
 One-sentence summary of what each company appears to be prioritizing based on new job postings:
 
-**Autodesk** (40->604, +564 net): building out **senior software** (41 related roles), with expansion into India.
+**Autodesk** (40->604, +564 net): building out **senior software** (39 related roles), with expansion into India.
 
-**Workday** (40->399, +359 net): building out **account executive** (46 related roles), with expansion into Europe.
+**Workday** (40->399, +359 net): building out **account executive** (38 related roles), with expansion into Europe.
 
-**Guidewire** (40->215, +175 net): building out **software engineer** (12 related roles), with expansion into India.
+**Guidewire** (40->215, +175 net): building out **software engineer** (18 related roles), with expansion into India.
 
-**Blue Yonder** (40->161, +121 net): building out **java** (15 related roles), with expansion into India.
+**Blue Yonder** (40->161, +121 net): building out **java** (11 related roles), with expansion into India.
 
-**Toast** (253->254, +1 net): investing in **territory account** (44 related roles), with expansion into India.
+**Workiva** (40->102, +62 net): building out **account executive** (9 related roles), with expansion into Europe.
 
-**Veeva** (989->998, +9 net): building out **senior product** (8 related roles), with expansion into Apac.
+**Q2** (40->97, +57 net): building out **summer internship** (5 related roles), with expansion into India.
 
-**Procore** (119->163, +44 net): building out **datagrid** (11 related roles), with expansion into Middle-East.
+**Corpay** (40->56, +16 net): expanding in **Apac** (5 roles), with emphasis on outbound sales.
 
-**Workiva** (40->102, +62 net): building out **account executive** (7 related roles), with expansion into Europe.
+**Toast** (261->254, -7 net): investing in **territory account** (8 related roles), with expansion into Latin-America.
 
-**Q2** (40->97, +57 net): building out **product owner** (5 related roles), with expansion into India.
+**nCino** (40->50, +10 net): primarily hiring in **sales** (5 roles), with growth in Europe.
 
-**Corpay** (40->56, +16 net): primarily hiring in **mixed functions** (8 roles), with growth in India.
+**ServiceTitan** (17->15, -2 net): primarily hiring in **engineering** (3 roles).
 
-**RealPage** (49->50, +1 net): investing in **solution consultant** (4 related roles), plus consulting/services hires.
+**Dassault Systemes (3DS)** (15->15, +0 net): adding 6 new roles across multiple functions.
 
-**Kinaxis** (49->48, -1 net): investing in **developer** (4 related roles), with expansion into India.
+**Sierra AI** (129->133, +4 net): primarily hiring in **engineering** (3 roles), with emphasis on developer relations.
 
-**Decagon AI** (63->76, +13 net): building out **agent development** (4 related roles), plus sales hires.
+**CCC Intelligent Solutions** (40->42, +2 net): heavily focused on **mixed functions** (4/5 new roles), with emphasis on vehicle inventory.
 
-**Bill.com** (75->70, -5 net): investing in **account executive** (4 related roles), plus mixed functions hires.
+**Veeva** (999->998, -1 net): heavily focused on **mixed functions** (3/5 new roles), with emphasis on senior director.
 
-**Corpay (Dayforce)** (25->25, +0 net): heavily focused on **mixed functions** (12/19 new roles), with emphasis on crew accommodations.
+**Bill.com** (68->70, +2 net): adding 4 new roles across multiple functions.
 
-**Tyler Technologies** (11->27, +16 net): expanding in **Philippines** (6 roles).
+**Kinaxis** (48->48, +0 net): heavily focused on **mixed functions** (3/4 new roles).
 
-**Alkami** (29->44, +15 net): building out **mantl** (6 related roles), with expansion into India.
+**Alkami** (40->44, +4 net): heavily focused on **engineering** (3/3 new roles).
 
-**nCino** (40->50, +10 net): primarily hiring in **sales** (7 roles), with emphasis on senior software.
+**Corpay (Dayforce)** (25->25, +0 net): adding 3 new roles across multiple functions.
 
-**Descartes** (25->25, +0 net): primarily hiring in **mixed functions** (5 roles).
+**Parloa** (49->51, +2 net): adding 3 new roles across multiple functions.
 
-**Parloa** (40->51, +11 net): expanding in **Europe** (8 roles), with emphasis on sr enterprise.
+**AppFolio** (46->47, +1 net): adding 2 new roles across multiple functions.
 
-**Dassault Systemes (3DS)** (15->15, +0 net): primarily hiring in **mixed functions** (5 roles).
+**Certara** (12->12, +0 net): adding 2 new roles across multiple functions.
 
-**AppFolio** (39->47, +8 net): primarily hiring in **mixed functions** (3 roles).
+**EliseAI** (106->108, +2 net): adding 2 new roles across multiple functions.
 
-**CCC Intelligent Solutions** (36->42, +6 net): building a **Summer 2026 intern class** (5 intern roles).
+**Tyler Technologies** (26->27, +1 net): adding 2 new roles across multiple functions.
 
-**EliseAI** (110->107, -3 net): investing in **housing** (6 related roles), plus operations hires.
+**Bilt Rewards** (15->16, +1 net): adding 1 new roles across multiple functions.
 
-**Entrata** (32->34, +2 net): primarily hiring in **customer success** (3 roles), with growth in India.
+**Blend** (7->8, +1 net): adding 1 new roles across multiple functions.
 
-**Sierra AI** (125->133, +8 net): primarily hiring in **engineering** (5 roles), with emphasis on developer relations.
+**Decagon AI** (74->76, +2 net): adding 1 new roles across multiple functions.
 
-**Yardi** (56->72, +16 net): primarily hiring in **mixed functions** (4 roles).
+**Descartes** (25->25, +0 net): adding 1 new roles across multiple functions.
 
-**Serval** (16->23, +7 net): building out **senior software** (4 related roles), plus marketing hires.
+**Procore** (166->163, -3 net): adding 1 new roles across multiple functions.
 
-**ServiceTitan** (18->15, -3 net): primarily hiring in **sales** (3 roles).
+**RealPage** (50->50, +0 net): adding 1 new roles across multiple functions.
 
-**o9 Solutions** (23->31, +8 net): primarily hiring in **mixed functions** (4 roles), with growth in Latin-America.
-
-**SPS Commerce** (58->50, -8 net): primarily hiring in **sales** (3 roles).
-
-**Certara** (13->12, -1 net): primarily hiring in **mixed functions** (3 roles).
-
-**Vertex** (25->23, -2 net): adding 6 new roles across multiple functions.
-
-**Lumin Digital** (7->11, +4 net): heavily focused on **product** (3/5 new roles), with emphasis on product manager.
-
-**Altus Group** (25->20, -5 net): adding 4 new roles across multiple functions.
-
-**Bilt Rewards** (16->16, +0 net): heavily focused on **engineering** (3/4 new roles).
-
-**Blend** (13->8, -5 net): adding 4 new roles across multiple functions.
-
-**Manhattan Associates** (39->38, -1 net): adding 4 new roles across multiple functions.
+**Vertex** (24->23, -1 net): adding 1 new roles across multiple functions.

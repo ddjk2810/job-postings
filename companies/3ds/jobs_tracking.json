@@ -1,62 +1,17 @@
 {
-  "last_updated": "2026-02-07T15:02:55.990653",
+  "last_updated": "2026-02-07T20:19:48.648645",
   "job_count": 15,
   "active_count": 15,
   "jobs": [
-    [
-      "Regional Account Manager (eClinical Solution Sales)",
-      "SALES",
-      "Korea, Republic of, 11, Seoul"
-    ],
-    [
-      "Partner Sales Manager- North Region",
-      "SALES",
-      "China, BJ, Beijing"
-    ],
     [
       "Solution Sales Specialist, Study Experiences",
       "SALES",
       "Japan, 13, Tokyo"
     ],
     [
-      "STAGE \u2013 Chef de Projet et Transformation (F/H)",
-      "FINANCE",
-      "France, V\u00e9lizy-Villacoublay"
-    ],
-    [
-      "Data Center Arista LAN Specialist",
-      "INFORMATION TECHNOLOGY",
-      "India, MH, Pune"
-    ],
-    [
-      "Senior Business Development Specialist",
-      "SALES",
-      "United Kingdom, London"
-    ],
-    [
-      "Staff Accountant (New York City)",
-      "FINANCE",
-      "United States, NY, New York"
-    ],
-    [
       "Solution Sales Specialist, CTMS / eTMF",
       "SALES",
       "United States, CA, San Diego"
-    ],
-    [
-      "Solution Architect",
-      "SERVICES",
-      "Brazil, SP, Sao Paulo"
-    ],
-    [
-      "Solution Consultant \u2013 PLM",
-      "SERVICES",
-      "Brazil, SP, Sao Paulo"
-    ],
-    [
-      "Senior Technical Product Manager (Remote or Hybrid NY/NJ)",
-      "RESEARCH & DEVELOPMENT",
-      "United States, NY, New York"
     ],
     [
       "Electromagnetics Software Testing - Summer Internship",
@@ -69,14 +24,59 @@
       "United States, NY, New York"
     ],
     [
-      "Ing\u00e9nieur d\u00e9veloppement Kubernetes (F/H)",
-      "RESEARCH & DEVELOPMENT",
-      "France, V\u00e9lizy-Villacoublay"
+      "Solution Consultant \u2013 PLM",
+      "SERVICES",
+      "Brazil, SP, Sao Paulo"
+    ],
+    [
+      "Staff Accountant (New York City)",
+      "FINANCE",
+      "United States, NY, New York"
     ],
     [
       "Technologies R&D Intern - 2",
       "RESEARCH & DEVELOPMENT",
       "India, MH, Pune"
+    ],
+    [
+      "Regional Account Manager (eClinical Solution Sales)",
+      "SALES",
+      "Korea, Republic of, 11, Seoul"
+    ],
+    [
+      "Ing\u00e9nieur d\u00e9veloppement Kubernetes (F/H)",
+      "RESEARCH & DEVELOPMENT",
+      "France, V\u00e9lizy-Villacoublay"
+    ],
+    [
+      "Partner Sales Manager- North Region",
+      "SALES",
+      "China, BJ, Beijing"
+    ],
+    [
+      "Data Center Arista LAN Specialist",
+      "INFORMATION TECHNOLOGY",
+      "India, MH, Pune"
+    ],
+    [
+      "Senior Technical Product Manager (Remote or Hybrid NY/NJ)",
+      "RESEARCH & DEVELOPMENT",
+      "United States, NY, New York"
+    ],
+    [
+      "STAGE \u2013 Chef de Projet et Transformation (F/H)",
+      "FINANCE",
+      "France, V\u00e9lizy-Villacoublay"
+    ],
+    [
+      "Senior Business Development Specialist",
+      "SALES",
+      "United Kingdom, London"
+    ],
+    [
+      "Solution Architect",
+      "SERVICES",
+      "Brazil, SP, Sao Paulo"
     ]
   ]
 }
