@@ -65,6 +65,10 @@ jobs:
           done
         continue-on-error: true
 
+      - name: Generate company insights
+        run: python generate_company_insights.py
+        continue-on-error: true
+
       - name: Generate summary
         id: summary
         run: |

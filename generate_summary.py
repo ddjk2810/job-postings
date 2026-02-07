@@ -165,6 +165,15 @@ def generate_summary(date_override=None):
                 else:
                     lines.append(f"- **{company}**: {title} - {location}")
 
+    # Add company hiring priority insights
+    try:
+        from generate_company_insights import generate_all_insights, format_insights_markdown
+        insights, date_from, date_to = generate_all_insights()
+        if insights:
+            lines.append(format_insights_markdown(insights, date_from, date_to))
+    except Exception as e:
+        lines.append(f"\n*Could not generate company insights: {e}*\n")
+
     summary = '\n'.join(lines)
     title = f"New Jobs: {display_date} - {len(all_new_jobs)} positions"
 
