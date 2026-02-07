@@ -1,0 +1,511 @@
+title,department,openings,locations,all_locations,regions,remote_available
+Senior Software Developer,Not specified,14,13 Locations; 2 Locations; AMER - Canada - Quebec - Montreal - 10 Rue Duke (and 11 more),"13 Locations | 2 Locations | AMER - Canada - Quebec - Montreal - 10 Rue Duke | Montreal, QC, CAN | Toronto, ON, CAN | Vancouver, BC, CAN",Not specified,No
+Senior Software Engineer,Not specified,13,"2 Locations; Bengaluru, IND; Norway - Oslo (and 10 more)","2 Locations | Bengaluru, IND | Norway - Oslo | Pune, IND | Singapore, SGP | Toronto, ON, CAN",Not specified,No
+Software Architect,Not specified,7,17 Locations; 7 Locations; EMEA - United Kingdom - Offsite/Home (and 4 more),"17 Locations | 7 Locations | EMEA - United Kingdom - Offsite/Home | Ontario, CAN - Remote | Pune, IND | Toronto, ON, CAN",Not specified,Yes
+Software Development Manager,Not specified,6,"2 Locations; EMEA - Serbia - Novi Sad - Zeleznicka 7; Kraków, POL (and 3 more)","2 Locations | EMEA - Serbia - Novi Sad - Zeleznicka 7 | Kraków, POL | Singapore, SGP | Toronto, ON, CAN",Not specified,No
+Principal Software Engineer,Not specified,5,2 Locations; EMEA - Netherlands - Offsite/Home; EMEA - Spain - Barcelona - Tower B2 (and 2 more),"2 Locations | EMEA - Netherlands - Offsite/Home | EMEA - Spain - Barcelona - Tower B2 | Norway - Oslo | Pune, IND",Not specified,No
+Customer Success Manager,Not specified,3,"North Sydney, AUS; Tokyo, JPN","North Sydney, AUS | Tokyo, JPN",Not specified,No
+"Intern, Software Engineer",Not specified,3,"Dublin, IRL; Kraków, POL; Norway - Oslo","Dublin, IRL | Kraków, POL | Norway - Oslo",Not specified,No
+Principal Software Developer,Not specified,3,10 Locations; 2 Locations,10 Locations | 2 Locations,Not specified,No
+Principal Software Development Engineer,Not specified,3,"Bengaluru, IND; EMEA - Poland - Kraków - Lubomirskiego","Bengaluru, IND | EMEA - Poland - Kraków - Lubomirskiego",Not specified,No
+Principal User Experience Designer,Not specified,3,"Bengaluru, IND; Pune, IND; Washington, USA - Remote","Bengaluru, IND | Pune, IND | Washington, USA - Remote",Not specified,Yes
+Product Manager - Automation,Not specified,3,"Dublin, IRL; EMEA - Spain - Barcelona - Tower B2; Netherlands - Remote","Dublin, IRL | EMEA - Spain - Barcelona - Tower B2 | Netherlands - Remote",Not specified,Yes
+Senior Data Engineer,Not specified,3,"Barcelona, ESP; Toronto, ON, CAN; Vancouver, BC, CAN","Barcelona, ESP | Toronto, ON, CAN | Vancouver, BC, CAN",Not specified,No
+Senior User Experience Designer,Not specified,3,"3 Locations; AMER - Canada - British Columbia - Vancouver - Bentall Centre; Bengaluru, IND","3 Locations | AMER - Canada - British Columbia - Vancouver - Bentall Centre | Bengaluru, IND",Not specified,No
+Site Reliability Engineer,Not specified,3,"Kraków, POL; Pune, IND; Sheffield, GBP","Kraków, POL | Pune, IND | Sheffield, GBP",Not specified,No
+Software Developer,Not specified,3,"13 Locations; 2 Locations; Toronto, ON, CAN","13 Locations | 2 Locations | Toronto, ON, CAN",Not specified,No
+Software Engineer,Not specified,3,"Singapore, SGP; Toronto, ON, CAN","Singapore, SGP | Toronto, ON, CAN",Not specified,No
+Software Engineering Manager,Not specified,3,3 Locations; EMEA - Norway - Oslo - Tjuvholmen Alle; Norway - Oslo,3 Locations | EMEA - Norway - Oslo - Tjuvholmen Alle | Norway - Oslo,Not specified,No
+Territory Account Sales Executive,Not specified,3,"3 Locations; Ho Chi Minh City, VNM","3 Locations | Ho Chi Minh City, VNM",Not specified,No
+Account Executive,Not specified,2,"Kentucky, USA - Remote; Virginia, USA - Remote","Kentucky, USA - Remote | Virginia, USA - Remote",Not specified,Yes
+Account Executive - ACS,Not specified,2,"Makati City, PHL; Singapore, SGP","Makati City, PHL | Singapore, SGP",Not specified,No
+Business Development Representative,Not specified,2,"North Sydney, AUS; Tokyo, JPN","North Sydney, AUS | Tokyo, JPN",Not specified,No
+Customer Success Manager - Construction,Not specified,2,"2 Locations; New Delhi, IND","2 Locations | New Delhi, IND",Not specified,No
+Data Engineer,Not specified,2,"Bengaluru, IND; Kraków, POL","Bengaluru, IND | Kraków, POL",Not specified,No
+Executive Assistant,Not specified,2,"Montreal, QC, CAN; Vancouver, BC, CAN","Montreal, QC, CAN | Vancouver, BC, CAN",Not specified,No
+Growth Product Manager,Not specified,2,"Barcelona, ESP; Montreal, QC, CAN","Barcelona, ESP | Montreal, QC, CAN",Not specified,No
+"Intern, Machine Learning Developer",Not specified,2,"AMER - Canada - Quebec - Montreal - 10 Rue Duke; Toronto, ON, CAN","AMER - Canada - Quebec - Montreal - 10 Rue Duke | Toronto, ON, CAN",Not specified,No
+Network DevOps Engineer,Not specified,2,2 Locations; India - Remote,2 Locations | India - Remote,Not specified,Yes
+"Principal Developer, AI/ML",Not specified,2,"3 Locations; Bengaluru, IND","3 Locations | Bengaluru, IND",Not specified,No
+Principal Site Reliability Engineer,Not specified,2,"Bengaluru, IND; Kraków, POL","Bengaluru, IND | Kraków, POL",Not specified,No
+Product Manager,Not specified,2,8 Locations; Norway - Oslo,8 Locations | Norway - Oslo,Not specified,No
+Product Support Team (General Application),Not specified,2,"Dublin, IRL; Kraków, POL","Dublin, IRL | Kraków, POL",Not specified,No
+Senior Back End Software Engineer,Not specified,2,"Tel Aviv, ISR","Tel Aviv, ISR",Not specified,No
+"Senior Software Developer, AI/ML",Not specified,2,"3 Locations; Bengaluru, IND","3 Locations | Bengaluru, IND",Not specified,No
+Senior Software Engineer (C++),Not specified,2,"Pune, IND","Pune, IND",Not specified,No
+Senior Software Engineer (Full Stack),Not specified,2,"Pune, IND","Pune, IND",Not specified,No
+Senior Technical Program Manager,Not specified,2,"Bengaluru, IND; Toronto, ON, CAN","Bengaluru, IND | Toronto, ON, CAN",Not specified,No
+Senior Technical Program Manager - AI/ML,Not specified,2,2 Locations,2 Locations,Not specified,No
+Software Development Engineer,Not specified,2,"Singapore, SGP","Singapore, SGP",Not specified,No
+Software Engineer - C++ (Fusion AI Features),Not specified,2,"Pune, IND","Pune, IND",Not specified,No
+Software Engineer - Fusion AI,Not specified,2,"Pune, IND","Pune, IND",Not specified,No
+"Subject Matter Expert, Construction (NAMER Adoption)",Not specified,2,"Colorado, USA - Remote; Georgia, USA - Remote","Colorado, USA - Remote | Georgia, USA - Remote",Not specified,Yes
+Technical Solutions Executive,Not specified,2,APAC - Australia - NSW - North Sydney; APAC - Korea - Seoul - ASEM Tower,APAC - Australia - NSW - North Sydney | APAC - Korea - Seoul - ASEM Tower,Not specified,No
+Technical Support Specialist,Not specified,2,"3 Locations; Barcelona, ESP","3 Locations | Barcelona, ESP",Not specified,No
+"AI Research Manager/Scientist, Post-training",Not specified,1,"San Francisco, CA, USA","San Francisco, CA, USA",Not specified,No
+AI Research Scientist Multimodal  VLM and MLLM,Not specified,1,"London, GBR","London, GBR",Not specified,No
+AI Research Scientist Multimodal VLM and MLLM US or Canada,Not specified,1,5 Locations,5 Locations,Not specified,No
+ASEAN MMA Renewal Executive,Not specified,1,"Kuala Lumpur, MYS","Kuala Lumpur, MYS",Not specified,No
+"Account Manager  – Education Government ,India",Not specified,1,"New Delhi, IND","New Delhi, IND",Not specified,No
+Alliance Partner Marketing Manager,Not specified,1,5 Locations,5 Locations,Not specified,No
+Analyst Relations Manager,Not specified,1,10 Locations,10 Locations,Not specified,No
+Applied AI Senior Principal Developer,Not specified,1,"Ontario, CAN - Remote","Ontario, CAN - Remote",Not specified,Yes
+"Apprentice, Talent Acquisition & People Experience",Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+"Associate Manager, Software Development",Not specified,1,"Singapore, SGP","Singapore, SGP",Not specified,No
+"Associate Manager, Technical Support",Not specified,1,2 Locations,2 Locations,Not specified,No
+Associate Software Engineering Manager,Not specified,1,EMEA - Poland - Kraków - Lubomirskiego,EMEA - Poland - Kraków - Lubomirskiego,Not specified,No
+"Audience Marketing Manager, MEP and Structural Engineering",Not specified,1,6 Locations,6 Locations,Not specified,No
+Autodesk Access – Associate Software Engineer,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+Backend Developer,Not specified,1,AMER - Canada - British Columbia - Vancouver - Bentall Centre,AMER - Canada - British Columbia - Vancouver - Bentall Centre,Not specified,No
+Business Consultant (Evergreen),Not specified,1,"Tokyo, JPN","Tokyo, JPN",Not specified,No
+Business Process Manager,Not specified,1,"Barcelona, ESP","Barcelona, ESP",Not specified,No
+Candidate Support Advisor - APAC,Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+Channel Finance Analyst,Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+Chief of Staff APAC,Not specified,1,2 Locations,2 Locations,Not specified,No
+Cloud Infrastructure Automation Engineer (Remote),Not specified,1,9 Locations,9 Locations,Not specified,Yes
+Commissions Analyst,Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+"Communications Business Partner, Design & Manufacturing",Not specified,1,2 Locations,2 Locations,Not specified,No
+Community Manager Lead,Not specified,1,"London, GBR","London, GBR",Not specified,No
+Content Manager,Not specified,1,"Barcelona, ESP","Barcelona, ESP",Not specified,No
+Contract Technical Recruiter (Engineering),Not specified,1,3 Locations,3 Locations,Not specified,No
+Customer Success - Process Adoption Lead,Not specified,1,2 Locations,2 Locations,Not specified,No
+"Customer Success Advisor, AEC (Nordic Market)",Not specified,1,"Barcelona, ESP","Barcelona, ESP",Not specified,No
+"Customer Success Advisor, D&M (DACH)",Not specified,1,"Barcelona, ESP","Barcelona, ESP",Not specified,No
+"Customer Success Advisor, D&M (Nordic Market)",Not specified,1,"Barcelona, ESP","Barcelona, ESP",Not specified,No
+"Customer Success Advisor, Spain/Italy D&M",Not specified,1,"Barcelona, ESP","Barcelona, ESP",Not specified,No
+"Customer Success Manager, Midmarket Japan D&M(Evergreen)",Not specified,1,"Tokyo, JPN","Tokyo, JPN",Not specified,No
+Data Security Engineering Manager,Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Database Architect (Remote),Not specified,1,9 Locations,9 Locations,Not specified,Yes
+Design Operations Lead,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+Design System Software Architect - Remote,Not specified,1,"Novi, MI, USA","Novi, MI, USA",Not specified,Yes
+"Digital UX Designer, Enablement Platforms",Not specified,1,Costa Rica - Remote,Costa Rica - Remote,Not specified,Yes
+Director of Marketing for Industrialized Construction,Not specified,1,2 Locations,2 Locations,Not specified,No
+Director of Software Development - AI/ML,Not specified,1,"Vancouver, BC, CAN","Vancouver, BC, CAN",Not specified,No
+Director of Software Engineering,Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+"Director, AOS Finance",Not specified,1,"San Francisco, CA, USA","San Francisco, CA, USA",Not specified,No
+"Director, Compensation Business Partner",Not specified,1,5 Locations,5 Locations,Not specified,No
+"Director, Events Technology & Data",Not specified,1,14 Locations,14 Locations,Not specified,No
+"Director, Fusion Sales Americas",Not specified,1,8 Locations,8 Locations,Not specified,No
+"Director, Go-to-Market Strategy and Operations Interlock Lead (GS&O)",Not specified,1,"California, USA - Remote","California, USA - Remote",Not specified,Yes
+"Director, Marketing Interlock Lead",Not specified,1,"California, USA - Remote","California, USA - Remote",Not specified,Yes
+"Director, Platform & Productization",Not specified,1,2 Locations,2 Locations,Not specified,No
+"Director, Product Solution Interlock Lead",Not specified,1,AMER - United States - California - Offsite/Home,AMER - United States - California - Offsite/Home,Not specified,No
+"Director, Software Development Autodesk Graphics Platform (AGP)",Not specified,1,"Montreal, QC, CAN","Montreal, QC, CAN",Not specified,No
+Distinguished AI Architect - AEC Construction,Not specified,1,62 Locations,62 Locations,Not specified,No
+"Distinguished Architect, Building Design Products Portfolio/Desktop Transformation",Not specified,1,19 Locations,19 Locations,Not specified,No
+Distinguished Developer,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+"Distinguished Engineer, AI Transformation",Not specified,1,AMER - United States - California - San Francisco - One Market,AMER - United States - California - San Francisco - One Market,Not specified,No
+"Distinguished Software Architect, Autodesk Water",Not specified,1,3 Locations,3 Locations,Not specified,No
+Education Privacy Specialist,Not specified,1,5 Locations,5 Locations,Not specified,No
+"Enablement Manager, Business Models",Not specified,1,Costa Rica - Remote,Costa Rica - Remote,Not specified,Yes
+"Engineering Manager (Java, AWS, React)",Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+"Engineering Manager , Digital Growth & Platform",Not specified,1,2 Locations,2 Locations,Not specified,No
+Engineering Manager - Agentic AI Platform,Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+"Engineering Manager, Platform & DevOps",Not specified,1,3 Locations,3 Locations,Not specified,No
+Event Project Manager,Not specified,1,2 Locations,2 Locations,Not specified,No
+Executive Assistant - DPM,Not specified,1,2 Locations,2 Locations,Not specified,No
+Executive Engagement Content Manager,Not specified,1,"Denver, CO, USA","Denver, CO, USA",Not specified,No
+Executive Programs Marketing Manager,Not specified,1,"California, USA - Remote","California, USA - Remote",Not specified,Yes
+Expansion Account Representative,Not specified,1,"Denver, CO, USA","Denver, CO, USA",Not specified,No
+Experience Design Architect,Not specified,1,4 Locations,4 Locations,Not specified,No
+"Experience Design Architect, Agentic AI (Canada | Remote)",Not specified,1,3 Locations,3 Locations,Not specified,Yes
+External Reporting Sr. Analyst,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+Finance BI Analyst,Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+"Finance Business Partner, AEC Named Accounts",Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+Forma Strategy Mgr,Not specified,1,4 Locations,4 Locations,Not specified,No
+Fusion Data Sales Specialist,Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+Fusion Platform Product Manager - Remote (US),Not specified,1,7 Locations,7 Locations,Not specified,Yes
+Fusion Sales Executive - ASEAN,Not specified,1,APAC - Thailand - Bangkok - Silom Edge,APAC - Thailand - Bangkok - Silom Edge,Not specified,No
+Fusion Sales Manager - Korea / ANZ,Not specified,1,6 Locations,6 Locations,Not specified,No
+Fusion Sales Specialist - Land/New Logo,Not specified,1,"Tokyo, JPN","Tokyo, JPN",Not specified,No
+"Fusion Sales Specialist, PLM",Not specified,1,30 Locations,30 Locations,Not specified,No
+"Fusion Sr. Technical Sales Specialist, PLM",Not specified,1,"Colorado, USA - Remote","Colorado, USA - Remote",Not specified,Yes
+"Fusion, Senior Field Sales Manager",Not specified,1,10 Locations,10 Locations,Not specified,No
+GTM Insights & Analytics Senior Manager,Not specified,1,"Montreal, QC, CAN","Montreal, QC, CAN",Not specified,No
+GTM Revenue Strategy Senior Manager,Not specified,1,8 Locations,8 Locations,Not specified,No
+Global Digital Marketing Industry Lead,Not specified,1,9 Locations,9 Locations,Not specified,No
+Hong Kong Territory Sales Executive/Manager,Not specified,1,APAC - Hong Kong - The Executive Centre,APAC - Hong Kong - The Executive Centre,Not specified,No
+Identity Architect,Not specified,1,2 Locations,2 Locations,Not specified,No
+Implementation Consultant,Not specified,1,6 Locations,6 Locations,Not specified,No
+"Industry & Audience Campaign Manager, Consumer Products",Not specified,1,"Ontario, CAN - Remote","Ontario, CAN - Remote",Not specified,Yes
+"Industry & Audience Campaign Manager, Manufacturing",Not specified,1,"Ontario, CAN - Remote","Ontario, CAN - Remote",Not specified,Yes
+Inside Sales Representative,Not specified,1,Costa Rica - Remote,Costa Rica - Remote,Not specified,Yes
+"Intern, AI Developer / Stagiaire en développement IA",Not specified,1,"Montreal, QC, CAN","Montreal, QC, CAN",Not specified,No
+"Intern, Agentic AI Workflows (AEC Research)",Not specified,1,"New York, USA - Remote","New York, USA - Remote",Not specified,Yes
+"Intern, Construction UX Research",Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+"Intern, Junior C++ Software Developer",Not specified,1,"Kraków, POL","Kraków, POL",Not specified,No
+"Intern, Legal",Not specified,1,"San Francisco, CA, USA","San Francisco, CA, USA",Not specified,No
+"Intern, Machine Learning",Not specified,1,"Montreal, QC, CAN","Montreal, QC, CAN",Not specified,No
+"Intern, Model Based Systems Engineering",Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+"Intern, Physics-Based Character Motion Research",Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+"Intern, Product Manager – Data Products",Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+"Intern, Research - Agentic Simulation",Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+"Intern, Research Foundational Models",Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+"Intern, Senior Financial Analyst (Corporate FP&A)",Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+"Intern, Senior Financial Analyst, PSET FP&A",Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+"Intern, Software Developer",Not specified,1,"Montreal, QC, CAN","Montreal, QC, CAN",Not specified,No
+"Intern, Software Development Engineer [PSET-Access-ENG]",Not specified,1,"Singapore, SGP","Singapore, SGP",Not specified,No
+"Intern, Software Engineer (C++/.NET) - 12 months",Not specified,1,"Sheffield, GBP","Sheffield, GBP",Not specified,No
+"Intern, Software Engineer - Generative Design & Simulation",Not specified,1,"Kraków, POL","Kraków, POL",Not specified,No
+"Intern, Software Engineer - Quality Assurance",Not specified,1,"Kraków, POL","Kraków, POL",Not specified,No
+"Intern, Software Engineering",Not specified,1,"Dublin, IRL","Dublin, IRL",Not specified,No
+"Intern, Tool-Augmented LLMs for CAD/BREP 3D Object Generation",Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+"Intern, XR and AI Developer , Stagiaire en développement XR et AI",Not specified,1,"Montreal, QC, CAN","Montreal, QC, CAN",Not specified,No
+Internal Content Partnerships Manager,Not specified,1,5 Locations,5 Locations,Not specified,No
+Java Software Engineer,Not specified,1,"Atlanta, GA, USA","Atlanta, GA, USA",Not specified,No
+Join Autodesk in Oslo as a Software Engineer in August 2026,Not specified,1,Norway - Oslo,Norway - Oslo,Not specified,No
+License Compliance Executive Philippines,Not specified,1,"Makati City, PHL","Makati City, PHL",Not specified,No
+"License Compliance Executive, Indonesia",Not specified,1,"Jakarta, IDN","Jakarta, IDN",Not specified,No
+"License Compliance Executive, Thailand",Not specified,1,2 Locations,2 Locations,Not specified,No
+ML Engineer,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+Machine Learning Engineer 3D Geometry/ Multi-Modal,Not specified,1,2 Locations,2 Locations,Not specified,No
+Machine Learning Technical Manager,Not specified,1,2 Locations,2 Locations,Not specified,No
+Manager Technical Adoption - AMER,Not specified,1,5 Locations,5 Locations,Not specified,No
+"Manager, Data Enablement",Not specified,1,2 Locations,2 Locations,Not specified,No
+"Manager, Professional Services Consulting",Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+"Manager, Scaled Customer Success",Not specified,1,"Tokyo, JPN","Tokyo, JPN",Not specified,No
+"Manager, Software Development, Computation Design and Automation",Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+"Manager, Software Engineering (Amsterdam)",Not specified,1,Netherlands - Remote,Netherlands - Remote,Not specified,Yes
+"Manager, Software Engineering (Barcelona)",Not specified,1,2 Locations,2 Locations,Not specified,No
+"Manager, Software Engineering (Dublin)",Not specified,1,"Dublin, IRL","Dublin, IRL",Not specified,No
+"Manager, Technical Adoption Specialist",Not specified,1,2 Locations,2 Locations,Not specified,No
+Marketing Community Programme Manager,Not specified,1,4 Locations,4 Locations,Not specified,No
+"Marketing Program Strategist, AECO",Not specified,1,AMER - Canada - Ontario - Toronto - University Ave,AMER - Canada - Ontario - Toronto - University Ave,Not specified,No
+Media & Entertainment Digital Marketer,Not specified,1,5 Locations,5 Locations,Not specified,No
+Named Account Sales Executive (Evergreen),Not specified,1,"Tokyo, JPN","Tokyo, JPN",Not specified,No
+Named Accounts CSM,Not specified,1,2 Locations,2 Locations,Not specified,No
+Network Engineer,Not specified,1,2 Locations,2 Locations,Not specified,No
+PDMS Manufacturing EA,Not specified,1,"San Francisco, CA, USA","San Francisco, CA, USA",Not specified,No
+PPL Programs Delivery Manager,Not specified,1,3 Locations,3 Locations,Not specified,No
+Partner Solutions Specialist (Emerging Solutions),Not specified,1,"Tokyo, JPN","Tokyo, JPN",Not specified,No
+"Partner Solutions Specialist, Fusion",Not specified,1,3 Locations,3 Locations,Not specified,No
+Partnership Marketing Specialist,Not specified,1,12 Locations,12 Locations,Not specified,No
+PhD Intern - AI Researcher for CAD (B-Rep) Generation,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+PhD Intern - Efficient 3D Generation Frameworks,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+"PhD Intern, Computational Physics-Shape Optimization",Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+"PhD Intern, HCI & Visualization Research",Not specified,1,2 Locations,2 Locations,Not specified,No
+Physics Informed AI/ML Researcher,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+Platform Manager,Not specified,1,7 Locations,7 Locations,Not specified,No
+Principal AI Quality Developer,Not specified,1,"Ontario, CAN - Remote","Ontario, CAN - Remote",Not specified,Yes
+Principal Consulting Project Manager,Not specified,1,"Tokyo, JPN","Tokyo, JPN",Not specified,No
+Principal Data Engineer -General application,Not specified,1,2 Locations,2 Locations,Not specified,No
+Principal Data Scientist,Not specified,1,2 Locations,2 Locations,Not specified,No
+Principal Design Program Manager,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+Principal DevOps Developer - AEC Data,Not specified,1,2 Locations,2 Locations,Not specified,No
+Principal Engineer,Not specified,1,2 Locations,2 Locations,Not specified,No
+"Principal Engineer (C++,JAVA)",Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+"Principal Engineer (C++,QT)",Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+"Principal Engineer (Java , DB, AWS)",Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+"Principal Engineer (Node JS/Typescript, AWS)",Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+Principal Engineer (Nodejs/Typescript),Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Principal Engineer (Python),Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+"Principal Engineer (Python, Playwright, JavaScript, AI)",Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+"Principal Engineer (React JS, Typescript, Node JS)",Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+"Principal Engineer (React, Spring Boot/Node)",Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+Principal Engineer (Remote),Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,Yes
+"Principal Engineer (Search, Java, AWS)",Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Principal Engineer - Fusion MCAD,Not specified,1,"Kraków, POL","Kraków, POL",Not specified,No
+Principal Engineer( NodeJS and ReactJS),Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+"Principal Engineer(Java/C++ , AWS , React/Typescript)",Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Principal Implementation Consultant - AEC (Evergreen),Not specified,1,"Tokyo, JPN","Tokyo, JPN",Not specified,No
+Principal ML Engineer – eCommerce & Personalization,Not specified,1,8 Locations,8 Locations,Not specified,No
+Principal Machine Learning:  Generative AI.  United States,Not specified,1,12 Locations,12 Locations,Not specified,No
+Principal Offensive Security Developer,Not specified,1,5 Locations,5 Locations,Not specified,No
+Principal Partner Business Consultant,Not specified,1,"Maryland, USA - Remote","Maryland, USA - Remote",Not specified,Yes
+Principal Platform Services Engineer,Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+"Principal Product Manager, AI Strategy – PDMS Platform",Not specified,1,4 Locations,4 Locations,Not specified,No
+"Principal Product Manager, Flow Capture - Canada Remote",Not specified,1,"Vancouver, BC, CAN","Vancouver, BC, CAN",Not specified,Yes
+"Principal Product Manager, Flow Studio",Not specified,1,9 Locations,9 Locations,Not specified,No
+Principal Product Owner - Civil Infrastructure,Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+"Principal Program Manager, AI Executive Leadership Team",Not specified,1,2 Locations,2 Locations,Not specified,No
+Principal QA Engineer,Not specified,1,"Sheffield, GBP","Sheffield, GBP",Not specified,No
+Principal Quality Assurance Developer,Not specified,1,"Ontario, CAN - Remote","Ontario, CAN - Remote",Not specified,Yes
+Principal Research Scientist Construction,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+Principal Software Developer (Hybrid) - Product Data,Not specified,1,3 Locations,3 Locations,Not specified,No
+Principal Software Developer - Computation and Automation,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+"Principal Software Developer Engineer, Software Engineer: Generative AI , C#",Not specified,1,"Boston, MA, USA","Boston, MA, USA",Not specified,No
+Principal Software Developer in Test,Not specified,1,AMER - Canada - Quebec - Montreal - 10 Rue Duke,AMER - Canada - Quebec - Montreal - 10 Rue Duke,Not specified,No
+Principal Software Developer in Test (SDET),Not specified,1,4 Locations,4 Locations,Not specified,No
+"Principal Software Developer, Civil 3D",Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+Principal Software Developer- Security,Not specified,1,6 Locations,6 Locations,Not specified,No
+Principal Software Development Engineer (TypeScript and Java),Not specified,1,"Kraków, POL","Kraków, POL",Not specified,No
+Principal Software Development Engineer - CAD/Geometry,Not specified,1,4 Locations,4 Locations,Not specified,No
+Principal Software Development Engineer(QT/QML) - Remote,Not specified,1,"Ontario, CAN - Remote","Ontario, CAN - Remote",Not specified,Yes
+"Principal Software Engineer (Node, Backend, AWS)",Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+Principal Software Engineer (iOS),Not specified,1,"Montreal, QC, CAN","Montreal, QC, CAN",Not specified,No
+Principal Software Engineer - Forma Design,Not specified,1,"Dublin, IRL","Dublin, IRL",Not specified,No
+"Principal Software Engineer -(C++, Python)",Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+"Principal Software Engineer – Data Platform (Python, AWS)",Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+Principal Software Engineer-Agentic AI,Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+"Principal Software QA Engineer(Cypress, Playwright)",Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Principal Software Quality Assurance Developer,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+Principal Solution Architect (Autodesk Consulting) (Evergreen),Not specified,1,"Tokyo, JPN","Tokyo, JPN",Not specified,No
+Principal User Experience Designer - UX - 3D Visualization,Not specified,1,2 Locations,2 Locations,Not specified,No
+"Principal User Experience Researcher, Platform Data",Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+"Principal, Design & Manufacturing  GTM Strategy",Not specified,1,9 Locations,9 Locations,Not specified,No
+Process Designer and Analyst,Not specified,1,"Boston, MA, USA","Boston, MA, USA",Not specified,No
+Product Manager (Autodesk Licensing),Not specified,1,"Singapore, SGP","Singapore, SGP",Not specified,No
+Product Manager - Civil Infrastructure,Not specified,1,"Singapore, SGP","Singapore, SGP",Not specified,No
+Product Manager – Forma Compass,Not specified,1,Norway - Oslo,Norway - Oslo,Not specified,No
+"Product Manager, Agentic AI - Autodesk Assistant (Remote)",Not specified,1,6 Locations,6 Locations,Not specified,Yes
+"Product Manager, Infrastructure and Special Projects",Not specified,1,6 Locations,6 Locations,Not specified,No
+"Product Manager, Privacy",Not specified,1,3 Locations,3 Locations,Not specified,No
+"Product Marketing Manager, Data",Not specified,1,"San Francisco, CA, USA","San Francisco, CA, USA",Not specified,No
+Product Operations Support,Not specified,1,Norway - Oslo,Norway - Oslo,Not specified,No
+Product Owner - Civil Infrastructure,Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Product Owner - Electrical Design and Analysis,Not specified,1,EMEA - Poland - Kraków - Lubomirskiego,EMEA - Poland - Kraków - Lubomirskiego,Not specified,No
+Product Owner - Finance BI,Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+Product Owner - Retro BIM,Not specified,1,EMEA - Poland - Kraków - Lubomirskiego,EMEA - Poland - Kraków - Lubomirskiego,Not specified,No
+"Product Owner, Infrastructure",Not specified,1,6 Locations,6 Locations,Not specified,No
+Product Security Compliance Manager,Not specified,1,4 Locations,4 Locations,Not specified,No
+Product Specialist Sales Executive 6,Not specified,1,Mexico - Remote,Mexico - Remote,Not specified,Yes
+Production Support Analyst,Not specified,1,"San Francisco, CA, USA","San Francisco, CA, USA",Not specified,No
+Project Accountant,Not specified,1,2 Locations,2 Locations,Not specified,No
+Python Developer - AEC,Not specified,1,"Boston, MA, USA","Boston, MA, USA",Not specified,No
+"Python Developer, ACC",Not specified,1,"Boston, MA, USA","Boston, MA, USA",Not specified,No
+"Recruiter, Early Career Programs",Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+SIEM Engineer,Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+SQA Manager,Not specified,1,"Kraków, POL","Kraków, POL",Not specified,No
+Sales Enablement Content Specialist - AECO,Not specified,1,2 Locations,2 Locations,Not specified,No
+Sales Enablement Content Specialist - D&M,Not specified,1,2 Locations,2 Locations,Not specified,No
+Search Platform & Innovation Manager,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+Security Incident Response Program Manager,Not specified,1,3 Locations,3 Locations,Not specified,No
+Senior AI Developer (LLM/VLM/Agent Applications),Not specified,1,3 Locations,3 Locations,Not specified,No
+Senior AP Analyst,Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+Senior Associate Digital Renewal Representative,Not specified,1,"Denver, CO, USA","Denver, CO, USA",Not specified,No
+"Senior Associate Sales Specialist, Emerging Technologies",Not specified,1,"Colorado, USA - Remote","Colorado, USA - Remote",Not specified,Yes
+Senior Broadcast Producer,Not specified,1,"San Francisco, CA, USA","San Francisco, CA, USA",Not specified,No
+Senior Business Analyst,Not specified,1,AMER - United States - Oregon - Portland,AMER - United States - Oregon - Portland,Not specified,No
+"Senior Business Consultant, Buildings/MEP",Not specified,1,6 Locations,6 Locations,Not specified,No
+"Senior Business Development Executive, Construction and AI",Not specified,1,5 Locations,5 Locations,Not specified,No
+"Senior Business Process Analyst, RPA",Not specified,1,"Portland, OR, USA","Portland, OR, USA",Not specified,No
+"Senior Change Management Lead, Communications",Not specified,1,3 Locations,3 Locations,Not specified,No
+Senior Change Management Specialist,Not specified,1,3 Locations,3 Locations,Not specified,No
+Senior Cloud FinOps Analyst,Not specified,1,"Novi, MI, USA","Novi, MI, USA",Not specified,No
+Senior Cloud Software Engineer - Ireland,Not specified,1,EMEA - Ireland - Dublin - Windmill,EMEA - Ireland - Dublin - Windmill,Not specified,No
+Senior Commissions Analyst,Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+"Senior Commissions Analyst, Finance PMO",Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+Senior Consulting Project Manager,Not specified,1,4 Locations,4 Locations,Not specified,No
+Senior Customer Insights Analyst - Customer Success Organisation,Not specified,1,"Dublin, IRL","Dublin, IRL",Not specified,No
+"Senior Customer Reference Manager, Design & Manufacturing",Not specified,1,6 Locations,6 Locations,Not specified,No
+Senior Data Engineer (Data Engg & Soft Engg),Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Senior Detection Engineer and Threat Hunter,Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+"Senior Digital Program Manager, Customer Success Management",Not specified,1,3 Locations,3 Locations,Not specified,No
+"Senior Digital Program Manager, Support Experiences",Not specified,1,4 Locations,4 Locations,Not specified,No
+Senior Director Business Strategy & Excellence,Not specified,1,7 Locations,7 Locations,Not specified,No
+"Senior Director, Data Engineering",Not specified,1,"San Francisco, CA, USA","San Francisco, CA, USA",Not specified,No
+"Senior Director, Events and Experiences",Not specified,1,4 Locations,4 Locations,Not specified,No
+"Senior Director, Partner Marketing",Not specified,1,6 Locations,6 Locations,Not specified,No
+"Senior Director, Product Management, AEC Data",Not specified,1,3 Locations,3 Locations,Not specified,No
+"Senior Director, Renewals, AMER",Not specified,1,2 Locations,2 Locations,Not specified,No
+"Senior Director, Technical Programs and Operations",Not specified,1,2 Locations,2 Locations,Not specified,No
+"Senior Director, User Experience, AEC Design Tools",Not specified,1,2 Locations,2 Locations,Not specified,No
+"Senior Engineering Manager, MCP and Agentic AI",Not specified,1,2 Locations,2 Locations,Not specified,No
+Senior Enterprise Systems Engineer,Not specified,1,6 Locations,6 Locations,Not specified,No
+"Senior Finance Analyst, Worldwide Named Accounts",Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+Senior Finance Business Partner - Autodesk Research and Generative AI Accelerator,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+"Senior Finance Business Partner, Platform Strategy",Not specified,1,4 Locations,4 Locations,Not specified,No
+Senior Finance Partner - Global Strategic Partner,Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+"Senior Financial Analyst, PSET Finance",Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+Senior Frontend Developer,Not specified,1,2 Locations,2 Locations,Not specified,No
+Senior Frontend Engineer,Not specified,1,"Tel Aviv, ISR","Tel Aviv, ISR",Not specified,No
+Senior Full Stack Engineer,Not specified,1,AMER - United States - California - San Francisco - One Market,AMER - United States - California - San Francisco - One Market,Not specified,No
+Senior Full Stack Software Developer,Not specified,1,4 Locations,4 Locations,Not specified,No
+Senior Full-Stack Engineer (Front Oriented),Not specified,1,"Tel Aviv, ISR","Tel Aviv, ISR",Not specified,No
+Senior Growth Software Engineer,Not specified,1,Norway - Oslo,Norway - Oslo,Not specified,No
+Senior Implementation Consultant,Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+Senior Implementation Consultant (Manufacturing),Not specified,1,"Tokyo, JPN","Tokyo, JPN",Not specified,No
+Senior Implementation Consultant / Construction Technologist(Evergreen),Not specified,1,"Tokyo, JPN","Tokyo, JPN",Not specified,No
+Senior Learning Experience Designer,Not specified,1,6 Locations,6 Locations,Not specified,No
+Senior Machine Learning Developer,Not specified,1,9 Locations,9 Locations,Not specified,No
+Senior Machine Learning Engineer,Not specified,1,"Vancouver, BC, CAN","Vancouver, BC, CAN",Not specified,No
+Senior Machine Learning Operations Engineer - AI/ML Platform,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+"Senior Management Reporting Analyst, Finance PMO",Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+Senior Manager -  Enterprise Business Application Support,Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+Senior Manager - Workforce Management,Not specified,1,"Dublin, IRL","Dublin, IRL",Not specified,No
+Senior Manager AI Strategy,Not specified,1,22 Locations,22 Locations,Not specified,No
+"Senior Manager, Applied AI and Analytics",Not specified,1,"Ontario, CAN - Remote","Ontario, CAN - Remote",Not specified,Yes
+"Senior Manager, Business Excellence",Not specified,1,"California, USA - Remote","California, USA - Remote",Not specified,Yes
+"Senior Manager, GTM Strategic Finance",Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+"Senior Manager, Go-to-Market Program Management Office",Not specified,1,6 Locations,6 Locations,Not specified,No
+"Senior Manager, Portfolio Management",Not specified,1,"California, USA - Remote","California, USA - Remote",Not specified,Yes
+"Senior Manager, Technical Program Management",Not specified,1,2 Locations,2 Locations,Not specified,No
+"Senior Manager, Technical Support",Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+Senior Manager- Credit Collection & Accounts Receivable,Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+Senior Platform Engineer,Not specified,1,"Dublin, IRL","Dublin, IRL",Not specified,No
+Senior Platform Strategy Manager,Not specified,1,2 Locations,2 Locations,Not specified,No
+Senior Principal Designer,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+Senior Principal Experience Designer,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+Senior Principal Information Security Engineer- Data Security,Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+"Senior Principal Machine Learning Engineer, Foundational Models",Not specified,1,25 Locations,25 Locations,Not specified,No
+Senior Principal Research Engineer,Not specified,1,4 Locations,4 Locations,Not specified,No
+Senior Principal Research Engineer: AEC Geometric Data - Generative AI,Not specified,1,27 Locations,27 Locations,Not specified,No
+Senior Principal SDET,Not specified,1,2 Locations,2 Locations,Not specified,No
+Senior Principal Software Developer,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+"Senior Principal Software Engineer, AEC Data",Not specified,1,8 Locations,8 Locations,Not specified,No
+"Senior Product & Technical Marketing Manager, CAM",Not specified,1,4 Locations,4 Locations,Not specified,No
+"Senior Product Manager , Data Management",Not specified,1,7 Locations,7 Locations,Not specified,No
+Senior Product Manager – AEC Data (Information Requirements),Not specified,1,2 Locations,2 Locations,Not specified,No
+"Senior Product Manager, Autodesk Platform Services - Canada remote",Not specified,1,AMER - Canada - Alberta - Offsite/Home,AMER - Canada - Alberta - Offsite/Home,Not specified,Yes
+"Senior Product Manager, Cloud Licensing",Not specified,1,2 Locations,2 Locations,Not specified,No
+"Senior Product Manager, Digital Project Delivery (Remote Canada)",Not specified,1,2 Locations,2 Locations,Not specified,Yes
+"Senior Product Manager, Experimentation Platform",Not specified,1,5 Locations,5 Locations,Not specified,No
+"Senior Product Manager, Forma Data Management",Not specified,1,4 Locations,4 Locations,Not specified,No
+"Senior Product Manager, MCP & Agentic AI",Not specified,1,3 Locations,3 Locations,Not specified,No
+"Senior Program Manager, API Business Models",Not specified,1,3 Locations,3 Locations,Not specified,No
+"Senior Program Manager, Enterprise Experience",Not specified,1,2 Locations,2 Locations,Not specified,No
+"Senior Project Manager, Collaboration Team",Not specified,1,"Washington, USA - Remote","Washington, USA - Remote",Not specified,Yes
+Senior Purchasing Analyst / Partner,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+Senior QA Engineer,Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+"Senior QA Engineer, AI/ML",Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+Senior QA Engineer- AI Rendering,Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Senior QA Engineer- CAD/Automation,Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Senior Research Engineer,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+Senior Research Scientist Construction,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+Senior Revenue Analyst,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+Senior SaaS Software QA Engineer,Not specified,1,EMEA - Poland - Kraków - Lubomirskiego,EMEA - Poland - Kraków - Lubomirskiego,Not specified,No
+"Senior Sales Manager, Fusion PLM",Not specified,1,7 Locations,7 Locations,Not specified,No
+Senior Site Reliability Developer,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+"Senior Social Media & Influencer Manager, Media & Entertainment",Not specified,1,7 Locations,7 Locations,Not specified,No
+Senior Software AI Developer,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+Senior Software Developer (GCPay),Not specified,1,7 Locations,7 Locations,Not specified,No
+Senior Software Developer - Civil 3D,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+Senior Software Developer - Fusion MCAD,Not specified,1,"Kraków, POL","Kraków, POL",Not specified,No
+Senior Software Developer in Test (SDET),Not specified,1,4 Locations,4 Locations,Not specified,No
+"Senior Software Developer, Applied AI",Not specified,1,3 Locations,3 Locations,Not specified,No
+Senior Software Development Engineer - C++ & C#,Not specified,1,EMEA - Poland - Kraków - Lubomirskiego,EMEA - Poland - Kraków - Lubomirskiego,Not specified,No
+Senior Software Development Engineer in Test,Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+Senior Software Engineer (C#) with AI/ML,Not specified,1,EMEA - Poland - Kraków - Lubomirskiego,EMEA - Poland - Kraków - Lubomirskiego,Not specified,No
+"Senior Software Engineer (C#, WPF, Rest API)",Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+"Senior Software Engineer (C#.NET, AWS)",Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Senior Software Engineer (Full Stack Java/AWS/JS),Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Senior Software Engineer (IAM Platform),Not specified,1,"Singapore, SGP","Singapore, SGP",Not specified,No
+"Senior Software Engineer (Node JS/Typescript, AWS)",Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+"Senior Software Engineer (Python, Playwright, AI Agents)",Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+"Senior Software Engineer (Search, Java, AWS,)",Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Senior Software Engineer (Site Reliability Engineer - SRE),Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Senior Software Engineer - Agentic AI,Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Senior Software Engineer - Backend,Not specified,1,"Singapore, SGP","Singapore, SGP",Not specified,No
+Senior Software Engineer - C++,Not specified,1,2 Locations,2 Locations,Not specified,No
+Senior Software Engineer - C++ (Fusion AI Features),Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Senior Software Engineer - C++ / C#,Not specified,1,EMEA - Poland - Kraków - Lubomirskiego,EMEA - Poland - Kraków - Lubomirskiego,Not specified,No
+Senior Software Engineer - Fusion,Not specified,1,"Kraków, POL","Kraków, POL",Not specified,No
+Senior Software Engineer - Fusion Assembly,Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Senior Software Engineer – System Automation (content),Not specified,1,2 Locations,2 Locations,Not specified,No
+Senior Software Engineer(.NET),Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Senior Software Engineer(C++) - Fusion AI,Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+"Senior Software Engineer(Java,AWS)",Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Senior Software Engineer(SRE),Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+"Senior Software Engineer, Data Analytics",Not specified,1,Colombia - Remote,Colombia - Remote,Not specified,Yes
+Senior Software Engineer-  Fusion AI,Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Senior Software QA Engineer,Not specified,1,"Kraków, POL","Kraków, POL",Not specified,No
+Senior Software QA Engineer - Automation,Not specified,1,3 Locations,3 Locations,Not specified,No
+Senior Software QA Specialist - Civil 3D,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+Senior Software Reliability Developer,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+Senior Technical Account Manager,Not specified,1,2 Locations,2 Locations,Not specified,No
+"Senior Technical Adoption Specialist, Enterprise Systems",Not specified,1,3 Locations,3 Locations,Not specified,No
+"Senior Technical Content Developer, Media & Entertainment (M&E)",Not specified,1,7 Locations,7 Locations,Not specified,No
+"Senior Technical Program Manager, Fusion Platform",Not specified,1,6 Locations,6 Locations,Not specified,No
+"Senior Technical Specialist, Installation & Licensing",Not specified,1,2 Locations,2 Locations,Not specified,No
+Senior Technical Support Specialist,Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+Senior Technical Support Specialist - ENI (EMEA Shift),Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+"Senior UX Designer, Developer Experience (Canada Remote)",Not specified,1,2 Locations,2 Locations,Not specified,Yes
+"Senior User Experience Designer, 3D Content Creation",Not specified,1,2 Locations,2 Locations,Not specified,No
+Senior/Principal Technical Consultant - Full Stack,Not specified,1,"Kraków, POL","Kraków, POL",Not specified,No
+Service Offering Manager,Not specified,1,8 Locations,8 Locations,Not specified,No
+"Social Media Manager, Fusion",Not specified,1,12 Locations,12 Locations,Not specified,No
+Software AI Engineer,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+"Software Architect (Java/C++ , AWS, React JS)",Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+"Software Architect(Java, AWS, Fullstack)",Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+"Software Architect, Applied AI",Not specified,1,3 Locations,3 Locations,Not specified,No
+Software Architect: AEC Platform Data,Not specified,1,5 Locations,5 Locations,Not specified,No
+Software Developer (Full Stack),Not specified,1,4 Locations,4 Locations,Not specified,No
+Software Developer in Test - Media & Entertainment,Not specified,1,2 Locations,2 Locations,Not specified,No
+"Software Developer, Civil 3D",Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+"Software Developer, Civil3D",Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+Software Development Engineer - Mobile SDK,Not specified,1,"Singapore, SGP","Singapore, SGP",Not specified,No
+Software Development Engineer - Web SDK,Not specified,1,"Singapore, SGP","Singapore, SGP",Not specified,No
+Software Development Engineer- IAM Platform,Not specified,1,"Singapore, SGP","Singapore, SGP",Not specified,No
+Software Development Manager (Poland),Not specified,1,"Kraków, POL","Kraków, POL",Not specified,No
+Software Development Manager - Fusion Modelling,Not specified,1,"Kraków, POL","Kraków, POL",Not specified,No
+Software Development Manager - Product Data,Not specified,1,2 Locations,2 Locations,Not specified,No
+"Software Development Manager, Civil 3D",Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+Software Engineer (Full-stack),Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+"Software Engineer (Python, Playwright, AI Agents)",Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+Software Engineer - Agentic AI,Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Software Engineer - Backend,Not specified,1,"Singapore, SGP","Singapore, SGP",Not specified,No
+Software Engineer - Enterprise Identity Services,Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+Software Engineer - Fusion Assembly,Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Software Engineer - Mobile SDK,Not specified,1,"Singapore, SGP","Singapore, SGP",Not specified,No
+Software Engineer C++,Not specified,1,"Decin, CZE","Decin, CZE",Not specified,No
+Software Engineer in Test,Not specified,1,"Singapore, SGP","Singapore, SGP",Not specified,No
+"Software Engineer, Platform Automation",Not specified,1,EMEA - Ireland - Dublin - Windmill,EMEA - Ireland - Dublin - Windmill,Not specified,No
+"Software Engineer: Generative AI , C#",Not specified,1,2 Locations,2 Locations,Not specified,No
+"Software Engineering Manager (Java, AWS, Search)",Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Software Engineering Manager - SRE/DevOps,Not specified,1,"Singapore, SGP","Singapore, SGP",Not specified,No
+"Software Engineering Manager(C++, Python)",Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Software QA Engineer,Not specified,1,"Kraków, POL","Kraków, POL",Not specified,No
+Software QA Engineer- LLM Features,Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Software QA Manager,Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Software Quality Assurance Developer,Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,No
+Software Quality Assurance Engineer - Electrical Engineer / Electrical Designer,Not specified,1,EMEA - Poland - Kraków - Lubomirskiego,EMEA - Poland - Kraków - Lubomirskiego,Not specified,No
+"Sr Director, Product & Platform Central Finance",Not specified,1,"San Francisco, CA, USA","San Francisco, CA, USA",Not specified,No
+Sr Principal Data Engineer,Not specified,1,"California, USA - Remote","California, USA - Remote",Not specified,Yes
+Sr Principal ML Engineer – eCommerce & Personalization,Not specified,1,10 Locations,10 Locations,Not specified,No
+"Sr. Account Executive, Fusion Expansion",Not specified,1,AMER - United States - Colorado - Denver - Wewatta,AMER - United States - Colorado - Denver - Wewatta,Not specified,No
+Sr. Mobile Engineer,Not specified,1,"Tel Aviv, ISR","Tel Aviv, ISR",Not specified,No
+"Sr. Principal Engineer (C#/Java, Architecture)",Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Sr. Quality Audit Analyst,Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+"Sr. Sales Specialist, Fusion Enterprise",Not specified,1,13 Locations,13 Locations,Not specified,No
+"Sr. Sales Specialist, Fusion Midmarket",Not specified,1,6 Locations,6 Locations,Not specified,No
+"Sr. Sales Specialist, Fusion Territory",Not specified,1,4 Locations,4 Locations,Not specified,No
+Sr. Security Incident Response Engineer,Not specified,1,2 Locations,2 Locations,Not specified,No
+Sr. Software Development Engineer (Remote),Not specified,1,"Toronto, ON, CAN","Toronto, ON, CAN",Not specified,Yes
+Sr. Software Engineer,Not specified,1,"Ontario, CAN - Remote","Ontario, CAN - Remote",Not specified,Yes
+Sr. Software Engineer(.NET),Not specified,1,"Pune, IND","Pune, IND",Not specified,No
+Strategic Program Manager - Customer Recognition Programs,Not specified,1,3 Locations,3 Locations,Not specified,No
+Strategic Sourcing Manager,Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+"Subject Matter Expert, Construction",Not specified,1,4 Locations,4 Locations,Not specified,No
+"Subject Matter Expert, Preconstruction",Not specified,1,AMER - United States - Oregon - Portland,AMER - United States - Oregon - Portland,Not specified,No
+Sustainability Solutions Technical Advisor,Not specified,1,5 Locations,5 Locations,Not specified,No
+Target Account Sales Executive (Open Application),Not specified,1,"Milano, ITA","Milano, ITA",Not specified,No
+"Tax Director,  Transfer Pricing",Not specified,1,13 Locations,13 Locations,Not specified,No
+Technical Account Manager - AECO (German-speaking),Not specified,1,EMEA - Poland - Kraków - Lubomirskiego,EMEA - Poland - Kraków - Lubomirskiego,Not specified,No
+Technical Account Specialist - Automotive,Not specified,1,"Tokyo, JPN","Tokyo, JPN",Not specified,No
+Technical Adoption Specialist - Civil 3D (German speaking),Not specified,1,EMEA - Poland - Kraków - Lubomirskiego,EMEA - Poland - Kraków - Lubomirskiego,Not specified,No
+"Technical Adoption Specialist, Forma",Not specified,1,4 Locations,4 Locations,Not specified,No
+Technical Consultant,Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+"Technical Marketing Manager, PDM/PLM",Not specified,1,3 Locations,3 Locations,Not specified,No
+Technical Product Owner,Not specified,1,2 Locations,2 Locations,Not specified,No
+Technical Program Manager,Not specified,1,2 Locations,2 Locations,Not specified,No
+"Technical Program Manager, Computational Design (Canada)",Not specified,1,3 Locations,3 Locations,Not specified,No
+Technical Recruiter (Engineering),Not specified,1,2 Locations,2 Locations,Not specified,No
+Technical Services Manager,Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+Technical Solution Executive (Evergreen),Not specified,1,"Tokyo, JPN","Tokyo, JPN",Not specified,No
+Technical Solutions Executive (Saudi National),Not specified,1,"Riyadh, SAU","Riyadh, SAU",Not specified,No
+"Technical Solutions Executive, AEC",Not specified,1,Japan - Remote,Japan - Remote,Not specified,Yes
+"Technical Solutions Executive, Construction",Not specified,1,"Quebec, CAN - Remote","Quebec, CAN - Remote",Not specified,Yes
+"Technical Solutions Executive, Manufacturing",Not specified,1,"Tokyo, JPN","Tokyo, JPN",Not specified,No
+Technical Support Manager,Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+Technical Support Specialist - Fusion Operations,Not specified,1,"Kraków, POL","Kraków, POL",Not specified,No
+Technical Support Specialist AutoCAD,Not specified,1,"Kraków, POL","Kraków, POL",Not specified,No
+Technical Support Specialist Fusion 360 (German speaking),Not specified,1,"Kraków, POL","Kraków, POL",Not specified,No
+Technical Support Specialist for Revit (German Speaking)- General Application,Not specified,1,"Kraków, POL","Kraków, POL",Not specified,No
+"Technical Support Specialist, Civil 3D",Not specified,1,2 Locations,2 Locations,Not specified,No
+Territory Account Sales Exec,Not specified,1,"Colorado, USA - Remote","Colorado, USA - Remote",Not specified,Yes
+Territory Account Sales Executive D&M,Not specified,1,"Jakarta, IDN","Jakarta, IDN",Not specified,No
+Territory Account sale Executive,Not specified,1,"Hong Kong, HKG","Hong Kong, HKG",Not specified,No
+Territory Adoption Specialist,Not specified,1,"Bengaluru, IND","Bengaluru, IND",Not specified,No
+"Territory Adoption Specialist (Hybrid), English Speaking",Not specified,1,AMER - Costa Rica - SanJose - Belen,AMER - Costa Rica - SanJose - Belen,Not specified,No
+"Territory Adoption Specialist, Italian & English Speaking",Not specified,1,"Barcelona, ESP","Barcelona, ESP",Not specified,No
+Territory Sales Representative,Not specified,1,"Singapore, SGP","Singapore, SGP",Not specified,No
+"Territory Sales Representative, Manufacturing",Not specified,1,"Denver, CO, USA","Denver, CO, USA",Not specified,No
+Third Party Partnerships Manager,Not specified,1,6 Locations,6 Locations,Not specified,No
+Trusted AI Consultant,Not specified,1,4 Locations,4 Locations,Not specified,No
+UX Designer,Not specified,1,EMEA - Serbia - Novi Sad - Zeleznicka 7,EMEA - Serbia - Novi Sad - Zeleznicka 7,Not specified,No
+User Experience (UX) Designer,Not specified,1,2 Locations,2 Locations,Not specified,No
+"User Experience Architect, Platform Data",Not specified,1,4 Locations,4 Locations,Not specified,No
+"Vice President, Growth and Partner Marketing",Not specified,1,5 Locations,5 Locations,Not specified,No
+Work Force Management Analyst,Not specified,1,"Denver, CO, USA","Denver, CO, USA",Not specified,No
+Workplace Events & Experience Manager,Not specified,1,AMER - United States - California - San Francisco - One Market,AMER - United States - California - San Francisco - One Market,Not specified,No
+"Workplace Manager, Pune",Not specified,1,"Pune, IND","Pune, IND",Not specified,No
