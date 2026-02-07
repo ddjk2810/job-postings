@@ -85,7 +85,9 @@ def save_new_jobs_csv(new_job_ids, all_current_jobs, output_file):
 
 def update_tracking_database(company_dir, current_jobs_set):
     """
-    Update the tracking database with current job IDs.
+    Update the tracking database by MERGING current jobs into the cumulative history.
+    Jobs are never removed from the tracking DB -- this prevents false "new" alerts
+    when a job disappears from a scrape (pagination, site issues) then reappears.
 
     Args:
         company_dir (Path): Company directory
@@ -93,19 +95,31 @@ def update_tracking_database(company_dir, current_jobs_set):
     """
     db_file = company_dir / 'jobs_tracking.json'
 
+    # Load existing cumulative history
+    existing_jobs = set()
+    if db_file.exists():
+        with open(db_file, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        existing_jobs = set(tuple(job) for job in data.get('jobs', []))
+
+    # Merge: union of existing + current (never lose a job we've seen before)
+    all_seen_jobs = existing_jobs | current_jobs_set
+
     # Convert set of tuples to list of lists for JSON serialization
-    jobs_list = [list(job) for job in current_jobs_set]
+    jobs_list = [list(job) for job in all_seen_jobs]
 
     tracking_data = {
         'last_updated': datetime.now().isoformat(),
         'job_count': len(jobs_list),
+        'active_count': len(current_jobs_set),
         'jobs': jobs_list
     }
 
     with open(db_file, 'w', encoding='utf-8') as f:
         json.dump(tracking_data, f, indent=2)
 
-    print(f"  Updated tracking database: {len(jobs_list)} jobs tracked")
+    new_in_db = len(all_seen_jobs) - len(existing_jobs)
+    print(f"  Updated tracking database: {len(all_seen_jobs)} total seen ({len(current_jobs_set)} active, {new_in_db} newly added)")
 
 
 def find_previous_csv(company_dir, company_slug, today):

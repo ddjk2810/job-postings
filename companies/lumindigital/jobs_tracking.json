@@ -1,34 +1,25 @@
 {
-  "last_updated": "2026-02-07T06:57:10.241534",
+  "last_updated": "2026-02-07T15:02:57.705099",
   "job_count": 11,
+  "active_count": 11,
   "jobs": [
-    [
-      "Quality Engineer",
-      "Development",
-      "Remote- United States"
-    ],
-    [
-      "Product Manager - Platform Integrations",
-      "Product",
-      "Remote- United States"
-    ],
-    [
-      "Senior Security Platform Engineer",
-      "Security",
-      "Remote- United States"
-    ],
-    [
-      "Sr. UI Developer",
-      "Development",
-      "Remote- United States"
-    ],
     [
       "Product Manager",
       "Product",
       "Remote- United States"
     ],
     [
-      "Product Manager - Third Party Integrations",
+      "GTM Data Strategist",
+      "Marketing",
+      "Remote- United States"
+    ],
+    [
+      "Manager, Privacy Engineering",
+      "Privacy",
+      "Remote- United States"
+    ],
+    [
+      "Product Manager - Platform Integrations",
       "Product",
       "Remote- United States"
     ],
@@ -38,23 +29,33 @@
       "Remote- United States"
     ],
     [
+      "Sr. UI Developer",
+      "Development",
+      "Remote- United States"
+    ],
+    [
+      "Product Manager - Third Party Integrations",
+      "Product",
+      "Remote- United States"
+    ],
+    [
       "Program Manager, Services",
       "Services",
       "Remote- United States"
     ],
     [
-      "Manager, Privacy Engineering",
-      "Privacy",
-      "Remote- United States"
-    ],
-    [
-      "GTM Data Strategist",
-      "Marketing",
-      "Remote- United States"
-    ],
-    [
       "Senior Software Engineer",
       "Development",
+      "Remote- United States"
+    ],
+    [
+      "Quality Engineer",
+      "Development",
+      "Remote- United States"
+    ],
+    [
+      "Senior Security Platform Engineer",
+      "Security",
       "Remote- United States"
     ]
   ]

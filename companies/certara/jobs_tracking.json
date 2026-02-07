@@ -1,11 +1,12 @@
 {
-  "last_updated": "2026-02-07T06:57:09.887179",
+  "last_updated": "2026-02-07T15:02:56.941401",
   "job_count": 12,
+  "active_count": 12,
   "jobs": [
     [
-      "Sr. Product Designer",
-      "Not specified",
-      "Work at Home - US, US"
+      "Regulatory Operations Specialist I",
+      "Scientific",
+      "Work at Home - US"
     ],
     [
       "R&A- Senior Regulatory Writer- SRW (Clinical focus)",
@@ -13,39 +14,14 @@
       "Work at Home - EMEA, GB"
     ],
     [
-      "Regulatory Writer I",
-      "Not specified",
-      "HUN - Budapest"
-    ],
-    [
       "Associate Director \u2013 Operations Business Partner",
       "Not specified",
       "Multiple"
     ],
     [
-      "Director, Pharmacometrics",
-      "Scientific",
-      "Multiple"
-    ],
-    [
-      "Associate Scientist, SAS Programmer",
-      "Scientific",
-      "Work at Home - EMEA, GB"
-    ],
-    [
       "R&A - Associate Principal Regulatory Writer (APRW) - Clinical",
       "Support/Other",
       "Work at Home - EMEA, GB"
-    ],
-    [
-      "Tech Lead",
-      "Not specified",
-      "Multiple"
-    ],
-    [
-      "Regulatory Operations Specialist I",
-      "Scientific",
-      "Work at Home - US"
     ],
     [
       "Senior (Financial) Accountant",
@@ -58,9 +34,34 @@
       "Multiple"
     ],
     [
+      "Director, Pharmacometrics",
+      "Scientific",
+      "Multiple"
+    ],
+    [
+      "Regulatory Writer I",
+      "Not specified",
+      "HUN - Budapest"
+    ],
+    [
+      "Associate Scientist, SAS Programmer",
+      "Scientific",
+      "Work at Home - EMEA, GB"
+    ],
+    [
       "Director of Commercial Finance Forecasting and Planning",
       "Not specified",
       "Work at Home - US, US"
+    ],
+    [
+      "Sr. Product Designer",
+      "Not specified",
+      "Work at Home - US, US"
+    ],
+    [
+      "Tech Lead",
+      "Not specified",
+      "Multiple"
     ]
   ]
 }
