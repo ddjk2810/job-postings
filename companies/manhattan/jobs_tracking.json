@@ -1,90 +1,15 @@
 {
-  "last_updated": "2026-02-07T20:19:49.654155",
+  "last_updated": "2026-02-08T07:03:21.735493",
   "job_count": 35,
   "active_count": 35,
   "jobs": [
-    [
-      "Consulting Resource Specialist",
-      "Not specified",
-      "Atlanta, GA"
-    ],
-    [
-      "Frontend Developer/Web Developer",
-      "Not specified",
-      "Atlanta, GA"
-    ],
     [
       "Associate Consultant",
       "Not specified",
       "Paris"
     ],
     [
-      "Engagement Director",
-      "Not specified",
-      "Sydney"
-    ],
-    [
-      "Senior Technology Consultant | Supply Chain Software",
-      "Not specified",
-      "Atlanta, GA"
-    ],
-    [
-      "Senior Principal Consultant - Supply Chain Planning",
-      "Not specified",
-      "Atlanta, GA"
-    ],
-    [
-      "Principal Support Analyst, CSO, WM-i",
-      "Not specified",
-      "Atlanta, GA"
-    ],
-    [
-      "Sales Executive - New Business",
-      "Not specified",
-      "Tokyo"
-    ],
-    [
-      "Support Associate Consultant (Internship)",
-      "Not specified",
-      "Paris"
-    ],
-    [
-      "Senior Consultant \u2013 Shipping Planning & Optimization",
-      "Not specified",
-      "Atlanta, GA"
-    ],
-    [
-      "Senior Engineer - IT Infrastructure & Storage",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Senior Enterprise Analyst, Workday Financials",
-      "Not specified",
-      "Atlanta, GA"
-    ],
-    [
-      "Senior Consultant",
-      "Not specified",
-      "Atlanta, GA"
-    ],
-    [
-      "Senior Enterprise Mobility Account Executive, Supply Chain",
-      "Not specified",
-      "Atlanta, GA"
-    ],
-    [
-      "Principal Integrations Engineer, Workday Financials (remote)",
-      "Not specified",
-      "Atlanta, GA"
-    ],
-    [
-      "Manager, Change Management",
-      "Not specified",
-      "Atlanta, GA"
-    ],
-    [
-      "Principal Consultant-Manhattan Active Warehouse Management",
+      "Consulting Resource Specialist",
       "Not specified",
       "Atlanta, GA"
     ],
@@ -94,42 +19,42 @@
       "US - Home Office"
     ],
     [
-      "Technology Consultant, Supply Chain (Chile)",
+      "Engagement Director",
       "Not specified",
-      "Santiago"
+      "Paris"
     ],
     [
-      "Senior IT Delivery Manager, Financial Systems",
+      "Senior Enterprise Analyst, Workday Financials",
+      "Not specified",
+      "Atlanta, GA"
+    ],
+    [
+      "Associate Consultant - Internship",
+      "Not specified",
+      "Barcelona"
+    ],
+    [
+      "Engagement Director - Supply Chain Planning",
+      "Not specified",
+      "Atlanta, GA"
+    ],
+    [
+      "Senior Consultant",
+      "Not specified",
+      "Atlanta, GA"
+    ],
+    [
+      "Principal Support Analyst, CSO, WM-i",
       "Not specified",
       "Atlanta, GA"
     ],
     [
       "Engagement Director",
       "Not specified",
-      "Paris"
+      "Sydney"
     ],
     [
-      "Director, Support Consulting, CSO, Supply Chain Solutions",
-      "Not specified",
-      "Atlanta, GA"
-    ],
-    [
-      "Sales Account Executive",
-      "Not specified",
-      "Paris"
-    ],
-    [
-      "Analyst Relations Specialist",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Senior Services Project Manager, Supply Chain Technology (Chile)",
-      "Not specified",
-      "Santiago"
-    ],
-    [
-      "Senior Product Marketing Manager (AI/ML)",
+      "Manager, Change Management",
       "Not specified",
       "Atlanta, GA"
     ],
@@ -139,32 +64,27 @@
       "Atlanta, GA"
     ],
     [
-      "Senior Support Consultant, Supply Chain Technology (Chile)",
-      "Not specified",
-      "Santiago"
-    ],
-    [
-      "Principal Consultant - Carrier Management",
-      "Not specified",
-      "US - Home Office"
-    ],
-    [
-      "Associate Consultant - Internship",
-      "Not specified",
-      "Barcelona"
-    ],
-    [
-      "Principal Support Consultant",
-      "Not specified",
-      "Paris"
-    ],
-    [
-      "Project Manager - Manhattan Active WM",
+      "Director, Support Consulting, CSO, Supply Chain Solutions",
       "Not specified",
       "Atlanta, GA"
     ],
     [
-      "Engagement Director - Supply Chain Planning",
+      "Enterprise Mobility Account Executive",
+      "Not specified",
+      "Atlanta, GA"
+    ],
+    [
+      "Senior Consultant \u2013 Shipping Planning & Optimization",
+      "Not specified",
+      "Atlanta, GA"
+    ],
+    [
+      "Technology Consultant, Supply Chain (Chile)",
+      "Not specified",
+      "Santiago"
+    ],
+    [
+      "Senior Principal Consultant - Supply Chain Planning",
       "Not specified",
       "Atlanta, GA"
     ],
@@ -174,9 +94,89 @@
       "Bangalore"
     ],
     [
-      "Enterprise Mobility Account Executive",
+      "Senior Services Project Manager, Supply Chain Technology (Chile)",
+      "Not specified",
+      "Santiago"
+    ],
+    [
+      "Principal Integrations Engineer, Workday Financials (remote)",
       "Not specified",
       "Atlanta, GA"
+    ],
+    [
+      "Support Associate Consultant (Internship)",
+      "Not specified",
+      "Paris"
+    ],
+    [
+      "Senior Enterprise Mobility Account Executive, Supply Chain",
+      "Not specified",
+      "Atlanta, GA"
+    ],
+    [
+      "Senior IT Delivery Manager, Financial Systems",
+      "Not specified",
+      "Atlanta, GA"
+    ],
+    [
+      "Sales Account Executive",
+      "Not specified",
+      "Paris"
+    ],
+    [
+      "Senior Engineer - IT Infrastructure & Storage",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Frontend Developer/Web Developer",
+      "Not specified",
+      "Atlanta, GA"
+    ],
+    [
+      "Project Manager - Manhattan Active WM",
+      "Not specified",
+      "Atlanta, GA"
+    ],
+    [
+      "Sales Executive - New Business",
+      "Not specified",
+      "Tokyo"
+    ],
+    [
+      "Senior Technology Consultant | Supply Chain Software",
+      "Not specified",
+      "Atlanta, GA"
+    ],
+    [
+      "Senior Product Marketing Manager (AI/ML)",
+      "Not specified",
+      "Atlanta, GA"
+    ],
+    [
+      "Senior Support Consultant, Supply Chain Technology (Chile)",
+      "Not specified",
+      "Santiago"
+    ],
+    [
+      "Principal Consultant-Manhattan Active Warehouse Management",
+      "Not specified",
+      "Atlanta, GA"
+    ],
+    [
+      "Analyst Relations Specialist",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Principal Consultant - Carrier Management",
+      "Not specified",
+      "US - Home Office"
+    ],
+    [
+      "Principal Support Consultant",
+      "Not specified",
+      "Paris"
     ]
   ]
 }

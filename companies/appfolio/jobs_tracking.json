@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-02-07T20:19:48.750995",
+  "last_updated": "2026-02-08T07:03:20.977328",
   "job_count": 47,
   "active_count": 47,
   "jobs": [
     [
-      "Software Engineer II - Resident Concierge",
+      "Business Development Representative - SMB Investment Manager",
       "Not specified",
-      "9 Locations"
+      "2 Locations"
     ],
     [
-      "Business Development Representative - SMB",
+      "Sr. Product Manager, Data Platform",
       "Not specified",
-      "Santa Barbara, California"
+      "Remote, United States"
     ],
     [
       "CCaaS Administrator",
@@ -19,17 +19,22 @@
       "Santa Barbara, California"
     ],
     [
-      "Sr. Software Engineer - FolioScreen",
+      "Sr. Manager, Internal Audit",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "SVP, Client Services",
       "Not specified",
       "8 Locations"
     ],
     [
-      "Manager, Business Development",
+      "Sr. Site Reliability Engineer - Observability",
       "Not specified",
-      "2 Locations"
+      "9 Locations"
     ],
     [
-      "Manager, User Experience Design - ML",
+      "Sr. Software Engineer - Data Query",
       "Not specified",
       "8 Locations"
     ],
@@ -39,12 +44,17 @@
       "9 Locations"
     ],
     [
-      "Account Executive - SMB",
+      "Growth Business Development Representative - SMB",
       "Not specified",
       "2 Locations"
     ],
     [
-      "User Experience Designer",
+      "Growth Account Executive - SMB",
+      "Not specified",
+      "Santa Barbara, California"
+    ],
+    [
+      "Software Engineer II - Investment Manager",
       "Not specified",
       "8 Locations"
     ],
@@ -54,94 +64,14 @@
       "8 Locations"
     ],
     [
-      "Corporate Counsel, Product",
-      "Not specified",
-      "Santa Barbara, California"
-    ],
-    [
-      "Software Engineer II - Accounting Receivables",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Sr. Product Manager",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Sr. Events Technology Manager",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
       "Sr. Data Scientist, AI Delivery/Deployment",
       "Not specified",
       "8 Locations"
     ],
     [
-      "Manager, Software Engineering",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Director, Corporate Finance",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Software Engineer II",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Real-Time Data Engineer II",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Business Development Representative - Upmarket",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Growth Business Development Representative - SMB",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Site Reliability Engineer I",
-      "Not specified",
-      "7 Locations"
-    ],
-    [
       "Sr. Software Engineer - Platform",
       "Not specified",
       "8 Locations"
-    ],
-    [
-      "Sr. Software Engineer - Deployment Platform",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Growth Account Executive - SMB",
-      "Not specified",
-      "Santa Barbara, California"
-    ],
-    [
-      "SVP, Client Services",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Sr. Product Manager, Data Platform",
-      "Not specified",
-      "Remote, United States"
-    ],
-    [
-      "Director, Software Engineering",
-      "Not specified",
-      "Santa Barbara, California"
     ],
     [
       "Sr. Software Engineer - Affordable Housing",
@@ -154,9 +84,24 @@
       "Remote, United States"
     ],
     [
+      "Staff HRIS Analyst",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
       "Sr. Software Engineer - Resident Concierge",
       "Not specified",
       "9 Locations"
+    ],
+    [
+      "Software Engineer II",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Sr. Events Technology Manager",
+      "Not specified",
+      "8 Locations"
     ],
     [
       "Staff Data Science Engineer, Data Operations",
@@ -164,34 +109,19 @@
       "5 Locations"
     ],
     [
-      "Sr. Billing Specialist",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr. Tax Manager",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Software Engineer II - Investment Manager",
+      "Sr. Software Engineer - Deployment Platform",
       "Not specified",
       "8 Locations"
     ],
     [
-      "Associate Product Support Specialist - LiveEasy",
+      "Director, Corporate Finance",
       "Not specified",
-      "Columbus, Ohio"
+      "5 Locations"
     ],
     [
-      "Team Lead, Concierge - LiveEasy",
+      "Director, Software Engineering",
       "Not specified",
-      "Columbus, Ohio"
-    ],
-    [
-      "Business Development Representative - SMB Investment Manager",
-      "Not specified",
-      "2 Locations"
+      "Santa Barbara, California"
     ],
     [
       "Account Executive - Upmarket (West)",
@@ -199,9 +129,14 @@
       "4 Locations"
     ],
     [
-      "Staff HRIS Analyst",
+      "Software Engineer II - Accounting Receivables",
       "Not specified",
       "8 Locations"
+    ],
+    [
+      "Business Development Representative - SMB",
+      "Not specified",
+      "Santa Barbara, California"
     ],
     [
       "Digital Marketing Manager, Generative Engine Optimization",
@@ -209,12 +144,47 @@
       "Santa Barbara, California"
     ],
     [
+      "Site Reliability Engineer I",
+      "Not specified",
+      "7 Locations"
+    ],
+    [
+      "Manager, Business Development",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr. Product Manager",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Team Lead, Concierge - LiveEasy",
+      "Not specified",
+      "Columbus, Ohio"
+    ],
+    [
       "Sr. Account Executive - SMB",
       "Not specified",
       "3 Locations"
     ],
     [
-      "Sr. Software Engineer - Data Query",
+      "Software Engineer II - Resident Concierge",
+      "Not specified",
+      "9 Locations"
+    ],
+    [
+      "Sr. Software Engineer - FolioScreen",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Sr. Tax Manager",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Real-Time Data Engineer II",
       "Not specified",
       "8 Locations"
     ],
@@ -224,9 +194,9 @@
       "8 Locations"
     ],
     [
-      "Sr. Manager, Internal Audit",
+      "User Experience Designer",
       "Not specified",
-      "4 Locations"
+      "8 Locations"
     ],
     [
       "Mobile Software Engineer II",
@@ -234,9 +204,39 @@
       "7 Locations"
     ],
     [
-      "Sr. Site Reliability Engineer - Observability",
+      "Associate Product Support Specialist - LiveEasy",
       "Not specified",
-      "9 Locations"
+      "Columbus, Ohio"
+    ],
+    [
+      "Business Development Representative - Upmarket",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Corporate Counsel, Product",
+      "Not specified",
+      "Santa Barbara, California"
+    ],
+    [
+      "Account Executive - SMB",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Manager, Software Engineering",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Manager, User Experience Design - ML",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Sr. Billing Specialist",
+      "Not specified",
+      "2 Locations"
     ]
   ]
 }

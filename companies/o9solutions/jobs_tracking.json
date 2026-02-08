@@ -1,77 +1,12 @@
 {
-  "last_updated": "2026-02-07T20:19:49.752035",
+  "last_updated": "2026-02-08T07:03:21.833706",
   "job_count": 30,
   "active_count": 30,
   "jobs": [
     [
-      "Business Development Manager",
-      "Not specified",
-      "Works From Home - Sao Paulo, Brazil"
-    ],
-    [
-      "DevOps Manager",
-      "Not specified",
-      "Works From Home - Sao Paulo, Brazil"
-    ],
-    [
-      "Human Resources Specialist",
-      "Not specified",
-      "Dallas, Texas, United States"
-    ],
-    [
-      "Senior Data Scientist - Demand Forecasting",
-      "Not specified",
-      "Bangalore, Karnataka, India"
-    ],
-    [
-      "Business Development Representative",
+      "Solution Consulting",
       "Not specified",
       "Tokyo, Japan"
-    ],
-    [
-      "Sr. Administrative Assistant",
-      "Not specified",
-      "Dallas, Texas, United States"
-    ],
-    [
-      "Account Executive EMEA",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Account Executive",
-      "Not specified",
-      "Tokyo, Japan"
-    ],
-    [
-      "Account Executive",
-      "Not specified",
-      "53 Locations"
-    ],
-    [
-      "Senior Technical Consultant",
-      "Not specified",
-      "Dallas, Texas, United States"
-    ],
-    [
-      "DevOps Engineer",
-      "Not specified",
-      "Seoul, South Korea"
-    ],
-    [
-      "Solution Architect",
-      "Not specified",
-      "Works From Home - Sao Paulo, Brazil"
-    ],
-    [
-      "Solutions Consulting Manager, SIM",
-      "Not specified",
-      "52 Locations"
-    ],
-    [
-      "Talent Management Specialist III",
-      "Not specified",
-      "Bangalore, Karnataka, India"
     ],
     [
       "Delivery Manager",
@@ -79,12 +14,27 @@
       "Tokyo, Japan"
     ],
     [
-      "Director, Business Development",
+      "Machine Learning Engineer EMEA",
+      "Not specified",
+      "6 Locations"
+    ],
+    [
+      "Sr. Functional Consultant",
+      "Not specified",
+      "Works From Home - Sao Paulo, Brazil"
+    ],
+    [
+      "Senior Technical Consultant",
       "Not specified",
       "Dallas, Texas, United States"
     ],
     [
-      "Senior Data Scientist - Demand Forecasting(POC)",
+      "Account Executive EMEA",
+      "Not specified",
+      "Amsterdam, Netherlands"
+    ],
+    [
+      "Senior Data Scientist - Demand Forecasting",
       "Not specified",
       "Bangalore, Karnataka, India"
     ],
@@ -99,44 +49,9 @@
       "Works From Home - Mexico"
     ],
     [
-      "Sr. Functional Consultant",
+      "Solutions Consulting Manager, SIM",
       "Not specified",
-      "Works From Home - Sao Paulo, Brazil"
-    ],
-    [
-      "Senior Manager, Delivery",
-      "Not specified",
-      "Tokyo, Japan"
-    ],
-    [
-      "Technical Consultant, Senior",
-      "Not specified",
-      "Tokyo, Japan"
-    ],
-    [
-      "Machine Learning Engineer EMEA",
-      "Not specified",
-      "6 Locations"
-    ],
-    [
-      "Account Executive EMEA",
-      "Not specified",
-      "Amsterdam, Netherlands"
-    ],
-    [
-      "Financial Analyst, Senior",
-      "Not specified",
-      "Bangalore, Karnataka, India"
-    ],
-    [
-      "Director,  Demand Planning Solution Architect",
-      "Not specified",
-      "Bangalore, Karnataka, India"
-    ],
-    [
-      "Associate Architect",
-      "Not specified",
-      "Dallas, Texas, United States"
+      "52 Locations"
     ],
     [
       "Sr. DevOps Engineer",
@@ -144,7 +59,47 @@
       "Works From Home - Sao Paulo, Brazil"
     ],
     [
-      "Solution Consulting",
+      "Senior Data Scientist - Demand Forecasting(POC)",
+      "Not specified",
+      "Bangalore, Karnataka, India"
+    ],
+    [
+      "Account Executive",
+      "Not specified",
+      "53 Locations"
+    ],
+    [
+      "DevOps Engineer",
+      "Not specified",
+      "Seoul, South Korea"
+    ],
+    [
+      "Solution Architect",
+      "Not specified",
+      "Works From Home - Sao Paulo, Brazil"
+    ],
+    [
+      "Business Development Representative",
+      "Not specified",
+      "Tokyo, Japan"
+    ],
+    [
+      "Senior Manager, Delivery",
+      "Not specified",
+      "Tokyo, Japan"
+    ],
+    [
+      "Account Executive",
+      "Not specified",
+      "Tokyo, Japan"
+    ],
+    [
+      "Talent Management Specialist III",
+      "Not specified",
+      "Bangalore, Karnataka, India"
+    ],
+    [
+      "Technical Consultant, Senior",
       "Not specified",
       "Tokyo, Japan"
     ],
@@ -152,6 +107,51 @@
       "Functional Consultant, Delivery",
       "Not specified",
       "Tokyo, Japan"
+    ],
+    [
+      "Financial Analyst, Senior",
+      "Not specified",
+      "Bangalore, Karnataka, India"
+    ],
+    [
+      "Account Executive EMEA",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Associate Architect",
+      "Not specified",
+      "Dallas, Texas, United States"
+    ],
+    [
+      "Business Development Manager",
+      "Not specified",
+      "Works From Home - Sao Paulo, Brazil"
+    ],
+    [
+      "Sr. Administrative Assistant",
+      "Not specified",
+      "Dallas, Texas, United States"
+    ],
+    [
+      "Director, Business Development",
+      "Not specified",
+      "Dallas, Texas, United States"
+    ],
+    [
+      "DevOps Manager",
+      "Not specified",
+      "Works From Home - Sao Paulo, Brazil"
+    ],
+    [
+      "Director,  Demand Planning Solution Architect",
+      "Not specified",
+      "Bangalore, Karnataka, India"
+    ],
+    [
+      "Human Resources Specialist",
+      "Not specified",
+      "Dallas, Texas, United States"
     ]
   ]
 }
