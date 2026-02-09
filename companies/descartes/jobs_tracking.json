@@ -1,47 +1,17 @@
 {
-  "last_updated": "2026-02-08T07:03:21.416836",
+  "last_updated": "2026-02-09T07:17:18.556455",
   "job_count": 26,
   "active_count": 25,
   "jobs": [
     [
-      "Manager, Billing",
+      "Account Executive ( German Speaking)",
       "Not specified",
-      "Waterloo, ON, N2V 1C6"
+      "DE"
     ],
     [
-      "Senior Account Manager",
-      "Not specified",
-      "Rheinfelden, CH, 4310"
-    ],
-    [
-      "PR &amp; Marketing Communications Manager",
-      "Not specified",
-      "Amersfoort, NL, 10 3812 RK"
-    ],
-    [
-      "Technical Architect",
-      "Not specified",
-      "Gurugram, HR, IN, 122018"
-    ],
-    [
-      "Field Marketing Manager( Global Events Management)",
+      "Director of Sales",
       "Not specified",
       "US"
-    ],
-    [
-      "Support Specialist",
-      "Not specified",
-      "US"
-    ],
-    [
-      "Implementation Consultant",
-      "Not specified",
-      "US"
-    ],
-    [
-      "Software Test Engineer",
-      "Not specified",
-      "Zilina, SK, 010 01"
     ],
     [
       "Site Reliability Engineer",
@@ -49,44 +19,9 @@
       "Makati City, PH"
     ],
     [
-      "Expertise Centre Support Agent",
+      "Field Marketing Manager( Global Events Management)",
       "Not specified",
       "US"
-    ],
-    [
-      "Customer Success Manager",
-      "Not specified",
-      "Amersfoort, NL, 10 3812 RK"
-    ],
-    [
-      "Financial Analyst",
-      "Not specified",
-      "Gurugram, HR, IN, 122018"
-    ],
-    [
-      "Expertise Centre Manager",
-      "Not specified",
-      "Amersfoort, NL, 10 3812 RK"
-    ],
-    [
-      "AI Solutions Architect",
-      "Not specified",
-      "US"
-    ],
-    [
-      "Account Executive ( German Speaking)",
-      "Not specified",
-      "DE"
-    ],
-    [
-      "Technical Account Manager",
-      "Not specified",
-      "US"
-    ],
-    [
-      "Technical Team Lead, JavaScript (Node.js, React)",
-      "Not specified",
-      "Sencur, SI, SI-4208"
     ],
     [
       "Senior Systems Engineer",
@@ -94,34 +29,34 @@
       "Namestovo, SK, 029 01 \u2022 Philippines, PH"
     ],
     [
-      "VP Sales -Enterprise SaaS | Logistics Service Providers | Broker &amp; Forwarder Systems",
-      "Not specified",
-      "US"
-    ],
-    [
-      "Site Reliability Engineer",
-      "Not specified",
-      "BR"
-    ],
-    [
-      "Director, Corporate Development",
-      "Not specified",
-      "Waterloo, ON, N2V 1C6"
-    ],
-    [
       "Client Onboarding Specialist",
       "Not specified",
       "BG"
     ],
     [
-      "Hyper-V and Storage Administrator",
+      "Customer Success Manager",
       "Not specified",
-      "Waterloo, ON, N2V 1C6"
+      "Amersfoort, NL, 10 3812 RK"
     ],
     [
-      "Technical Support Representative",
+      "PR &amp; Marketing Communications Manager",
       "Not specified",
-      "BG"
+      "Amersfoort, NL, 10 3812 RK"
+    ],
+    [
+      "VP Sales -Enterprise SaaS | Logistics Service Providers | Broker &amp; Forwarder Systems",
+      "Not specified",
+      "US"
+    ],
+    [
+      "Financial Analyst",
+      "Not specified",
+      "Gurugram, HR, IN, 122018"
+    ],
+    [
+      "Technical Account Manager",
+      "Not specified",
+      "US"
     ],
     [
       "Senior Software Engineer- JavaScript (Node.js, React)",
@@ -129,9 +64,74 @@
       "Sencur, SI, SI-4208"
     ],
     [
-      "Director of Sales",
+      "Expertise Centre Manager",
+      "Not specified",
+      "Amersfoort, NL, 10 3812 RK"
+    ],
+    [
+      "Technical Team Lead, JavaScript (Node.js, React)",
+      "Not specified",
+      "Sencur, SI, SI-4208"
+    ],
+    [
+      "Implementation Consultant",
       "Not specified",
       "US"
+    ],
+    [
+      "Technical Architect",
+      "Not specified",
+      "Gurugram, HR, IN, 122018"
+    ],
+    [
+      "Manager, Billing",
+      "Not specified",
+      "Waterloo, ON, N2V 1C6"
+    ],
+    [
+      "Support Specialist",
+      "Not specified",
+      "US"
+    ],
+    [
+      "Senior Account Manager",
+      "Not specified",
+      "Rheinfelden, CH, 4310"
+    ],
+    [
+      "Technical Support Representative",
+      "Not specified",
+      "BG"
+    ],
+    [
+      "Expertise Centre Support Agent",
+      "Not specified",
+      "US"
+    ],
+    [
+      "Director, Corporate Development",
+      "Not specified",
+      "Waterloo, ON, N2V 1C6"
+    ],
+    [
+      "Hyper-V and Storage Administrator",
+      "Not specified",
+      "Waterloo, ON, N2V 1C6"
+    ],
+    [
+      "Site Reliability Engineer",
+      "Not specified",
+      "BR"
+    ],
+    [
+      "AI Solutions Architect",
+      "Not specified",
+      "US"
+    ],
+    [
+      "Software Test Engineer",
+      "Not specified",
+      "Zilina, SK, 010 01"
     ]
   ]
 }

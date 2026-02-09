@@ -1,121 +1,11 @@
 {
-  "last_updated": "2026-02-08T07:03:21.512679",
+  "last_updated": "2026-02-09T07:17:18.669539",
   "job_count": 34,
   "active_count": 34,
   "jobs": [
     [
-      "Instructional Designer",
-      "Product Training",
-      "Lehi, Utah"
-    ],
-    [
-      "Head of Analytics",
-      "Software Development",
-      "Pune, India"
-    ],
-    [
-      "Customer Success Manager",
-      "Customer Success",
-      "Lehi, Utah"
-    ],
-    [
-      "Associate Digital Marketing Consultant",
-      "Digital Marketing",
-      "Pune, India"
-    ],
-    [
-      "Software Engineer",
-      "Software Development",
-      "Pune, India"
-    ],
-    [
-      "Senior Product Manager, Accounting Suite",
-      "Product Management",
-      "Lehi, Utah"
-    ],
-    [
-      "Insurance Sales Agent",
-      "Resident Insure",
-      "Lehi, Utah"
-    ],
-    [
-      "Invoice Acquisition Specialist",
-      "Utilities",
-      "Pune, India"
-    ],
-    [
       "Senior Accountant",
       "Accounting",
-      "Lehi, Utah"
-    ],
-    [
-      "Key Account Support Engineer",
-      "Technical Support",
-      "United States"
-    ],
-    [
-      "Talent Partner (CTH- 6 months)",
-      "People",
-      "Pune, India"
-    ],
-    [
-      "Director of Product, AI Automations",
-      "Product Management",
-      "Lehi, Utah"
-    ],
-    [
-      "Head - Service Operations",
-      "Product Management",
-      "Pune, India"
-    ],
-    [
-      "Contact Center Professional",
-      "Leasing Center",
-      "Pune, India"
-    ],
-    [
-      "Customer Service Representative",
-      "Technical Support",
-      "Logan, UT"
-    ],
-    [
-      "Accounting Lead Technical Support Engineer",
-      "Technical Support",
-      "Lehi, Utah"
-    ],
-    [
-      "Utility Auditor",
-      "Utilities",
-      "United States"
-    ],
-    [
-      "Senior AI Software Engineer",
-      "Software Development",
-      "Lehi, Utah"
-    ],
-    [
-      "Team Lead, India Contact Center",
-      "Leasing Center",
-      "Pune, India"
-    ],
-    [
-      "Equity Plan Administrator",
-      "FP&A",
-      "Lehi, Utah"
-    ],
-    [
-      "Software Engineer",
-      "Software Development",
-      "Tel Aviv, Israel"
-    ],
-    [
-      "Senior Machine Learning Engineer",
-      "Software Development",
-      "Lehi, Utah"
-    ],
-    [
-      "Regional Vice President of Sales (IC)",
-      "Sales",
       "Lehi, Utah"
     ],
     [
@@ -124,42 +14,32 @@
       "Lehi, Utah"
     ],
     [
-      "Regional Vice President of Sales, East Region (IC-Enterprise)",
-      "Sales",
-      "Illinois"
-    ],
-    [
-      "Industry Principal, Insurance",
-      "Sales",
-      "Lehi, Utah"
-    ],
-    [
       "Regional Vice President of Sales, Central Region",
       "Sales",
       "Dallas, TX"
     ],
     [
-      "Product Education Manager",
-      "Product Training",
-      "United States"
-    ],
-    [
-      "Admin & Facilities Partner",
-      "People",
+      "Product Owner",
+      "Product Management",
       "Pune, India"
     ],
     [
-      "Talent Partner - Volume Hiring (CTH- 6 months)",
-      "People",
+      "Software Engineer",
+      "Software Development",
       "Pune, India"
     ],
     [
-      "Graphic Design Intern",
-      "Creative",
+      "Regional Vice President of Sales (IC)",
+      "Sales",
       "Lehi, Utah"
     ],
     [
-      "Product Owner",
+      "Head of Analytics",
+      "Software Development",
+      "Pune, India"
+    ],
+    [
+      "Head - Service Operations",
       "Product Management",
       "Pune, India"
     ],
@@ -172,6 +52,126 @@
       "Talent Sourcer",
       "Talent Acquisition",
       "Pune, India"
+    ],
+    [
+      "Utility Auditor",
+      "Utilities",
+      "United States"
+    ],
+    [
+      "Senior Machine Learning Engineer",
+      "Software Development",
+      "Lehi, Utah"
+    ],
+    [
+      "Talent Partner (CTH- 6 months)",
+      "People",
+      "Pune, India"
+    ],
+    [
+      "Senior AI Software Engineer",
+      "Software Development",
+      "Lehi, Utah"
+    ],
+    [
+      "Product Education Manager",
+      "Product Training",
+      "United States"
+    ],
+    [
+      "Graphic Design Intern",
+      "Creative",
+      "Lehi, Utah"
+    ],
+    [
+      "Contact Center Professional",
+      "Leasing Center",
+      "Pune, India"
+    ],
+    [
+      "Customer Service Representative",
+      "Technical Support",
+      "Logan, UT"
+    ],
+    [
+      "Team Lead, India Contact Center",
+      "Leasing Center",
+      "Pune, India"
+    ],
+    [
+      "Equity Plan Administrator",
+      "FP&A",
+      "Lehi, Utah"
+    ],
+    [
+      "Accounting Lead Technical Support Engineer",
+      "Technical Support",
+      "Lehi, Utah"
+    ],
+    [
+      "Industry Principal, Insurance",
+      "Sales",
+      "Lehi, Utah"
+    ],
+    [
+      "Admin & Facilities Partner",
+      "People",
+      "Pune, India"
+    ],
+    [
+      "Invoice Acquisition Specialist",
+      "Utilities",
+      "Pune, India"
+    ],
+    [
+      "Instructional Designer",
+      "Product Training",
+      "Lehi, Utah"
+    ],
+    [
+      "Talent Partner - Volume Hiring (CTH- 6 months)",
+      "People",
+      "Pune, India"
+    ],
+    [
+      "Regional Vice President of Sales, East Region (IC-Enterprise)",
+      "Sales",
+      "Illinois"
+    ],
+    [
+      "Senior Product Manager, Accounting Suite",
+      "Product Management",
+      "Lehi, Utah"
+    ],
+    [
+      "Customer Success Manager",
+      "Customer Success",
+      "Lehi, Utah"
+    ],
+    [
+      "Associate Digital Marketing Consultant",
+      "Digital Marketing",
+      "Pune, India"
+    ],
+    [
+      "Director of Product, AI Automations",
+      "Product Management",
+      "Lehi, Utah"
+    ],
+    [
+      "Key Account Support Engineer",
+      "Technical Support",
+      "United States"
+    ],
+    [
+      "Software Engineer",
+      "Software Development",
+      "Tel Aviv, Israel"
+    ],
+    [
+      "Insurance Sales Agent",
+      "Resident Insure",
+      "Lehi, Utah"
     ]
   ]
 }
