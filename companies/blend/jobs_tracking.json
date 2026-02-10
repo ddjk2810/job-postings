@@ -1,20 +1,15 @@
 {
-  "last_updated": "2026-02-09T07:17:18.251302",
-  "job_count": 8,
-  "active_count": 8,
+  "last_updated": "2026-02-10T07:17:30.731872",
+  "job_count": 10,
+  "active_count": 10,
   "jobs": [
     [
+      "VP of Sales",
+      "Not specified",
+      "United States"
+    ],
+    [
       "Manager, Revenue Accounting",
-      "Not specified",
-      "United States"
-    ],
-    [
-      "Sales Engineer - Enterprise",
-      "Not specified",
-      "United States"
-    ],
-    [
-      "Client Sales Executive - Enterprise Accounts",
       "Not specified",
       "United States"
     ],
@@ -24,7 +19,12 @@
       "United States"
     ],
     [
-      "Manager, Deal Desk ",
+      "Client Sales Executive - Enterprise Accounts",
+      "Not specified",
+      "United States"
+    ],
+    [
+      "Client Sales Executive - IMB",
       "Not specified",
       "United States"
     ],
@@ -34,14 +34,24 @@
       "United States"
     ],
     [
+      "Sales Engineer - Enterprise",
+      "Not specified",
+      "United States"
+    ],
+    [
+      "Manager, Deal Desk ",
+      "Not specified",
+      "United States"
+    ],
+    [
+      "Client Sales Executive - New Logo (Named Accounts)",
+      "Not specified",
+      "United States"
+    ],
+    [
       "Product Marketing Manager ",
       "Not specified",
       "Raleigh, NC"
-    ],
-    [
-      "VP of Sales",
-      "Not specified",
-      "United States"
     ]
   ]
 }
