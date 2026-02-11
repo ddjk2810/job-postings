@@ -1,12 +1,17 @@
 {
-  "last_updated": "2026-02-10T07:17:30.881499",
-  "job_count": 12,
+  "last_updated": "2026-02-11T07:14:31.273810",
+  "job_count": 13,
   "active_count": 12,
   "jobs": [
     [
-      "Regulatory Writer I",
+      "Senior Product Manager",
       "Not specified",
-      "HUN - Budapest"
+      "Work at Home - US, US"
+    ],
+    [
+      "Regulatory Operations Specialist I",
+      "Scientific",
+      "Work at Home - US"
     ],
     [
       "Associate Director \u2013 Operations Business Partner",
@@ -24,6 +29,11 @@
       "Work at Home - EMEA, GB"
     ],
     [
+      "Senior (Financial) Accountant",
+      "Scientific",
+      "NLD - Oss, Oss,, NL"
+    ],
+    [
       "Director of Commercial Finance Forecasting and Planning",
       "Not specified",
       "Work at Home - US, US"
@@ -34,7 +44,7 @@
       "Work at Home - EMEA, GB"
     ],
     [
-      "Sr. Project Manager",
+      "Tech Lead",
       "Not specified",
       "Multiple"
     ],
@@ -44,24 +54,19 @@
       "Multiple"
     ],
     [
-      "Tech Lead",
-      "Not specified",
-      "Multiple"
-    ],
-    [
       "Associate Scientist, SAS Programmer",
       "Scientific",
       "Work at Home - EMEA, GB"
     ],
     [
-      "Senior (Financial) Accountant",
-      "Scientific",
-      "NLD - Oss, Oss,, NL"
+      "Regulatory Writer I",
+      "Not specified",
+      "HUN - Budapest"
     ],
     [
-      "Regulatory Operations Specialist I",
-      "Scientific",
-      "Work at Home - US"
+      "Sr. Project Manager",
+      "Not specified",
+      "Multiple"
     ]
   ]
 }

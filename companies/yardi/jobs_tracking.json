@@ -1,17 +1,22 @@
 {
-  "last_updated": "2026-02-10T07:17:31.992096",
-  "job_count": 73,
+  "last_updated": "2026-02-11T07:14:32.325693",
+  "job_count": 74,
   "active_count": 71,
   "jobs": [
     [
-      "Software Development Engineer III",
-      "Cloud & IT - Corporate",
-      "Santa Barbara, CA"
+      "Account Executive \u2013 SMB",
+      "Sales - Global Solutions",
+      "London, United Kingdom"
     ],
     [
-      "Senior Talent Acquisition Advisor",
-      "Operations - Corporate",
-      "Amsterdam, The Netherlands"
+      "Associate Technical Account Manager",
+      "Client Services - Global Solutions",
+      "Irving, TX"
+    ],
+    [
+      "Customer Service Representative I",
+      "Client Services - Resident Screening",
+      "Santa Ana, CA"
     ],
     [
       "Intern",
@@ -19,23 +24,8 @@
       "Toronto, ON"
     ],
     [
-      "Intern, Associate Technical Account Manager",
-      "Client Services - Breeze",
-      "Raleigh, NC"
-    ],
-    [
-      "Marketing Campaign Specialist",
-      "Sales - Global Solutions",
-      "Atlanta, GA"
-    ],
-    [
-      "Technical Account Manager",
-      "Client Services - Global Solutions",
-      "Singapore"
-    ],
-    [
-      "Associate Technical Account Manager",
-      "Client Services - Residential",
+      "Account Executive \u2013 Enterprise",
+      "Sales - Residential",
       "Raleigh, NC"
     ],
     [
@@ -44,134 +34,14 @@
       "Irving, TX"
     ],
     [
-      "Senior Consultant \u2013 Professional Services",
-      "Professional Services - Global Solutions",
-      "Pune, India"
-    ],
-    [
-      "Associate Technical Account Manager",
-      "Client Services - Residential",
-      "Santa Ana, CA"
-    ],
-    [
-      "Consultant",
-      "Professional Services - Global Solutions",
-      "Irving, TX"
-    ],
-    [
-      "Associate Technical Account Manager",
-      "Client Services - Global Solutions",
-      "Santa Barbara, CA"
-    ],
-    [
-      "Associate Account Executive \u2013 SMB",
-      "Sales - Breeze",
-      "Raleigh, NC"
-    ],
-    [
-      "Account Executive \u2013 SMB",
-      "Sales - Breeze",
-      "Toronto, ON"
-    ],
-    [
-      "Associate Technical Account Manager",
-      "Client Services - Global Solutions",
-      "Sydney, Australia"
-    ],
-    [
-      "Consultant, Professional Services",
-      "Professional Services - Global Solutions",
-      "Singapore"
-    ],
-    [
-      "Accounts Receivable Analyst II",
-      "Operations - P2P",
-      "Austin, TX"
-    ],
-    [
-      "Associate Technical Account Manager",
-      "Client Services - Global Solutions",
-      "Milton Keynes, United Kingdom"
-    ],
-    [
-      "Account Executive \u2013 Mid Market",
-      "Sales - Global Solutions",
-      "Sydney, Australia"
-    ],
-    [
-      "Associate Account Executive \u2013 SMB",
-      "Sales - Residential",
-      "Irving, TX"
-    ],
-    [
-      "Associate Technical Account Manager",
-      "Consulting Practices - Global Solutions",
-      "Toronto, ON"
-    ],
-    [
-      "Intern, Associate Technical Account Manager",
-      "Client Services - Global Solutions",
-      "Toronto, ON"
-    ],
-    [
-      "Associate Technical Account Manager",
-      "Client Services - PHA",
-      "Atlanta, GA"
+      "Associate Researcher",
+      "Operations - Matrix",
+      "Scottsdale, AZ"
     ],
     [
       "Public Records Analyst I",
       "Operations - Resident Screening",
       "Waltham, MA"
-    ],
-    [
-      "Consumer Dispute Specialist I",
-      "Operations - Resident Screening",
-      "Waltham, MA"
-    ],
-    [
-      "Software Development Engineer I",
-      "Software Development - Residential",
-      "Santa Barbara, CA"
-    ],
-    [
-      "Product Marketing Manager",
-      "Marketing - Residential",
-      "New York, NY"
-    ],
-    [
-      "Customer Service Representative I",
-      "Operations - Call Center",
-      "Irving, TX"
-    ],
-    [
-      "Account Executive \u2013 Mid Market",
-      "Sales - Residential",
-      "Raleigh, NC"
-    ],
-    [
-      "Technical Account Manager",
-      "Client Services - Global Solutions",
-      "Sydney, Australia"
-    ],
-    [
-      "Training Specialist I",
-      "Consulting Practices - Senior Living",
-      "Oxnard, CA"
-    ],
-    [
-      "Intern, Associate Technical Account Manager",
-      "Client Services - Global Solutions",
-      "Cleveland, OH"
-    ],
-    [
-      "Senior Accountant",
-      "Operations - Global Solutions",
-      "London, United Kingdom"
-    ],
-    [
-      "Associate Technical Account Manager",
-      "Client Services - Residential",
-      "Irving, TX"
     ],
     [
       "Technical Account Manager",
@@ -184,44 +54,69 @@
       "Boise, ID"
     ],
     [
-      "Solutions Consultant \u2013 Enterprise",
-      "Sales - Global Solutions",
-      "Amsterdam, The Netherlands"
+      "Associate Technical Account Manager",
+      "Consulting Practices - Global Solutions",
+      "Toronto, ON"
     ],
     [
-      "Account Executive \u2013 Enterprise",
-      "Sales - Residential",
+      "Associate Technical Account Manager",
+      "Client Services - Residential",
+      "Oxnard, CA"
+    ],
+    [
+      "Associate Marketing Specialist",
+      "Client Services - Residential",
+      "Santa Barbara, CA"
+    ],
+    [
+      "Senior Account Executive \u2013 Enterprise",
+      "Sales - Global Solutions",
+      "Santa Barbara, CA"
+    ],
+    [
+      "Training Specialist II",
+      "US - Client Services",
+      "Remote"
+    ],
+    [
+      "Associate Technical Account Manager",
+      "Client Services - Residential",
       "Raleigh, NC"
     ],
     [
+      "Software Development Engineer II",
+      "Cloud & IT - Corporate",
+      "Santa Barbara, CA"
+    ],
+    [
+      "Junior Account Executive \u2013 SMB",
+      "Sales - Breeze",
+      "Oxnard, CA"
+    ],
+    [
       "Intern, Associate Technical Account Manager",
-      "Client Services - Global Solutions",
+      "Client Services - Breeze",
+      "Raleigh, NC"
+    ],
+    [
+      "Senior Consultant \u2013 Professional Services",
+      "Professional Services - Global Solutions",
+      "Pune, India"
+    ],
+    [
+      "Senior System Reliability Engineer",
+      "Cloud & IT - Corporate",
       "Santa Barbara, CA"
     ],
     [
-      "Social Video Manager",
-      "Client Services - Residential",
-      "Austin, TX"
+      "Bill Pay Specialist",
+      "Operations - YES Energy",
+      "Atlanta, GA"
     ],
     [
-      "Associate Inventory Specialist",
-      "Client Services - YES Energy",
-      "Colorado Springs, CO"
-    ],
-    [
-      "Associate Researcher",
-      "Operations - Matrix",
-      "Scottsdale, AZ"
-    ],
-    [
-      "Associate Technical Account Manager",
-      "Client Services - Global Solutions",
-      "Amsterdam, The Netherlands"
-    ],
-    [
-      "Associate Technical Account Manager",
-      "Client Services - Senior Living",
-      "Santa Barbara, CA"
+      "Associate Account Executive \u2013 SMB",
+      "Sales - Residential",
+      "Irving, TX"
     ],
     [
       "Associate Technical Account Manager",
@@ -231,42 +126,27 @@
     [
       "Associate Technical Account Manager",
       "Client Services - Global Solutions",
-      "Long Island, NY"
+      "Sydney, Australia"
     ],
     [
-      "Associate Marketing Specialist",
-      "Client Services - Residential",
+      "Software Development Engineer I",
+      "Software Development - Residential",
       "Santa Barbara, CA"
     ],
     [
       "Intern, Associate Technical Account Manager",
       "Client Services - Breeze",
-      "Long Island, NY"
+      "Atlanta, GA"
     ],
     [
-      "Accounts Receivable Analyst I",
+      "Associate Inventory Specialist",
       "Client Services - YES Energy",
-      "Atlanta, GA"
+      "Colorado Springs, CO"
     ],
     [
-      "Intern, Associate Technical Account Manager",
-      "Client Services - Breeze",
-      "Atlanta, GA"
-    ],
-    [
-      "Associate Technical Account Manager",
-      "Client Services - Residential",
-      "Long Island, NY"
-    ],
-    [
-      "Senior Account Executive \u2013 Enterprise",
-      "Sales - Global Solutions",
-      "Santa Barbara, CA"
-    ],
-    [
-      "Associate Account Executive \u2013 SMB",
-      "Sales - Breeze",
-      "Long Island, NY"
+      "Accounts Receivable Analyst II",
+      "Operations - P2P",
+      "Austin, TX"
     ],
     [
       "Corporate Trainer",
@@ -279,49 +159,24 @@
       "Raleigh, NC"
     ],
     [
-      "Event Coordinator",
-      "Marketing - Global Solutions",
-      "Sydney, Australia"
-    ],
-    [
-      "Account Executive \u2013 SMB",
-      "Sales - Global Solutions",
-      "London, United Kingdom"
-    ],
-    [
-      "Senior System Reliability Engineer",
-      "Cloud & IT - Corporate",
-      "Santa Barbara, CA"
-    ],
-    [
-      "Associate Technical Account Manager",
-      "Client Services - Residential",
-      "Oxnard, CA"
-    ],
-    [
-      "Associate Technical Account Manager",
+      "Intern, Associate Technical Account Manager",
       "Client Services - Global Solutions",
-      "Irving, TX"
+      "Toronto, ON"
+    ],
+    [
+      "Associate Technical Account Manager",
+      "Client Services - Senior Living",
+      "Santa Barbara, CA"
     ],
     [
       "Intern, Associate Technical Account Manager",
-      "Client Services - Residential",
-      "Irving, TX"
+      "Client Services - Global Solutions",
+      "Cleveland, OH"
     ],
     [
-      "Associate Technical Account Manager",
-      "Client Services - PHA",
-      "Santa Barbara, CA"
-    ],
-    [
-      "Bill Pay Specialist",
-      "Operations - YES Energy",
-      "Atlanta, GA"
-    ],
-    [
-      "Junior Account Executive \u2013 SMB",
-      "Sales - Breeze",
-      "Oxnard, CA"
+      "Event Coordinator",
+      "Marketing - Global Solutions",
+      "Sydney, Australia"
     ],
     [
       "Product Marketing Manager",
@@ -329,29 +184,39 @@
       "Atlanta, GA"
     ],
     [
-      "Training Specialist II",
-      "US - Client Services",
-      "Remote"
+      "Associate Technical Account Manager",
+      "Client Services - Residential",
+      "Long Island, NY"
     ],
     [
-      "Account Executive \u2013 Enterprise",
-      "Sales - Global Solutions",
-      "Sydney, Australia"
+      "Intern, Associate Technical Account Manager",
+      "Client Services - Breeze",
+      "Long Island, NY"
     ],
     [
-      "Consultant",
-      "Professional Services - Global Solutions",
-      "London, United Kingdom"
+      "Social Video Manager",
+      "Client Services - Residential",
+      "Austin, TX"
+    ],
+    [
+      "Associate Account Executive \u2013 SMB",
+      "Sales - Breeze",
+      "Raleigh, NC"
+    ],
+    [
+      "Consumer Dispute Specialist I",
+      "Operations - Resident Screening",
+      "Waltham, MA"
     ],
     [
       "Associate Technical Account Manager",
-      "Client Services - Affordable Housing",
-      "Santa Barbara, CA"
+      "Client Services - PHA",
+      "Atlanta, GA"
     ],
     [
-      "Customer Service Representative I",
-      "Client Services - Resident Screening",
-      "Santa Ana, CA"
+      "Associate Technical Account Manager",
+      "Client Services - Global Solutions",
+      "Amsterdam, The Netherlands"
     ],
     [
       "Intern",
@@ -359,14 +224,154 @@
       "Atlanta, GA"
     ],
     [
-      "Software Development Engineer II",
+      "Account Executive \u2013 Enterprise",
+      "Sales - Global Solutions",
+      "Sydney, Australia"
+    ],
+    [
+      "Account Executive \u2013 Mid Market",
+      "Sales - Residential",
+      "Raleigh, NC"
+    ],
+    [
+      "Associate Technical Account Manager",
+      "Client Services - Global Solutions",
+      "Santa Barbara, CA"
+    ],
+    [
+      "Associate Technical Account Manager",
+      "Client Services - Global Solutions",
+      "Long Island, NY"
+    ],
+    [
+      "Accounts Receivable Analyst I",
+      "Client Services - YES Energy",
+      "Atlanta, GA"
+    ],
+    [
+      "Technical Account Manager",
+      "Client Services - Global Solutions",
+      "Sydney, Australia"
+    ],
+    [
+      "Solutions Consultant \u2013 Enterprise",
+      "Sales - Global Solutions",
+      "Amsterdam, The Netherlands"
+    ],
+    [
+      "Intern, Associate Technical Account Manager",
+      "Client Services - Global Solutions",
+      "Santa Barbara, CA"
+    ],
+    [
+      "Consultant, Professional Services",
+      "Professional Services - Global Solutions",
+      "Singapore"
+    ],
+    [
+      "Associate Technical Account Manager",
+      "Client Services - PHA",
+      "Santa Barbara, CA"
+    ],
+    [
+      "Account Executive \u2013 SMB",
+      "Sales - Breeze",
+      "Toronto, ON"
+    ],
+    [
+      "Technical Account Manager",
+      "Client Services - Global Solutions",
+      "Singapore"
+    ],
+    [
+      "Account Executive \u2013 Mid Market",
+      "Sales - Global Solutions",
+      "Sydney, Australia"
+    ],
+    [
+      "Associate Technical Account Manager",
+      "Client Services - Global Solutions",
+      "Milton Keynes, United Kingdom"
+    ],
+    [
+      "Training Specialist I",
+      "Consulting Practices - Senior Living",
+      "Oxnard, CA"
+    ],
+    [
+      "Senior Accountant",
+      "Operations - Global Solutions",
+      "London, United Kingdom"
+    ],
+    [
+      "Associate Account Executive \u2013 SMB",
+      "Sales - Breeze",
+      "Long Island, NY"
+    ],
+    [
+      "Associate Technical Account Manager",
+      "Client Services - Affordable Housing",
+      "Santa Barbara, CA"
+    ],
+    [
+      "Consultant",
+      "Professional Services - Global Solutions",
+      "London, United Kingdom"
+    ],
+    [
+      "Software Development Engineer III",
       "Cloud & IT - Corporate",
       "Santa Barbara, CA"
+    ],
+    [
+      "Associate Technical Account Manager",
+      "Client Services - Residential",
+      "Irving, TX"
+    ],
+    [
+      "Associate Technical Account Manager",
+      "Client Services - Residential",
+      "Santa Ana, CA"
+    ],
+    [
+      "Business Development Representative",
+      "Sales - Corporate",
+      "Irving, TX"
+    ],
+    [
+      "Marketing Campaign Specialist",
+      "Sales - Global Solutions",
+      "Atlanta, GA"
+    ],
+    [
+      "Customer Service Representative I",
+      "Operations - Call Center",
+      "Irving, TX"
+    ],
+    [
+      "Consultant",
+      "Professional Services - Global Solutions",
+      "Irving, TX"
+    ],
+    [
+      "Product Marketing Manager",
+      "Marketing - Residential",
+      "New York, NY"
     ],
     [
       "Account Executive \u2013 Mid Market",
       "Sales - Residential",
       "Santa Barbara, CA"
+    ],
+    [
+      "Senior Talent Acquisition Advisor",
+      "Operations - Corporate",
+      "Amsterdam, The Netherlands"
+    ],
+    [
+      "Intern, Associate Technical Account Manager",
+      "Client Services - Residential",
+      "Irving, TX"
     ]
   ]
 }

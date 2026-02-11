@@ -1,107 +1,12 @@
 {
-  "last_updated": "2026-02-10T07:17:30.835247",
-  "job_count": 43,
-  "active_count": 42,
+  "last_updated": "2026-02-11T07:14:31.241877",
+  "job_count": 44,
+  "active_count": 43,
   "jobs": [
-    [
-      "Application Architect",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Vehicle Inventory Rep & Auditor (Flint, MI)",
-      "Not specified",
-      "Flint, MI"
-    ],
-    [
-      "Product Analyst Intern Summer 2026",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Vehicle Inventory Rep & Auditor (Toledo, OH)",
-      "Not specified",
-      "Toledo, OH"
-    ],
-    [
-      "Inside Sales Representative",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Business Data Analyst",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Inside Sales Associate",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Product Manager - Casualty",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Automation Engineer Intern - Parts Summer 2026",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Vehicle Inventory Rep & Auditor (Limerick/West Chester, PA)",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Client Solutions Advisor",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Associate Business Systems Analyst",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
     [
       "Vehicle Inventory Rep & Auditor (Fort Myers, FL)",
       "Not specified",
       "Fort Myers, FL"
-    ],
-    [
-      "Director, HR Business Partner",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Vehicle Inventory Rep & Auditor (Missoula, MT)",
-      "Not specified",
-      "Missoula, MT"
-    ],
-    [
-      "Vice President, APD Sales",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Technical Accounting Lead",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Business Data Analyst \u2013 Subrogation Strategy",
-      "Not specified",
-      "Virtual, USA"
-    ],
-    [
-      "Casualty Sr. Solutions Engineer",
-      "Not specified",
-      "Virtual, USA"
-    ],
-    [
-      "Vice President,  Strategic Client Partner",
-      "Not specified",
-      "Chicago (Green St), IL"
     ],
     [
       "R&D Intern",
@@ -109,37 +14,7 @@
       "Chicago (Green St), IL"
     ],
     [
-      "Vehicle Inventory Rep & Auditor (Syracuse, NY)",
-      "Not specified",
-      "Syracuse, NY"
-    ],
-    [
-      "Parts Implementation Specialist",
-      "Not specified",
-      "Sioux Falls, SD"
-    ],
-    [
-      "Site Reliability Engineer - AWS",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Regional Business Manager",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Vehicle Inventory Rep & Auditor (East Syracuse, NY)",
-      "Not specified",
-      "Syracuse, NY"
-    ],
-    [
-      "Software Engineer Intern - Parts Summer 2026",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Product Operations Manager",
+      "Director, HR Business Partner",
       "Not specified",
       "Chicago (Green St), IL"
     ],
@@ -149,22 +24,112 @@
       "Chicago (Green St), IL"
     ],
     [
+      "Vehicle Inventory Rep & Auditor (Flint, MI)",
+      "Not specified",
+      "Flint, MI"
+    ],
+    [
+      "Audit Specialist",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Product Analyst Intern Summer 2026",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Vehicle Inventory Rep & Auditor (Seattle, WA)",
+      "Not specified",
+      "Seattle, WA"
+    ],
+    [
+      "Site Reliability Engineer - AWS",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Vehicle Inventory Rep & Auditor (Limerick/West Chester, PA)",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Associate Manager, Power Platforms Automation",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "ELEVATE Specialist",
+      "Not specified",
+      "Virtual, USA"
+    ],
+    [
+      "Product Manager - Casualty",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Associate Business Systems Analyst",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Vehicle Inventory Rep & Auditor (Westbrook, ME)",
+      "Not specified",
+      "Westbrook, ME"
+    ],
+    [
+      "Client Solutions Advisor",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Vice President,  Strategic Client Partner",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Vehicle Inventory Rep & Auditor (East Syracuse, NY)",
+      "Not specified",
+      "Syracuse, NY"
+    ],
+    [
+      "Vehicle Inventory Rep & Auditor (Toledo, OH)",
+      "Not specified",
+      "Toledo, OH"
+    ],
+    [
+      "Technical Accounting Lead",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Automation Engineer Intern - Parts Summer 2026",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Software Engineer Intern - Parts Summer 2026",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "SRE Intern Summer 2026",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
       "Vehicle Inventory Rep & Auditor (Newport News/Hampton, VA)",
       "Not specified",
       "2 Locations"
     ],
     [
-      "Vice President, Fraud Sales",
+      "Vehicle Inventory Rep & Auditor (Missoula, MT)",
       "Not specified",
-      "Chicago (Green St), IL"
+      "Missoula, MT"
     ],
     [
-      "Vehicle Inventory Rep & Auditor (Omaha, NE)",
-      "Not specified",
-      "Omaha, NE"
-    ],
-    [
-      "Audit Specialist",
+      "Business Data Analyst",
       "Not specified",
       "Chicago (Green St), IL"
     ],
@@ -179,22 +144,7 @@
       "Chicago (Green St), IL"
     ],
     [
-      "Vehicle Inventory Rep & Auditor (Lagrange/Columbus, GA)",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "ELEVATE Specialist",
-      "Not specified",
-      "Virtual, USA"
-    ],
-    [
-      "Associate Manager, Power Platforms Automation",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Platform Engineering Intern - Cloud & Infrastructure Summer 2026",
+      "Inside Sales Representative",
       "Not specified",
       "Chicago (Green St), IL"
     ],
@@ -204,9 +154,64 @@
       "Virtual, USA"
     ],
     [
-      "Vehicle Inventory Rep & Auditor (Seattle, WA)",
+      "Vice President, Fraud Sales",
       "Not specified",
-      "Seattle, WA"
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Vehicle Inventory Rep & Auditor (Omaha, NE)",
+      "Not specified",
+      "Omaha, NE"
+    ],
+    [
+      "Parts Implementation Specialist",
+      "Not specified",
+      "Sioux Falls, SD"
+    ],
+    [
+      "Application Architect",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Vehicle Inventory Rep & Auditor (Lagrange/Columbus, GA)",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Regional Business Manager",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Platform Engineering Intern - Cloud & Infrastructure Summer 2026",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Business Data Analyst \u2013 Subrogation Strategy",
+      "Not specified",
+      "Virtual, USA"
+    ],
+    [
+      "Casualty Sr. Solutions Engineer",
+      "Not specified",
+      "Virtual, USA"
+    ],
+    [
+      "Vehicle Inventory Rep & Auditor (Syracuse, NY)",
+      "Not specified",
+      "Syracuse, NY"
+    ],
+    [
+      "Vice President, APD Sales",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Inside Sales Associate",
+      "Not specified",
+      "Chicago (Green St), IL"
     ],
     [
       "Employee Relations Specialist",
@@ -214,9 +219,9 @@
       "Chicago (Green St), IL"
     ],
     [
-      "Vehicle Inventory Rep & Auditor (Westbrook, ME)",
+      "Product Operations Manager",
       "Not specified",
-      "Westbrook, ME"
+      "Chicago (Green St), IL"
     ]
   ]
 }
