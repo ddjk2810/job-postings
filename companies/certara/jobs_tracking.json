@@ -1,27 +1,17 @@
 {
-  "last_updated": "2026-02-12T07:13:43.296666",
-  "job_count": 16,
+  "last_updated": "2026-02-13T07:12:31.494759",
+  "job_count": 17,
   "active_count": 12,
   "jobs": [
     [
-      "Regulatory Writer I",
+      "Tech Lead",
       "Not specified",
-      "PHL - Manila, Manila,, PH"
+      "Multiple"
     ],
     [
-      "Regulatory Operations Specialist I",
-      "Scientific",
-      "Work at Home - US"
-    ],
-    [
-      "Senior (Financial) Accountant",
-      "Scientific",
-      "NLD - Oss, Oss,, NL"
-    ],
-    [
-      "Director of Commercial Finance Forecasting and Planning",
-      "Not specified",
-      "Work at Home - US, US"
+      "R&A - Associate Principal Regulatory Writer (APRW) - Clinical",
+      "Support/Other",
+      "Work at Home - EMEA, GB"
     ],
     [
       "Associate Scientist, SAS Programmer",
@@ -29,9 +19,19 @@
       "Work at Home - EMEA, GB"
     ],
     [
+      "Senior Product Manager",
+      "Scientific",
+      "Work at Home - US, US"
+    ],
+    [
       "Sr. Product Designer",
       "Not specified",
       "Work at Home - US, US"
+    ],
+    [
+      "Regulatory Operations Specialist I",
+      "Scientific",
+      "Work at Home - US"
     ],
     [
       "R&A- Senior Regulatory Writer- SRW (Clinical focus)",
@@ -44,34 +44,24 @@
       "HUN - Budapest"
     ],
     [
+      "Director of Commercial Finance Forecasting and Planning",
+      "Not specified",
+      "Work at Home - US, US"
+    ],
+    [
+      "Director, Pharmacometrics",
+      "Scientific",
+      "Multiple"
+    ],
+    [
+      "Regulatory Writer I",
+      "Not specified",
+      "PHL - Manila, Manila,, PH"
+    ],
+    [
       "Sr. Project Manager",
       "Not specified",
       "Multiple"
-    ],
-    [
-      "Tech Lead",
-      "Not specified",
-      "Multiple"
-    ],
-    [
-      "Senior Product Manager",
-      "Scientific",
-      "Work at Home - US, US"
-    ],
-    [
-      "R&A Associate Principal Medical Writer",
-      "Support/Other",
-      "Multiple"
-    ],
-    [
-      "Senior Product Manager",
-      "Not specified",
-      "Work at Home - US, US"
-    ],
-    [
-      "R&A - Associate Principal Regulatory Writer (APRW) - Clinical",
-      "Support/Other",
-      "Work at Home - EMEA, GB"
     ],
     [
       "Associate Director \u2013 Operations Business Partner",
@@ -79,9 +69,24 @@
       "Multiple"
     ],
     [
-      "Director, Pharmacometrics",
+      "Senior Product Manager",
+      "Not specified",
+      "Work at Home - US, US"
+    ],
+    [
+      "Senior (Financial) Accountant",
       "Scientific",
+      "NLD - Oss, Oss,, NL"
+    ],
+    [
+      "R&A Associate Principal Medical Writer",
+      "Support/Other",
       "Multiple"
+    ],
+    [
+      "Tech Lead",
+      "Not specified",
+      "HUN - Budapest, Budapest,, HU"
     ]
   ]
 }

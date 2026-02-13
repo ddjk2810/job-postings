@@ -1,15 +1,130 @@
 {
-  "last_updated": "2026-02-12T07:13:42.873762",
-  "job_count": 38,
+  "last_updated": "2026-02-13T07:12:31.078058",
+  "job_count": 51,
   "active_count": 15,
   "jobs": [
     [
-      "Technologies R&D Intern - 2",
+      "Event Manager (m/w/d)",
+      "MARKETING & COMMUNICATIONS",
+      "Germany, Munich"
+    ],
+    [
+      "QA Intern Core Tech Client",
       "RESEARCH & DEVELOPMENT",
-      "India, MH, Pune"
+      "Malaysia, 10, Petaling Jaya"
     ],
     [
       "Solution Architect",
+      "SERVICES",
+      "Brazil, SP, Sao Paulo"
+    ],
+    [
+      "PMO Intern",
+      "SERVICES",
+      "Poland, Krakow"
+    ],
+    [
+      "Technical Support Engineer",
+      "SERVICES",
+      "United Kingdom, London"
+    ],
+    [
+      "Industry Services Manager",
+      "SERVICES",
+      "Turkey, 34, Istanbul"
+    ],
+    [
+      "Solution Sales Specialist, Study Experiences",
+      "SALES",
+      "Japan, 13, Tokyo"
+    ],
+    [
+      "Analyste Groupe Tr\u00e9sorerie, Projets, Process & Syst\u00e8mes (F/H)",
+      "FINANCE",
+      "France, V\u00e9lizy-Villacoublay"
+    ],
+    [
+      "Solution Sales Specialist, CTMS / eTMF",
+      "SALES",
+      "United States, CA, San Diego"
+    ],
+    [
+      "Staff Accountant (New York City)",
+      "FINANCE",
+      "United States, NY, New York"
+    ],
+    [
+      "Solution Consultant \u2013 PLM",
+      "SALES",
+      "Brazil, SP, Sao Paulo"
+    ],
+    [
+      "Client Executive T&M South",
+      "SALES",
+      "China, GD, Guangzhou"
+    ],
+    [
+      "Software Engineer Intern (Frontend)",
+      "RESEARCH & DEVELOPMENT",
+      "Malaysia, 10, Petaling Jaya"
+    ],
+    [
+      "Strategic Account Executive (Industrial Equipment)",
+      "SALES",
+      "Korea, Republic of, 11, Seoul"
+    ],
+    [
+      "Administrateur de base de donn\u00e9es (F/H)",
+      "INFORMATION TECHNOLOGY",
+      "France, V\u00e9lizy-Villacoublay"
+    ],
+    [
+      "Sales Mediator INDIA",
+      "SALES",
+      "India, HR, Gurgaon"
+    ],
+    [
+      "Consultant(e) solutions industrielles - Industrie Automobile (F/H)",
+      "INDUSTRY",
+      "France, V\u00e9lizy-Villacoublay"
+    ],
+    [
+      "Responsable de la s\u00e9curit\u00e9 GRC F/H",
+      "RESEARCH & DEVELOPMENT",
+      "France, Saint-Cloud"
+    ],
+    [
+      "Software Engineer Intern (Backend)",
+      "RESEARCH & DEVELOPMENT",
+      "Malaysia, 10, Petaling Jaya"
+    ],
+    [
+      "Accounts Payable Specialist",
+      "FINANCE",
+      "United States, MA, Waltham"
+    ],
+    [
+      "INTERNSHIP - Software Engineer",
+      "RESEARCH & DEVELOPMENT",
+      "United States, CA, Long Beach"
+    ],
+    [
+      "Learning Business Partner",
+      "FINANCE",
+      "United States, MA, Waltham"
+    ],
+    [
+      "Working Student (m/f/d) \u2013 Electromagnetics AI/ML Surrogate Modeling",
+      "RESEARCH & DEVELOPMENT",
+      "Germany, Darmstadt"
+    ],
+    [
+      "Partner Sales Manager- North Region",
+      "SALES",
+      "China, BJ, Beijing"
+    ],
+    [
+      "Solution Consultant \u2013 PLM",
       "SERVICES",
       "Brazil, SP, Sao Paulo"
     ],
@@ -19,14 +134,9 @@
       "France, V\u00e9lizy-Villacoublay"
     ],
     [
-      "Senior Business Development Specialist",
+      "INTERNSHIP - Industry Process Consultant",
       "SALES",
-      "United Kingdom, London"
-    ],
-    [
-      "Software Engineer Intern (Frontend)",
-      "RESEARCH & DEVELOPMENT",
-      "Malaysia, 10, Petaling Jaya"
+      "United States, MA, Waltham"
     ],
     [
       "Electromagnetics Software Testing - Summer Internship",
@@ -34,129 +144,29 @@
       "United Kingdom, Nottingham"
     ],
     [
-      "STAGE - Data Scientist - Systeme Multi-Agents IA & LLM (F/H)",
-      "RESEARCH & DEVELOPMENT",
-      "France, V\u00e9lizy-Villacoublay"
-    ],
-    [
-      "DELMIAWorks Business Development Associate",
-      "SALES",
-      "United States, MA, Waltham"
-    ],
-    [
-      "Analyste Groupe Tr\u00e9sorerie, Projets, Process & Syst\u00e8mes (F/H)",
-      "FINANCE",
-      "France, V\u00e9lizy-Villacoublay"
-    ],
-    [
-      "Data Center Arista LAN Specialist",
-      "INFORMATION TECHNOLOGY",
-      "India, MH, Pune"
-    ],
-    [
-      "Solution Consultant \u2013 PLM",
-      "SALES",
-      "Brazil, SP, Sao Paulo"
-    ],
-    [
-      "Systems Analyst",
-      "RESEARCH & DEVELOPMENT",
-      "Lithuania, Kaunas"
-    ],
-    [
-      "Partner Sales Manager- North Region",
-      "SALES",
-      "China, BJ, Beijing"
-    ],
-    [
-      "Technical Support Engineer",
-      "SERVICES",
-      "United Kingdom, London"
-    ],
-    [
-      "Product owner F/H",
-      "RESEARCH & DEVELOPMENT",
-      "France, Saint-Cloud"
-    ],
-    [
-      "INTERNSHIP - Industry Process Consultant",
-      "SALES",
-      "United States, MA, Waltham"
-    ],
-    [
-      "Staff Accountant (New York City)",
-      "FINANCE",
+      "Video Senior Manager",
+      "MARKETING & COMMUNICATIONS",
       "United States, NY, New York"
     ],
     [
-      "QA Intern Core Tech Client",
-      "RESEARCH & DEVELOPMENT",
-      "Malaysia, 10, Petaling Jaya"
-    ],
-    [
-      "PMO Intern",
-      "SERVICES",
-      "Poland, Krakow"
-    ],
-    [
-      "STAGE \u2013 Chef de Projet et Transformation (F/H)",
+      "Automation Developer (Python/Selenium Focus) - Tokyo Based",
       "FINANCE",
-      "France, V\u00e9lizy-Villacoublay"
+      "Japan, 13, Tokyo"
     ],
     [
-      "Client Executive T&M South",
-      "SALES",
-      "China, GD, Guangzhou"
-    ],
-    [
-      "Software Engineer Intern (Backend)",
-      "RESEARCH & DEVELOPMENT",
-      "Malaysia, 10, Petaling Jaya"
-    ],
-    [
-      "QA Test Framework Developer F/H",
-      "RESEARCH & DEVELOPMENT",
-      "France, Saint-Cloud"
-    ],
-    [
-      "Responsable de la s\u00e9curit\u00e9 GRC F/H",
-      "RESEARCH & DEVELOPMENT",
-      "France, Saint-Cloud"
-    ],
-    [
-      "Strategic Account Executive (Industrial Equipment)",
-      "SALES",
-      "Korea, Republic of, 11, Seoul"
-    ],
-    [
-      "Solution Consultant \u2013 PLM",
+      "Project Manager",
       "SERVICES",
       "Brazil, SP, Sao Paulo"
     ],
     [
-      "Solution Sales Specialist, Study Experiences",
+      "3DEXPERIENCE EDU Sales",
       "SALES",
-      "Japan, 13, Tokyo"
+      "China, SH, Shanghai"
     ],
     [
-      "INTERNSHIP - Software Engineer",
+      "STAGE - Ing\u00e9nieur Qualit\u00e9 Construction (F/H)",
       "RESEARCH & DEVELOPMENT",
-      "United States, CA, Long Beach"
-    ],
-    [
-      "Solution Sales Specialist, CTMS / eTMF",
-      "SALES",
-      "United States, CA, San Diego"
-    ],
-    [
-      "Industry Services Manager",
-      "SERVICES",
-      "Turkey, 34, Istanbul"
-    ],
-    [
-      "Accounts Payable Specialist",
-      "FINANCE",
-      "United States, MA, Waltham"
+      "France, V\u00e9lizy-Villacoublay"
     ],
     [
       "Ing\u00e9nieur d\u00e9veloppement Kubernetes (F/H)",
@@ -164,24 +174,24 @@
       "France, V\u00e9lizy-Villacoublay"
     ],
     [
-      "Video Senior Manager",
-      "MARKETING & COMMUNICATIONS",
-      "United States, NY, New York"
-    ],
-    [
-      "Working Student (m/f/d) \u2013 Python Development Assistant",
+      "QA Test Framework Developer F/H",
       "RESEARCH & DEVELOPMENT",
-      "Germany, Darmstadt"
+      "France, Saint-Cloud"
     ],
     [
-      "Regional Account Manager (eClinical Solution Sales)",
+      "Technologies R&D Intern - 2",
+      "RESEARCH & DEVELOPMENT",
+      "India, MH, Pune"
+    ],
+    [
+      "MBSE Industry Process Consultant",
       "SALES",
-      "Korea, Republic of, 11, Seoul"
+      "United States, MA, Waltham"
     ],
     [
-      "Consultant(e) solutions industrielles - Industrie Automobile (F/H)",
-      "INDUSTRY",
-      "France, V\u00e9lizy-Villacoublay"
+      "Senior Business Development Specialist",
+      "SALES",
+      "United Kingdom, London"
     ],
     [
       "Senior Technical Product Manager (Remote or Hybrid NY/NJ)",
@@ -192,6 +202,61 @@
       "Leader R&D Customer Success \u2013 Zone EUROCENTRAL (F/H)",
       "RESEARCH & DEVELOPMENT",
       "France, V\u00e9lizy-Villacoublay"
+    ],
+    [
+      "Systems Analyst",
+      "RESEARCH & DEVELOPMENT",
+      "Lithuania, Kaunas"
+    ],
+    [
+      "Regional Account Manager (eClinical Solution Sales)",
+      "SALES",
+      "Korea, Republic of, 11, Seoul"
+    ],
+    [
+      "People Care Specialist",
+      "PEOPLE & ENVIRONMENT",
+      "Korea, Republic of, 11, Seoul"
+    ],
+    [
+      "Senior Technical Project Manager",
+      "SERVICES",
+      "India, MH, Pune"
+    ],
+    [
+      "Data Center Arista LAN Specialist",
+      "INFORMATION TECHNOLOGY",
+      "India, MH, Pune"
+    ],
+    [
+      "STAGE - Consultant technique MBSE (F/H)",
+      "SALES",
+      "France, V\u00e9lizy-Villacoublay"
+    ],
+    [
+      "Product owner F/H",
+      "RESEARCH & DEVELOPMENT",
+      "France, Saint-Cloud"
+    ],
+    [
+      "STAGE \u2013 Chef de Projet et Transformation (F/H)",
+      "FINANCE",
+      "France, V\u00e9lizy-Villacoublay"
+    ],
+    [
+      "STAGE - Data Scientist - Systeme Multi-Agents IA & LLM (F/H)",
+      "RESEARCH & DEVELOPMENT",
+      "France, V\u00e9lizy-Villacoublay"
+    ],
+    [
+      "Working Student (m/f/d) \u2013 Python Development Assistant",
+      "RESEARCH & DEVELOPMENT",
+      "Germany, Darmstadt"
+    ],
+    [
+      "DELMIAWorks Business Development Associate",
+      "SALES",
+      "United States, MA, Waltham"
     ]
   ]
 }
