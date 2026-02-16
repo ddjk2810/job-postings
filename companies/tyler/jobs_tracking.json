@@ -1,50 +1,30 @@
 {
-  "last_updated": "2026-02-15T07:04:21.817726",
+  "last_updated": "2026-02-16T07:16:22.055903",
   "job_count": 38,
   "active_count": 34,
   "jobs": [
+    [
+      "Sales Engineer",
+      "Not specified",
+      "Troy, Michigan"
+    ],
+    [
+      "Implementation Director",
+      "Not specified",
+      "Denver, Colorado"
+    ],
+    [
+      "Automation Engineer",
+      "Not specified",
+      "Troy, Michigan"
+    ],
     [
       "Associate Project Manager (Public Safety)",
       "Not specified",
       "Troy, Michigan"
     ],
     [
-      "Product Manager - API Platform & Ecosystem",
-      "Not specified",
-      "Troy, Michigan"
-    ],
-    [
-      "Account Representative",
-      "Not specified",
-      "Lubbock, Texas"
-    ],
-    [
-      "Technical Services Internship, Summer 2026",
-      "Not specified",
-      "Yarmouth, Maine"
-    ],
-    [
-      "Senior Software Engineer",
-      "Not specified",
-      "Herndon, Virginia"
-    ],
-    [
-      "Revenue Specialist",
-      "Not specified",
-      "Manila, Philippines"
-    ],
-    [
-      "Client Experience Advocate",
-      "Not specified",
-      "Manila, Philippines"
-    ],
-    [
-      "Senior Tax Accountant",
-      "Not specified",
-      "Plano, Texas"
-    ],
-    [
-      "Applications Administrator",
+      "Sr. Software Engineer",
       "Not specified",
       "Plano, Texas"
     ],
@@ -54,17 +34,77 @@
       "Montgomery, Alabama"
     ],
     [
-      "Sr. Software Engineer",
+      "Account Representative",
       "Not specified",
-      "Plano, Texas"
+      "Lubbock, Texas"
     ],
     [
-      "Implementation Director",
+      "Director of Technology",
       "Not specified",
       "Denver, Colorado"
     ],
     [
-      "Lead Software Engineer",
+      "Business Analyst/QA Specialist",
+      "Not specified",
+      "Lubbock, Texas"
+    ],
+    [
+      "Client Success Tools Administrator",
+      "Not specified",
+      "Manila, Philippines"
+    ],
+    [
+      "Strategic Account Executive - Wisconsin",
+      "Not specified",
+      "Madison, Wisconsin"
+    ],
+    [
+      "Software Development Intern, Summer 2026",
+      "Not specified",
+      "Lawrenceville, Georgia"
+    ],
+    [
+      "Account Manager",
+      "Not specified",
+      "Montgomery, Alabama"
+    ],
+    [
+      "Client Experience Advocate",
+      "Not specified",
+      "Manila, Philippines"
+    ],
+    [
+      "Technical Services Internship, Summer 2026",
+      "Not specified",
+      "Yarmouth, Maine"
+    ],
+    [
+      "Automation Engineer, Municipal & Schools",
+      "Not specified",
+      "Manila, Philippines"
+    ],
+    [
+      "Software Development Intern, Year-Round (May Start)",
+      "Not specified",
+      "Orono, Maine"
+    ],
+    [
+      "Senior Tax Accountant",
+      "Not specified",
+      "Plano, Texas"
+    ],
+    [
+      "Project Manager",
+      "Not specified",
+      "Lakewood, Colorado"
+    ],
+    [
+      "Revenue Specialist",
+      "Not specified",
+      "Manila, Philippines"
+    ],
+    [
+      "Software Engineer",
       "Not specified",
       "Troy, Michigan"
     ],
@@ -74,14 +114,14 @@
       "Troy, Michigan"
     ],
     [
-      "Business Analyst/QA Specialist",
+      "Senior Customer Success",
       "Not specified",
-      "Lubbock, Texas"
+      "Trenton, New Jersey"
     ],
     [
-      "Automation Engineer, Municipal & Schools",
+      "Senior Software Engineer",
       "Not specified",
-      "Manila, Philippines"
+      "Herndon, Virginia"
     ],
     [
       "Java Software Developer",
@@ -89,7 +129,17 @@
       "Topeka, Kansas"
     ],
     [
-      "Sales Engineer",
+      "FP&A Director",
+      "Not specified",
+      "Plano, Texas"
+    ],
+    [
+      "CloudOps Engineer",
+      "Not specified",
+      "Manila, Philippines"
+    ],
+    [
+      "Product Manager - API Platform & Ecosystem",
       "Not specified",
       "Troy, Michigan"
     ],
@@ -99,19 +149,14 @@
       "Latham, New York"
     ],
     [
-      "Client Success Account Manager - Riverside, CA",
+      "Associate CloudOps Engineer",
       "Not specified",
-      "Riverside, California"
+      "Manila, Philippines"
     ],
     [
-      "Account Manager",
+      "Tax Accountant",
       "Not specified",
-      "Montgomery, Alabama"
-    ],
-    [
-      "Sr. Director of Delivery",
-      "Not specified",
-      "Herndon, Virginia"
+      "Manila, Philippines"
     ],
     [
       "Director of Operations",
@@ -124,62 +169,22 @@
       "Tallahassee, Florida"
     ],
     [
-      "FP&A Director",
+      "Client Success Account Manager - Riverside, CA",
+      "Not specified",
+      "Riverside, California"
+    ],
+    [
+      "Sr. Director of Delivery",
+      "Not specified",
+      "Herndon, Virginia"
+    ],
+    [
+      "Applications Administrator",
       "Not specified",
       "Plano, Texas"
     ],
     [
-      "Tax Accountant",
-      "Not specified",
-      "Manila, Philippines"
-    ],
-    [
-      "CloudOps Engineer",
-      "Not specified",
-      "Manila, Philippines"
-    ],
-    [
-      "Project Manager",
-      "Not specified",
-      "Lakewood, Colorado"
-    ],
-    [
-      "Software Development Intern, Summer 2026",
-      "Not specified",
-      "Lawrenceville, Georgia"
-    ],
-    [
-      "Director of Technology",
-      "Not specified",
-      "Denver, Colorado"
-    ],
-    [
-      "Associate CloudOps Engineer",
-      "Not specified",
-      "Manila, Philippines"
-    ],
-    [
-      "Software Development Intern, Year-Round (May Start)",
-      "Not specified",
-      "Orono, Maine"
-    ],
-    [
-      "Senior Customer Success",
-      "Not specified",
-      "Trenton, New Jersey"
-    ],
-    [
-      "Strategic Account Executive - Wisconsin",
-      "Not specified",
-      "Madison, Wisconsin"
-    ],
-    [
-      "Automation Engineer",
-      "Not specified",
-      "Troy, Michigan"
-    ],
-    [
-      "Software Engineer",
+      "Lead Software Engineer",
       "Not specified",
       "Troy, Michigan"
     ],
@@ -187,11 +192,6 @@
       "Trade Show Logistics Coordinator",
       "Not specified",
       "Plano, Texas"
-    ],
-    [
-      "Client Success Tools Administrator",
-      "Not specified",
-      "Manila, Philippines"
     ]
   ]
 }
