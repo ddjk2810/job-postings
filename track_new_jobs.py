@@ -226,14 +226,13 @@ def track_company(company_slug):
 
     if not previous_jobs_set:
         print("  No previous data found (first run)")
-        print("  All current jobs will be saved to tracking database")
-        update_tracking_database(company_dir, current_jobs_set)
-        return True
-
-    print(f"  Previous jobs: {len(previous_jobs_set)}")
-
-    # Find new jobs
-    new_jobs_set = find_new_jobs(current_jobs_set, previous_jobs_set)
+        print("  Treating all current jobs as new")
+        # On first run, all jobs are new — write them to the _new_ file
+        new_jobs_set = current_jobs_set
+    else:
+        print(f"  Previous jobs: {len(previous_jobs_set)}")
+        # Find new jobs
+        new_jobs_set = find_new_jobs(current_jobs_set, previous_jobs_set)
     print(f"  New jobs detected: {len(new_jobs_set)}")
 
     # Save new jobs to CSV
