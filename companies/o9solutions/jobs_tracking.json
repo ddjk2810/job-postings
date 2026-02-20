@@ -1,87 +1,37 @@
 {
-  "last_updated": "2026-02-20T02:37:19.127474",
+  "last_updated": "2026-02-20T03:34:33.307340",
   "job_count": 40,
   "active_count": 34,
   "jobs": [
-    [
-      "Account Executive EMEA",
-      "Not specified",
-      "Amsterdam, Netherlands"
-    ],
-    [
-      "Senior Data Scientist - Demand Forecasting",
-      "Not specified",
-      "Bangalore, Karnataka, India"
-    ],
-    [
-      "Senior Technical Consultant",
-      "Not specified",
-      "Dallas, Texas, United States"
-    ],
-    [
-      "Solutions Consulting Manager, CP",
-      "Not specified",
-      "52 Locations"
-    ],
-    [
-      "Functional Consultant, Delivery",
-      "Not specified",
-      "Tokyo, Japan"
-    ],
-    [
-      "Client Manager",
-      "Not specified",
-      "Bangalore, Karnataka, India"
-    ],
     [
       "Director, Business Development",
       "Not specified",
       "Dallas, Texas, United States"
     ],
     [
-      "Account Executive",
-      "Not specified",
-      "53 Locations"
-    ],
-    [
-      "Senior Manager, Delivery",
+      "Solution Consulting",
       "Not specified",
       "Tokyo, Japan"
     ],
     [
-      "Associate Architect",
+      "Manager, Analyst Relations",
       "Not specified",
-      "Dallas, Texas, United States"
+      "Bangalore, Karnataka, India"
     ],
     [
-      "Business Development Representative",
-      "Not specified",
-      "Tokyo, Japan"
-    ],
-    [
-      "Account Executive",
-      "Not specified",
-      "Tokyo, Japan"
-    ],
-    [
-      "Sr. Functional Consultant",
+      "Solution Architect",
       "Not specified",
       "Works From Home - Sao Paulo, Brazil"
     ],
     [
-      "Solutions Consulting Manager, SIM",
+      "Account Executive",
       "Not specified",
-      "52 Locations"
+      "Tokyo, Japan"
     ],
     [
-      "Account Executive EMEA",
+      "Financial Analyst, Senior",
       "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Alliances Executive",
-      "Not specified",
-      "Barcelona, Spain"
+      "Bangalore, Karnataka, India"
     ],
     [
       "Sr. DevOps Engineer",
@@ -89,32 +39,32 @@
       "Works From Home - Sao Paulo, Brazil"
     ],
     [
-      "Sr. Administrative Assistant",
-      "Not specified",
-      "Dallas, Texas, United States"
-    ],
-    [
-      "Associate Solution Architect",
-      "Not specified",
-      "Bangalore, Karnataka, India"
-    ],
-    [
-      "Senior Technical Consultant-Client Success",
-      "Not specified",
-      "Bangalore, Karnataka, India"
-    ],
-    [
       "Business Development Manager",
       "Not specified",
       "Works From Home - Sao Paulo, Brazil"
     ],
     [
-      "Machine Learning Engineer EMEA",
+      "Director,  Demand Planning Solution Architect",
       "Not specified",
-      "6 Locations"
+      "Bangalore, Karnataka, India"
     ],
     [
-      "Talent Management Specialist III",
+      "Technical Consultant, Senior",
+      "Not specified",
+      "Tokyo, Japan"
+    ],
+    [
+      "Delivery Manager",
+      "Not specified",
+      "Tokyo, Japan"
+    ],
+    [
+      "Functional Consultant, Delivery",
+      "Not specified",
+      "Tokyo, Japan"
+    ],
+    [
+      "Associate Customer Success Manager",
       "Not specified",
       "Bangalore, Karnataka, India"
     ],
@@ -124,39 +74,24 @@
       "Not specified"
     ],
     [
-      "Manager, Corporate Strategy & Finance",
+      "Senior Technical Consultant",
       "Not specified",
       "Dallas, Texas, United States"
     ],
     [
-      "Delivery Manager",
+      "Sr. Administrative Assistant",
       "Not specified",
-      "Tokyo, Japan"
+      "Dallas, Texas, United States"
     ],
     [
-      "Events Project Coordinator, EMEA",
-      "Not specified",
-      "Amsterdam, Netherlands"
-    ],
-    [
-      "Solution Consulting",
-      "Not specified",
-      "Tokyo, Japan"
-    ],
-    [
-      "Director,  Demand Planning Solution Architect",
+      "Senior Data Scientist - Demand Forecasting",
       "Not specified",
       "Bangalore, Karnataka, India"
     ],
     [
-      "DevOps Engineer",
+      "Manager, Corporate Strategy & Finance",
       "Not specified",
-      "Seoul, South Korea"
-    ],
-    [
-      "DevOps Manager",
-      "Not specified",
-      "Works From Home - Sao Paulo, Brazil"
+      "Dallas, Texas, United States"
     ],
     [
       "Solutions Consulting Director",
@@ -164,9 +99,9 @@
       "Works From Home - Mexico"
     ],
     [
-      "Financial Analyst, Senior",
+      "Account Executive",
       "Not specified",
-      "Bangalore, Karnataka, India"
+      "53 Locations"
     ],
     [
       "Alliances Director",
@@ -174,19 +109,14 @@
       "Works From Home - Sao Paulo, Brazil"
     ],
     [
-      "Solution Architect",
-      "Not specified",
-      "Works From Home - Sao Paulo, Brazil"
-    ],
-    [
-      "Associate Customer Success Manager",
+      "Talent Management Specialist III",
       "Not specified",
       "Bangalore, Karnataka, India"
     ],
     [
-      "Technical Consultant, Senior",
+      "Solutions Consulting Manager, CP",
       "Not specified",
-      "Tokyo, Japan"
+      "52 Locations"
     ],
     [
       "Human Resources Specialist",
@@ -199,9 +129,79 @@
       "Bangalore, Karnataka, India"
     ],
     [
-      "Manager, Analyst Relations",
+      "Account Executive EMEA",
+      "Not specified",
+      "Amsterdam, Netherlands"
+    ],
+    [
+      "Business Development Representative",
+      "Not specified",
+      "Tokyo, Japan"
+    ],
+    [
+      "DevOps Engineer",
+      "Not specified",
+      "Seoul, South Korea"
+    ],
+    [
+      "Senior Manager, Delivery",
+      "Not specified",
+      "Tokyo, Japan"
+    ],
+    [
+      "Account Executive EMEA",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Alliances Executive",
+      "Not specified",
+      "Barcelona, Spain"
+    ],
+    [
+      "Events Project Coordinator, EMEA",
+      "Not specified",
+      "Amsterdam, Netherlands"
+    ],
+    [
+      "Associate Architect",
+      "Not specified",
+      "Dallas, Texas, United States"
+    ],
+    [
+      "Associate Solution Architect",
       "Not specified",
       "Bangalore, Karnataka, India"
+    ],
+    [
+      "Machine Learning Engineer EMEA",
+      "Not specified",
+      "6 Locations"
+    ],
+    [
+      "Sr. Functional Consultant",
+      "Not specified",
+      "Works From Home - Sao Paulo, Brazil"
+    ],
+    [
+      "Solutions Consulting Manager, SIM",
+      "Not specified",
+      "52 Locations"
+    ],
+    [
+      "Senior Technical Consultant-Client Success",
+      "Not specified",
+      "Bangalore, Karnataka, India"
+    ],
+    [
+      "Client Manager",
+      "Not specified",
+      "Bangalore, Karnataka, India"
+    ],
+    [
+      "DevOps Manager",
+      "Not specified",
+      "Works From Home - Sao Paulo, Brazil"
     ]
   ]
 }
