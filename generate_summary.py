@@ -3,6 +3,7 @@
 Generate a markdown summary of new job postings for GitHub Issues/notifications.
 """
 
+import argparse
 import csv
 import os
 from datetime import datetime
@@ -29,14 +30,17 @@ def get_seniority_level(title):
         return 6, 'Mid-Level'
 
 
-def load_company_config():
-    """Load company configuration to get display names."""
+def load_company_config(fund=None):
+    """Load company configuration to get display names, optionally filtered by fund."""
     import json
     config_path = Path('companies_config.json')
     if config_path.exists():
         with open(config_path, 'r') as f:
             config = json.load(f)
-            return {c['slug']: c['name'] for c in config.get('companies', [])}
+            companies = config.get('companies', [])
+            if fund:
+                companies = [c for c in companies if c.get('fund') == fund]
+            return {c['slug']: c['name'] for c in companies}
     return {}
 
 
@@ -51,12 +55,12 @@ def find_latest_new_jobs_file(company_dir):
     return files[0]
 
 
-def generate_summary(date_override=None):
+def generate_summary(date_override=None, fund=None):
     """Generate markdown summary of new jobs."""
     today = date_override or datetime.now().strftime('%Y-%m-%d')
     companies_dir = Path('companies')
 
-    company_names = load_company_config()
+    company_names = load_company_config(fund=fund)
 
     all_new_jobs = []
     company_counts = {}
@@ -65,6 +69,10 @@ def generate_summary(date_override=None):
     # Collect all new jobs
     for company_dir in companies_dir.iterdir():
         if not company_dir.is_dir():
+            continue
+
+        # Skip companies not in the filtered config (fund filtering)
+        if fund and company_dir.name not in company_names:
             continue
 
         # Try exact date first, then fall back to most recent
@@ -165,34 +173,81 @@ def generate_summary(date_override=None):
                 else:
                     lines.append(f"- **{company}**: {title} - {location}")
 
+    # Product Management highlights
+    pm_keywords = ['product manager', 'product owner', 'product management', 'product strategy',
+                   'product operations', 'group product', 'head of product', 'vp of product', 'product lead']
+    pm_jobs = [j for j in all_new_jobs if any(x in j.get('title', '').lower() for x in pm_keywords)]
+
+    if pm_jobs:
+        lines.append(f"\n---\n")
+        lines.append(f"## Product Management Roles Highlight ({len(pm_jobs)} positions)\n")
+
+        senior_pm = [j for j in pm_jobs if get_seniority_level(j.get('title', ''))[0] <= 4]
+        other_pm = [j for j in pm_jobs if get_seniority_level(j.get('title', ''))[0] >= 5]
+
+        if senior_pm[:10]:
+            lines.append("### Senior+ Product Management\n")
+            for job in senior_pm[:10]:
+                title = job.get('title', '')
+                company = job.get('company', '')
+                url = job.get('url', '')
+                location = job.get('location', 'Remote')
+                if url:
+                    lines.append(f"- **{company}**: [{title}]({url}) - {location}")
+                else:
+                    lines.append(f"- **{company}**: {title} - {location}")
+
+        if other_pm[:10]:
+            lines.append("\n### Other Product Roles\n")
+            for job in other_pm[:10]:
+                title = job.get('title', '')
+                company = job.get('company', '')
+                url = job.get('url', '')
+                location = job.get('location', 'Remote')
+                if url:
+                    lines.append(f"- **{company}**: [{title}]({url}) - {location}")
+                else:
+                    lines.append(f"- **{company}**: {title} - {location}")
+
     # Add company hiring priority insights
     try:
         from generate_company_insights import generate_all_insights, format_insights_markdown
-        insights, date_from, date_to = generate_all_insights()
+        insights, date_from, date_to = generate_all_insights(fund=fund)
         if insights:
             lines.append(format_insights_markdown(insights, date_from, date_to))
     except Exception as e:
         lines.append(f"\n*Could not generate company insights: {e}*\n")
 
     summary = '\n'.join(lines)
-    title = f"New Jobs: {display_date} - {len(all_new_jobs)} positions"
+    fund_label = f" [{fund.upper()} Fund]" if fund else ""
+    title = f"New Jobs{fund_label}: {display_date} - {len(all_new_jobs)} positions"
 
     return title, summary
 
 
 def main():
-    title, summary = generate_summary()
+    parser = argparse.ArgumentParser(description='Generate job posting summary')
+    parser.add_argument('--fund', choices=['partners', 'scf'],
+                        help='Filter companies by fund (partners or scf)')
+    args = parser.parse_args()
+
+    title, summary = generate_summary(fund=args.fund)
 
     if title is None:
         print("No new jobs to report.")
         return
 
+    # Fund-suffix output files to avoid collisions
+    suffix = f"_{args.fund}" if args.fund else ""
+    summary_file = f"job_summary{suffix}.md"
+    title_file = f"job_summary_title{suffix}.txt"
+
     # Write to file for GitHub Actions to pick up
-    with open('job_summary.md', 'w', encoding='utf-8') as f:
+    with open(summary_file, 'w', encoding='utf-8') as f:
         f.write(summary)
 
     # Write title separately
-    with open('job_summary_title.txt', 'w', encoding='utf-8') as f:
+    with open(title_file, 'w', encoding='utf-8') as f:
         f.write(title)
 
     print(f"Summary generated: {title}")

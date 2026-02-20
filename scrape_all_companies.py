@@ -5,6 +5,7 @@ Multi-Company Job Scraper
 Master script that scrapes job postings from multiple companies.
 """
 
+import argparse
 import json
 import time
 from datetime import datetime
@@ -30,21 +31,31 @@ from scrapers.tyler_scraper import TylerScraper
 from scrapers.simulationsplus_scraper import SimulationsPlusScraper
 from scrapers.dassault_scraper import DassaultScraper
 from scrapers.yardi_scraper import YardiScraper
+from scrapers.teamtailor_scraper import TeamtailorScraper
+from scrapers.ultipro_scraper import UltiProScraper
+from scrapers.workable_scraper import WorkableScraper
+from scrapers.oracle_hcm_scraper import OracleHCMScraper
+from scrapers.adp_scraper import ADPScraper
+from scrapers.static_html_scraper import StaticHTMLScraper
 
 
-def load_companies_config(config_file='companies_config.json'):
+def load_companies_config(config_file='companies_config.json', fund=None):
     """
     Load companies configuration from JSON file.
 
     Args:
         config_file (str): Path to configuration file
+        fund (str): Optional fund filter ('partners' or 'scf')
 
     Returns:
         list: List of company configurations
     """
     with open(config_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
-    return data['companies']
+    companies = data['companies']
+    if fund:
+        companies = [c for c in companies if c.get('fund') == fund]
+    return companies
 
 
 def get_scraper_class(scraper_name):
@@ -77,6 +88,12 @@ def get_scraper_class(scraper_name):
         'simulationsplus_scraper': SimulationsPlusScraper,
         'dassault_scraper': DassaultScraper,
         'yardi_scraper': YardiScraper,
+        'teamtailor_scraper': TeamtailorScraper,
+        'ultipro_scraper': UltiProScraper,
+        'workable_scraper': WorkableScraper,
+        'oracle_hcm_scraper': OracleHCMScraper,
+        'adp_scraper': ADPScraper,
+        'static_html_scraper': StaticHTMLScraper,
     }
     return scrapers.get(scraper_name, GenericScraper)
 
@@ -184,15 +201,17 @@ def print_summary(results):
     print("="*60)
 
 
-def save_summary_report(results):
+def save_summary_report(results, fund=None):
     """
     Save summary report to file.
 
     Args:
         results (list): List of result dictionaries
+        fund (str): Optional fund name for filename suffix
     """
     today = datetime.now().strftime('%Y-%m-%d')
-    report_file = f"scraping_summary_{today}.json"
+    suffix = f"_{fund}" if fund else ""
+    report_file = f"scraping_summary_{today}{suffix}.json"
 
     report = {
         'date': today,
@@ -212,16 +231,24 @@ def save_summary_report(results):
 
 def main():
     """Main function."""
+    parser = argparse.ArgumentParser(description='Multi-Company Job Scraper')
+    parser.add_argument('--fund', choices=['partners', 'scf'],
+                        help='Filter companies by fund (partners or scf)')
+    parser.add_argument('--company', type=str,
+                        help='Scrape a single company by slug')
+    args = parser.parse_args()
+
     start_time = datetime.now()
 
+    fund_label = f" [{args.fund.upper()} Fund]" if args.fund else ""
     print("="*60)
-    print("MULTI-COMPANY JOB SCRAPER")
+    print(f"MULTI-COMPANY JOB SCRAPER{fund_label}")
     print("="*60)
     print(f"Started at: {start_time.strftime('%Y-%m-%d %H:%M:%S')}")
 
     # Load configuration
     try:
-        companies = load_companies_config()
+        companies = load_companies_config(fund=args.fund)
     except FileNotFoundError:
         print("Error: companies_config.json not found")
         return
@@ -231,6 +258,13 @@ def main():
 
     # Filter enabled companies
     enabled_companies = [c for c in companies if c.get('enabled', True)]
+
+    # Filter by specific company if requested
+    if args.company:
+        enabled_companies = [c for c in enabled_companies if c['slug'] == args.company]
+        if not enabled_companies:
+            print(f"Error: Company '{args.company}' not found or not enabled")
+            return
 
     print(f"\nFound {len(enabled_companies)} enabled companies")
     print("Starting scraping process...\n")
@@ -246,7 +280,7 @@ def main():
     print_summary(results)
 
     # Save report
-    save_summary_report(results)
+    save_summary_report(results, fund=args.fund)
 
     # Duration
     end_time = datetime.now()

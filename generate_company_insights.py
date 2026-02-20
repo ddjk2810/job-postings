@@ -18,13 +18,16 @@ from datetime import datetime
 from pathlib import Path
 
 
-def load_company_config():
-    """Load company configuration to get display names."""
+def load_company_config(fund=None):
+    """Load company configuration to get display names, optionally filtered by fund."""
     config_path = Path('companies_config.json')
     if config_path.exists():
         with open(config_path, 'r') as f:
             config = json.load(f)
-            return {c['slug']: c['name'] for c in config.get('companies', [])}
+            companies = config.get('companies', [])
+            if fund:
+                companies = [c for c in companies if c.get('fund') == fund]
+            return {c['slug']: c['name'] for c in companies}
     return {}
 
 
@@ -281,19 +284,75 @@ def generate_insight(company_name, new_jobs, prev_count, curr_count):
     return sentence + "."
 
 
-def generate_all_insights(date_current=None, date_previous=None):
+def generate_detailed_insight(company_name, new_jobs, prev_count, curr_count):
+    """Generate a detailed insight dict about a company's hiring priorities."""
+    if not new_jobs:
+        return None
+
+    one_liner = generate_insight(company_name, new_jobs, prev_count, curr_count)
+
+    # Department breakdown
+    dept_counts = Counter(classify_department(j['title']) for j in new_jobs)
+    dept_labels = {
+        'engineering': 'engineering', 'ai-ml': 'AI/ML', 'sales': 'sales',
+        'marketing': 'marketing', 'product': 'product',
+        'customer-success': 'customer success', 'consulting-services': 'consulting/services',
+        'finance': 'finance', 'people': 'people/recruiting',
+        'legal-compliance': 'legal/compliance', 'security': 'security',
+        'design': 'design', 'operations': 'operations', 'other': 'other',
+    }
+    dept_breakdown = [(dept_labels.get(d, d), c) for d, c in dept_counts.most_common() if c > 0]
+
+    # Notable titles (director+)
+    notable_titles = []
+    for j in new_jobs:
+        seniority = classify_seniority(j['title'])
+        if seniority in ('c-level', 'vp', 'director'):
+            notable_titles.append(j['title'])
+    notable_titles = notable_titles[:5]
+
+    # Top locations
+    loc_counts = Counter()
+    for j in new_jobs:
+        loc = j.get('location', '').strip()
+        if loc:
+            loc_counts[loc] += 1
+    top_locations = loc_counts.most_common(5)
+
+    # Strategic signals
+    signals = []
+    ai_keywords = ['ai', 'machine learning', 'ml ', 'llm', 'generative', 'nlp', 'deep learning', 'data scientist']
+    platform_keywords = ['platform', 'cloud', 'infrastructure', 'devops', 'sre', 'kubernetes', 'aws', 'azure']
+    ai_count = sum(1 for j in new_jobs if any(k in j['title'].lower() for k in ai_keywords))
+    platform_count = sum(1 for j in new_jobs if any(k in j['title'].lower() for k in platform_keywords))
+    if ai_count >= 2:
+        signals.append('AI/ML investment')
+    if platform_count >= 2:
+        signals.append('Platform/cloud buildout')
+
+    return {
+        'one_liner': one_liner,
+        'dept_breakdown': dept_breakdown,
+        'notable_titles': notable_titles,
+        'top_locations': top_locations,
+        'strategic_signals': signals,
+    }
+
+
+def generate_all_insights(date_current=None, date_previous=None, fund=None):
     """
     Generate insights for all companies.
 
     Args:
         date_current: Specific date to use for current data (YYYY-MM-DD)
         date_previous: Specific date to use for previous data (YYYY-MM-DD)
+        fund: Optional fund filter ('partners' or 'scf')
 
     Returns:
         list: List of (company_name, insight, new_count, prev_count, curr_count) tuples
     """
     companies_dir = Path('companies')
-    company_names = load_company_config()
+    company_names = load_company_config(fund=fund)
     insights = []
 
     for company_dir in sorted(companies_dir.iterdir()):
@@ -301,6 +360,10 @@ def generate_all_insights(date_current=None, date_previous=None):
             continue
 
         slug = company_dir.name
+
+        # Skip companies not in the filtered config (fund filtering)
+        if fund and slug not in company_names:
+            continue
         name = company_names.get(slug, slug.title())
 
         # Find files to compare
@@ -328,7 +391,7 @@ def generate_all_insights(date_current=None, date_previous=None):
         if not new_jobs:
             continue
 
-        insight = generate_insight(name, new_jobs, len(previous_jobs), len(current_jobs))
+        insight = generate_detailed_insight(name, new_jobs, len(previous_jobs), len(current_jobs))
         if insight:
             insights.append((name, insight, len(new_jobs), len(previous_jobs), len(current_jobs)))
 
@@ -336,10 +399,10 @@ def generate_all_insights(date_current=None, date_previous=None):
 
 
 def format_insights_markdown(insights, date_from, date_to):
-    """Format insights as markdown."""
+    """Format insights as markdown with detailed blocks for large companies."""
     lines = []
     lines.append(f"\n## Company Hiring Priorities ({date_from} -> {date_to})\n")
-    lines.append("One-sentence summary of what each company appears to be prioritizing based on new job postings:\n")
+    lines.append("What each company appears to be prioritizing based on new job postings:\n")
 
     # Sort by number of new titles descending
     insights.sort(key=lambda x: -x[2])
@@ -347,24 +410,54 @@ def format_insights_markdown(insights, date_from, date_to):
     for name, insight, new_count, prev_count, curr_count in insights:
         net = curr_count - prev_count
         net_str = f"+{net}" if net >= 0 else str(net)
-        lines.append(f"**{name}** ({prev_count}->{curr_count}, {net_str} net): {insight}\n")
+        header = f"{prev_count}->{curr_count}, {net_str} net, {new_count} new postings"
+
+        if new_count >= 5:
+            # Detailed block
+            lines.append(f"### {name} ({header})\n")
+            lines.append(f"{insight['one_liner']}\n")
+
+            if insight['dept_breakdown']:
+                dept_str = ', '.join(f"{d} ({c})" for d, c in insight['dept_breakdown'])
+                lines.append(f"**Department mix:** {dept_str}  ")
+
+            if insight['notable_titles']:
+                titles_str = ' | '.join(insight['notable_titles'])
+                lines.append(f"**Notable titles:** {titles_str}  ")
+
+            if insight['top_locations']:
+                loc_str = ', '.join(f"{loc} ({c})" for loc, c in insight['top_locations'])
+                lines.append(f"**Geographic focus:** {loc_str}  ")
+
+            if insight['strategic_signals']:
+                lines.append(f"**Strategic signals:** {', '.join(insight['strategic_signals'])}  ")
+
+            lines.append("")
+        else:
+            # Compact one-liner
+            lines.append(f"**{name}** ({header}): {insight['one_liner']}\n")
 
     return '\n'.join(lines)
 
 
 def main():
     """Main function - can be run standalone or imported."""
-    import sys
+    import argparse
+
+    parser = argparse.ArgumentParser(description='Generate company hiring insights')
+    parser.add_argument('--fund', choices=['partners', 'scf'],
+                        help='Filter companies by fund (partners or scf)')
+    parser.add_argument('dates', nargs='*',
+                        help='Optional: previous_date current_date (YYYY-MM-DD)')
+    args = parser.parse_args()
 
     date_current = None
     date_previous = None
+    if len(args.dates) >= 2:
+        date_previous = args.dates[0]
+        date_current = args.dates[1]
 
-    # Accept optional date arguments
-    if len(sys.argv) >= 3:
-        date_previous = sys.argv[1]
-        date_current = sys.argv[2]
-
-    insights, date_from, date_to = generate_all_insights(date_current, date_previous)
+    insights, date_from, date_to = generate_all_insights(date_current, date_previous, fund=args.fund)
 
     if not insights:
         print("No new job data to analyze.")

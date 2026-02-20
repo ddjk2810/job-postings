@@ -1,11 +1,8 @@
-name: Daily Job Scraper
+name: "Daily Job Scraper: Partners Fund"
 
 on:
-  # Run daily at 6 AM UTC (adjust to your timezone)
   schedule:
     - cron: '0 6 * * *'
-
-  # Allow manual trigger from GitHub UI
   workflow_dispatch:
 
 jobs:
@@ -37,8 +34,8 @@ jobs:
         with:
           chrome-version: stable
 
-      - name: Run job scraper
-        run: python scrape_all_companies.py
+      - name: Run job scraper (Partners Fund)
+        run: python scrape_all_companies.py --fund partners
         continue-on-error: true
 
       - name: Track new jobs
@@ -66,18 +63,17 @@ jobs:
         continue-on-error: true
 
       - name: Generate company insights
-        run: python generate_company_insights.py
+        run: python generate_company_insights.py --fund partners
         continue-on-error: true
 
       - name: Generate summary
         id: summary
         run: |
-          python generate_summary.py
+          python generate_summary.py --fund partners
 
-          if [ -f job_summary_title.txt ]; then
+          if [ -f job_summary_partners.md ]; then
             echo "has_jobs=true" >> $GITHUB_OUTPUT
-            # Handle multiline title
-            TITLE=$(cat job_summary_title.txt)
+            TITLE=$(cat job_summary_title_partners.txt)
             echo "title=$TITLE" >> $GITHUB_OUTPUT
           else
             echo "has_jobs=false" >> $GITHUB_OUTPUT
@@ -88,10 +84,11 @@ jobs:
         uses: peter-evans/create-issue-from-file@v5
         with:
           title: ${{ steps.summary.outputs.title }}
-          content-filepath: ./job_summary.md
+          content-filepath: ./job_summary_partners.md
           labels: |
             automated
             job-postings
+            partners-fund
 
       - name: Configure Git
         run: |
@@ -100,17 +97,15 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          # Remove temporary summary files before commit
-          rm -f job_summary.md job_summary_title.txt
+          rm -f job_summary_partners.md job_summary_title_partners.txt
 
           git add -A
 
-          # Check if there are changes to commit
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             DATE=$(date +'%Y-%m-%d')
-            git commit -m "Daily job scrape: $DATE
+            git commit -m "Daily job scrape (Partners Fund): $DATE
 
           Automated scrape by GitHub Actions"
             git push

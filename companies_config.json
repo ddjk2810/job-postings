@@ -6,7 +6,8 @@
       "url": "https://careers.veeva.com/job-search-results/",
       "platform": "custom",
       "scraper": "veeva_scraper",
-      "enabled": true
+      "enabled": true,
+      "fund": "partners"
     },
     {
       "name": "HubSpot",
@@ -15,7 +16,8 @@
       "platform": "ripplematch",
       "scraper": "generic_scraper",
       "enabled": true,
-      "notes": "Uses RippleMatch third-party platform"
+      "notes": "Uses RippleMatch third-party platform",
+      "fund": "partners"
     },
     {
       "name": "Salesforce",
@@ -23,7 +25,8 @@
       "url": "https://careers.salesforce.com/en/jobs/",
       "platform": "custom",
       "scraper": "generic_scraper",
-      "enabled": true
+      "enabled": true,
+      "fund": "partners"
     },
     {
       "name": "Kinaxis",
@@ -31,7 +34,8 @@
       "url": "https://careers-kinaxis.icims.com/",
       "platform": "headless",
       "scraper": "kinaxis_scraper",
-      "enabled": true
+      "enabled": true,
+      "fund": "partners"
     },
     {
       "name": "ServiceNow",
@@ -39,7 +43,8 @@
       "url": "https://careers.servicenow.com/jobs/",
       "platform": "custom",
       "scraper": "generic_scraper",
-      "enabled": true
+      "enabled": true,
+      "fund": "partners"
     },
     {
       "name": "Ensono",
@@ -47,7 +52,8 @@
       "url": "https://recruiting.ultipro.com/ONE1018ONSO/JobBoard/1955ffa6-bda6-4c95-8412-2c731d693ab2/?q=&o=postedDateDesc",
       "platform": "ultipro",
       "scraper": "generic_scraper",
-      "enabled": true
+      "enabled": true,
+      "fund": "partners"
     },
     {
       "name": "Workday",
@@ -56,7 +62,8 @@
       "platform": "workday",
       "scraper": "workday_scraper",
       "enabled": true,
-      "api_base": "https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs"
+      "api_base": "https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs",
+      "fund": "partners"
     },
     {
       "name": "Autodesk",
@@ -65,7 +72,8 @@
       "platform": "workday",
       "scraper": "workday_scraper",
       "enabled": true,
-      "api_base": "https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs"
+      "api_base": "https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs",
+      "fund": "partners"
     },
     {
       "name": "Bentley",
@@ -73,7 +81,8 @@
       "url": "https://jobs.bentley.com/search",
       "platform": "custom",
       "scraper": "generic_scraper",
-      "enabled": true
+      "enabled": true,
+      "fund": "partners"
     },
     {
       "name": "Nemetschek",
@@ -81,7 +90,8 @@
       "url": "https://www.nemetschek.com/en/company/career",
       "platform": "custom",
       "scraper": "generic_scraper",
-      "enabled": true
+      "enabled": true,
+      "fund": "partners"
     },
     {
       "name": "Procore",
@@ -89,7 +99,8 @@
       "url": "https://careers.procore.com/jobs/search",
       "platform": "headless",
       "scraper": "procore_scraper",
-      "enabled": true
+      "enabled": true,
+      "fund": "partners"
     },
     {
       "name": "Alkami",
@@ -98,7 +109,8 @@
       "platform": "workday",
       "scraper": "workday_scraper",
       "enabled": true,
-      "api_base": "https://alkami.wd12.myworkdayjobs.com/wday/cxs/alkami/Alkami/jobs"
+      "api_base": "https://alkami.wd12.myworkdayjobs.com/wday/cxs/alkami/Alkami/jobs",
+      "fund": "partners"
     },
     {
       "name": "nCino",
@@ -107,7 +119,8 @@
       "platform": "workday",
       "scraper": "workday_scraper",
       "enabled": true,
-      "api_base": "https://ncino.wd5.myworkdayjobs.com/wday/cxs/ncino/nCinoCareers/jobs"
+      "api_base": "https://ncino.wd5.myworkdayjobs.com/wday/cxs/ncino/nCinoCareers/jobs",
+      "fund": "partners"
     },
     {
       "name": "Dassault Systemes (3DS)",
@@ -116,7 +129,8 @@
       "platform": "headless",
       "scraper": "dassault_scraper",
       "enabled": true,
-      "notes": "Vue.js dynamic site, requires headless browser"
+      "notes": "Vue.js dynamic site, requires headless browser",
+      "fund": "partners"
     },
     {
       "name": "Guidewire",
@@ -125,7 +139,8 @@
       "platform": "workday",
       "scraper": "workday_scraper",
       "enabled": true,
-      "api_base": "https://guidewire.wd5.myworkdayjobs.com/wday/cxs/guidewire/external/jobs"
+      "api_base": "https://guidewire.wd5.myworkdayjobs.com/wday/cxs/guidewire/external/jobs",
+      "fund": "partners"
     },
     {
       "name": "Manhattan Associates",
@@ -134,7 +149,8 @@
       "platform": "workday",
       "scraper": "workday_scraper",
       "enabled": true,
-      "api_base": "https://manh.wd5.myworkdayjobs.com/wday/cxs/manh/External/jobs"
+      "api_base": "https://manh.wd5.myworkdayjobs.com/wday/cxs/manh/External/jobs",
+      "fund": "partners"
     },
     {
       "name": "SPS Commerce",
@@ -143,7 +159,8 @@
       "platform": "workday",
       "scraper": "workday_scraper",
       "enabled": true,
-      "api_base": "https://spscommerce.wd108.myworkdayjobs.com/wday/cxs/spscommerce/SPS/jobs"
+      "api_base": "https://spscommerce.wd108.myworkdayjobs.com/wday/cxs/spscommerce/SPS/jobs",
+      "fund": "partners"
     },
     {
       "name": "Descartes",
@@ -153,7 +170,8 @@
       "scraper": "successfactors_scraper",
       "enabled": true,
       "all_jobs_url": "https://jobs.descartes.com/go/View-All-Jobs/2574817/",
-      "notes": "SAP SuccessFactors platform"
+      "notes": "SAP SuccessFactors platform",
+      "fund": "partners"
     },
     {
       "name": "Vertex",
@@ -162,7 +180,8 @@
       "platform": "workday",
       "scraper": "workday_scraper",
       "enabled": true,
-      "api_base": "https://vertexinc.wd1.myworkdayjobs.com/wday/cxs/vertexinc/VertexInc/jobs"
+      "api_base": "https://vertexinc.wd1.myworkdayjobs.com/wday/cxs/vertexinc/VertexInc/jobs",
+      "fund": "partners"
     },
     {
       "name": "BlackLine",
@@ -170,7 +189,8 @@
       "url": "https://careers.blackline.com/careers-home/jobs",
       "platform": "custom",
       "scraper": "generic_scraper",
-      "enabled": true
+      "enabled": true,
+      "fund": "partners"
     },
     {
       "name": "Q2",
@@ -179,7 +199,8 @@
       "platform": "workday",
       "scraper": "workday_scraper",
       "enabled": true,
-      "api_base": "https://q2ebanking.wd5.myworkdayjobs.com/wday/cxs/q2ebanking/Q2/jobs"
+      "api_base": "https://q2ebanking.wd5.myworkdayjobs.com/wday/cxs/q2ebanking/Q2/jobs",
+      "fund": "partners"
     },
     {
       "name": "CCC Intelligent Solutions",
@@ -188,7 +209,8 @@
       "platform": "workday",
       "scraper": "workday_scraper",
       "enabled": true,
-      "api_base": "https://cccis.wd1.myworkdayjobs.com/wday/cxs/cccis/broadbean_external/jobs"
+      "api_base": "https://cccis.wd1.myworkdayjobs.com/wday/cxs/cccis/broadbean_external/jobs",
+      "fund": "partners"
     },
     {
       "name": "Shopify",
@@ -196,7 +218,8 @@
       "url": "https://www.shopify.com/careers",
       "platform": "custom",
       "scraper": "generic_scraper",
-      "enabled": true
+      "enabled": true,
+      "fund": "partners"
     },
     {
       "name": "Bill.com",
@@ -205,7 +228,8 @@
       "platform": "greenhouse",
       "scraper": "greenhouse_scraper",
       "enabled": true,
-      "greenhouse_id": "billcom"
+      "greenhouse_id": "billcom",
+      "fund": "partners"
     },
     {
       "name": "Workiva",
@@ -214,7 +238,8 @@
       "platform": "workday",
       "scraper": "workday_scraper",
       "enabled": true,
-      "api_base": "https://workiva.wd503.myworkdayjobs.com/wday/cxs/workiva/careers/jobs"
+      "api_base": "https://workiva.wd503.myworkdayjobs.com/wday/cxs/workiva/careers/jobs",
+      "fund": "partners"
     },
     {
       "name": "AppFolio",
@@ -222,7 +247,8 @@
       "url": "https://www.appfolio.com/open-roles",
       "platform": "headless",
       "scraper": "appfolio_scraper",
-      "enabled": true
+      "enabled": true,
+      "fund": "partners"
     },
     {
       "name": "Certara",
@@ -230,7 +256,8 @@
       "url": "https://careers.certara.com/jobs",
       "platform": "headless",
       "scraper": "certara_scraper",
-      "enabled": true
+      "enabled": true,
+      "fund": "partners"
     },
     {
       "name": "Simulations Plus",
@@ -239,7 +266,8 @@
       "platform": "headless",
       "scraper": "simulationsplus_scraper",
       "enabled": false,
-      "notes": "Company does not maintain a public job board - posts to external platforms only (Indeed, Glassdoor). Typically has 0-3 openings."
+      "notes": "Company does not maintain a public job board - posts to external platforms only (Indeed, Glassdoor). Typically has 0-3 openings.",
+      "fund": "partners"
     },
     {
       "name": "Altus Group",
@@ -248,7 +276,8 @@
       "platform": "workday",
       "scraper": "workday_scraper",
       "enabled": true,
-      "api_base": "https://altusgroup.wd3.myworkdayjobs.com/wday/cxs/altusgroup/AltusGroup/jobs"
+      "api_base": "https://altusgroup.wd3.myworkdayjobs.com/wday/cxs/altusgroup/AltusGroup/jobs",
+      "fund": "partners"
     },
     {
       "name": "Toast",
@@ -256,7 +285,8 @@
       "url": "https://careers.toasttab.com/jobs/search",
       "platform": "headless",
       "scraper": "toast_scraper",
-      "enabled": true
+      "enabled": true,
+      "fund": "partners"
     },
     {
       "name": "Tyler Technologies",
@@ -265,7 +295,8 @@
       "platform": "headless",
       "scraper": "tyler_scraper",
       "enabled": true,
-      "notes": "Uses Jobvite integration, requires headless browser"
+      "notes": "Uses Jobvite integration, requires headless browser",
+      "fund": "partners"
     },
     {
       "name": "Axon",
@@ -273,7 +304,8 @@
       "url": "https://www.axon.com/careers/all",
       "platform": "custom",
       "scraper": "generic_scraper",
-      "enabled": true
+      "enabled": true,
+      "fund": "partners"
     },
     {
       "name": "Corpay",
@@ -282,7 +314,8 @@
       "platform": "workday",
       "scraper": "workday_scraper",
       "enabled": true,
-      "api_base": "https://corpay.wd103.myworkdayjobs.com/wday/cxs/corpay/Ext_001/jobs"
+      "api_base": "https://corpay.wd103.myworkdayjobs.com/wday/cxs/corpay/Ext_001/jobs",
+      "fund": "partners"
     },
     {
       "name": "Corpay (Dayforce)",
@@ -291,7 +324,8 @@
       "platform": "headless",
       "scraper": "dayforce_scraper",
       "enabled": true,
-      "notes": "Dayforce HCM platform"
+      "notes": "Dayforce HCM platform",
+      "fund": "partners"
     },
     {
       "name": "ServiceTitan",
@@ -299,7 +333,8 @@
       "url": "https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan",
       "platform": "headless",
       "scraper": "servicetitan_scraper",
-      "enabled": true
+      "enabled": true,
+      "fund": "partners"
     },
     {
       "name": "Lumin Digital",
@@ -308,7 +343,8 @@
       "platform": "lever",
       "scraper": "lever_scraper",
       "lever_id": "LuminDigital",
-      "enabled": true
+      "enabled": true,
+      "fund": "partners"
     },
     {
       "name": "Entrata",
@@ -317,7 +353,8 @@
       "platform": "lever",
       "scraper": "lever_scraper",
       "lever_id": "entrata",
-      "enabled": true
+      "enabled": true,
+      "fund": "partners"
     },
     {
       "name": "Blend",
@@ -326,7 +363,8 @@
       "platform": "greenhouse",
       "scraper": "greenhouse_scraper",
       "greenhouse_id": "blend",
-      "enabled": true
+      "enabled": true,
+      "fund": "partners"
     },
     {
       "name": "Parloa",
@@ -335,7 +373,8 @@
       "platform": "greenhouse",
       "scraper": "greenhouse_scraper",
       "greenhouse_id": "parloa",
-      "enabled": true
+      "enabled": true,
+      "fund": "partners"
     },
     {
       "name": "o9 Solutions",
@@ -344,7 +383,8 @@
       "platform": "workday",
       "scraper": "workday_scraper",
       "api_base": "https://o9solutions.wd5.myworkdayjobs.com/wday/cxs/o9solutions/o9SolutionsExternal/jobs",
-      "enabled": true
+      "enabled": true,
+      "fund": "partners"
     },
     {
       "name": "Blue Yonder",
@@ -353,7 +393,8 @@
       "platform": "workday",
       "scraper": "workday_scraper",
       "api_base": "https://jda.wd5.myworkdayjobs.com/wday/cxs/jda/JDA_Careers/jobs",
-      "enabled": true
+      "enabled": true,
+      "fund": "partners"
     },
     {
       "name": "EliseAI",
@@ -362,7 +403,8 @@
       "platform": "ashby",
       "scraper": "ashby_scraper",
       "ashby_id": "eliseai",
-      "enabled": true
+      "enabled": true,
+      "fund": "partners"
     },
     {
       "name": "Sierra AI",
@@ -371,7 +413,8 @@
       "platform": "ashby",
       "scraper": "ashby_scraper",
       "ashby_id": "Sierra",
-      "enabled": true
+      "enabled": true,
+      "fund": "partners"
     },
     {
       "name": "Decagon AI",
@@ -380,7 +423,8 @@
       "platform": "ashby",
       "scraper": "ashby_scraper",
       "ashby_id": "decagon",
-      "enabled": true
+      "enabled": true,
+      "fund": "partners"
     },
     {
       "name": "RealPage",
@@ -389,7 +433,8 @@
       "platform": "icims",
       "scraper": "kinaxis_scraper",
       "enabled": true,
-      "notes": "iCIMS platform, similar to Kinaxis"
+      "notes": "iCIMS platform, similar to Kinaxis",
+      "fund": "partners"
     },
     {
       "name": "Serval",
@@ -398,7 +443,8 @@
       "platform": "ashby",
       "scraper": "ashby_scraper",
       "ashby_id": "Serval",
-      "enabled": true
+      "enabled": true,
+      "fund": "partners"
     },
     {
       "name": "Bilt Rewards",
@@ -406,7 +452,8 @@
       "url": "https://jobs.gem.com/bilt",
       "platform": "gem",
       "scraper": "gem_scraper",
-      "enabled": true
+      "enabled": true,
+      "fund": "partners"
     },
     {
       "name": "Yardi",
@@ -415,7 +462,145 @@
       "platform": "headless",
       "scraper": "yardi_scraper",
       "enabled": true,
-      "notes": "Custom careers site, requires headless browser with anti-detection"
+      "notes": "Custom careers site, requires headless browser with anti-detection",
+      "fund": "partners"
+    },
+    {
+      "name": "Axway",
+      "slug": "axway",
+      "url": "https://careers-axway.icims.com/jobs/search?ss=1&hashed=-435656963",
+      "platform": "icims",
+      "scraper": "kinaxis_scraper",
+      "enabled": true,
+      "fund": "scf",
+      "notes": "iCIMS platform, reuses Kinaxis scraper"
+    },
+    {
+      "name": "Docebo",
+      "slug": "docebo",
+      "url": "https://jobs.ashbyhq.com/docebo",
+      "platform": "ashby",
+      "scraper": "ashby_scraper",
+      "enabled": true,
+      "fund": "scf",
+      "ashby_id": "docebo"
+    },
+    {
+      "name": "accesso",
+      "slug": "accesso",
+      "url": "https://job-boards.greenhouse.io/accesso",
+      "platform": "greenhouse",
+      "scraper": "greenhouse_scraper",
+      "greenhouse_id": "accesso",
+      "enabled": true,
+      "fund": "scf"
+    },
+    {
+      "name": "i3 Verticals",
+      "slug": "i3verticals",
+      "url": "https://recruiting2.ultipro.com/IVE1000IVEC/JobBoard/ec3e4530-b925-46c7-8da5-602b6abf81e7/?q=&o=postedDateDesc",
+      "platform": "ultipro",
+      "scraper": "ultipro_scraper",
+      "enabled": true,
+      "fund": "scf"
+    },
+    {
+      "name": "Mesa Labs",
+      "slug": "mesalabs",
+      "url": "https://recruiting2.ultipro.com/MES1007MELA/JobBoard/3c5aaf31-804f-4321-b6ae-700d06097849/?q=&o=postedDateDesc",
+      "platform": "ultipro",
+      "scraper": "ultipro_scraper",
+      "enabled": true,
+      "fund": "scf"
+    },
+    {
+      "name": "Nordhealth",
+      "slug": "nordhealth",
+      "url": "https://careers.nordhealth.com/jobs",
+      "platform": "teamtailor",
+      "scraper": "teamtailor_scraper",
+      "teamtailor_base": "careers.nordhealth.com",
+      "enabled": true,
+      "fund": "scf"
+    },
+    {
+      "name": "Omda",
+      "slug": "omda",
+      "url": "https://careers.omda.com/jobs",
+      "platform": "teamtailor",
+      "scraper": "teamtailor_scraper",
+      "teamtailor_base": "careers.omda.com",
+      "enabled": true,
+      "fund": "scf"
+    },
+    {
+      "name": "Karnov Group (SE)",
+      "slug": "karnov-se",
+      "url": "https://karriar.karnovgroup.se/jobs",
+      "platform": "teamtailor",
+      "scraper": "teamtailor_scraper",
+      "teamtailor_base": "karriar.karnovgroup.se",
+      "enabled": true,
+      "fund": "scf"
+    },
+    {
+      "name": "Karnov Group (DK)",
+      "slug": "karnov-dk",
+      "url": "https://karnovgroupdenmark.teamtailor.com/jobs",
+      "platform": "teamtailor",
+      "scraper": "teamtailor_scraper",
+      "teamtailor_base": "karnovgroupdenmark.teamtailor.com",
+      "enabled": true,
+      "fund": "scf"
+    },
+    {
+      "name": "Tecsys",
+      "slug": "tecsys",
+      "url": "https://www.tecsys.com/career-opportunities",
+      "platform": "workable",
+      "scraper": "workable_scraper",
+      "workable_id": "tecsys",
+      "enabled": true,
+      "fund": "scf"
+    },
+    {
+      "name": "Hansen Technologies",
+      "slug": "hansen",
+      "url": "https://eoja.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs",
+      "platform": "oracle_hcm",
+      "scraper": "oracle_hcm_scraper",
+      "enabled": true,
+      "fund": "scf"
+    },
+    {
+      "name": "Porvair",
+      "slug": "porvair",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=87119e12-8f0a-4e3b-afbe-54f0357224f4&ccId=19000101_000001&lang=en_US",
+      "platform": "adp",
+      "scraper": "adp_scraper",
+      "enabled": false,
+      "fund": "scf",
+      "notes": "ADP Workforce Now - heavy SPA, needs manual verification"
+    },
+    {
+      "name": "Porvair Filtration",
+      "slug": "porvair-filtration",
+      "url": "https://www.porvairfiltration.com/about/careers/vacancies/",
+      "platform": "static_html",
+      "scraper": "static_html_scraper",
+      "enabled": true,
+      "fund": "scf",
+      "job_url_pattern": "/vacancy/"
+    },
+    {
+      "name": "Aptitude Software",
+      "slug": "aptitude",
+      "url": "https://www.aptitudesoftware.com/careers/",
+      "platform": "static_html",
+      "scraper": "static_html_scraper",
+      "enabled": false,
+      "fund": "scf",
+      "notes": "WordPress/Divi site loads careers dynamically via JS - static scraper cannot parse. Typically 1-2 roles."
     }
   ]
 }

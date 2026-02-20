@@ -19,6 +19,12 @@ from scrapers.tyler_scraper import TylerScraper
 from scrapers.simulationsplus_scraper import SimulationsPlusScraper
 from scrapers.dassault_scraper import DassaultScraper
 from scrapers.yardi_scraper import YardiScraper
+from scrapers.teamtailor_scraper import TeamtailorScraper
+from scrapers.ultipro_scraper import UltiProScraper
+from scrapers.workable_scraper import WorkableScraper
+from scrapers.oracle_hcm_scraper import OracleHCMScraper
+from scrapers.adp_scraper import ADPScraper
+from scrapers.static_html_scraper import StaticHTMLScraper
 
 __all__ = [
     'BaseScraper',
@@ -39,5 +45,11 @@ __all__ = [
     'TylerScraper',
     'SimulationsPlusScraper',
     'DassaultScraper',
-    'YardiScraper'
+    'YardiScraper',
+    'TeamtailorScraper',
+    'UltiProScraper',
+    'WorkableScraper',
+    'OracleHCMScraper',
+    'ADPScraper',
+    'StaticHTMLScraper'
 ]
