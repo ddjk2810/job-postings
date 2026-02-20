@@ -1,82 +1,37 @@
 {
-  "last_updated": "2026-02-20T03:40:59.009961",
+  "last_updated": "2026-02-20T03:50:44.326852",
   "job_count": 160,
   "active_count": 152,
   "jobs": [
     [
-      "Senior Commercial Counsel",
-      "Legal",
+      "Sales Engineer",
+      "Sales",
       "New York, NY"
     ],
     [
-      "Software Engineer, Infrastructure ",
-      "Engineering",
-      "London"
-    ],
-    [
-      "Commercial Counsel",
-      "Legal",
-      "London"
-    ],
-    [
-      "Enterprise Account Executive, Europe",
-      "Sales",
-      "London"
-    ],
-    [
-      "Product Manager, Agent Development - Healthcare",
+      "Strategist, Agent Development (Arabic speaking)",
       "Product",
-      "San Francisco, CA"
-    ],
-    [
-      "Intern, Agent Development (Summer 2026)",
-      "Early Career",
-      "San Francisco, CA"
-    ],
-    [
-      "Commercial Counsel",
-      "Legal",
-      "Atlanta, GA"
-    ],
-    [
-      "Software Engineer, Agent (Italian speaking)",
-      "Engineering",
       "London"
     ],
     [
-      "Software Engineer, Agent (Spanish speaking)",
-      "Engineering",
-      "London"
+      "Creative Program Manager",
+      "Marketing & Communications",
+      "San Francisco, CA"
     ],
     [
-      "Sales Engineer (APAC)",
+      "Sales Engineering Manager",
       "Sales",
-      "Singapore"
+      "San Francisco, CA"
     ],
     [
-      "High Growth Enterprise Account Executive",
-      "Sales",
-      "Atlanta, GA"
-    ],
-    [
-      "Software Engineer, Agent",
-      "Engineering",
-      "Singapore"
-    ],
-    [
-      "Product Manager, Assist",
+      "Product Manager, Agent Development (Spanish speaking)",
       "Product",
-      "San Francisco, CA"
+      "London"
     ],
     [
-      "Recruiting Coordinator (Contract)",
-      "Operations",
+      "Agent Experience Designer, Voice (Multilingual)",
+      "Product Design",
       "San Francisco, CA"
-    ],
-    [
-      "Commercial Counsel",
-      "Legal",
-      "New York, NY"
     ],
     [
       "Product Manager, Intelligence",
@@ -84,78 +39,13 @@
       "San Francisco, CA"
     ],
     [
-      "Payroll Manager",
-      "Operations",
-      "San Francisco, CA"
-    ],
-    [
-      "Office Coordinator (Contract)",
-      "Operations",
-      "San Francisco, CA"
-    ],
-    [
-      "IT Operations Lead",
-      "IT",
-      "San Francisco, CA"
-    ],
-    [
-      "Field Marketing Associate",
-      "Marketing & Communications",
-      "London"
-    ],
-    [
-      "Software Engineer, Agent ",
-      "Engineering",
-      "Toronto"
-    ],
-    [
-      "Software Engineer, Identity & Enterprise Platform",
+      "Software Engineer, Security",
       "Engineering",
       "San Francisco, CA"
     ],
     [
-      "Web Designer",
-      "Marketing & Communications",
-      "San Francisco, CA"
-    ],
-    [
-      "Technical Recruiter",
-      "Operations",
-      "London"
-    ],
-    [
-      "Product Manager, Agent Lifecycle",
-      "Product",
-      "San Francisco, CA"
-    ],
-    [
-      "Software Engineer, Agent",
-      "Engineering",
-      "Munich"
-    ],
-    [
-      "Technical Recruiter",
-      "Operations",
-      "Atlanta, GA"
-    ],
-    [
-      "APX (New Grad)",
-      "Early Career",
-      "San Francisco, CA"
-    ],
-    [
-      "Revenue Operations",
-      "Operations",
-      "San Francisco, CA"
-    ],
-    [
-      "Strategist, Agent Development - Healthcare",
-      "Product",
-      "San Francisco, CA"
-    ],
-    [
-      "University Recruiter",
-      "Operations",
+      "Senior Commercial Counsel",
+      "Legal",
       "New York, NY"
     ],
     [
@@ -164,53 +54,13 @@
       "London"
     ],
     [
-      "Technical Recruiter",
+      "Recruiting Coordinator (Contract)",
       "Operations",
-      "New York, NY"
-    ],
-    [
-      "Software Engineer, Agent (New Grad)",
-      "Early Career",
-      "San Francisco, CA"
-    ],
-    [
-      "Enterprise Account Executive",
-      "Sales",
-      "US - Remote"
-    ],
-    [
-      "Enterprise Account Executive, Europe (German speaking)",
-      "Sales",
       "London"
     ],
     [
-      "Developer Relations Engineer",
-      "Partnerships",
-      "London"
-    ],
-    [
-      "Web Producer",
+      "Campaign Marketer",
       "Marketing & Communications",
-      "San Francisco, CA"
-    ],
-    [
-      "Enterprise Account Executive, Europe",
-      "Sales",
-      "Munich"
-    ],
-    [
-      "Software Engineer, Platform",
-      "Engineering",
-      "San Francisco, CA"
-    ],
-    [
-      "Strategist, Agent Development",
-      "Product",
-      "San Francisco, CA"
-    ],
-    [
-      "Enterprise Account Executive",
-      "Sales",
       "San Francisco, CA"
     ],
     [
@@ -219,9 +69,329 @@
       "Atlanta, GA"
     ],
     [
+      "Software Engineer, Agent (German speaking)",
+      "Engineering",
+      "London"
+    ],
+    [
+      "Enterprise Account Executive, Europe (Arabic speaking)",
+      "Sales",
+      "London"
+    ],
+    [
+      "GTM Operations Analyst",
+      "Operations",
+      "Singapore"
+    ],
+    [
+      "Product Manager, Agent Development - Healthcare",
+      "Product",
+      "New York, NY"
+    ],
+    [
+      "Office Coordinator (Contract)",
+      "Operations",
+      "San Francisco, CA"
+    ],
+    [
+      "Product Manager, Agent SDK",
+      "Product",
+      "San Francisco, CA"
+    ],
+    [
+      "Web Designer",
+      "Marketing & Communications",
+      "San Francisco, CA"
+    ],
+    [
+      "Strategist, Agent Development (German speaking)",
+      "Product",
+      "London"
+    ],
+    [
+      "Strategist, Agent Development",
+      "Product",
+      "New York, NY"
+    ],
+    [
+      "Product Manager, Agent Development ",
+      "Product",
+      "Tokyo"
+    ],
+    [
+      "Software Engineer, Insights",
+      "Engineering",
+      "San Francisco, CA"
+    ],
+    [
+      "Product Manager, Developer Experience",
+      "Product",
+      "San Francisco, CA"
+    ],
+    [
+      "Strategist, Agent Development (Spanish speaking)",
+      "Product",
+      "Madrid"
+    ],
+    [
+      "Web Producer",
+      "Marketing & Communications",
+      "San Francisco, CA"
+    ],
+    [
+      "Software Engineer, Agent (New Grad)",
+      "Early Career",
+      "New York, NY"
+    ],
+    [
+      "Senior Commercial Counsel",
+      "Legal",
+      "Atlanta, GA"
+    ],
+    [
+      "Product Manager, Agent Platform",
+      "Product",
+      "San Francisco, CA"
+    ],
+    [
+      "High Growth Enterprise Account Executive",
+      "Sales",
+      "Atlanta, GA"
+    ],
+    [
+      "Strategist, Agent Development (Spanish speaking)",
+      "Product",
+      "London"
+    ],
+    [
+      "Security Engineer",
+      "Engineering",
+      "San Francisco, CA"
+    ],
+    [
+      "Technical Recruiter",
+      "Operations",
+      "Atlanta, GA"
+    ],
+    [
+      "Product Designer",
+      "Product Design",
+      "San Francisco, CA"
+    ],
+    [
+      "Software Engineer, Agent ",
+      "Engineering",
+      "Toronto"
+    ],
+    [
+      "Business Recruiter",
+      "Operations",
+      "New York, NY"
+    ],
+    [
+      "Payroll Manager",
+      "Operations",
+      "San Francisco, CA"
+    ],
+    [
+      "Enterprise Account Executive",
+      "Sales",
+      "New York, NY"
+    ],
+    [
+      "Product Manager, Assist",
+      "Product",
+      "San Francisco, CA"
+    ],
+    [
+      "Product Manager, Agent Development",
+      "Product",
+      "Singapore"
+    ],
+    [
+      "Software Engineer, Agent Studio",
+      "Engineering",
+      "San Francisco, CA"
+    ],
+    [
+      "Software Engineer, Agent (Spanish speaking)",
+      "Engineering",
+      "London"
+    ],
+    [
+      "Software Engineer, Demo Platform",
+      "Engineering",
+      "San Francisco, CA"
+    ],
+    [
+      "APX (New Grad)",
+      "Early Career",
+      "San Francisco, CA"
+    ],
+    [
+      "Commercial Counsel",
+      "Legal",
+      "New York, NY"
+    ],
+    [
+      "Field Marketing Associate",
+      "Marketing & Communications",
+      "London"
+    ],
+    [
+      "Software Engineer, Agent",
+      "Engineering",
+      "Paris"
+    ],
+    [
+      "Global Benefits Manager",
+      "Operations",
+      "San Francisco, CA"
+    ],
+    [
+      "Business Recruiter",
+      "Operations",
+      "Atlanta, GA"
+    ],
+    [
+      "Developer Relations Engineer",
+      "Partnerships",
+      "London"
+    ],
+    [
+      "Software Engineer, Platform",
+      "Engineering",
+      "San Francisco, CA"
+    ],
+    [
+      "Security and Compliance Manager",
+      "Compliance",
+      "San Francisco, CA"
+    ],
+    [
+      "Business Development",
+      "Partnerships",
+      "San Francisco, CA"
+    ],
+    [
+      "Brand Designer ",
+      "Marketing & Communications",
+      "San Francisco, CA"
+    ],
+    [
+      "Sales Engineer",
+      "Sales",
+      "San Francisco, CA"
+    ],
+    [
+      "Enterprise Account Executive, Europe",
+      "Sales",
+      "Munich"
+    ],
+    [
+      "Commercial Counsel",
+      "Legal",
+      "Atlanta, GA"
+    ],
+    [
+      "Product Manager, Agent Development",
+      "Product",
+      "Atlanta, GA"
+    ],
+    [
+      "Enterprise Account Executive",
+      "Sales",
+      "Canada - Remote"
+    ],
+    [
+      "Senior Corporate Counsel",
+      "Legal",
+      "Atlanta, GA"
+    ],
+    [
+      "Operations Manager, Product & Engineering",
+      "Operations",
+      "San Francisco, CA"
+    ],
+    [
+      "Product Manager, Agent Development (Arabic speaking)",
+      "Product",
+      "London"
+    ],
+    [
+      "Senior Commercial Counsel",
+      "Legal",
+      "San Francisco, CA"
+    ],
+    [
+      "Software Engineer, Agent",
+      "Engineering",
+      "Madrid"
+    ],
+    [
+      "Enterprise Account Executive",
+      "Sales",
+      "Tokyo"
+    ],
+    [
+      "Product Manager, Agent Development - Healthcare",
+      "Product",
+      "San Francisco, CA"
+    ],
+    [
+      "Enterprise Account Executive",
+      "Sales",
+      "US - Remote"
+    ],
+    [
+      "Technical Recruiter",
+      "Operations",
+      "San Francisco, CA"
+    ],
+    [
+      "Enterprise Sales Leader",
+      "Sales",
+      "Paris"
+    ],
+    [
+      "Strategist, Agent Development",
+      "Product",
+      "San Francisco, CA"
+    ],
+    [
+      "Strategist, Agent Development - Healthcare",
+      "Product",
+      "New York, NY"
+    ],
+    [
+      "University Recruiter",
+      "Operations",
+      "San Francisco, CA"
+    ],
+    [
+      "Software Engineer, Agent",
+      "Engineering",
+      "London"
+    ],
+    [
       "Sales Engineer (Spanish speaking)",
       "Sales",
       "London"
+    ],
+    [
+      "Strategist, Agent Development",
+      "Product",
+      "Singapore"
+    ],
+    [
+      "Business Systems Engineer",
+      "Operations",
+      "San Francisco, CA"
+    ],
+    [
+      "Software Engineer, Agent (New Grad)",
+      "Early Career",
+      "San Francisco, CA"
     ],
     [
       "Security TPM",
@@ -229,7 +399,97 @@
       "San Francisco, CA"
     ],
     [
-      "Software Engineer, Infrastructure",
+      "Software Engineer, Agent Data Platform",
+      "Engineering",
+      "San Francisco, CA"
+    ],
+    [
+      "Privacy Counsel",
+      "Legal",
+      "San Francisco, CA"
+    ],
+    [
+      "Software Engineer, Agent",
+      "Engineering",
+      "Tokyo"
+    ],
+    [
+      "Business Recruiter",
+      "Operations",
+      "San Francisco, CA"
+    ],
+    [
+      "Strategist, Agent Development ",
+      "Product",
+      "Munich"
+    ],
+    [
+      "Sales Engineer (German speaking)",
+      "Sales",
+      "London"
+    ],
+    [
+      "Enterprise Account Executive, Europe (German speaking)",
+      "Sales",
+      "London"
+    ],
+    [
+      "Enterprise Account Executive, Europe",
+      "Sales",
+      "London"
+    ],
+    [
+      "Field Marketing Manager",
+      "Marketing & Communications",
+      "London"
+    ],
+    [
+      "Product Counsel",
+      "Legal",
+      "San Francisco, CA"
+    ],
+    [
+      "Pricing Strategy and Operations",
+      "Operations",
+      "San Francisco, CA"
+    ],
+    [
+      "Security Technical Program Manager",
+      "Compliance",
+      "San Francisco, CA"
+    ],
+    [
+      "Intern, Agent Development (Summer 2026)",
+      "Early Career",
+      "San Francisco, CA"
+    ],
+    [
+      "Developer Relations Engineer",
+      "Partnerships",
+      "New York, NY"
+    ],
+    [
+      "Commercial Counsel",
+      "Legal",
+      "San Francisco, CA"
+    ],
+    [
+      "Product Manager, Agent Development (Italian speaking)",
+      "Product",
+      "London"
+    ],
+    [
+      "Product Manager, Agent Development",
+      "Product",
+      "San Francisco, CA"
+    ],
+    [
+      "Senior Corporate Counsel",
+      "Legal",
+      "San Francisco, CA"
+    ],
+    [
+      "Software Engineer, Identity & Enterprise Platform",
       "Engineering",
       "San Francisco, CA"
     ],
@@ -239,29 +499,14 @@
       "San Francisco, CA"
     ],
     [
-      "Business Recruiter",
-      "Operations",
+      "Software Engineer, Infrastructure ",
+      "Engineering",
       "London"
     ],
     [
-      "University Recruiter",
-      "Operations",
-      "San Francisco, CA"
-    ],
-    [
-      "Sales Engineer",
+      "Sales Engineer (APAC)",
       "Sales",
-      "New York, NY"
-    ],
-    [
-      "Business Recruiter",
-      "Operations",
-      "Atlanta, GA"
-    ],
-    [
-      "Strategist, Agent Development ",
-      "Product",
-      "Munich"
+      "Singapore"
     ],
     [
       "Product Marketing Manager",
@@ -269,127 +514,17 @@
       "San Francisco, CA"
     ],
     [
-      "Software Engineer, Voice",
-      "Engineering",
-      "San Francisco, CA"
-    ],
-    [
-      "Product Manager, Agent Platform",
-      "Product",
-      "San Francisco, CA"
-    ],
-    [
-      "Strategist, Agent Development",
-      "Product",
-      "Tokyo"
-    ],
-    [
-      "Business Recruiter",
-      "Operations",
-      "New York, NY"
-    ],
-    [
-      "Enterprise Account Executive",
-      "Sales",
-      "Tokyo"
-    ],
-    [
-      "People Operations Manager",
-      "Operations",
-      "San Francisco, CA"
-    ],
-    [
       "Software Engineer, Agent - Healthcare",
       "Engineering",
-      "New York, NY"
-    ],
-    [
-      "Security and Compliance Manager",
-      "Compliance",
       "San Francisco, CA"
     ],
     [
-      "Enterprise Sales Leader",
-      "Sales",
-      "Paris"
-    ],
-    [
-      "Executive Assistant & Office Manager",
-      "Operations",
-      "Singapore"
-    ],
-    [
-      "Software Engineer, Agent (Arabic speaking)",
-      "Engineering",
-      "London"
-    ],
-    [
-      "Sales Engineering Manager",
-      "Sales",
+      "IT Operations Lead",
+      "IT",
       "San Francisco, CA"
     ],
     [
-      "Field Marketing Manager",
-      "Marketing & Communications",
-      "London"
-    ],
-    [
-      "Software Engineer, Security",
-      "Engineering",
-      "San Francisco, CA"
-    ],
-    [
-      "Business Development",
-      "Partnerships",
-      "San Francisco, CA"
-    ],
-    [
-      "Presentation Designer",
-      "Marketing & Communications",
-      "San Francisco, CA"
-    ],
-    [
-      "Software Engineer, Agent Studio",
-      "Engineering",
-      "San Francisco, CA"
-    ],
-    [
-      "Senior Corporate Counsel",
-      "Legal",
-      "San Francisco, CA"
-    ],
-    [
-      "Software Engineer, Agent",
-      "Engineering",
-      "San Francisco, CA"
-    ],
-    [
-      "Security Technical Program Manager",
-      "Compliance",
-      "San Francisco, CA"
-    ],
-    [
-      "Software Engineer, Agent Architecture",
-      "Engineering",
-      "San Francisco, CA"
-    ],
-    [
-      "Global Benefits Manager",
-      "Operations",
-      "San Francisco, CA"
-    ],
-    [
-      "Event Coordinator",
-      "Marketing & Communications",
-      "San Francisco, CA"
-    ],
-    [
-      "Agent Experience Designer, Voice (Multilingual)",
-      "Product Design",
-      "San Francisco, CA"
-    ],
-    [
-      "Software Engineer, Agent Data Platform",
+      "Software Engineer, Voice",
       "Engineering",
       "San Francisco, CA"
     ],
@@ -399,18 +534,23 @@
       "US - Remote"
     ],
     [
-      "Senior Commercial Counsel",
-      "Legal",
-      "San Francisco, CA"
-    ],
-    [
-      "Product Manager, Agent SDK",
-      "Product",
-      "San Francisco, CA"
-    ],
-    [
       "Recruiting Coordinator (Contract)",
       "Operations",
+      "San Francisco, CA"
+    ],
+    [
+      "Software Engineer, Agent (Italian speaking)",
+      "Engineering",
+      "London"
+    ],
+    [
+      "Enterprise Account Executive, Europe (Italian speaking)",
+      "Sales",
+      "London"
+    ],
+    [
+      "Product Manager, Agent Development",
+      "Product",
       "London"
     ],
     [
@@ -419,43 +559,93 @@
       "New York, NY"
     ],
     [
-      "Product Manager, Agent Development",
-      "Product",
+      "Enterprise Account Executive",
+      "Sales",
+      "Atlanta, GA"
+    ],
+    [
+      "Executive Assistant & Office Manager",
+      "Operations",
       "Singapore"
     ],
     [
-      "Product Manager, Agent Development - Healthcare",
-      "Product",
-      "New York, NY"
+      "Recruiting Coordinator (Contract)",
+      "Operations",
+      "Singapore"
     ],
     [
-      "Software Engineer, Mobile",
+      "Enterprise Account Executive, Europe (French speaking)",
+      "Sales",
+      "Paris"
+    ],
+    [
+      "Software Engineer, Frontend",
       "Engineering",
+      "San Francisco, CA"
+    ],
+    [
+      "Event Coordinator",
+      "Marketing & Communications",
       "San Francisco, CA"
     ],
     [
       "Software Engineer, Agent",
       "Engineering",
-      "Tokyo"
+      "New York, NY"
     ],
     [
-      "Recruiting Coordinator (Contract)",
+      "Strategist, Agent Development - Healthcare",
+      "Product",
+      "San Francisco, CA"
+    ],
+    [
+      "Software Engineer, Agent (French speaking)",
+      "Engineering",
+      "London"
+    ],
+    [
+      "Recruiting Operations Specialist",
+      "Operations",
+      "San Francisco, CA"
+    ],
+    [
+      "Technical Recruiter",
       "Operations",
       "New York, NY"
     ],
     [
-      "Security Engineer",
+      "Security and Compliance Manager",
+      "Compliance",
+      "London"
+    ],
+    [
+      "University Recruiter",
+      "Operations",
+      "New York, NY"
+    ],
+    [
+      "Presentation Designer",
+      "Marketing & Communications",
+      "San Francisco, CA"
+    ],
+    [
+      "Software Engineer, Agent",
       "Engineering",
-      "San Francisco, CA"
+      "Atlanta, GA"
     ],
     [
-      "Commercial Counsel",
-      "Legal",
-      "San Francisco, CA"
+      "Strategist, Agent Development (French speaking)",
+      "Product",
+      "Paris"
     ],
     [
-      "Product Counsel",
-      "Legal",
+      "Product Manager, Agent Development (French speaking)",
+      "Product",
+      "London"
+    ],
+    [
+      "Sales Compensation ",
+      "Operations",
       "San Francisco, CA"
     ],
     [
@@ -469,119 +659,9 @@
       "London"
     ],
     [
-      "Software Engineer, Agent (New Grad)",
-      "Early Career",
-      "London"
-    ],
-    [
-      "Enterprise Account Executive",
-      "Sales",
-      "Canada - Remote"
-    ],
-    [
-      "Product Manager, Agent Development ",
-      "Product",
-      "Tokyo"
-    ],
-    [
-      "Strategist, Agent Development (Arabic speaking)",
-      "Product",
-      "London"
-    ],
-    [
-      "Strategist, Agent Development (Spanish speaking)",
-      "Product",
-      "Madrid"
-    ],
-    [
-      "Product Manager, Agent Development (Spanish speaking)",
-      "Product",
-      "London"
-    ],
-    [
-      "Strategist, Agent Development - Healthcare",
-      "Product",
-      "New York, NY"
-    ],
-    [
-      "Developer Relations Engineer",
-      "Partnerships",
-      "New York, NY"
-    ],
-    [
       "Sales Engineer (French speaking)",
       "Sales",
       "London"
-    ],
-    [
-      "Strategist, Agent Development (Spanish speaking)",
-      "Product",
-      "London"
-    ],
-    [
-      "Enterprise Account Executive, Europe (Italian speaking)",
-      "Sales",
-      "London"
-    ],
-    [
-      "Software Engineer, Agent (New Grad)",
-      "Early Career",
-      "New York, NY"
-    ],
-    [
-      "Technical Recruiter",
-      "Operations",
-      "San Francisco, CA"
-    ],
-    [
-      "Recruiting Coordinator (Contract)",
-      "Operations",
-      "Singapore"
-    ],
-    [
-      "Strategist, Agent Development (German speaking)",
-      "Product",
-      "London"
-    ],
-    [
-      "Strategist, Agent Development",
-      "Product",
-      "London"
-    ],
-    [
-      "Sales Compensation ",
-      "Operations",
-      "San Francisco, CA"
-    ],
-    [
-      "Campaign Marketer",
-      "Marketing & Communications",
-      "San Francisco, CA"
-    ],
-    [
-      "Operations Manager, Product & Engineering",
-      "Operations",
-      "San Francisco, CA"
-    ],
-    [
-      "Enterprise Account Executive",
-      "Sales",
-      "Atlanta, GA"
-    ],
-    [
-      "Product Manager, Agent Development",
-      "Product",
-      "London"
-    ],
-    [
-      "Product Manager, Agent Development",
-      "Product",
-      "Atlanta, GA"
-    ],
-    [
-      "Sales Engineer",
-      "Sales",
-      "US - Remote"
     ],
     [
       "Vendor Programs Lead",
@@ -589,9 +669,49 @@
       "San Francisco, CA"
     ],
     [
-      "Recruiting Operations Specialist",
+      "Sales Engineer",
+      "Sales",
+      "US - Remote"
+    ],
+    [
+      "Technical Recruiter",
       "Operations",
+      "London"
+    ],
+    [
+      "Strategist, Agent Development",
+      "Product",
+      "London"
+    ],
+    [
+      "Software Engineer, Mobile",
+      "Engineering",
       "San Francisco, CA"
+    ],
+    [
+      "Developer Relations Engineer",
+      "Partnerships",
+      "San Francisco, CA"
+    ],
+    [
+      "Software Engineer, Agent (Arabic speaking)",
+      "Engineering",
+      "London"
+    ],
+    [
+      "Software Engineer, Agent",
+      "Engineering",
+      "Munich"
+    ],
+    [
+      "Enterprise Account Executive",
+      "Sales",
+      "San Francisco, CA"
+    ],
+    [
+      "Software Engineer, Agent (New Grad)",
+      "Early Career",
+      "London"
     ],
     [
       "Software Engineer, Site Reliability (SRE)",
@@ -599,43 +719,18 @@
       "San Francisco, CA"
     ],
     [
-      "Strategist, Agent Development",
-      "Product",
-      "New York, NY"
-    ],
-    [
-      "Enterprise Account Executive",
-      "Sales",
-      "New York, NY"
-    ],
-    [
-      "Software Engineer, Frontend",
-      "Engineering",
-      "San Francisco, CA"
-    ],
-    [
-      "Product Manager, Agent Development (Arabic speaking)",
+      "Strategist, Agent Development (French speaking)",
       "Product",
       "London"
     ],
     [
-      "Creative Program Manager",
-      "Marketing & Communications",
-      "San Francisco, CA"
-    ],
-    [
-      "Business Systems Engineer",
+      "Revenue Operations",
       "Operations",
       "San Francisco, CA"
     ],
     [
-      "Enterprise Account Executive, Europe (French speaking)",
-      "Sales",
-      "Paris"
-    ],
-    [
-      "Product Manager, Developer Experience",
-      "Product",
+      "People Operations Manager",
+      "Operations",
       "San Francisco, CA"
     ],
     [
@@ -644,28 +739,53 @@
       "New York, NY"
     ],
     [
-      "Developer Relations Engineer",
-      "Partnerships",
-      "San Francisco, CA"
+      "Senior Corporate Counsel",
+      "Legal",
+      "New York, NY"
     ],
     [
-      "Brand Designer ",
-      "Marketing & Communications",
-      "San Francisco, CA"
-    ],
-    [
-      "Product Manager, Agent Development (French speaking)",
+      "Product Manager, Agent Memory",
       "Product",
+      "San Francisco, CA"
+    ],
+    [
+      "Strategist, Agent Development",
+      "Product",
+      "Tokyo"
+    ],
+    [
+      "Business Recruiter",
+      "Operations",
       "London"
     ],
     [
-      "Sales Engineer",
-      "Sales",
+      "Software Engineer, Agent - Healthcare",
+      "Engineering",
+      "New York, NY"
+    ],
+    [
+      "Software Engineer, Infrastructure",
+      "Engineering",
       "San Francisco, CA"
     ],
     [
-      "Pricing Strategy and Operations",
+      "Recruiting Coordinator (Contract)",
       "Operations",
+      "New York, NY"
+    ],
+    [
+      "Software Engineer, Agent Architecture",
+      "Engineering",
+      "San Francisco, CA"
+    ],
+    [
+      "Product Manager, Agent Lifecycle",
+      "Product",
+      "San Francisco, CA"
+    ],
+    [
+      "Software Engineer, Agent",
+      "Engineering",
       "San Francisco, CA"
     ],
     [
@@ -674,134 +794,14 @@
       "San Francisco, CA"
     ],
     [
-      "Software Engineer, Insights",
+      "Software Engineer, Agent",
       "Engineering",
-      "San Francisco, CA"
-    ],
-    [
-      "Sales Engineer (German speaking)",
-      "Sales",
-      "London"
-    ],
-    [
-      "Product Manager, Agent Memory",
-      "Product",
-      "San Francisco, CA"
-    ],
-    [
-      "Software Engineer, Agent (French speaking)",
-      "Engineering",
-      "London"
-    ],
-    [
-      "Software Engineer, Agent (German speaking)",
-      "Engineering",
-      "London"
-    ],
-    [
-      "Security and Compliance Manager",
-      "Compliance",
-      "London"
-    ],
-    [
-      "Strategist, Agent Development",
-      "Product",
       "Singapore"
     ],
     [
-      "Business Recruiter",
-      "Operations",
-      "San Francisco, CA"
-    ],
-    [
-      "Software Engineer, Demo Platform",
-      "Engineering",
-      "San Francisco, CA"
-    ],
-    [
-      "Privacy Counsel",
+      "Commercial Counsel",
       "Legal",
-      "San Francisco, CA"
-    ],
-    [
-      "Enterprise Account Executive, Europe (Arabic speaking)",
-      "Sales",
       "London"
-    ],
-    [
-      "Software Engineer, Agent",
-      "Engineering",
-      "Madrid"
-    ],
-    [
-      "Software Engineer, Agent - Healthcare",
-      "Engineering",
-      "San Francisco, CA"
-    ],
-    [
-      "Product Manager, Agent Development (Italian speaking)",
-      "Product",
-      "London"
-    ],
-    [
-      "GTM Operations Analyst",
-      "Operations",
-      "Singapore"
-    ],
-    [
-      "Software Engineer, Agent",
-      "Engineering",
-      "London"
-    ],
-    [
-      "Senior Corporate Counsel",
-      "Legal",
-      "Atlanta, GA"
-    ],
-    [
-      "Product Manager, Agent Development",
-      "Product",
-      "San Francisco, CA"
-    ],
-    [
-      "Software Engineer, Agent",
-      "Engineering",
-      "Atlanta, GA"
-    ],
-    [
-      "Software Engineer, Agent",
-      "Engineering",
-      "Paris"
-    ],
-    [
-      "Product Designer",
-      "Product Design",
-      "San Francisco, CA"
-    ],
-    [
-      "Strategist, Agent Development (French speaking)",
-      "Product",
-      "London"
-    ],
-    [
-      "Senior Corporate Counsel",
-      "Legal",
-      "New York, NY"
-    ],
-    [
-      "Software Engineer, Agent",
-      "Engineering",
-      "New York, NY"
-    ],
-    [
-      "Senior Commercial Counsel",
-      "Legal",
-      "Atlanta, GA"
-    ],
-    [
-      "Strategist, Agent Development (French speaking)",
-      "Product",
-      "Paris"
     ]
   ]
 }

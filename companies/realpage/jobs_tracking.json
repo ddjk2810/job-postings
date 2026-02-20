@@ -1,122 +1,17 @@
 {
-  "last_updated": "2026-02-20T03:40:58.924938",
+  "last_updated": "2026-02-20T03:50:44.239310",
   "job_count": 72,
   "active_count": 50,
   "jobs": [
-    [
-      "Sr. AI Engineer",
-      "Not specified",
-      "US-TX-Remote"
-    ],
-    [
-      "Customer Success - Solution Account Manager - On-Site & Click Pay Payments",
-      "Not specified",
-      "US-NY-Remote"
-    ],
-    [
-      "Financial Solution Consultant III",
-      "Not specified",
-      "US-TX-Remote"
-    ],
-    [
-      "Sr. AI Developer - HYBRID",
-      "Not specified",
-      "US-TX-Richardson"
-    ],
     [
       "Disputes Investigator",
       "Not specified",
       "US-TX-Remote"
     ],
     [
-      "Fraud Risk Operations Manager",
+      "Product Designer I - UX",
       "Not specified",
       "US-TX-Remote"
-    ],
-    [
-      "Solution Consultant I \u2013 AI Agent Implementations",
-      "Not specified",
-      "US-MN-Remote"
-    ],
-    [
-      "AI Ambassador",
-      "Not specified",
-      "US-TX-Richardson"
-    ],
-    [
-      "Financial Solution Consultant III",
-      "Not specified",
-      "US-TX-Richardson"
-    ],
-    [
-      "Account Mgr III, Product - Ops Tech",
-      "Not specified",
-      "US-TX-Richardson"
-    ],
-    [
-      "Senior Director, Product Management - Remote",
-      "Not specified",
-      "US-TX-Richardson"
-    ],
-    [
-      "Principal Product Manager (UX) - Smart Buildings",
-      "Not specified",
-      "US-TX-Remote"
-    ],
-    [
-      "Trainer I - East Coast, West Coast",
-      "Not specified",
-      "US-TX-Richardson"
-    ],
-    [
-      "Senior Manager, Customer Data Strategy",
-      "Not specified",
-      "US-TX-Remote"
-    ],
-    [
-      "Account Rep II",
-      "Not specified",
-      "US-TX-Richardson"
-    ],
-    [
-      "Platinum Support Specialist I",
-      "Not specified",
-      "US-TX-Remote"
-    ],
-    [
-      "Customer Solutions Architect",
-      "Not specified",
-      "US-TX-Richardson"
-    ],
-    [
-      "Revenue Mgmt Advisor I - Remote",
-      "Not specified",
-      "US-TX-Richardson"
-    ],
-    [
-      "Account Rep III",
-      "Not specified",
-      "US-TX-Richardson"
-    ],
-    [
-      "QA Engineer II (Selenium/Playwright)",
-      "Not specified",
-      "US-TX-Richardson"
-    ],
-    [
-      "Account Rep II - Remote",
-      "Not specified",
-      "US-TX-Remote"
-    ],
-    [
-      "AI Engineer III HYBRID",
-      "Not specified",
-      "US-TX-Richardson"
-    ],
-    [
-      "Senior Product Manager (SaaS)",
-      "Not specified",
-      "US-TX-Richardson"
     ],
     [
       "Account Rep I - Remote",
@@ -124,14 +19,9 @@
       "US-MA-Boston"
     ],
     [
-      "Senior Manager, Customer Data Strategy",
+      "Principal Product Manager (UX) - Smart Buildings",
       "Not specified",
-      "US-TX-Richardson"
-    ],
-    [
-      "Solutions Representative V",
-      "Not specified",
-      "US-TX-Richardson"
+      "US-TX-Remote"
     ],
     [
       "D&A Consultant I",
@@ -139,22 +29,17 @@
       "US-TN-Remote"
     ],
     [
-      "Software Engineer IV",
+      "Revenue Management Advisor I - Remote",
       "Not specified",
       "US-TX-Richardson"
     ],
     [
-      "Sr. Project Manager, IT Mergers and Acquisitions",
+      "Senior Manager, Customer Data Strategy",
       "Not specified",
       "US-TX-Remote"
     ],
     [
-      "Director of Product Marketing (AI Workforce, Insights & Analytics)",
-      "Not specified",
-      "US-TX-Remote"
-    ],
-    [
-      "Account Mgr IV, Product",
+      "Platinum Support Specialist I",
       "Not specified",
       "US-TX-Richardson"
     ],
@@ -164,27 +49,32 @@
       "US-TX-Richardson"
     ],
     [
-      "Developer II (C#/.NET/SQL)",
-      "Not specified",
-      "US-TX-Remote"
-    ],
-    [
-      "Solution Consultant I \u2013 Insurance Implementations",
+      "Financial Solution Consultant III",
       "Not specified",
       "US-TX-Richardson"
     ],
     [
-      "QA Engineer III (Selenium/Playwright)",
+      "Revenue Management Advisor II - Remote",
       "Not specified",
       "US-TX-Richardson"
     ],
     [
-      "Sr. Product Manager (UX) - Smart Buildings",
+      "Senior Manager - Customer Implementations",
       "Not specified",
-      "US-TX-Remote"
+      "US-TX-Richardson"
     ],
     [
-      "Engagement Manager II",
+      "Software Engineer IV",
+      "Not specified",
+      "US-TX-Richardson"
+    ],
+    [
+      "AI Ambassador",
+      "Not specified",
+      "US-TX-Richardson"
+    ],
+    [
+      "Account Rep II",
       "Not specified",
       "US-TX-Richardson"
     ],
@@ -194,62 +84,12 @@
       "US-TX-Remote"
     ],
     [
-      "Account Mgr II, Product",
+      "AI Engineer (DFW Area)",
       "Not specified",
       "US-TX-Richardson"
     ],
     [
-      "AI Engineer III",
-      "Not specified",
-      "US-TX-Richardson"
-    ],
-    [
-      "Sr. AI Architect (DFW Area)",
-      "Not specified",
-      "US-TX-Richardson"
-    ],
-    [
-      "AI Product Management Director",
-      "Not specified",
-      "US-TX-Richardson"
-    ],
-    [
-      "Product Designer I - UX",
-      "Not specified",
-      "US-TX-Remote"
-    ],
-    [
-      "Senior Manager - Customer Implementations",
-      "Not specified",
-      "US-TX-Richardson"
-    ],
-    [
-      "Customer Success Manager II - Remote",
-      "Not specified",
-      "US-TX-Remote"
-    ],
-    [
-      "Customer Success Mgr I - Rexera",
-      "Not specified",
-      "US-TX-Remote"
-    ],
-    [
-      "Solution Consultant I",
-      "Not specified",
-      "US-TX-Remote"
-    ],
-    [
-      "Sales Development Rep",
-      "Not specified",
-      "US-TX-Richardson"
-    ],
-    [
-      "Director, AI Engineering",
-      "Not specified",
-      "US-TX-Richardson"
-    ],
-    [
-      "Sr. AI Developer",
+      "Senior Manager, Customer Data Strategy",
       "Not specified",
       "US-TX-Richardson"
     ],
@@ -259,14 +99,89 @@
       "US-TX-Richardson"
     ],
     [
-      "Solution Consultant I \u2013 AI Agent Implementations",
+      "Account Mgr IV, Product",
       "Not specified",
       "US-TX-Richardson"
     ],
     [
-      "Industry Content Marketing Manager",
+      "Fraud Risk Operations Manager",
       "Not specified",
       "US-TX-Remote"
+    ],
+    [
+      "Account Rep III",
+      "Not specified",
+      "US-TX-Richardson"
+    ],
+    [
+      "Customer Success Mgr I - Rexera",
+      "Not specified",
+      "US-TX-Remote"
+    ],
+    [
+      "Account Mgr III, Product - Ops Tech",
+      "Not specified",
+      "US-TX-Richardson"
+    ],
+    [
+      "Full Stack Engineer II (.NET)",
+      "Not specified",
+      "US-TX-Remote"
+    ],
+    [
+      "Senior Product Manager (SaaS)",
+      "Not specified",
+      "US-TX-Richardson"
+    ],
+    [
+      "Senior Director, Product Management - Remote",
+      "Not specified",
+      "US-TX-Richardson"
+    ],
+    [
+      "Benefits Administrator III",
+      "Not specified",
+      "US-TX-Richardson"
+    ],
+    [
+      "Sr. AI Developer - HYBRID",
+      "Not specified",
+      "US-TX-Richardson"
+    ],
+    [
+      "AI Product Management Director",
+      "Not specified",
+      "US-TX-Richardson"
+    ],
+    [
+      "Lead AI Engineer \u2013 Agentic & Generative AI (DFW Area)",
+      "Not specified",
+      "US-TX-Richardson"
+    ],
+    [
+      "Solutions Representative V",
+      "Not specified",
+      "US-TX-Richardson"
+    ],
+    [
+      "Financial Solution Consultant III",
+      "Not specified",
+      "US-TX-Remote"
+    ],
+    [
+      "Director - Property Management Implementations",
+      "Not specified",
+      "US-TX-Richardson"
+    ],
+    [
+      "Sales Engineer",
+      "Not specified",
+      "US-TX-Richardson"
+    ],
+    [
+      "QA Engineer II (Selenium/Playwright)",
+      "Not specified",
+      "US-TX-Richardson"
     ],
     [
       "Cloud Solutions Engineer III",
@@ -274,12 +189,77 @@
       "US-TX-Richardson"
     ],
     [
-      "Sr. Software Engineer (.NET)",
+      "Customer Success - Solution Account Manager - On-Site & Click Pay Payments",
+      "Not specified",
+      "US-NY-Remote"
+    ],
+    [
+      "AI Engineer III",
+      "Not specified",
+      "US-TX-Richardson"
+    ],
+    [
+      "Senior AI Engineer",
+      "Not specified",
+      "US-TX-Richardson"
+    ],
+    [
+      "Engagement Manager II",
+      "Not specified",
+      "US-TX-Richardson"
+    ],
+    [
+      "Trainer I - East Coast, West Coast",
+      "Not specified",
+      "US-TX-Richardson"
+    ],
+    [
+      "Sr. Product Manager (UX) - Smart Buildings",
       "Not specified",
       "US-TX-Remote"
     ],
     [
-      "Solutions Rep III",
+      "Account Mgr II, Product",
+      "Not specified",
+      "US-TX-Richardson"
+    ],
+    [
+      "AI Engineer III HYBRID",
+      "Not specified",
+      "US-TX-Richardson"
+    ],
+    [
+      "QA Engineer III (Selenium/Playwright)",
+      "Not specified",
+      "US-TX-Richardson"
+    ],
+    [
+      "Solutions Architect I",
+      "Not specified",
+      "US-TX-Remote"
+    ],
+    [
+      "Account Rep II - Remote",
+      "Not specified",
+      "US-TX-Remote"
+    ],
+    [
+      "Customer Success Manager II - Remote",
+      "Not specified",
+      "US-TX-Remote"
+    ],
+    [
+      "Sr. AI Developer",
+      "Not specified",
+      "US-TX-Richardson"
+    ],
+    [
+      "Customer Solutions Architect",
+      "Not specified",
+      "US-TX-Richardson"
+    ],
+    [
+      "Solution Consultant I \u2013 AI Agent Implementations",
       "Not specified",
       "US-TX-Richardson"
     ],
@@ -294,52 +274,17 @@
       "US-TX-Richardson"
     ],
     [
-      "Revenue Management Advisor II - Remote",
-      "Not specified",
-      "US-TX-Richardson"
-    ],
-    [
-      "Platinum Support Specialist I",
-      "Not specified",
-      "US-TX-Richardson"
-    ],
-    [
-      "Revenue Management Advisor I - Remote",
-      "Not specified",
-      "US-TX-Richardson"
-    ],
-    [
-      "Lead AI Engineer \u2013 Agentic & Generative AI (DFW Area)",
-      "Not specified",
-      "US-TX-Richardson"
-    ],
-    [
-      "Power BI Developer (Lakehouse/Fabric)",
+      "Developer II (C#/.NET/SQL)",
       "Not specified",
       "US-TX-Remote"
     ],
     [
-      "Solutions Architect I",
-      "Not specified",
-      "US-TX-Remote"
-    ],
-    [
-      "Sales Engineer",
+      "Revenue Mgmt Advisor I - Remote",
       "Not specified",
       "US-TX-Richardson"
     ],
     [
-      "Benefits Administrator III",
-      "Not specified",
-      "US-TX-Richardson"
-    ],
-    [
-      "Director - Property Management Implementations",
-      "Not specified",
-      "US-TX-Richardson"
-    ],
-    [
-      "Senior AI Engineer",
+      "Sr. AI Architect (DFW Area)",
       "Not specified",
       "US-TX-Richardson"
     ],
@@ -349,12 +294,67 @@
       "US-TX-Richardson"
     ],
     [
-      "Full Stack Engineer II (.NET)",
+      "Sr. Software Engineer (.NET)",
       "Not specified",
       "US-TX-Remote"
     ],
     [
-      "AI Engineer (DFW Area)",
+      "Solution Consultant I \u2013 AI Agent Implementations",
+      "Not specified",
+      "US-MN-Remote"
+    ],
+    [
+      "Director, AI Engineering",
+      "Not specified",
+      "US-TX-Richardson"
+    ],
+    [
+      "Director of Product Marketing (AI Workforce, Insights & Analytics)",
+      "Not specified",
+      "US-TX-Remote"
+    ],
+    [
+      "Platinum Support Specialist I",
+      "Not specified",
+      "US-TX-Remote"
+    ],
+    [
+      "Sr. Project Manager, IT Mergers and Acquisitions",
+      "Not specified",
+      "US-TX-Remote"
+    ],
+    [
+      "Solution Consultant I \u2013 Insurance Implementations",
+      "Not specified",
+      "US-TX-Richardson"
+    ],
+    [
+      "Power BI Developer (Lakehouse/Fabric)",
+      "Not specified",
+      "US-TX-Remote"
+    ],
+    [
+      "Solution Consultant I",
+      "Not specified",
+      "US-TX-Remote"
+    ],
+    [
+      "Sr. AI Engineer",
+      "Not specified",
+      "US-TX-Remote"
+    ],
+    [
+      "Sales Development Rep",
+      "Not specified",
+      "US-TX-Richardson"
+    ],
+    [
+      "Industry Content Marketing Manager",
+      "Not specified",
+      "US-TX-Remote"
+    ],
+    [
+      "Solutions Rep III",
       "Not specified",
       "US-TX-Richardson"
     ],
