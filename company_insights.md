@@ -3,20 +3,20 @@
 
 What each company appears to be prioritizing based on new job postings:
 
-### Workday (408->408, +0 net, 55 new postings)
+### Workday (408->404, -4 net, 55 new postings)
 
-investing in **workday success** (4 related roles), with expansion into Europe.
+investing in **workday success** (4 related roles), with expansion into India.
 
-**Department mix:** engineering (14), sales (8), other (7), consulting/services (7), finance (4), product (4), AI/ML (2), design (2), customer success (2), operations (2), security (1), people/recruiting (1), legal/compliance (1)  
+**Department mix:** engineering (15), sales (8), other (7), consulting/services (7), finance (4), product (4), AI/ML (2), design (2), customer success (2), operations (2), security (1), people/recruiting (1)  
 **Notable titles:** Sr Director, Software Development Engineering | Senior Director/Director, Digital Customer Success Transformation & Innovations | Regional Sales Director, oCFO | Regional Sales Director, Office of the CFO - FSI  
-**Geographic focus:** 2 Locations (8), USA, CA, Pleasanton (6), Costa Rica (5), Ireland, Dublin (5), IND.Chennai (4)  
+**Geographic focus:** 2 Locations (8), USA, CA, Pleasanton (6), IND.Chennai (5), Ireland, Dublin (5), Costa Rica (4)  
 **Strategic signals:** AI/ML investment, Platform/cloud buildout  
 
-### Autodesk (612->619, +7 net, 43 new postings)
+### Autodesk (612->620, +8 net, 44 new postings)
 
 building out **customer success** (5 related roles), with expansion into India.
 
-**Department mix:** engineering (18), customer success (7), other (6), AI/ML (2), design (2), product (2), marketing (2), finance (1), people/recruiting (1), sales (1), operations (1)  
+**Department mix:** engineering (18), customer success (7), other (6), AI/ML (3), design (2), product (2), marketing (2), finance (1), people/recruiting (1), sales (1), operations (1)  
 **Notable titles:** Director Experience Design, Applied Intelligence | HR Coordinator (Contract)  
 **Geographic focus:** 2 Locations (7), Toronto, ON, CAN (7), Bengaluru, IND (6), Malaysia - Remote (4), Norway - Oslo (3)  
 **Strategic signals:** AI/ML investment, Platform/cloud buildout  
@@ -29,6 +29,14 @@ building out **ios** (7 related roles), with expansion into India.
 **Geographic focus:** Bengaluru (15), Pune (12), Austin (9), Carpinteria (2), Maadi as Sarayat Al Gharbeyah (1)  
 **Strategic signals:** Platform/cloud buildout  
 
+### Toast (284->272, -12 net, 37 new postings)
+
+investing in **territory account** (18 related roles), with expansion into India.
+
+**Department mix:** sales (23), other (4), engineering (3), product (2), customer success (1), marketing (1), people/recruiting (1), AI/ML (1), legal/compliance (1)  
+**Geographic focus:** Remote, United States (4), Canada (3), Bengaluru, Karnataka, India (2), San Diego, California, United States (2), Houston, Texas, United States (2)  
+**Strategic signals:** AI/ML investment  
+
 ### Blue Yonder (162->184, +22 net, 35 new postings)
 
 building out **sr instructional** (5 related roles), with expansion into India.
@@ -37,14 +45,6 @@ building out **sr instructional** (5 related roles), with expansion into India.
 **Notable titles:** Key Account Director - Retail | Technical Program Manager, Office of the CSO  
 **Geographic focus:** Dallas (10), 2 Locations (9), Bangalore (9), IND - Coimbatore (708) (3), Pune - BY (1)  
 **Strategic signals:** AI/ML investment, Platform/cloud buildout  
-
-### Toast (284->270, -14 net, 35 new postings)
-
-investing in **territory account** (18 related roles), with expansion into India.
-
-**Department mix:** sales (23), other (4), product (2), customer success (1), marketing (1), people/recruiting (1), AI/ML (1), legal/compliance (1), engineering (1)  
-**Geographic focus:** Remote, United States (4), Bengaluru, Karnataka, India (2), San Diego, California, United States (2), Houston, Texas, United States (2), Charlotte, North Carolina, United States (1)  
-**Strategic signals:** AI/ML investment  
 
 ### Veeva (1009->1012, +3 net, 18 new postings)
 
@@ -64,28 +64,19 @@ investing in **director of** (4 related roles), plus sales hires.
 
 ### Dassault Systemes (3DS) (15->15, +0 net, 15 new postings)
 
-primarily hiring in **engineering** (4 roles), with growth in India.
+primarily hiring in **engineering** (3 roles), with growth in India.
 
-**Department mix:** engineering (4), sales (3), consulting/services (3), customer success (2), operations (1), marketing (1), other (1)  
-**Geographic focus:** France, Vélizy-Villacoublay (3), India, MH, Pune (3), United States, MA, Waltham (2), United States, NY, New York (2), United States, NJ, Iselin (2)  
+**Department mix:** engineering (3), sales (3), consulting/services (3), customer success (2), other (2), operations (1), marketing (1)  
+**Geographic focus:** France, Vélizy-Villacoublay (3), India, MH, Pune (3), United States, NY, New York (2), United States, NJ, Iselin (2), United States, MA, Waltham (1)  
 
-### Guidewire (198->200, +2 net, 15 new postings)
-
-primarily hiring in **engineering** (4 roles).
-
-**Department mix:** engineering (4), other (4), people/recruiting (2), sales (2), security (1), finance (1), consulting/services (1)  
-**Notable titles:** Director - User Experience - Guidewire Application Platform | Transformation Program Manager to the Chief People Office | Director of Alliances EMEA  
-**Geographic focus:** United States - Remote (7), 2 Locations (2), Poland - Remote (2), India - Bangalore (2), United States - San Mateo, CA (1)  
-**Strategic signals:** Platform/cloud buildout  
-
-### Workiva (93->95, +2 net, 11 new postings)
+### Guidewire (198->200, +2 net, 14 new postings)
 
 primarily hiring in **mixed functions** (4 roles).
 
-**Department mix:** other (4), sales (3), engineering (2), customer success (1), product (1)  
-**Notable titles:** Enterprise Client Director - Major Accounts  
-**Geographic focus:** USA - Remote (5), 3 Locations (2), Ames (1), Canada - Remote (1), 7 Locations (1)  
-**Strategic signals:** AI/ML investment  
+**Department mix:** other (4), engineering (3), people/recruiting (2), sales (2), security (1), finance (1), consulting/services (1)  
+**Notable titles:** Director - User Experience - Guidewire Application Platform | Transformation Program Manager to the Chief People Office | Director of Alliances EMEA  
+**Geographic focus:** United States - Remote (7), Poland - Remote (2), India - Bangalore (2), United States - San Mateo, CA (1), Canada - Toronto (1)  
+**Strategic signals:** Platform/cloud buildout  
 
 ### Kinaxis (49->49, +0 net, 10 new postings)
 
@@ -105,13 +96,21 @@ primarily hiring in **mixed functions** (5 roles).
 **Geographic focus:** US-TX-Remote (5), US-TX-Richardson (5)  
 **Strategic signals:** AI/ML investment  
 
+### Workiva (93->94, +1 net, 10 new postings)
+
+primarily hiring in **mixed functions** (4 roles).
+
+**Department mix:** other (4), sales (3), customer success (1), product (1), engineering (1)  
+**Notable titles:** Enterprise Client Director - Major Accounts  
+**Geographic focus:** USA - Remote (4), 3 Locations (2), Ames (1), Canada - Remote (1), 7 Locations (1)  
+
 ### Parloa (51->56, +5 net, 9 new postings)
 
 investing in **rvp** (4 related roles), with expansion into Europe.
 
 **Department mix:** other (6), sales (2), marketing (1)  
 **Notable titles:** RVP - Central | RVP - East | RVP - East, West , Central  | RVP - West  
-**Geographic focus:** Remotely in the USA (4), Berlin Office (1), Remotely in Europe (1), Berlin Office; Munich Office; Remotely in Germany (1), Madrid; Remotely in Spain (1)  
+**Geographic focus:** Remotely in the USA (4), Berlin Office (1), Berlin Office; Munich Office; Remotely in Germany (1), Remotely in Europe (1), Madrid; Remotely in Spain (1)  
 
 ### Certara (12->13, +1 net, 8 new postings)
 
@@ -149,13 +148,6 @@ adding 6 new roles across multiple functions.
 **Department mix:** engineering (2), other (2), finance (1), security (1)  
 **Geographic focus:** Overland Park, Kansas (2), Yarmouth, Maine (1), Lawrenceville, Georgia (1), Account Executive, Payment Solution Sales (1), Trenton, New Jersey (1)  
 
-### Descartes (25->25, +0 net, 5 new postings)
-
-adding 5 new roles across multiple functions.
-
-**Department mix:** customer success (2), sales (1), consulting/services (1), other (1)  
-**Geographic focus:** US (2), Leipzig, DE, 4109 (1), Makati City, PH (1), Gurugram, HR, IN, 122018 (1)  
-
 ### EliseAI (114->117, +3 net, 5 new postings)
 
 adding 5 new roles across multiple functions, with emphasis on housing.
@@ -172,14 +164,6 @@ adding 5 new roles across multiple functions.
 **Notable titles:** Global Training Coordinator  
 **Geographic focus:** Atlanta, GA (2), Wokingham (1), Paris (1), Bangalore (1)  
 
-### o9 Solutions (32->35, +3 net, 5 new postings)
-
-heavily focused on **mixed functions** (3/5 new roles).
-
-**Department mix:** other (3), consulting/services (1), finance (1)  
-**Notable titles:** Events Project Coordinator, EMEA  
-**Geographic focus:** Bangalore, Karnataka, India (2), Dallas, Texas, United States (1), Amsterdam, Netherlands (1), Not specified (1)  
-
 ### Serval (22->27, +5 net, 5 new postings)
 
 adding 5 new roles across multiple functions.
@@ -190,9 +174,15 @@ adding 5 new roles across multiple functions.
 
 **Bill.com** (72->76, +4 net, 4 new postings): adding 4 new roles across multiple functions.
 
+**Descartes** (25->25, +0 net, 4 new postings): adding 4 new roles across multiple functions.
+
+**o9 Solutions** (32->34, +2 net, 4 new postings): adding 4 new roles across multiple functions.
+
 **AppFolio** (48->49, +1 net, 3 new postings): adding 3 new roles across multiple functions.
 
 **Decagon AI** (76->79, +3 net, 3 new postings): adding 3 new roles across multiple functions.
+
+**Entrata** (32->30, -2 net, 3 new postings): adding 3 new roles across multiple functions.
 
 **Q2** (105->102, -3 net, 3 new postings): adding 3 new roles across multiple functions.
 
@@ -202,9 +192,9 @@ adding 5 new roles across multiple functions.
 
 **Corpay** (56->55, -1 net, 2 new postings): adding 2 new roles across multiple functions.
 
-**Entrata** (32->29, -3 net, 2 new postings): adding 2 new roles across multiple functions.
-
 **Sierra AI** (152->152, +0 net, 2 new postings): adding 2 new roles across multiple functions.
+
+**SPS Commerce** (57->49, -8 net, 2 new postings): adding 2 new roles across multiple functions.
 
 **Altus Group** (21->20, -1 net, 1 new postings): adding 1 new roles across multiple functions.
 
@@ -213,7 +203,5 @@ adding 5 new roles across multiple functions.
 **Lumin Digital** (15->13, -2 net, 1 new postings): adding 1 new roles across multiple functions.
 
 **nCino** (41->31, -10 net, 1 new postings): adding 1 new roles across multiple functions.
-
-**SPS Commerce** (57->48, -9 net, 1 new postings): adding 1 new roles across multiple functions.
 
 **Yardi** (75->76, +1 net, 1 new postings): adding 1 new roles across multiple functions.

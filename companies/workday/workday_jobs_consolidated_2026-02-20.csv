@@ -1,7 +1,7 @@
 title,department,openings,locations,all_locations,regions,remote_available
 Account Executive - Medium Enterprise,Not specified,7,2 Locations; 3 Locations; 5 Locations (and 4 more),"2 Locations | 3 Locations | 5 Locations | USA, GA, Atlanta | USA, NY, New York City",Not specified,No
-"Product Specialist - Workday Platform (Workday Build, Workday Data Cloud) and AI Agents",Not specified,4,"4 Locations; 7 Locations; Canada, ON, Toronto (and 1 more)","4 Locations | 7 Locations | Canada, ON, Toronto | Singapore",Not specified,No
 Solution Consultant HCM,Not specified,4,"France, Paris; Italy, Milan; Netherlands, Amsterdam (and 1 more)","France, Paris | Italy, Milan | Netherlands, Amsterdam",Not specified,No
+"Product Specialist - Workday Platform (Workday Build, Workday Data Cloud) and AI Agents",Not specified,3,"4 Locations; 7 Locations; Canada, ON, Toronto","4 Locations | 7 Locations | Canada, ON, Toronto",Not specified,No
 Senior Engagement Manager,Not specified,3,"Japan, Tokyo; MEX.Zapopan; United Kingdom, London","Japan, Tokyo | MEX.Zapopan | United Kingdom, London",Not specified,No
 Account Executive - Large Enterprise,Not specified,2,"4 Locations; THA, Remote","4 Locations | THA, Remote",Not specified,Yes
 Account Executive - Major Accounts,Not specified,2,"Korea, Seoul; USA, GA, Atlanta","Korea, Seoul | USA, GA, Atlanta",Not specified,No
@@ -55,7 +55,6 @@ Account Executive for Existing Clients - Switzerland,Not specified,1,"Switzerlan
 "Account Executive, Taiwan",Not specified,1,"Taiwan, Taipei","Taiwan, Taipei",Not specified,No
 Accountant,Not specified,1,"USA, CA, Pleasanton","USA, CA, Pleasanton",Not specified,No
 Automation Test Engineer - Paradox (Da Nang),Not specified,1,Vietnam,Vietnam,Not specified,No
-BT Asset and Vendor Governance Lead,Not specified,1,Costa Rica,Costa Rica,Not specified,No
 Business Development Representative (Dutch Speaker),Not specified,1,"Ireland, Dublin","Ireland, Dublin",Not specified,No
 Business Development Representative (Spanish & Portuguese Speaker),Not specified,1,"Ireland, Dublin","Ireland, Dublin",Not specified,No
 Business Development Representative (Spanish Speaker),Not specified,1,"Ireland, Dublin","Ireland, Dublin",Not specified,No
@@ -158,7 +157,6 @@ Presales Digital Demo Lead,Not specified,1,"United Kingdom, London","United King
 "Principal  Consultant  - Workday finance - Workday Success Plans ( Workday Experience Only, Certification - Highly Desired)",Not specified,1,IND.Pune,IND.Pune,Not specified,No
 Principal AI Product Designer,Not specified,1,2 Locations,2 Locations,Not specified,No
 Principal Analytics Engineer,Not specified,1,"Canada, ON, Toronto","Canada, ON, Toronto",Not specified,No
-"Principal Asset Manager, IT Service Management",Not specified,1,Costa Rica,Costa Rica,Not specified,No
 Principal Contracts Manager,Not specified,1,3 Locations,3 Locations,Not specified,No
 Principal Contracts Negotiator,Not specified,1,4 Locations,4 Locations,Not specified,No
 Principal Cybersecurity Engineer,Not specified,1,IND.Chennai,IND.Chennai,Not specified,No
@@ -224,7 +222,6 @@ Senior Enterprise Architect,Not specified,1,2 Locations,2 Locations,Not specifie
 Senior Financial Accountant - International Statutory Compliance,Not specified,1,IND.Pune,IND.Pune,Not specified,No
 Senior Financial Consultant - Record to Report with Security - Workday Success Plans,Not specified,1,2 Locations,2 Locations,Not specified,No
 Senior Financial Functional Consultant - Accounting Center and Record to Report - Workday Success Plans,Not specified,1,2 Locations,2 Locations,Not specified,No
-Senior Financial Implementation Consultant (Healthcare),Not specified,1,62 Locations,62 Locations,Not specified,No
 Senior Financials Reporting and Analytics Consultant,Not specified,1,2 Locations,2 Locations,Not specified,No
 Senior Functional Consultant - Adaptive Planning (EPM / CPM),Not specified,1,"Japan, Tokyo","Japan, Tokyo",Not specified,No
 Senior Functional Consultant - Financials,Not specified,1,4 Locations,4 Locations,Not specified,No
@@ -251,6 +248,7 @@ Senior Services Sales Executive - Healthcare,Not specified,1,31 Locations,31 Loc
 Senior Site Reliability Engineer,Not specified,1,2 Locations,2 Locations,Not specified,No
 Senior Software Development Engineer,Not specified,1,2 Locations,2 Locations,Not specified,No
 Senior Software Development Engineer (Backend) - Evisort AI,Not specified,1,2 Locations,2 Locations,Not specified,No
+Senior Software Development Engineer (Distributed DB systems & Storage internals),Not specified,1,IND.Chennai,IND.Chennai,Not specified,No
 Senior Software Development Engineer (Full Stack),Not specified,1,IND.Chennai,IND.Chennai,Not specified,No
 Senior Software Development Engineer - US Federal,Not specified,1,"USA, GA, Atlanta","USA, GA, Atlanta",Not specified,No
 Senior Software Engineer - Platform Security,Not specified,1,IND.Chennai,IND.Chennai,Not specified,No
@@ -363,7 +361,6 @@ Technical Implementation Manager,Not specified,1,"Ireland, Dublin","Ireland, Dub
 Technical Integration Consultant,Not specified,1,"Ireland, Dublin","Ireland, Dublin",Not specified,No
 Technical Integration Consultant (HCM/ Finance),Not specified,1,IND.Pune,IND.Pune,Not specified,No
 Technical Support Engineer - Performance and Availability,Not specified,1,"Poland, Warsaw","Poland, Warsaw",Not specified,No
-Third-Party Risk Management Program Manager,Not specified,1,Costa Rica,Costa Rica,Not specified,No
 "US Federal Functional Architect, Talent & Recruiting",Not specified,1,2 Locations,2 Locations,Not specified,No
 Value Manager UKI,Not specified,1,"United Kingdom, London","United Kingdom, London",Not specified,No
 Vulnerability Management Analyst - US Federal,Not specified,1,"USA, VA, McLean","USA, VA, McLean",Not specified,No

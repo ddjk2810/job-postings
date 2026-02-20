@@ -1,19 +1,25 @@
 title,department,openings,locations,all_locations,regions,remote_available
-Senior Software Engineer,Not specified,6,"2 Locations; United States - Exton, PA; United States - San Mateo, CA (and 3 more)","2 Locations | United States - Exton, PA | United States - San Mateo, CA",Not specified,No
+Senior Software Engineer,Not specified,7,"2 Locations; United States - Exton, PA; United States - San Mateo, CA (and 4 more)","2 Locations | United States - Exton, PA | United States - San Mateo, CA",Not specified,No
 Pricing Solution Consultant,Not specified,5,5 Locations; Poland - Remote; United States - Remote (and 2 more),5 Locations | Poland - Remote | United States - Remote,Not specified,Yes
+Principal Solution Consultant,Not specified,4,2 Locations; Japan - Tokyo (and 1 more),2 Locations | Japan - Tokyo,Not specified,No
 Technical Account Manager,Not specified,4,India - Bangalore; Japan - Tokyo; United States - Remote (and 1 more),India - Bangalore | Japan - Tokyo | United States - Remote,Not specified,Yes
-Principal Solution Consultant,Not specified,3,2 Locations; Japan - Tokyo,2 Locations | Japan - Tokyo,Not specified,No
-Senior Machine Learning Platform Engineer,Not specified,3,"India - Bangalore; United States - Remote; United States - San Mateo, CA","India - Bangalore | United States - Remote | United States - San Mateo, CA",Not specified,Yes
 Senior Sales Executive,Not specified,3,2 Locations; Germany - Remote,2 Locations | Germany - Remote,Not specified,Yes
 Software Engineer II,Not specified,3,India - Bangalore; Ireland - Dublin; Poland - Krakow,India - Bangalore | Ireland - Dublin | Poland - Krakow,Not specified,No
 Associate Technical Account Manager,Not specified,2,India - Bangalore,India - Bangalore,Not specified,No
 Automation Engineer Intern,Not specified,2,"Dublin Office, Ireland; United States - San Mateo, CA","Dublin Office, Ireland | United States - San Mateo, CA",Not specified,No
 Corporate Legal Intern,Not specified,2,"United States - San Mateo, CA","United States - San Mateo, CA",Not specified,No
+Data Migration Lead Architect,Not specified,2,United States - Remote,United States - Remote,Not specified,Yes
+"Engineering Manager, Application Platform",Not specified,2,India - Bangalore,India - Bangalore,Not specified,No
+Insurtech Vanguard Community Manager,Not specified,2,United States - Remote,United States - Remote,Not specified,Yes
 Machine Learning Engineer III,Not specified,2,"Remote (USA); United States - San Mateo, CA","Remote (USA) | United States - San Mateo, CA",Not specified,Yes
+Not specified,Not specified,2,Not specified,Not specified,Not specified,No
 Platform Support DBA III,Not specified,2,2 Locations; Ireland - Dublin,2 Locations | Ireland - Dublin,Not specified,No
 Pricing & Actuarial Sales Executive,Not specified,2,2 Locations; United States - Remote,2 Locations | United States - Remote,Not specified,Yes
 Pricing Advisory,Not specified,2,4 Locations; United States - Remote,4 Locations | United States - Remote,Not specified,Yes
-Senior Software Engineer ( Java),Not specified,2,India - Bangalore,India - Bangalore,Not specified,No
+Senior Implementation Engineer,Not specified,2,2 Locations,2 Locations,Not specified,No
+Senior Machine Learning Platform Engineer,Not specified,2,"India - Bangalore; United States - San Mateo, CA","India - Bangalore | United States - San Mateo, CA",Not specified,No
+"Senior Manager | Global Delivery, Professional Services (Guidewire Implementation)",Not specified,2,India - Bangalore,India - Bangalore,Not specified,No
+Senior UI/UX Designer,Not specified,2,India - Bangalore,India - Bangalore,Not specified,No
 Software Engineer III,Not specified,2,India - Bangalore,India - Bangalore,Not specified,No
 Software Engineer III : Cloud Platform,Not specified,2,"United States - Birmingham, AL; United States - San Mateo, CA","United States - Birmingham, AL | United States - San Mateo, CA",Not specified,No
 Solution Consultant,Not specified,2,Australia - Remote,Australia - Remote,Not specified,Yes
@@ -23,7 +29,6 @@ Analyst Training Instructor,Not specified,1,United States - Remote,United States
 Application Support Engineer II - Data Products,Not specified,1,Brazil - Curitiba,Brazil - Curitiba,Not specified,No
 Associate  Developer Intern,Not specified,1,Malaysia - Kuala Lumpur,Malaysia - Kuala Lumpur,Not specified,No
 Associate Certification Program Systems Analyst,Not specified,1,United States - Remote,United States - Remote,Not specified,Yes
-Associate People Business Partner,Not specified,1,"Dublin Office, Ireland","Dublin Office, Ireland",Not specified,No
 Billing Analyst,Not specified,1,Canada - Toronto,Canada - Toronto,Not specified,No
 Business Architect - Industry Innovation & Co-Development Group (InnoCoDev),Not specified,1,2 Locations,2 Locations,Not specified,No
 Business Intelligence Analytics Intern,Not specified,1,"United States - San Mateo, CA","United States - San Mateo, CA",Not specified,No
@@ -38,7 +43,6 @@ Data & Research Intern,Not specified,1,"United States - San Mateo, CA","United S
 Data Analyst,Not specified,1,2 Locations,2 Locations,Not specified,No
 Data Engineer with Scala,Not specified,1,India - Bangalore,India - Bangalore,Not specified,No
 Data Engineer with Spark/Scala,Not specified,1,India - Bangalore,India - Bangalore,Not specified,No
-Data Migration Lead Architect,Not specified,1,United States - Remote,United States - Remote,Not specified,Yes
 Data Migration Senior Architect,Not specified,1,United States - Remote,United States - Remote,Not specified,Yes
 Database Migration Engineer III,Not specified,1,2 Locations,2 Locations,Not specified,No
 Delivery Principal (German Speaking),Not specified,1,Germany - Remote,Germany - Remote,Not specified,Yes
@@ -54,8 +58,6 @@ Enablement Business Partner- AMER Sales,Not specified,1,United States - Remote,U
 Enablement Business Partner- Global Delivery,Not specified,1,United States - Remote,United States - Remote,Not specified,Yes
 Engagement Manager,Not specified,1,Japan - Tokyo,Japan - Tokyo,Not specified,No
 "Engagement Manager/Director, DACH (German Speaking)",Not specified,1,Germany - Remote,Germany - Remote,Not specified,Yes
-Engineering Manager (MLOps Platform Team),Not specified,1,India - Bangalore,India - Bangalore,Not specified,No
-"Engineering Manager, Application Platform",Not specified,1,India - Bangalore,India - Bangalore,Not specified,No
 Engineering Manager/Technical Lead  - Application Platform,Not specified,1,"United States - San Mateo, CA","United States - San Mateo, CA",Not specified,No
 Event Specialist,Not specified,1,India - Bangalore,India - Bangalore,Not specified,No
 Executive Assistant – Technical Writing & Documentation,Not specified,1,India - Bangalore,India - Bangalore,Not specified,No
@@ -67,7 +69,6 @@ Global Help Desk Intern,Not specified,1,Malaysia - Kuala Lumpur,Malaysia - Kuala
 Go To Market AI Engineer Intern,Not specified,1,"United States - San Mateo, CA","United States - San Mateo, CA",Not specified,No
 Google Workspace Engineer,Not specified,1,India - Bangalore,India - Bangalore,Not specified,No
 Guidewire Integration Architect,Not specified,1,India - Bangalore,India - Bangalore,Not specified,No
-Insurtech Vanguard Community Manager,Not specified,1,United States - Remote,United States - Remote,Not specified,Yes
 Japan Solution Architect,Not specified,1,Japan - Tokyo,Japan - Tokyo,Not specified,No
 Lead Consultant ( Quality assurance) - GDC,Not specified,1,India - Bangalore,India - Bangalore,Not specified,No
 Lead Consultant( Developer )- GDC,Not specified,1,India - Bangalore,India - Bangalore,Not specified,No
@@ -83,7 +84,6 @@ Oracle Fusion Finance Techno-Functional Specialist,Not specified,1,India - Banga
 Outbound Product Manager,Not specified,1,Poland - Krakow,Poland - Krakow,Not specified,No
 Outbound Product Manager - GWCP App Platform CI/CD,Not specified,1,Canada - Toronto,Canada - Toronto,Not specified,No
 Platform Support Engineer III,Not specified,1,Malaysia - Kuala Lumpur,Malaysia - Kuala Lumpur,Not specified,No
-Pricing Manager,Not specified,1,Poland - Remote,Poland - Remote,Not specified,Yes
 Principal,Not specified,1,Japan - Tokyo,Japan - Tokyo,Not specified,No
 Procurement Services Senior Specialist,Not specified,1,Mexico - Guadalajara,Mexico - Guadalajara,Not specified,No
 Product Manager – Cloud Platform CI/CD,Not specified,1,Poland - Krakow,Poland - Krakow,Not specified,No
@@ -94,7 +94,6 @@ Production Support Application Engineer,Not specified,1,India - Bangalore,India 
 Project Manager – GDC,Not specified,1,India - Bangalore,India - Bangalore,Not specified,No
 Public Relations Specialist,Not specified,1,United States - Remote,United States - Remote,Not specified,Yes
 Revenue Manager,Not specified,1,"United States - San Mateo, CA","United States - San Mateo, CA",Not specified,No
-SBT Senior Software Engineer (Full‑Stack),Not specified,1,2 Locations,2 Locations,Not specified,No
 Sales Operations Analyst,Not specified,1,India - Bangalore,India - Bangalore,Not specified,No
 "Scrum Master, Business Technology",Not specified,1,Mexico - Guadalajara,Mexico - Guadalajara,Not specified,No
 Senior Accountant,Not specified,1,2 Locations,2 Locations,Not specified,No
@@ -108,10 +107,8 @@ Senior Cloud Engineer,Not specified,1,Malaysia - Kuala Lumpur,Malaysia - Kuala L
 "Senior Consultant/ Consultant, INOW",Not specified,1,India - Bangalore,India - Bangalore,Not specified,No
 Senior Data Scientist,Not specified,1,"Remote (SK, Canada)","Remote (SK, Canada)",Not specified,Yes
 "Senior Developer, InsuranceNow/ Architect, InsuranceNow",Not specified,1,India - Bangalore,India - Bangalore,Not specified,No
-Senior Implementation Engineer,Not specified,1,2 Locations,2 Locations,Not specified,No
 Senior Information Security Analyst,Not specified,1,Canada - Remote,Canada - Remote,Not specified,Yes
 Senior Machine Learning Engineer,Not specified,1,Canada - Toronto,Canada - Toronto,Not specified,No
-"Senior Manager | Global Delivery, Professional Services (Guidewire Implementation)",Not specified,1,India - Bangalore,India - Bangalore,Not specified,No
 "Senior Manager | Global Delivery, Professional Services (Guidewire Suite)",Not specified,1,India - Bangalore,India - Bangalore,Not specified,No
 "Senior Manager, Corporate Development",Not specified,1,"United States - San Mateo, CA","United States - San Mateo, CA",Not specified,No
 "Senior Manager, Operations",Not specified,1,India - Bangalore,India - Bangalore,Not specified,No
@@ -126,7 +123,6 @@ Senior Software Engineer - AI Services,Not specified,1,"United States - San Mate
 Senior Software Engineering Manager,Not specified,1,India - Bangalore,India - Bangalore,Not specified,No
 Senior Solution Architect,Not specified,1,United States - Remote,United States - Remote,Not specified,Yes
 Senior Technology Sourcing Manager,Not specified,1,Mexico - Guadalajara,Mexico - Guadalajara,Not specified,No
-Senior UI/UX Designer,Not specified,1,India - Bangalore,India - Bangalore,Not specified,No
 Services Strategy Executive,Not specified,1,Australia - Sydney,Australia - Sydney,Not specified,No
 Site Reliability Engineer II (Platform),Not specified,1,Malaysia - Kuala Lumpur,Malaysia - Kuala Lumpur,Not specified,No
 Site Reliability Engineer II (SRE) - Guidewire Cloud Platform (Application),Not specified,1,India - Bangalore,India - Bangalore,Not specified,No
@@ -140,9 +136,7 @@ Software Development Engineer in Test II (SDET),Not specified,1,India - Bangalor
 Software Development Engineers in Test lll (SDET),Not specified,1,India - Bangalore,India - Bangalore,Not specified,No
 Software Engineer,Not specified,1,Poland - Krakow,Poland - Krakow,Not specified,No
 Software Engineer III (AI/ML),Not specified,1,"United States - San Mateo, CA","United States - San Mateo, CA",Not specified,No
-"Software Engineer III (Backend, AI)",Not specified,1,Brazil - Curitiba,Brazil - Curitiba,Not specified,No
 Software Engineer III (Java),Not specified,1,India - Bangalore,India - Bangalore,Not specified,No
-"Software Engineer III (Java, Microservices, AWS)",Not specified,1,India - Bangalore,India - Bangalore,Not specified,No
 Software Engineer III - AI Services,Not specified,1,"United States - San Mateo, CA","United States - San Mateo, CA",Not specified,No
 Software Engineer III - Backend - Policy Solutions,Not specified,1,"United States - San Mateo, CA","United States - San Mateo, CA",Not specified,No
 Software Engineer III(Full stack),Not specified,1,"United States - San Mateo, CA","United States - San Mateo, CA",Not specified,No
@@ -160,7 +154,6 @@ Support Admin - Global Helpdesk (Rotational Shift),Not specified,1,India - Banga
 Technical Architect,Not specified,1,Japan - Tokyo,Japan - Tokyo,Not specified,No
 Technical Delivery Manager,Not specified,1,Malaysia - Kuala Lumpur,Malaysia - Kuala Lumpur,Not specified,No
 Technical Lead (Front-end),Not specified,1,India - Bangalore,India - Bangalore,Not specified,No
-"Technical Product Manager, Release Engineering",Not specified,1,India - Bangalore,India - Bangalore,Not specified,No
 Technical Program Management - Guidewire Security,Not specified,1,United States - Remote,United States - Remote,Not specified,Yes
 Technical Recruiter,Not specified,1,3 Locations,3 Locations,Not specified,No
 "Technical Solution Consultant, Japan",Not specified,1,Japan - Tokyo,Japan - Tokyo,Not specified,No
