@@ -1,10 +1,10 @@
 {
   "date": "2026-02-20",
-  "timestamp": "2026-02-20T04:16:37.862694",
+  "timestamp": "2026-02-20T07:41:47.079694",
   "total_companies": 12,
   "successful": 12,
   "failed": 0,
-  "total_jobs": 158,
+  "total_jobs": 160,
   "results": [
     {
       "success": true,
@@ -17,7 +17,7 @@
       "success": true,
       "company": "Docebo",
       "slug": "docebo",
-      "job_count": 22,
+      "job_count": 23,
       "csv_path": "companies/docebo/docebo_jobs_2026-02-20.csv"
     },
     {
@@ -73,7 +73,7 @@
       "success": true,
       "company": "Tecsys",
       "slug": "tecsys",
-      "job_count": 13,
+      "job_count": 14,
       "csv_path": "companies/tecsys/tecsys_jobs_2026-02-20.csv"
     },
     {
