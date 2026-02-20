@@ -68,10 +68,14 @@ def save_new_jobs_csv(new_job_ids, all_current_jobs, output_file):
         print("  No new jobs found.")
         return
 
-    new_jobs = [
-        job for job in all_current_jobs
-        if (job.get('title', ''), job.get('department', ''), job.get('location', '')) in new_job_ids
-    ]
+    # Deduplicate: only keep the first row matching each identity tuple
+    seen = set()
+    new_jobs = []
+    for job in all_current_jobs:
+        job_id = (job.get('title', ''), job.get('department', ''), job.get('location', ''))
+        if job_id in new_job_ids and job_id not in seen:
+            seen.add(job_id)
+            new_jobs.append(job)
 
     fieldnames = ['title', 'department', 'location', 'posting_date', 'remote', 'region', 'url']
 

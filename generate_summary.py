@@ -44,17 +44,6 @@ def load_company_config(fund=None):
     return {}
 
 
-def find_latest_new_jobs_file(company_dir):
-    """Find the most recent new jobs file for a company."""
-    pattern = f"{company_dir.name}_jobs_new_*.csv"
-    files = list(company_dir.glob(pattern))
-    if not files:
-        return None
-    # Sort by modification time, newest first
-    files.sort(key=lambda x: x.stat().st_mtime, reverse=True)
-    return files[0]
-
-
 def generate_summary(date_override=None, fund=None):
     """Generate markdown summary of new jobs."""
     today = date_override or datetime.now().strftime('%Y-%m-%d')
@@ -75,12 +64,9 @@ def generate_summary(date_override=None, fund=None):
         if fund and company_dir.name not in company_names:
             continue
 
-        # Try exact date first, then fall back to most recent
+        # Only use today's new jobs file — no fallback to stale files
         new_jobs_file = company_dir / f"{company_dir.name}_jobs_new_{today}.csv"
         if not new_jobs_file.exists():
-            new_jobs_file = find_latest_new_jobs_file(company_dir)
-
-        if not new_jobs_file or not new_jobs_file.exists():
             continue
 
         # Extract date from filename for report

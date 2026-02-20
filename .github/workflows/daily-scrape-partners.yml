@@ -34,6 +34,9 @@ jobs:
         with:
           chrome-version: stable
 
+      - name: Clean up stale new-jobs files
+        run: find companies -name '*_jobs_new_*.csv' -delete 2>/dev/null || true
+
       - name: Run job scraper (Partners Fund)
         run: python scrape_all_companies.py --fund partners
         continue-on-error: true
