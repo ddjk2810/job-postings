@@ -1,12 +1,22 @@
 {
-  "last_updated": "2026-02-20T03:50:43.468680",
+  "last_updated": "2026-02-20T04:05:43.077491",
   "job_count": 220,
   "active_count": 171,
   "jobs": [
     [
-      "Global Associate Success (HR) Business Partner",
+      "Support Engineer 1 - Cloud (L1 Infra Ops, Monitoring tools, AppDynamics, Zabbix, Azure Cloud)",
       "Not specified",
-      "Dallas"
+      "IND - Coimbatore (708)"
+    ],
+    [
+      "VP, Executive Advisor - Hardlines/Softlines",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Tax Technology Manager",
+      "Not specified",
+      "2 Locations"
     ],
     [
       "Senior Support Engineer 2 (BY SCPO/ BY ESP, SEQ, OP)",
@@ -14,52 +24,72 @@
       "Bangalore"
     ],
     [
-      "Support Engineer 2 - F5,Palo Alto firewall",
+      "Lead Software Engineer (Python)",
       "Not specified",
-      "IND - Coimbatore (708)"
+      "Bangalore"
     ],
     [
-      "Technical Architect - WMS Configuration/Integration - Professional Services",
+      "Project Manager - Cloud -  Project Management Professional, Customer Success Manager & PRINCE2",
       "Not specified",
       "2 Locations"
     ],
     [
-      "Sr Technical Consultant - Cloud (Devops,AKS,Github)",
+      "Lead Software Engineer - Java, Microservices, Azure",
       "Not specified",
-      "IND - Coimbatore (708)"
+      "Bangalore"
     ],
     [
-      "Principal Solutions Advisor - Retail",
+      "Sr Support Engineer 2 - Oracle DBA, RAC, Migration, Backup/Recovery, Performance Tuning",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Engineering Manager - Java,Python, Microservices, kafka, Nosql",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Staff Software Engineer - Terraform (Infrastructure as Code), Python, Jenkins & Groovy",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Sr. Staff Software Engineer",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr Technical Architect",
+      "Not specified",
+      "Monterrey"
+    ],
+    [
+      "Solution Architect - BY Demand, BY Fulfillment, BY ESP",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Account Manager",
+      "Not specified",
+      "Tokyo"
+    ],
+    [
+      "VP, Executive Advisor - Grocery",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "FinOps Manager - Security Spend Optimization",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Technical Program Manager, Cyber Trust",
       "Not specified",
       "Dallas"
     ],
     [
-      "Staff Software Engineer II (Java, Microservices & Cloud)",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Technical Architect - BY SCPO - Planning Consulting",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Lead Software Engineer -  ReactJS & Microservices",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Software Engineer I",
-      "Not specified",
-      "BYDS Dallas"
-    ],
-    [
-      "Sr Project Manager - Cloud - Project Management Professional, Customer Success Manager & PRINCE2",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr Software Engineer - Python",
+      "Project Manager (Engineering Manager,Java,Springboot,Mircroservices,Kafka)",
       "Not specified",
       "Bangalore"
     ],
@@ -69,402 +99,7 @@
       "Bangalore"
     ],
     [
-      "Sr Technical Architect - ServiceNow Architect, CSM, CSDM & ITOM",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Solution Architect \u2013 Production Planning and Scheduling (Automotive & Discrete Manufacturing)",
-      "Not specified",
-      "Dallas"
-    ],
-    [
-      "Software Engineer - (DevOps,Azure,Python Scripting,Github Actions)",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Senior FullStack Software Engineer ( React and NodeJS)",
-      "Not specified",
-      "16 Locations"
-    ],
-    [
-      "Sr Solutions Advisor, Retail & Grocery",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Proposal Specialist - Proposal Factory",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "VP, Executive Advisor - Grocery",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Staff Software Engineer - Terraform (Infrastructure as Code), Python, Jenkins & Groovy",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Digital Experience Specialist Int",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr Solution Architect - Demand/Supply/Production/Sales & Operation Planning",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr. Coordinator - Learning & Development",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Lead Software Engineer (Java, Microservices & Cloud)",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr Support Engineer 2 - 254669 Sr Support Engineer 2 - Windows Server Admin/ITIL/Azure/VMware",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Sr Support Engineer 1 - F5, Palo Alto firewall",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Program Manager - ServiceNow",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Business Strategist - Automotive Factory and Supply Chain Planning",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Senior Tax Analyst",
-      "Not specified",
-      "Scottsdale"
-    ],
-    [
-      "Lead Software Engineer - Mobile Platform, React-Native & Typescript",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Senior Technical Architect ( TMS )",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "IN-Support Engineer 2-F5,Palo Alto Firewall",
-      "Not specified",
-      "IND - Coimbatore (708)"
-    ],
-    [
-      "Sr Staff Software Engineer - Java, Microservices & Springboot",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Expert Support Engineer - Supply Chain, Planning and Optimization",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Sr Technical Architect",
-      "Not specified",
-      "Monterrey"
-    ],
-    [
-      "Sr Software Engineer ( Gen AI)",
-      "Not specified",
-      "16 Locations"
-    ],
-    [
-      "Sales Velocity Representative (GTM - Inside services sales/ Deal desk)",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Support Engineer 2 - F5,Palo Alto Firewall",
-      "Not specified",
-      "IND - Coimbatore (708)"
-    ],
-    [
-      "Technical Program Manager - Enterprise Data Strategy & Enablement",
-      "Not specified",
-      "Dallas"
-    ],
-    [
-      "Senior Manager - Technical Accounting",
-      "Not specified",
-      "Dallas"
-    ],
-    [
-      "Staff Performance Engineer I - Azure, Jmeter",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Technical Architect - (Java,Rest Api,Sql,Unix)",
-      "Not specified",
-      "Pune - BY"
-    ],
-    [
-      "Sr Devops Architect - Azure, CICD, Terraform, Github, Java, RestAPI, ReactJs",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Strategic Operations Program Support Director",
-      "Not specified",
-      "Monterrey"
-    ],
-    [
-      "Staff Software Engineer (Java , Microservices)",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Software Engineer II -  Java, SQL",
-      "Not specified",
-      "Pune"
-    ],
-    [
-      "Security Contract Manager",
-      "Not specified",
-      "Dallas"
-    ],
-    [
-      "Senior Manager - Technical Accounting",
-      "Not specified",
-      "Scottsdale"
-    ],
-    [
-      "Principal Software Engineer ( Java Architect)",
-      "Not specified",
-      "16 Locations"
-    ],
-    [
-      "Business Consultant (Supply Chain Planning) - Sales Support",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr. Software Engineer",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Account Manager",
-      "Not specified",
-      "Bracknell"
-    ],
-    [
-      "Technical Consultant (Planning & Execution, WMS)",
-      "Not specified",
-      "Tokyo"
-    ],
-    [
-      "Sr Support Engineer 2 - Fulfilment/Demand/Order Optimization/Enterprise Supply Planning(ESP) & PLSQL",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Senior Enterprise Architect",
-      "Not specified",
-      "6 Locations"
-    ],
-    [
-      "FinOps Manager - Security Spend Optimization",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr Software Engineer - ReactJS, NextJS & Microservices",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Account Manager - Life Sciences",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "IN-Sr Technical Consultant (BY CatMan/Category Management, C#, .NET, SQL Server)",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Sr Azure Network Engineer - Azure VMs, Load balancer, Application Gateway, Storage",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Support Engineer 2 - Blue Yonder Demand/Blue Yonder SCPO/Blue Yonder ESP/PLSQL",
-      "Not specified",
-      "IND - Coimbatore (708)"
-    ],
-    [
-      "Sr Devops Engineer - Cloud(Python, Azure)",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Technical Consultant Int - Cloud - Linux Admin, RHEL/OEL/Ubuntu, LVM, Shell Scripting",
-      "Not specified",
-      "IND - Coimbatore (708)"
-    ],
-    [
-      "Sr Instructional Designer - Learning",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Technical Account Advisor - Cloud Service",
-      "Not specified",
-      "Monterrey"
-    ],
-    [
-      "Sr Software Engineer (Java, Spring Boot, REST API, React.js)",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "IN-Technical Architect - Cloud (Problem Manager, ServiceNow, Azure, Service Management, Incident Handling, SLA)",
-      "Not specified",
-      "IND - Coimbatore (708)"
-    ],
-    [
-      "Lead Software Engineer",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Solution Architect \u2013 Supply Chain Planning (Manufacturing)",
-      "Not specified",
-      "Dallas"
-    ],
-    [
-      "Staff Software Engineer I - Typescript & NestJS",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Automation Engineer",
-      "Not specified",
-      "Bracknell"
-    ],
-    [
-      "Education Architect, Int",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Engineering Manager - Java, Microservices",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Sr. Staff Software Engineer",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr. QA Engineer - Robot, Python & Playwright",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Sr. Technical Program Manager, Cyber Defense",
-      "Not specified",
-      "Dallas"
-    ],
-    [
-      "Staff Engineer - Mobile Platform",
-      "Not specified",
-      "12 Locations"
-    ],
-    [
-      "FinOps Manager - Cost Optimization",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Learning Architect",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Sr Web Developer",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Sr Software Engineer - (.Net Core, Angular, React, Azure, Web API, C#)",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Engineering Manager - Java,Python, Microservices, kafka, Nosql",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Solution Architect - BY Demand, BY Fulfillment, BY ESP",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Technical Architect - TMS - Professional Services",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "IN-Sr Support Engineer 1-F5,Palo Alto firewall",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Solution Architect - Consulting (SCM)",
-      "Not specified",
-      "Pune - BY"
-    ],
-    [
-      "Services Inside Sales Representative",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Project Manager (Supply planning, WMS)",
-      "Not specified",
-      "Tokyo"
-    ],
-    [
-      "Technical Architect - Transportation Management Systems",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Sr Gen AI Engineer - Python, AI & ML",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "IT Manager - Observability & Automation",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Staff Software Engineer (Java , Microservices)",
+      "Senior Support Engineer 2 (BY SCPO/ BY Demand, Fulfillment)",
       "Not specified",
       "Bangalore"
     ],
@@ -474,37 +109,162 @@
       "3 Locations"
     ],
     [
-      "Program Director \u2013 Supply Chain Advisory Strategic Programs",
+      "Sr. Data Science Consultant - 2 (Machine Learning, Python)",
       "Not specified",
       "2 Locations"
     ],
     [
-      "Enterprise Technical Architect WMS",
+      "Sr Project Manager - Cloud - Project Management Professional, Customer Success Manager & PRINCE2",
       "Not specified",
-      "Warsaw"
+      "2 Locations"
     ],
     [
-      "Sr. Staff Data Science Consultant - Supply Chain",
+      "Technical Architect - Cloud (Problem Manager, ServiceNow, Azure, Service Management, Incident Handling, SLA)",
+      "Not specified",
+      "IND - Coimbatore (708)"
+    ],
+    [
+      "Account Manager - Life Sciences",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Instructional Designer - ADDIE",
       "Not specified",
       "Bangalore"
     ],
     [
-      "Corporate Counsel - Intellectual Property",
+      "IN-Support Engineer 2-F5,Palo Alto Firewall",
+      "Not specified",
+      "IND - Coimbatore (708)"
+    ],
+    [
+      "Business Strategist - Automotive Factory and Supply Chain Planning",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Software Engineer II - React Js & Typescript",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Sr Web Developer",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Technical Program Manager - Enterprise Data Strategy & Enablement",
       "Not specified",
       "Dallas"
     ],
     [
-      "Sr Instructional Designer - Learning",
+      "Principal Data Science Consultant - Supply Chain Operations Analytics",
       "Not specified",
       "2 Locations"
     ],
     [
-      "Devops Engineer (CI/CD, Github actions, Docker, Kubernetes)",
+      "Technical Consultant - Java, SQL",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Support Engineer1 - PLSQL, DBMS & AppD",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Sr Software Engineer",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Sr Support Engineer 1 - SQL DBA, SQL Server 2012/2014/2016/2017/2019/2022, Azure SQL, T-SQL",
       "Not specified",
       "Bangalore"
     ],
     [
-      "Sr Support Engineer 2 - SQL DBA, SQL Server 2012/2014/2016/2017/2019/2022, Azure SQL, T-SQL",
+      "Sr Technical Consultant - Cloud (Devops,AKS,Github)",
+      "Not specified",
+      "IND - Coimbatore (708)"
+    ],
+    [
+      "Sr Software Engineer - ReactJS, NextJS & Microservices",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Technical Consultant - ( F5 LTM, Cloudflare WAF, ASA/PALO ALTO/AZURE firewalls, Routing & Switching, Irules, VPN tunnel configuration)",
+      "Not specified",
+      "IND - Coimbatore (708)"
+    ],
+    [
+      "Scrum Master and Agile Coach",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Expert Support Engineer - Supply Chain, Planning and Optimization",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Staff Data Scientist",
+      "Not specified",
+      "Dallas"
+    ],
+    [
+      "Lead Software Engineer - Typescript & NestJS",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Senior Director, Sales Operations Business Partner",
+      "Not specified",
+      "Dallas"
+    ],
+    [
+      "Software Engineer - (DevOps,Azure,Python Scripting,Github Actions)",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Sr MFT Administrator - Cleo Harmony, VLProxy",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Staff Software Engineer II (Java, Microservices & Cloud)",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Technical Architect - Consulting(Java, Spring boot, SQL)",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr Technical Consultant- BY SCPO/ Blue Yonder ESP",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Sr Software Engineer (Java, Spring Boot, REST API, React.js)",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Technical Architect - SCPO/Planning - Professional Services",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Sr Software Engineer - ReactJS, Typescript & CSS",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Technical Consultant Int - Cloud (Backup Admin, Commvault, Disaster Recovery, Azure)",
       "Not specified",
       "IND - Coimbatore (708)"
     ],
@@ -514,54 +274,144 @@
       "Dallas"
     ],
     [
-      "Instructional Designer - ADDIE",
+      "Engineering Manager - Java, Microservices",
       "Not specified",
       "Bangalore"
     ],
     [
-      "Project Manager (WMS, Planning & Execution)",
+      "Sr. QA Engineer - Robot, Python & Playwright",
       "Not specified",
-      "Tokyo"
+      "Bangalore"
     ],
     [
-      "Staff Data Scientist",
+      "Sr Solution Architect - Demand/Supply/Production/Sales & Operation Planning",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Staff Software Engineer II - React & Typescript",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Staff Data Scientist I - Supply Chain Operations",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Digital Experience Specialist Int",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Support Engineer 2 (Night Shift) - PLSQL, DBMS & AppD",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr. Technical Program Manager, Cyber Defense",
       "Not specified",
       "Dallas"
     ],
     [
-      "Software Engineer II - React Js & Typescript",
+      "Senior Tax Analyst",
+      "Not specified",
+      "Scottsdale"
+    ],
+    [
+      "IT Manager - Observability & Automation",
       "Not specified",
       "Hyderabad"
     ],
     [
-      "Technical Account Advisor - TAM/SaaS/Supply Chain/ITIL",
+      "ITIL Process Manager (Program Manager)",
       "Not specified",
-      "Bangalore"
+      "Hyderabad"
     ],
     [
-      "Engineering Manager - (Java, Microservices, kafka and Nosql)",
+      "Sr Technical Consultant - Major Incident Management/ITIL/Problem Management/Change Management/SLA Management",
       "Not specified",
-      "Bangalore"
+      "IND - Coimbatore (708)"
     ],
     [
-      "VP, Executive Advisor, Hardlines/Softlines",
+      "Senior FullStack Software Engineer ( React and NodeJS)",
+      "Not specified",
+      "16 Locations"
+    ],
+    [
+      "Global Business Practices Director",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Technical Architect - WMS Configuration/Integration - Professional Services",
       "Not specified",
       "2 Locations"
     ],
     [
-      "Technical Architect - SCPO/Planning - Professional Services",
+      "Technical Architect - Transportation Management Systems",
       "Not specified",
       "3 Locations"
     ],
     [
-      "Technical Architect - Consulting(Java, Spring boot, SQL)",
+      "Solution Architect Space, Range, Display Management",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Sr Staff Software Engineer - Java, Microservices & Springboot",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Support Engineer 2 - F5,Palo Alto Firewall",
+      "Not specified",
+      "IND - Coimbatore (708)"
+    ],
+    [
+      "Senior Software Engineer (Java, Microservices, Cloud)",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Sr Functional Analyst - PD -(Functional Consultant,Supplychain Domain,Fullfilment/Flowcasting)",
       "Not specified",
       "2 Locations"
     ],
     [
-      "Senior Solution Architect - WMS",
+      "Sales Velocity Representative (GTM - Inside services sales/ Deal desk)",
       "Not specified",
-      "8 Locations"
+      "2 Locations"
+    ],
+    [
+      "Education Architect, Int",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr Instructional Designer - Learning",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr. Staff Data Science Consultant - Supply Chain, Python & ML",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Support Engineer 2 - F5,Palo Alto firewall",
+      "Not specified",
+      "IND - Coimbatore (708)"
+    ],
+    [
+      "Lead Software Engineer (Java, Microservices & Cloud)",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Services Inside Sales Representative",
+      "Not specified",
+      "Bangalore"
     ],
     [
       "Associate Director - Digital Transformation",
@@ -569,7 +419,22 @@
       "Bangalore"
     ],
     [
-      "Technical Solutions Architect (Platform Services)",
+      "System Engineer I - Desktop Support",
+      "Not specified",
+      "Pune - BYDS"
+    ],
+    [
+      "IN-Sr Support Engineer 1-F5,Palo Alto firewall",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Sales Operations Analyst / BI & CRM Analytics Specialist",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Solutions Advisor, Retail & Grocery",
       "Not specified",
       "2 Locations"
     ],
@@ -584,27 +449,32 @@
       "Dallas"
     ],
     [
-      "Solution Architect",
+      "Sr Support Engineer 2 - SQL DBA, SQL Server 2012/2014/2016/2017/2019/2022, Azure SQL, T-SQL",
       "Not specified",
-      "3 Locations"
+      "IND - Coimbatore (708)"
     ],
     [
-      "Principal Data Science Consultant - Supply Chain Operations Analytics",
+      "Sr Technical Consultant",
+      "Not specified",
+      "Monterrey"
+    ],
+    [
+      "VP, Executive Advisor, Grocery",
       "Not specified",
       "2 Locations"
     ],
     [
-      "System Engineer I - Desktop Support",
+      "Senior Technical Architect ( TMS )",
       "Not specified",
-      "Pune - BYDS"
+      "2 Locations"
     ],
     [
-      "Staff Software Engineer - NodeJs, ReactJs, NextJs & Microservices",
+      "Manager, Services Sales Operations Business Partner",
       "Not specified",
-      "Hyderabad"
+      "Bangalore"
     ],
     [
-      "Lead Software Engineer - Java, Microservices, Azure",
+      "Sr Support Engineer 2 - Fulfilment/Demand/Order Optimization/Enterprise Supply Planning(ESP) & PLSQL",
       "Not specified",
       "Bangalore"
     ],
@@ -614,134 +484,9 @@
       "Pune - BY"
     ],
     [
-      "Sr Functional Analyst - PD -(Functional Consultant,Supplychain Domain,Fullfilment/Flowcasting)",
+      "Automation Engineer",
       "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Technical Architect - ServiceNow ITSM & CSM",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Technical Consultant - Java, SQL",
-      "Not specified",
-      "Pune - BY"
-    ],
-    [
-      "Support Engineer 2 - BY SCPO/BY Planning/ BY Demand/ PLSQL",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "VP, Executive Advisor, Grocery",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Business Consultant (Planning & Execution, WMS)",
-      "Not specified",
-      "Tokyo"
-    ],
-    [
-      "Sr Support Engineer 1 - Oracle DBA, RAC, Migration, Backup/Recovery, RMAN",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Support Engineer 2 (Night Shift) - PLSQL, DBMS & AppD",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr Support Engineer 1 - SQL DBA, SQL Server 2012/2014/2016/2017/2019/2022, Azure SQL, T-SQL",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Sr. Data Science Consultant - 2 (Machine Learning, Python)",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Senior Software Engineer (Java, Microservices, Cloud)",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Sr Software Engineer",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Project Manager - Cloud -  Project Management Professional, Customer Success Manager & PRINCE2",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Lead Software Engineer (Python)",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "VP, Demo, POC, & Pilot",
-      "Not specified",
-      "Dallas"
-    ],
-    [
-      "Principal Software Engineer ( Sr Architect )",
-      "Not specified",
-      "7 Locations"
-    ],
-    [
-      "Key Account Director - Retail",
-      "Not specified",
-      "Dallas"
-    ],
-    [
-      "Lead, Sales Compensation",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Enterprise Solution Architect \u2013 Automotive Factory and Supply Chain Planning",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Project Manager (Engineering Manager,Java,Springboot,Mircroservices,Kafka)",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Sr Support Engineer 2 - Oracle DBA, RAC, Migration, Backup/Recovery, Performance Tuning",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Strategic Services Director, Retail & Grocery",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Staff Data Scientist I - Supply Chain Operations",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Sr Software Engineer - ReactJS, Typescript & CSS",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Technical Consultant - ( F5 LTM, Cloudflare WAF, ASA/PALO ALTO/AZURE firewalls, Routing & Switching, Irules, VPN tunnel configuration)",
-      "Not specified",
-      "IND - Coimbatore (708)"
-    ],
-    [
-      "Technical Consultant Int - Cloud (Backup Admin, Commvault, Disaster Recovery, Azure)",
-      "Not specified",
-      "IND - Coimbatore (708)"
+      "Bracknell"
     ],
     [
       "Lead Software Engineer - Devops, Azure, Scripting, Terraform, GitHub, Jenkins",
@@ -749,172 +494,17 @@
       "Bangalore"
     ],
     [
-      "Support Engineer 2 - Blue Yonder TMS/Transportation Management",
+      "Senior Manager - Technical Accounting",
       "Not specified",
-      "2 Locations"
+      "Scottsdale"
     ],
     [
-      "Account Manager",
-      "Not specified",
-      "Tokyo"
-    ],
-    [
-      "Sr Support Engineer - JDA/BY Fulfilment/Demand/Order Optimization/Enterprise Supply Planning(ESP) & PLSQL",
+      "Engineering Manager - (Java, Microservices, kafka and Nosql)",
       "Not specified",
       "Bangalore"
     ],
     [
-      "Sr. Staff Software Engineer - Java , Microservice's",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "IN-Support Engineer 2-F5,Palo Alto firewall",
-      "Not specified",
-      "IND - Coimbatore (708)"
-    ],
-    [
-      "Sr. Support Engineer 2 - Splunk, AppDynamics, Zabbix, Azure, Monitoring Tools (5-8 years)",
-      "Not specified",
-      "IND - Coimbatore (708)"
-    ],
-    [
-      "Lead Software Engineer - Java, Microservices & Cloud",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Technical Program Manager,  Cyber Trust",
-      "Not specified",
-      "Dallas"
-    ],
-    [
-      "Solution Architect",
-      "Not specified",
-      "Tokyo"
-    ],
-    [
-      "Scrum Master and Agile Coach",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Solution Architect - Warehouse Management Systems",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Lead System Engineer - MS Azure, M365 & DKIM/DMARC/SPF",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Technical Architect - Warehouse Management Systems",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Staff Software Engineer II - React & Typescript",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Lead Observability Engineer - Elasticsearch, APM, Azure, Service now",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "ITIL Process Manager (Program Manager)",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Sr Support Engineer 2 - Windows Server Admin/ITIL/Azure/VMware",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Staff Software Engineer - Python, React & Cloud",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Technical Program Manager, Cyber Trust",
-      "Not specified",
-      "Dallas"
-    ],
-    [
-      "Solutions Advisor, Retail & Grocery",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr Software Engineer ( Gen AI)",
-      "Not specified",
-      "Dallas"
-    ],
-    [
-      "Senior Observability Engineer - Elasticsearch, APM, Azure, Service now",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Technical Consultant - Java, SQL",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Senior Technical Architect ( WMS )",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr Support Engineer 1 - F5,Palo Alto firewall",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Executive Advisor, CPG",
-      "Not specified",
-      "Richmond Hill"
-    ],
-    [
-      "Lead Software Engineer - ReactJS & NestJS",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Sr. Security Engineer",
-      "Not specified",
-      "Monterrey"
-    ],
-    [
-      "Sr. Staff Data Science Consultant - Supply Chain, Python & ML",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Sr. Data Scientist-Algorithms, LlamaIndex, Python",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Sr. QA Engineer - Robot & Python",
-      "Not specified",
-      "Bangalore"
-    ],
-    [
-      "Technical Architect - Cloud (Problem Manager, ServiceNow, Azure, Service Management, Incident Handling, SLA)",
-      "Not specified",
-      "IND - Coimbatore (708)"
-    ],
-    [
-      "Support Engineer 2 - Service Manager - Cloud Applications /SaaS",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "VP, Executive Advisor - Hardlines/Softlines",
+      "Program Director \u2013 Supply Chain Advisory Strategic Programs",
       "Not specified",
       "2 Locations"
     ],
@@ -924,7 +514,22 @@
       "Monterrey"
     ],
     [
-      "Sr Technical Consultant- BY SCPO/ Blue Yonder ESP",
+      "Technical Consultant (Planning & Execution, WMS)",
+      "Not specified",
+      "Tokyo"
+    ],
+    [
+      "Devops Engineer (CI/CD, Github actions, Docker, Kubernetes)",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Account Manager",
+      "Not specified",
+      "Bracknell"
+    ],
+    [
+      "Sr Support Engineer 2 - 254669 Sr Support Engineer 2 - Windows Server Admin/ITIL/Azure/VMware",
       "Not specified",
       "Bangalore"
     ],
@@ -934,39 +539,19 @@
       "Paris"
     ],
     [
-      "Solution Architect Space, Range, Display Management",
+      "Project Manager (WMS, Planning & Execution)",
       "Not specified",
-      "5 Locations"
+      "Tokyo"
     ],
     [
-      "Global Business Practices Director",
+      "Corporate Counsel - Intellectual Property",
       "Not specified",
-      "4 Locations"
+      "Dallas"
     ],
     [
-      "Machine Learning Engineer (Post-Training)",
+      "Sr. Coordinator - Learning & Development",
       "Not specified",
-      "Paris"
-    ],
-    [
-      "Sr Solutions Advisor, Execution",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Support Engineer1 - PLSQL, DBMS & AppD",
-      "Not specified",
-      "Hyderabad"
-    ],
-    [
-      "Tax Technology Manager",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr Technical Consultant (Core Java,Rest Api,Oracle Sql,Javascript,Unix)",
-      "Not specified",
-      "Pune - BY"
+      "Bangalore"
     ],
     [
       "Enterprise Technical Architect",
@@ -974,7 +559,212 @@
       "7 Locations"
     ],
     [
-      "Lead Software Engineer (Python)",
+      "Senior Observability Engineer - Elasticsearch, APM, Azure, Service now",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Technical Program Manager,  Cyber Trust",
+      "Not specified",
+      "Dallas"
+    ],
+    [
+      "Sr Azure Network Engineer - Azure VMs, Load balancer, Application Gateway, Storage",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "VP, Executive Advisor, Hardlines/Softlines",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Learning Architect",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Expert Support Engineer - Cloud",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Technical Architect - (Java,Rest Api,Sql,Unix)",
+      "Not specified",
+      "Pune - BY"
+    ],
+    [
+      "Staff Software Engineer",
+      "Not specified",
+      "10 Locations"
+    ],
+    [
+      "Lead Software Engineer - Mobile Platform, React-Native & Typescript",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Staff Engineer - Mobile Platform",
+      "Not specified",
+      "12 Locations"
+    ],
+    [
+      "VP, Demo, POC, & Pilot",
+      "Not specified",
+      "Dallas"
+    ],
+    [
+      "Solution Architect",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Sr Technical Consultant - Platform Integration",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr Software Engineer - (.Net Core, Angular, React, Azure, Web API, C#)",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Technical Architect - ServiceNow ITSM & CSM",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Sr Support Engineer 2 - Windows Server Admin/ITIL/Azure/VMware",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Solution Architect \u2013 Production Planning and Scheduling (Automotive & Discrete Manufacturing)",
+      "Not specified",
+      "Dallas"
+    ],
+    [
+      "Staff/Lead Security Auditor",
+      "Not specified",
+      "Dallas"
+    ],
+    [
+      "Sr Support Engineer 1 - F5,Palo Alto firewall",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Lead Observability Engineer - Elasticsearch, APM, Azure, Service now",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Technical Solutions Architect (Platform Services)",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Technical Account Advisor - TAM/SaaS/Supply Chain/ITIL",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Sr. Data Scientist-Algorithms, LlamaIndex, Python",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Program Manager - ServiceNow",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr Support Engineer 1 - Windows Server Admin/ITIL/Azure/VMware",
+      "Not specified",
+      "IND - Coimbatore (708)"
+    ],
+    [
+      "Senior Solution Architect - WMS",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Support Engineer 2 - Oracle DBA, RAC, Backup/Recovery, RMAN, Migration",
+      "Not specified",
+      "IND - Coimbatore (708)"
+    ],
+    [
+      "Business Consultant (Planning & Execution, WMS)",
+      "Not specified",
+      "Tokyo"
+    ],
+    [
+      "Global Associate Success (HR) Business Partner",
+      "Not specified",
+      "Dallas"
+    ],
+    [
+      "Staff Software Engineer (Java , Microservices)",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Lead, Sales Compensation",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Machine Learning Engineer (Post-Training)",
+      "Not specified",
+      "Paris"
+    ],
+    [
+      "Support Engineer 2 - Blue Yonder Demand/Blue Yonder SCPO/Blue Yonder ESP/PLSQL",
+      "Not specified",
+      "IND - Coimbatore (708)"
+    ],
+    [
+      "Sr Software Engineer ( Gen AI)",
+      "Not specified",
+      "16 Locations"
+    ],
+    [
+      "Support Engineer 2 - Service Manager - Cloud Applications /SaaS",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr Solutions Advisor, Retail & Grocery",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Support Engineer 2 - BY SCPO/BY Planning/ BY Demand/ PLSQL",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Support Engineer 2 - Blue Yonder TMS/Transportation Management",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr Devops Architect - Azure, CICD, Terraform, Github, Java, RestAPI, ReactJs",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Sr. Support Engineer 2 - Splunk, AppDynamics, Zabbix, Azure, Monitoring Tools (5-8 years)",
+      "Not specified",
+      "IND - Coimbatore (708)"
+    ],
+    [
+      "Security Contract Manager",
+      "Not specified",
+      "Dallas"
+    ],
+    [
+      "Manager (HRBP)",
       "Not specified",
       "Bangalore"
     ],
@@ -984,64 +774,114 @@
       "IND - Coimbatore (708)"
     ],
     [
-      "Manager (HRBP)",
+      "Sr Instructional Designer - Learning",
       "Not specified",
       "Bangalore"
     ],
     [
-      "Senior Support Engineer 2 (BY SCPO/ BY Demand, Fulfillment)",
+      "Solution Architect - Consulting (SCM)",
+      "Not specified",
+      "Pune - BY"
+    ],
+    [
+      "Sr Solutions Advisor, Execution",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr Support Engineer - JDA/BY Fulfilment/Demand/Order Optimization/Enterprise Supply Planning(ESP) & PLSQL",
       "Not specified",
       "Bangalore"
     ],
     [
-      "Senior Director, Sales Operations Business Partner",
+      "Enterprise Technical Architect WMS",
       "Not specified",
-      "Dallas"
+      "Warsaw"
     ],
     [
-      "Sr Technical Consultant - Major Incident Management/ITIL/Problem Management/Change Management/SLA Management",
+      "Technical Architect - TMS - Professional Services",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Software Engineer I",
+      "Not specified",
+      "BYDS Dallas"
+    ],
+    [
+      "Technical Consultant - Java, SQL",
+      "Not specified",
+      "Pune - BY"
+    ],
+    [
+      "Not specified",
+      "Not specified",
+      "Not specified"
+    ],
+    [
+      "Senior Enterprise Architect",
+      "Not specified",
+      "6 Locations"
+    ],
+    [
+      "Principal Software Engineer ( Java Architect)",
+      "Not specified",
+      "16 Locations"
+    ],
+    [
+      "Sr Technical Consultant (Core Java,Rest Api,Oracle Sql,Javascript,Unix)",
+      "Not specified",
+      "Pune - BY"
+    ],
+    [
+      "Solution Architect - Warehouse Management Systems",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Lead Software Engineer - ReactJS & NestJS",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Sr Support Engineer 1 - F5, Palo Alto firewall",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Technical Consultant Int - Cloud - Linux Admin, RHEL/OEL/Ubuntu, LVM, Shell Scripting",
       "Not specified",
       "IND - Coimbatore (708)"
     ],
     [
-      "Senior Account Executive",
+      "Sr. Software Engineer",
       "Not specified",
-      "4 Locations"
+      "2 Locations"
     ],
     [
-      "Expert Support Engineer - Cloud",
+      "Principal Software Engineer ( Sr Architect )",
+      "Not specified",
+      "7 Locations"
+    ],
+    [
+      "FinOps Manager - Cost Optimization",
       "Not specified",
       "Bangalore"
     ],
     [
-      "Sr Support Engineer 1 - Windows Server Admin/ITIL/Azure/VMware",
-      "Not specified",
-      "IND - Coimbatore (708)"
-    ],
-    [
-      "Sr MFT Administrator - Cleo Harmony, VLProxy",
+      "Staff Software Engineer I - Typescript & NestJS",
       "Not specified",
       "Bangalore"
     ],
     [
-      "IN-Sr Support Engineer 1 - Splunk, Monitoring, Observability, Azure, Zabbix, AppDynamics, Automation",
+      "Lead Software Engineer",
       "Not specified",
-      "IND - Coimbatore (708)"
+      "Hyderabad"
     ],
     [
-      "Support Engineer 1 - Cloud (L1 Infra Ops, Monitoring tools, AppDynamics, Zabbix, Azure Cloud)",
+      "Strategic Services Director, Retail & Grocery",
       "Not specified",
-      "IND - Coimbatore (708)"
-    ],
-    [
-      "Staff/Lead Security Auditor",
-      "Not specified",
-      "Dallas"
-    ],
-    [
-      "Manager, Services Sales Operations Business Partner",
-      "Not specified",
-      "Bangalore"
+      "2 Locations"
     ],
     [
       "Sr Software Engineer - Core Java, SQL",
@@ -1049,7 +889,157 @@
       "Pune - BY"
     ],
     [
+      "IN-Support Engineer 2-F5,Palo Alto firewall",
+      "Not specified",
+      "IND - Coimbatore (708)"
+    ],
+    [
+      "Proposal Specialist - Proposal Factory",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Principal Solutions Advisor - Retail",
+      "Not specified",
+      "Dallas"
+    ],
+    [
+      "Enterprise Solution Architect \u2013 Automotive Factory and Supply Chain Planning",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Staff Performance Engineer I - Azure, Jmeter",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Key Account Director - Retail",
+      "Not specified",
+      "Dallas"
+    ],
+    [
+      "Technical Architect - BY SCPO - Planning Consulting",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Sr. QA Engineer - Robot & Python",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Forward Deployed Engineer - Python, AI & ML",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Technical Account Advisor - Cloud Service",
+      "Not specified",
+      "Monterrey"
+    ],
+    [
+      "Sr. Security Engineer",
+      "Not specified",
+      "Monterrey"
+    ],
+    [
+      "Executive Advisor, CPG",
+      "Not specified",
+      "Richmond Hill"
+    ],
+    [
+      "Staff Software Engineer - Python, React & Cloud",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Senior Account Executive",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Sr Software Engineer ( Gen AI)",
+      "Not specified",
+      "Dallas"
+    ],
+    [
+      "Project Manager (Supply planning, WMS)",
+      "Not specified",
+      "Tokyo"
+    ],
+    [
+      "Staff Software Engineer - NodeJs, ReactJs, NextJs & Microservices",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Senior Manager - Technical Accounting",
+      "Not specified",
+      "Dallas"
+    ],
+    [
+      "Lead Software Engineer -  ReactJS & Microservices",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Lead Software Engineer (Python)",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Solution Architect",
+      "Not specified",
+      "Tokyo"
+    ],
+    [
+      "Sr. Staff Data Science Consultant - Supply Chain",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Sr Gen AI Engineer - Python, AI & ML",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr Technical Architect - ServiceNow Architect, CSM, CSDM & ITOM",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Sr Software Engineer - Python",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
       "Senior Performance Engineer - JMeter & Loadrunner",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Lead System Engineer - MS Azure, M365 & DKIM/DMARC/SPF",
+      "Not specified",
+      "Hyderabad"
+    ],
+    [
+      "Sr Devops Engineer - Cloud(Python, Azure)",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr. Staff Software Engineer - Java , Microservice's",
+      "Not specified",
+      "Bangalore"
+    ],
+    [
+      "Senior Technical Architect ( WMS )",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Staff Software Engineer (Java , Microservices)",
       "Not specified",
       "Bangalore"
     ],
@@ -1059,14 +1049,9 @@
       "Dallas"
     ],
     [
+      "IN-Sr Technical Consultant (BY CatMan/Category Management, C#, .NET, SQL Server)",
       "Not specified",
-      "Not specified",
-      "Not specified"
-    ],
-    [
-      "Sr Technical Consultant",
-      "Not specified",
-      "Monterrey"
+      "Bangalore"
     ],
     [
       "Senior Software Engineer",
@@ -1074,34 +1059,49 @@
       "London"
     ],
     [
-      "Support Engineer 2 - Oracle DBA, RAC, Backup/Recovery, RMAN, Migration",
-      "Not specified",
-      "IND - Coimbatore (708)"
-    ],
-    [
-      "Lead Software Engineer - Typescript & NestJS",
+      "Business Consultant (Supply Chain Planning) - Sales Support",
       "Not specified",
       "2 Locations"
     ],
     [
-      "Forward Deployed Engineer - Python, AI & ML",
+      "Software Engineer II -  Java, SQL",
       "Not specified",
-      "2 Locations"
+      "Pune"
     ],
     [
-      "Sr Technical Consultant - Platform Integration",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sales Operations Analyst / BI & CRM Analytics Specialist",
+      "Sr Support Engineer 1 - Oracle DBA, RAC, Migration, Backup/Recovery, RMAN",
       "Not specified",
       "Bangalore"
     ],
     [
-      "Staff Software Engineer",
+      "Lead Software Engineer - Java, Microservices & Cloud",
       "Not specified",
-      "10 Locations"
+      "Hyderabad"
+    ],
+    [
+      "IN-Sr Support Engineer 1 - Splunk, Monitoring, Observability, Azure, Zabbix, AppDynamics, Automation",
+      "Not specified",
+      "IND - Coimbatore (708)"
+    ],
+    [
+      "Technical Architect - Warehouse Management Systems",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Solution Architect \u2013 Supply Chain Planning (Manufacturing)",
+      "Not specified",
+      "Dallas"
+    ],
+    [
+      "Strategic Operations Program Support Director",
+      "Not specified",
+      "Monterrey"
+    ],
+    [
+      "IN-Technical Architect - Cloud (Problem Manager, ServiceNow, Azure, Service Management, Incident Handling, SLA)",
+      "Not specified",
+      "IND - Coimbatore (708)"
     ]
   ]
 }
