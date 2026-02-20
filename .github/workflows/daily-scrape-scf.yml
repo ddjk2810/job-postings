@@ -108,5 +108,6 @@ jobs:
             git commit -m "Daily job scrape (SCF Fund): $DATE
 
           Automated scrape by GitHub Actions"
+            git pull --rebase
             git push
           fi
