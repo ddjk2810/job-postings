@@ -1,61 +1,16 @@
 {
-  "last_updated": "2026-02-20T03:34:33.167017",
+  "last_updated": "2026-02-20T03:40:58.599110",
   "job_count": 16,
   "active_count": 13,
   "jobs": [
-    [
-      "Program Manager, Services",
-      "Services",
-      "Remote- United States"
-    ],
-    [
-      "Principal, Talent Development",
-      "HR",
-      "Remote- United States"
-    ],
-    [
-      "Product Manager - Third Party Integrations",
-      "Product",
-      "Remote- United States"
-    ],
-    [
-      "GTM Data Strategist",
-      "Marketing",
-      "Remote- United States"
-    ],
     [
       "Manager, Privacy Engineering",
       "Privacy",
       "Remote- United States"
     ],
     [
-      "Product Manager - Platform Integrations",
-      "Product",
-      "Remote- United States"
-    ],
-    [
-      "Senior Sales Executive",
-      "Sales",
-      "Remote- United States"
-    ],
-    [
-      "Product Manager",
-      "Product",
-      "Remote- United States"
-    ],
-    [
-      "Cyber Security Engineer",
-      "Security",
-      "Remote- United States"
-    ],
-    [
-      "Application Security Engineer",
-      "Security",
-      "Remote- United States"
-    ],
-    [
-      "Senior Security Platform Engineer",
-      "Security",
+      "Software Engineer",
+      "Development",
       "Remote- United States"
     ],
     [
@@ -69,8 +24,48 @@
       "Remote- United States"
     ],
     [
-      "Software Engineer",
+      "GTM Data Strategist",
+      "Marketing",
+      "Remote- United States"
+    ],
+    [
+      "Senior Sales Executive",
+      "Sales",
+      "Remote- United States"
+    ],
+    [
+      "Principal, Talent Development",
+      "HR",
+      "Remote- United States"
+    ],
+    [
+      "Program Manager, Services",
+      "Services",
+      "Remote- United States"
+    ],
+    [
+      "Product Manager - Platform Integrations",
+      "Product",
+      "Remote- United States"
+    ],
+    [
+      "Application Security Engineer",
+      "Security",
+      "Remote- United States"
+    ],
+    [
+      "Quality Engineer",
       "Development",
+      "Remote- United States"
+    ],
+    [
+      "Product Manager - Third Party Integrations",
+      "Product",
+      "Remote- United States"
+    ],
+    [
+      "Product Manager",
+      "Product",
       "Remote- United States"
     ],
     [
@@ -79,8 +74,13 @@
       "Remote- United States"
     ],
     [
-      "Quality Engineer",
-      "Development",
+      "Senior Security Platform Engineer",
+      "Security",
+      "Remote- United States"
+    ],
+    [
+      "Cyber Security Engineer",
+      "Security",
       "Remote- United States"
     ]
   ]
