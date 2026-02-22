@@ -1,16 +1,18 @@
 
-## Company Hiring Priorities (2026-02-20 -> 2026-02-21)
+## Company Hiring Priorities (2026-02-21 -> 2026-02-22)
 
 What each company appears to be prioritizing based on new job postings:
 
-**Hansen Technologies** (30->33, +3 net, 3 new postings): adding 3 new roles across multiple functions.
+**Tyler Technologies** (36->39, +3 net, 4 new postings): adding 4 new roles across multiple functions.
 
-**Axway** (21->21, +0 net, 2 new postings): adding 2 new roles across multiple functions.
+**Veeva** (1017->1015, -2 net, 4 new postings): heavily focused on **engineering** (3/4 new roles), with emphasis on qa engineer.
 
-**Docebo** (23->24, +1 net, 2 new postings): adding 2 new roles across multiple functions.
+**Vertex** (40->21, -19 net, 2 new postings): adding 2 new roles across multiple functions.
 
-**Mesa Labs** (26->28, +2 net, 1 new postings): adding 1 new roles across multiple functions.
+**Autodesk** (619->620, +1 net, 1 new postings): adding 1 new roles across multiple functions.
 
-**Nordhealth** (6->7, +1 net, 1 new postings): adding 1 new roles across multiple functions.
+**Blue Yonder** (182->182, +0 net, 1 new postings): adding 1 new roles across multiple functions.
 
-**Tecsys** (14->14, +0 net, 1 new postings): adding 1 new roles across multiple functions.
+**Descartes** (25->25, +0 net, 1 new postings): adding 1 new roles across multiple functions.
+
+**RealPage** (50->50, +0 net, 1 new postings): adding 1 new roles across multiple functions.

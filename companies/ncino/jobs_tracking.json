@@ -1,67 +1,12 @@
 {
-  "last_updated": "2026-02-21T07:25:28.147546",
+  "last_updated": "2026-02-22T06:48:22.865250",
   "job_count": 51,
   "active_count": 31,
   "jobs": [
     [
-      "Senior Product Manager - Incentive Compensation",
+      "Associate Support Engineer",
       "Not specified",
       "US - Utah - Lehi"
-    ],
-    [
-      "Associate IT Specialist",
-      "Not specified",
-      "Wilmington, NC"
-    ],
-    [
-      "Software Engineer-1",
-      "Not specified",
-      "ZA - Johannesburg"
-    ],
-    [
-      "Revenue Product and GTM Enablement Specialist",
-      "Not specified",
-      "Remote, USA"
-    ],
-    [
-      "Senior Sales Operations Specialist",
-      "Not specified",
-      "Wilmington, NC"
-    ],
-    [
-      "Associate Director of Regional Marketing",
-      "Not specified",
-      "Wilmington, NC"
-    ],
-    [
-      "Business Development Representative (Spanish Speaker)",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Regional Vice President, Sales - UKI",
-      "Not specified",
-      "UK - London - One Crown Place"
-    ],
-    [
-      "Business Development Representative",
-      "Not specified",
-      "UK - Winnersh"
-    ],
-    [
-      "Pre-Sales Solution Architect",
-      "Not specified",
-      "London, UK"
-    ],
-    [
-      "Principal Software Engineer",
-      "Not specified",
-      "ZA - Remote - South Africa"
-    ],
-    [
-      "Senior Software Engineer",
-      "Not specified",
-      "ZA - Remote - South Africa"
     ],
     [
       "Principal Technical Architect - Salesforce",
@@ -69,14 +14,14 @@
       "ES - Madrid - Spain"
     ],
     [
-      "Principal Solution Architect - Dubai",
+      "Senior Credit Solutions Advisor",
       "Not specified",
-      "AE - Remote - Dubai (UAE)"
+      "US - North Carolina - HQ"
     ],
     [
-      "Validator",
+      "Principal Counsel - Privacy, Data, and AI",
       "Not specified",
-      "ZA - Johannesburg"
+      "Wilmington, NC"
     ],
     [
       "Associate Support Engineer",
@@ -84,12 +29,42 @@
       "ZA - Remote - South Africa"
     ],
     [
-      "Senior Credit Solutions Advisor",
+      "Associate Manager - Professional Services",
       "Not specified",
-      "US - North Carolina - HQ"
+      "London, UK"
     ],
     [
-      "Field Based Marketing Specialist",
+      "Regional Vice President, Sales - UKI",
+      "Not specified",
+      "UK - London - One Crown Place"
+    ],
+    [
+      "Principal Solution Sales Manager",
+      "Not specified",
+      "London, UK"
+    ],
+    [
+      "Associate Director of Regional Marketing",
+      "Not specified",
+      "Wilmington, NC"
+    ],
+    [
+      "Senior Functional Consultant",
+      "Not specified",
+      "Wilmington, NC"
+    ],
+    [
+      "Senior Software Engineer - Intelligence Platform",
+      "Not specified",
+      "Wilmington, NC"
+    ],
+    [
+      "Principal Product Manager",
+      "Not specified",
+      "London, UK"
+    ],
+    [
+      "Senior Implementation Consultant",
       "Not specified",
       "London, UK"
     ],
@@ -99,32 +74,52 @@
       "London, UK"
     ],
     [
-      "Regional Vice President - Sales - DACH",
+      "Validator",
       "Not specified",
-      "2 Locations"
+      "ZA - Johannesburg"
     ],
     [
-      "Principal Product Specialist (French-speaking)",
+      "Lead Solution Architect",
       "Not specified",
-      "FR - Remote - France"
+      "DE - Remote - Germany"
     ],
     [
-      "Regional Vice President - Insurance",
-      "Not specified",
-      "London, UK"
-    ],
-    [
-      "Product Specialist",
+      "Enterprise Account Executive",
       "Not specified",
       "London, UK"
     ],
     [
-      "Principal Field Based Marketing Specialist",
+      "Senior Software Engineer -Cloud Infrastructure",
+      "Not specified",
+      "ZA - Johannesburg"
+    ],
+    [
+      "Principal Solution Architect - Dubai",
+      "Not specified",
+      "AE - Remote - Dubai (UAE)"
+    ],
+    [
+      "Business Development Representative (German Native Speaker)",
       "Not specified",
       "2 Locations"
     ],
     [
-      "Principal Product Manager",
+      "Manager - Engineering, Data Platform",
+      "Not specified",
+      "Wilmington, NC"
+    ],
+    [
+      "Senior Software Engineer",
+      "Not specified",
+      "UK - London - One Crown Place"
+    ],
+    [
+      "Senior Implementation Consultant - Salesforce",
+      "Not specified",
+      "London, UK"
+    ],
+    [
+      "Business Development Representative (Spanish Speaker)",
       "Not specified",
       "London, UK"
     ],
@@ -134,9 +129,94 @@
       "Wilmington, NC"
     ],
     [
-      "Senior Software Engineer - Intelligence Platform",
+      "Pre-Sales Solution Architect",
+      "Not specified",
+      "London, UK"
+    ],
+    [
+      "Software Engineer-1",
+      "Not specified",
+      "ZA - Johannesburg"
+    ],
+    [
+      "Regional Vice President - Sales - DACH",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Associate Director - Talent Acquisition",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Product Specialist",
+      "Not specified",
+      "London, UK"
+    ],
+    [
+      "Regional Vice President - Insurance",
+      "Not specified",
+      "London, UK"
+    ],
+    [
+      "Senior Product Manager - Incentive Compensation",
+      "Not specified",
+      "US - Utah - Lehi"
+    ],
+    [
+      "Field Based Marketing Specialist",
+      "Not specified",
+      "London, UK"
+    ],
+    [
+      "Senior Software Engineer",
+      "Not specified",
+      "ZA - Johannesburg"
+    ],
+    [
+      "Business Development Representative - APAC",
+      "Not specified",
+      "Sydney, Australia"
+    ],
+    [
+      "Senior Sales Operations Specialist",
       "Not specified",
       "Wilmington, NC"
+    ],
+    [
+      "Business Value Consultant",
+      "Not specified",
+      "UK - London - One Crown Place"
+    ],
+    [
+      "Business Development Representative",
+      "Not specified",
+      "UK - Winnersh"
+    ],
+    [
+      "Principal Field Based Marketing Specialist",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Accounts Payable Analyst",
+      "Not specified",
+      "Wilmington, NC"
+    ],
+    [
+      "Business Development Representative (Spanish Speaker)",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Senior Software Engineer",
+      "Not specified",
+      "ZA - Remote - South Africa"
+    ],
+    [
+      "Principal Software Engineer",
+      "Not specified",
+      "ZA - Remote - South Africa"
     ],
     [
       "Not specified",
@@ -149,72 +229,7 @@
       "DE - Remote - Germany"
     ],
     [
-      "Associate Director - Talent Acquisition",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Associate Manager - Professional Services",
-      "Not specified",
-      "London, UK"
-    ],
-    [
-      "Business Value Consultant",
-      "Not specified",
-      "UK - London - One Crown Place"
-    ],
-    [
-      "Manager - Engineering, Data Platform",
-      "Not specified",
-      "Wilmington, NC"
-    ],
-    [
       "Account Executive - Mortgage",
-      "Not specified",
-      "Wilmington, NC"
-    ],
-    [
-      "Associate Support Engineer",
-      "Not specified",
-      "US - Utah - Lehi"
-    ],
-    [
-      "Senior Software Engineer",
-      "Not specified",
-      "UK - London - One Crown Place"
-    ],
-    [
-      "Senior Cloud Operations Engineer",
-      "Not specified",
-      "London, UK"
-    ],
-    [
-      "Senior Software Engineer -Cloud Infrastructure",
-      "Not specified",
-      "ZA - Johannesburg"
-    ],
-    [
-      "Enterprise Account Executive",
-      "Not specified",
-      "London, UK"
-    ],
-    [
-      "Senior Software Engineer",
-      "Not specified",
-      "ZA - Johannesburg"
-    ],
-    [
-      "Senior Functional Consultant",
-      "Not specified",
-      "Wilmington, NC"
-    ],
-    [
-      "Senior Implementation Consultant",
-      "Not specified",
-      "London, UK"
-    ],
-    [
-      "Principal Counsel - Privacy, Data, and AI",
       "Not specified",
       "Wilmington, NC"
     ],
@@ -224,39 +239,24 @@
       "ZA - Remote - South Africa"
     ],
     [
-      "Business Development Representative - APAC",
-      "Not specified",
-      "Sydney, Australia"
-    ],
-    [
-      "Lead Solution Architect",
-      "Not specified",
-      "DE - Remote - Germany"
-    ],
-    [
-      "Business Development Representative (German Native Speaker)",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Senior Implementation Consultant - Salesforce",
+      "Senior Cloud Operations Engineer",
       "Not specified",
       "London, UK"
     ],
     [
-      "Principal Solution Sales Manager",
-      "Not specified",
-      "London, UK"
-    ],
-    [
-      "Accounts Payable Analyst",
+      "Associate IT Specialist",
       "Not specified",
       "Wilmington, NC"
     ],
     [
-      "Business Development Representative (Spanish Speaker)",
+      "Revenue Product and GTM Enablement Specialist",
       "Not specified",
-      "London, UK"
+      "Remote, USA"
+    ],
+    [
+      "Principal Product Specialist (French-speaking)",
+      "Not specified",
+      "FR - Remote - France"
     ]
   ]
 }
