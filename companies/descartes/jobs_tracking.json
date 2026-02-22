@@ -1,110 +1,10 @@
 {
-  "last_updated": "2026-02-22T06:48:22.445881",
+  "last_updated": "2026-02-22T07:30:35.376800",
   "job_count": 44,
   "active_count": 25,
   "jobs": [
     [
-      "Senior Systems Engineer",
-      "Not specified",
-      "Namestovo, SK, 029 01 \u2022 Philippines, PH"
-    ],
-    [
-      "Senior Enterprise Account Executive",
-      "Not specified",
-      "US"
-    ],
-    [
-      "Technical Support Representative",
-      "Not specified",
-      "Montevideo, UY"
-    ],
-    [
-      "Expertise Centre Support Agent",
-      "Not specified",
-      "US"
-    ],
-    [
-      "Field Marketing Manager( Global Events Management)",
-      "Not specified",
-      "US"
-    ],
-    [
-      "Account Executive ( German Speaking)",
-      "Not specified",
-      "DE"
-    ],
-    [
-      "Support Agent Trainee",
-      "Not specified",
-      "Leipzig, DE, 4109"
-    ],
-    [
-      "Account Executive LSP",
-      "Not specified",
-      "Malmo, SE, 211 20"
-    ],
-    [
-      "Account Executive E-Commerce",
-      "Not specified",
-      "US"
-    ],
-    [
-      "AI Solutions Architect",
-      "Not specified",
-      "US"
-    ],
-    [
-      "Business Development Representative",
-      "Not specified",
-      "US"
-    ],
-    [
-      "Implementation Consultant (m/f/d) - SaaS / WMS",
-      "Not specified",
-      "Leipzig, DE, 4109"
-    ],
-    [
-      "Financial Analyst",
-      "Not specified",
-      "Gurugram, HR, IN, 122018"
-    ],
-    [
-      "Senior Software Engineer- JavaScript (Node.js, React)",
-      "Not specified",
-      "Sencur, SI, SI-4208"
-    ],
-    [
-      "Account Executive, Broker and Forwarder Solutions",
-      "Not specified",
-      "US"
-    ],
-    [
-      "Senior Systems Engineer",
-      "Not specified",
-      "Namestovo, SK, 029 01 \u2022 SK"
-    ],
-    [
-      "Director, Corporate Development",
-      "Not specified",
-      "Waterloo, ON, N2V 1C6"
-    ],
-    [
-      "Customer Success Manager",
-      "Not specified",
-      "Amersfoort, NL, 10 3812 RK"
-    ],
-    [
-      "Site Reliability Engineer",
-      "Not specified",
-      "BR"
-    ],
-    [
-      "Software Test Engineer",
-      "Not specified",
-      "Zilina, SK, 010 01"
-    ],
-    [
-      "Implementation Consultant",
+      "Technical Account Manager",
       "Not specified",
       "US"
     ],
@@ -114,64 +14,14 @@
       "US"
     ],
     [
-      "Technical Support Representative",
-      "Not specified",
-      "BG"
-    ],
-    [
-      "TMS Implementation Specialist",
-      "Not specified",
-      "US"
-    ],
-    [
-      "Site Reliability Engineer",
-      "Not specified",
-      "Makati City, PH"
-    ],
-    [
-      "Customer Support Representative",
-      "Not specified",
-      "US"
-    ],
-    [
-      "A/R Representative",
-      "Not specified",
-      "Waterloo, ON, N2V 1C6"
-    ],
-    [
-      "Senior Software Developer",
-      "Not specified",
-      "Sencur, SI, SI-4208"
-    ],
-    [
       "Customer Support Representative",
       "Not specified",
       "Makati City, PH"
     ],
     [
-      "Director of Sales",
+      "Account Executive E-Commerce",
       "Not specified",
       "US"
-    ],
-    [
-      "Expertise Centre Manager",
-      "Not specified",
-      "Amersfoort, NL, 10 3812 RK"
-    ],
-    [
-      "Hyper-V and Storage Administrator",
-      "Not specified",
-      "Waterloo, ON, N2V 1C6"
-    ],
-    [
-      "Senior Account Manager",
-      "Not specified",
-      "Rheinfelden, CH, 4310"
-    ],
-    [
-      "Senior Solutions Consultant( FTZ, FTA Specialist)",
-      "Not specified",
-      "Waterloo, ON, N2V 1C6"
     ],
     [
       "Technical Architect",
@@ -179,14 +29,134 @@
       "Gurugram, HR, IN, 122018"
     ],
     [
-      "Client Onboarding Specialist",
+      "Senior Software Engineer- JavaScript (Node.js, React)",
       "Not specified",
-      "BG"
+      "Sencur, SI, SI-4208"
+    ],
+    [
+      "Director, Corporate Development",
+      "Not specified",
+      "Waterloo, ON, N2V 1C6"
+    ],
+    [
+      "Implementation Consultant (m/f/d) - SaaS / WMS",
+      "Not specified",
+      "Leipzig, DE, 4109"
+    ],
+    [
+      "Senior Software Developer",
+      "Not specified",
+      "Sencur, SI, SI-4208"
     ],
     [
       "Technical Team Lead, JavaScript (Node.js, React)",
       "Not specified",
       "Sencur, SI, SI-4208"
+    ],
+    [
+      "Senior Account Manager",
+      "Not specified",
+      "Rheinfelden, CH, 4310"
+    ],
+    [
+      "Account Executive LSP",
+      "Not specified",
+      "Malmo, SE, 211 20"
+    ],
+    [
+      "Site Reliability Engineer",
+      "Not specified",
+      "Makati City, PH"
+    ],
+    [
+      "Hyper-V and Storage Administrator",
+      "Not specified",
+      "Waterloo, ON, N2V 1C6"
+    ],
+    [
+      "Expertise Centre Manager",
+      "Not specified",
+      "Amersfoort, NL, 10 3812 RK"
+    ],
+    [
+      "Technical Support Representative",
+      "Not specified",
+      "Montevideo, UY"
+    ],
+    [
+      "Site Reliability Engineer",
+      "Not specified",
+      "BR"
+    ],
+    [
+      "Support Agent Trainee",
+      "Not specified",
+      "Leipzig, DE, 4109"
+    ],
+    [
+      "Senior Systems Engineer",
+      "Not specified",
+      "Namestovo, SK, 029 01 \u2022 Philippines, PH"
+    ],
+    [
+      "Data Analyst",
+      "Not specified",
+      "Gurugram, HR, IN, 122018"
+    ],
+    [
+      "Business Development Representative",
+      "Not specified",
+      "US"
+    ],
+    [
+      "Account Executive ( German Speaking)",
+      "Not specified",
+      "DE"
+    ],
+    [
+      "AI Solutions Architect",
+      "Not specified",
+      "US"
+    ],
+    [
+      "Senior Solutions Consultant( FTZ, FTA Specialist)",
+      "Not specified",
+      "Waterloo, ON, N2V 1C6"
+    ],
+    [
+      "Account Executive, Broker and Forwarder Solutions",
+      "Not specified",
+      "US"
+    ],
+    [
+      "Senior Enterprise Account Executive",
+      "Not specified",
+      "US"
+    ],
+    [
+      "Customer Success Manager",
+      "Not specified",
+      "Amersfoort, NL, 10 3812 RK"
+    ],
+    [
+      "Senior Systems Engineer",
+      "Not specified",
+      "Namestovo, SK, 029 01 \u2022 SK"
+    ],
+    [
+      "Director of Sales",
+      "Not specified",
+      "US"
+    ],
+    [
+      "Software Test Engineer",
+      "Not specified",
+      "Zilina, SK, 010 01"
+    ],
+    [
+      "Client Onboarding Specialist",
+      "Not specified",
+      "BG"
     ],
     [
       "Expertise Centre Manager",
@@ -199,14 +169,9 @@
       "Waterloo, ON, N2V 1C6"
     ],
     [
-      "PR &amp; Marketing Communications Manager",
+      "Implementation Consultant",
       "Not specified",
-      "Amersfoort, NL, 10 3812 RK"
-    ],
-    [
-      "Data Analyst",
-      "Not specified",
-      "Gurugram, HR, IN, 122018"
+      "US"
     ],
     [
       "VP Sales -Enterprise SaaS | Logistics Service Providers | Broker &amp; Forwarder Systems",
@@ -214,12 +179,47 @@
       "US"
     ],
     [
-      "Technical Account Manager",
+      "Field Marketing Manager( Global Events Management)",
       "Not specified",
       "US"
     ],
     [
+      "PR &amp; Marketing Communications Manager",
+      "Not specified",
+      "Amersfoort, NL, 10 3812 RK"
+    ],
+    [
       "Support Specialist",
+      "Not specified",
+      "US"
+    ],
+    [
+      "A/R Representative",
+      "Not specified",
+      "Waterloo, ON, N2V 1C6"
+    ],
+    [
+      "Customer Support Representative",
+      "Not specified",
+      "US"
+    ],
+    [
+      "TMS Implementation Specialist",
+      "Not specified",
+      "US"
+    ],
+    [
+      "Financial Analyst",
+      "Not specified",
+      "Gurugram, HR, IN, 122018"
+    ],
+    [
+      "Technical Support Representative",
+      "Not specified",
+      "BG"
+    ],
+    [
+      "Expertise Centre Support Agent",
       "Not specified",
       "US"
     ]

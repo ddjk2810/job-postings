@@ -1,0 +1,94 @@
+{
+  "date": "2026-02-22",
+  "timestamp": "2026-02-22T07:30:34.835174",
+  "total_companies": 12,
+  "successful": 12,
+  "failed": 0,
+  "total_jobs": 166,
+  "results": [
+    {
+      "success": true,
+      "company": "Axway",
+      "slug": "axway",
+      "job_count": 21,
+      "csv_path": "companies/axway/axway_jobs_2026-02-22.csv"
+    },
+    {
+      "success": true,
+      "company": "Docebo",
+      "slug": "docebo",
+      "job_count": 24,
+      "csv_path": "companies/docebo/docebo_jobs_2026-02-22.csv"
+    },
+    {
+      "success": true,
+      "company": "accesso",
+      "slug": "accesso",
+      "job_count": 10,
+      "csv_path": "companies/accesso/accesso_jobs_2026-02-22.csv"
+    },
+    {
+      "success": true,
+      "company": "i3 Verticals",
+      "slug": "i3verticals",
+      "job_count": 20,
+      "csv_path": "companies/i3verticals/i3verticals_jobs_2026-02-22.csv"
+    },
+    {
+      "success": true,
+      "company": "Mesa Labs",
+      "slug": "mesalabs",
+      "job_count": 28,
+      "csv_path": "companies/mesalabs/mesalabs_jobs_2026-02-22.csv"
+    },
+    {
+      "success": true,
+      "company": "Nordhealth",
+      "slug": "nordhealth",
+      "job_count": 7,
+      "csv_path": "companies/nordhealth/nordhealth_jobs_2026-02-22.csv"
+    },
+    {
+      "success": true,
+      "company": "Omda",
+      "slug": "omda",
+      "job_count": 2,
+      "csv_path": "companies/omda/omda_jobs_2026-02-22.csv"
+    },
+    {
+      "success": true,
+      "company": "Karnov Group (SE)",
+      "slug": "karnov-se",
+      "job_count": 1,
+      "csv_path": "companies/karnov-se/karnov-se_jobs_2026-02-22.csv"
+    },
+    {
+      "success": true,
+      "company": "Karnov Group (DK)",
+      "slug": "karnov-dk",
+      "job_count": 1,
+      "csv_path": "companies/karnov-dk/karnov-dk_jobs_2026-02-22.csv"
+    },
+    {
+      "success": true,
+      "company": "Tecsys",
+      "slug": "tecsys",
+      "job_count": 14,
+      "csv_path": "companies/tecsys/tecsys_jobs_2026-02-22.csv"
+    },
+    {
+      "success": true,
+      "company": "Hansen Technologies",
+      "slug": "hansen",
+      "job_count": 33,
+      "csv_path": "companies/hansen/hansen_jobs_2026-02-22.csv"
+    },
+    {
+      "success": true,
+      "company": "Porvair Filtration",
+      "slug": "porvair-filtration",
+      "job_count": 5,
+      "csv_path": "companies/porvair-filtration/porvair-filtration_jobs_2026-02-22.csv"
+    }
+  ]
+}

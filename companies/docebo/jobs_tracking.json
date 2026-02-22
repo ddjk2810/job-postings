@@ -1,12 +1,22 @@
 {
-  "last_updated": "2026-02-21T07:25:27.807199",
+  "last_updated": "2026-02-22T07:30:35.404440",
   "job_count": 25,
   "active_count": 24,
   "jobs": [
     [
-      "Senior Customer Success Manager",
+      "Business Development Representative, Italian Speaking",
       "Revenue",
-      "Toronto, Ontario"
+      "London, UK"
+    ],
+    [
+      "Business Development Representative, French Speaking",
+      "Revenue",
+      "London, UK"
+    ],
+    [
+      "Technical Account Manager (French Speaking)",
+      "Product Management",
+      "London, UK"
     ],
     [
       "Director, Solutions Architecture",
@@ -14,58 +24,8 @@
       "Toronto, Ontario"
     ],
     [
-      "Customer Success Manager",
-      "Revenue",
-      "London, UK"
-    ],
-    [
       "Senior Manager, Workplace Experience",
       "People",
-      "Toronto, Ontario"
-    ],
-    [
-      "Customer Success Manager - Enterprise",
-      "Revenue",
-      "Toronto, Ontario"
-    ],
-    [
-      "Support Operations Specialist ",
-      "Product Engineering",
-      "Toronto, Ontario"
-    ],
-    [
-      "Global VP, Professional Services",
-      "Revenue",
-      "Toronto, Ontario"
-    ],
-    [
-      "Marketing Project Manager",
-      "Marketing",
-      "Toronto, Ontario"
-    ],
-    [
-      "Business Development Representative, Italian Speaking",
-      "Revenue",
-      "London, UK"
-    ],
-    [
-      "Solution Architect EMEA",
-      "Product Management",
-      "London, UK"
-    ],
-    [
-      "Director, Revenue Architecture and Operations",
-      "Revenue",
-      "Toronto, Ontario"
-    ],
-    [
-      "Cloud Systems Engineer",
-      "Product Engineering",
-      "Biassono, Italy"
-    ],
-    [
-      "Technical Account Manager",
-      "Product Management",
       "Toronto, Ontario"
     ],
     [
@@ -74,13 +34,18 @@
       "Munich, Germany"
     ],
     [
-      "Technical Account Manager (French Speaking)",
-      "Product Management",
-      "London, UK"
+      "Global VP, Professional Services",
+      "Revenue",
+      "Toronto, Ontario"
     ],
     [
-      "Visual Brand Designer",
-      "Marketing",
+      "Manager, Solutions Consulting \u2013 Enterprise & US Public Sector",
+      "Revenue",
+      "Toronto, Ontario"
+    ],
+    [
+      "Director, Revenue Architecture and Operations",
+      "Revenue",
       "Toronto, Ontario"
     ],
     [
@@ -89,14 +54,19 @@
       "London, UK"
     ],
     [
-      "Solutions Consultant, Mid-Market",
+      "Senior Manager, Services Sales",
       "Revenue",
       "Toronto, Ontario"
     ],
     [
-      "Senior Manager, Revenue Strategy and Planning",
+      "Senior Customer Success Manager",
       "Revenue",
       "Toronto, Ontario"
+    ],
+    [
+      "Cloud Systems Engineer",
+      "Product Engineering",
+      "Biassono, Italy"
     ],
     [
       "Competitive Intelligence Manager",
@@ -109,8 +79,23 @@
       "Toronto, Ontario"
     ],
     [
-      "Manager, Solutions Consulting \u2013 Enterprise & US Public Sector",
+      "Customer Success Manager",
       "Revenue",
+      "London, UK"
+    ],
+    [
+      "Senior Manager, Revenue Strategy and Planning",
+      "Revenue",
+      "Toronto, Ontario"
+    ],
+    [
+      "Marketing Project Manager",
+      "Marketing",
+      "Toronto, Ontario"
+    ],
+    [
+      "Visual Brand Designer",
+      "Marketing",
       "Toronto, Ontario"
     ],
     [
@@ -119,14 +104,29 @@
       "Toronto, Ontario"
     ],
     [
-      "Senior Manager, Services Sales",
+      "Technical Account Manager",
+      "Product Management",
+      "Toronto, Ontario"
+    ],
+    [
+      "Solution Architect EMEA",
+      "Product Management",
+      "London, UK"
+    ],
+    [
+      "Support Operations Specialist ",
+      "Product Engineering",
+      "Toronto, Ontario"
+    ],
+    [
+      "Solutions Consultant, Mid-Market",
       "Revenue",
       "Toronto, Ontario"
     ],
     [
-      "Business Development Representative, French Speaking",
+      "Customer Success Manager - Enterprise",
       "Revenue",
-      "London, UK"
+      "Toronto, Ontario"
     ]
   ]
 }
