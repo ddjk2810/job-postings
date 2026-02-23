@@ -1,18 +1,43 @@
 
-## Company Hiring Priorities (2026-02-21 -> 2026-02-22)
+## Company Hiring Priorities (2026-02-22 -> 2026-02-23)
 
 What each company appears to be prioritizing based on new job postings:
 
-**Tyler Technologies** (36->39, +3 net, 4 new postings): adding 4 new roles across multiple functions.
+### Workday (401->420, +19 net, 12 new postings)
 
-**Veeva** (1017->1015, -2 net, 4 new postings): heavily focused on **engineering** (3/4 new roles), with emphasis on qa engineer.
+building out **software development** (6 related roles), with expansion into India.
 
-**Vertex** (40->21, -19 net, 2 new postings): adding 2 new roles across multiple functions.
+**Department mix:** engineering (8), finance (2), consulting/services (2)  
+**Geographic focus:** IND.Chennai (8), IND.Pune (4)  
+**Strategic signals:** Platform/cloud buildout  
 
-**Autodesk** (619->620, +1 net, 1 new postings): adding 1 new roles across multiple functions.
+### Toast (270->273, +3 net, 7 new postings)
 
-**Blue Yonder** (182->182, +0 net, 1 new postings): adding 1 new roles across multiple functions.
+investing in **hybrid development** (6 related roles).
 
-**Descartes** (25->25, +0 net, 1 new postings): adding 1 new roles across multiple functions.
+**Department mix:** other (7)  
+**Geographic focus:** Bengaluru, Karnataka, India (1), Jersey City, New Jersey, United States (1), Philadelphia, Pennsylvania, United States (1), Cleveland, Ohio, United States (1), Cincinnati, Ohio, United States (1)  
 
-**RealPage** (50->50, +0 net, 1 new postings): adding 1 new roles across multiple functions.
+### Procore (197->202, +5 net, 5 new postings)
+
+investing in **infrastructure platform** (5 related roles), with expansion into Middle-East.
+
+**Department mix:** engineering (5)  
+**Geographic focus:** Maadi as Sarayat Al Gharbeyah (5)  
+**Strategic signals:** Platform/cloud buildout  
+
+**Autodesk** (620->618, -2 net, 3 new postings): adding 3 new roles across multiple functions.
+
+**Corpay (Dayforce)** (25->25, +0 net, 2 new postings): adding 2 new roles across multiple functions.
+
+**Descartes** (25->25, +0 net, 2 new postings): adding 2 new roles across multiple functions.
+
+**Dassault Systemes (3DS)** (15->15, +0 net, 1 new postings): adding 1 new roles across multiple functions.
+
+**Blue Yonder** (182->181, -1 net, 1 new postings): adding 1 new roles across multiple functions.
+
+**Guidewire** (201->201, +0 net, 1 new postings): adding 1 new roles across multiple functions.
+
+**Workiva** (81->82, +1 net, 1 new postings): adding 1 new roles across multiple functions.
+
+**Yardi** (77->77, +0 net, 1 new postings): adding 1 new roles across multiple functions.
