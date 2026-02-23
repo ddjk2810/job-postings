@@ -1,80 +1,10 @@
 {
-  "last_updated": "2026-02-23T07:06:56.804196",
+  "last_updated": "2026-02-23T07:47:29.669051",
   "job_count": 48,
   "active_count": 13,
   "jobs": [
     [
-      "Senior Workday Engineer, Automation",
-      "",
-      ""
-    ],
-    [
-      "Channel Partnerships Delivery Manager",
-      "",
-      ""
-    ],
-    [
-      "Technical Support Specialist",
-      "",
-      ""
-    ],
-    [
-      "Events Sr. Specialist (Contractor)",
-      "",
-      ""
-    ],
-    [
-      "Lead Salesforce Developer",
-      "",
-      ""
-    ],
-    [
-      "Director, Customer Success (Property Care)",
-      "",
-      ""
-    ],
-    [
-      "Senior Product Manager, Identity and User Management",
-      "",
-      ""
-    ],
-    [
-      "Staff AI Engineer",
-      "",
-      ""
-    ],
-    [
-      "Associate Strategic Development Manager",
-      "",
-      ""
-    ],
-    [
-      "Account Executive, Strategic Customer Sales",
-      "",
-      ""
-    ],
-    [
-      "Lead Analyst, People Technology (Total Rewards)",
-      "",
-      ""
-    ],
-    [
-      "Training Specialist",
-      "",
-      ""
-    ],
-    [
-      "Customer Success Manager",
-      "",
-      ""
-    ],
-    [
-      "Senior Software Engineer, Full-Stack",
-      "",
-      ""
-    ],
-    [
-      "Sr. Automation Quality Assurance Engineer",
+      "Director, Go-to-Market Monetization & Commercialization",
       "",
       ""
     ],
@@ -84,17 +14,27 @@
       ""
     ],
     [
-      "Staff Site Reliability Engineer",
+      "Lead Salesforce Developer",
       "",
       ""
     ],
     [
-      "Senior Software Engineer",
+      "Fintech Support Associate",
       "",
       ""
     ],
     [
-      "Technical Support Specialist - Telecom",
+      "Account Executive, Strategic Customer Sales",
+      "",
+      ""
+    ],
+    [
+      "Customer Success Manager",
+      "",
+      ""
+    ],
+    [
+      "Technical Support Specialist",
       "",
       ""
     ],
@@ -104,32 +44,12 @@
       ""
     ],
     [
-      "Director, Go-to-Market Monetization & Commercialization",
-      "",
-      ""
-    ],
-    [
-      "Lead, Data Governance",
-      "",
-      ""
-    ],
-    [
       "Talent Program Manager",
       "",
       ""
     ],
     [
-      "Senior Product Designer(Fixed Term Contract)",
-      "",
-      ""
-    ],
-    [
-      "Account Executive",
-      "",
-      ""
-    ],
-    [
-      "Lead Software Engineer",
+      "Staff Product Designer, Equipment",
       "",
       ""
     ],
@@ -144,72 +64,7 @@
       ""
     ],
     [
-      "Fintech Support Associate",
-      "",
-      ""
-    ],
-    [
-      "Director, Product Monetization & Commercialization",
-      "",
-      ""
-    ],
-    [
-      "Associate Data Quality Analyst",
-      "",
-      ""
-    ],
-    [
-      "Delivery Manager",
-      "",
-      ""
-    ],
-    [
-      "Director, Software Engineering",
-      "",
-      ""
-    ],
-    [
-      "Senior Engineering Manager",
-      "",
-      ""
-    ],
-    [
-      "Strategic Events Manager, Private Equity",
-      "",
-      ""
-    ],
-    [
-      "Staff Software Engineer",
-      "",
-      ""
-    ],
-    [
-      "Sales Development Representative",
-      "",
-      ""
-    ],
-    [
-      "People Business Partner, Employee Relations Lead",
-      "",
-      ""
-    ],
-    [
-      "Solutions Engineer, Enterprise",
-      "",
-      ""
-    ],
-    [
-      "Manager, Mobile Software Engineering",
-      "",
-      ""
-    ],
-    [
-      "Staff Product Designer, Equipment",
-      "",
-      ""
-    ],
-    [
-      "Manager, Customer Community",
+      "Enterprise Implementation Consultant",
       "",
       ""
     ],
@@ -219,7 +74,27 @@
       ""
     ],
     [
-      "Executive Social Media Manager",
+      "Lead, Data Governance",
+      "",
+      ""
+    ],
+    [
+      "Technical Support Specialist - Telecom",
+      "",
+      ""
+    ],
+    [
+      "Lead Analyst, People Technology (Total Rewards)",
+      "",
+      ""
+    ],
+    [
+      "Staff Site Reliability Engineer",
+      "",
+      ""
+    ],
+    [
+      "People Business Partner, Employee Relations Lead",
       "",
       ""
     ],
@@ -229,17 +104,142 @@
       ""
     ],
     [
-      "Staff Product Designer (Aspire)",
+      "Sales Development Representative",
       "",
       ""
     ],
     [
-      "Enterprise Implementation Consultant",
+      "Lead Software Engineer",
+      "",
+      ""
+    ],
+    [
+      "Senior Software Engineer, Full-Stack",
+      "",
+      ""
+    ],
+    [
+      "Director, Customer Success (Property Care)",
+      "",
+      ""
+    ],
+    [
+      "Senior Product Designer(Fixed Term Contract)",
+      "",
+      ""
+    ],
+    [
+      "Senior Engineering Manager",
+      "",
+      ""
+    ],
+    [
+      "Senior Software Engineer",
       "",
       ""
     ],
     [
       "Senior Director, Portfolio Commercialization & Monetization",
+      "",
+      ""
+    ],
+    [
+      "Manager, Mobile Software Engineering",
+      "",
+      ""
+    ],
+    [
+      "Staff Product Designer (Aspire)",
+      "",
+      ""
+    ],
+    [
+      "Strategic Events Manager, Private Equity",
+      "",
+      ""
+    ],
+    [
+      "Events Sr. Specialist (Contractor)",
+      "",
+      ""
+    ],
+    [
+      "Executive Social Media Manager",
+      "",
+      ""
+    ],
+    [
+      "Sr. Automation Quality Assurance Engineer",
+      "",
+      ""
+    ],
+    [
+      "Delivery Manager",
+      "",
+      ""
+    ],
+    [
+      "Associate Strategic Development Manager",
+      "",
+      ""
+    ],
+    [
+      "Staff Software Engineer",
+      "",
+      ""
+    ],
+    [
+      "Director, Product Monetization & Commercialization",
+      "",
+      ""
+    ],
+    [
+      "Solutions Engineer, Enterprise",
+      "",
+      ""
+    ],
+    [
+      "Channel Partnerships Delivery Manager",
+      "",
+      ""
+    ],
+    [
+      "Director, Software Engineering",
+      "",
+      ""
+    ],
+    [
+      "Account Executive",
+      "",
+      ""
+    ],
+    [
+      "Senior Workday Engineer, Automation",
+      "",
+      ""
+    ],
+    [
+      "Senior Product Manager, Identity and User Management",
+      "",
+      ""
+    ],
+    [
+      "Manager, Customer Community",
+      "",
+      ""
+    ],
+    [
+      "Training Specialist",
+      "",
+      ""
+    ],
+    [
+      "Staff AI Engineer",
+      "",
+      ""
+    ],
+    [
+      "Associate Data Quality Analyst",
       "",
       ""
     ]
