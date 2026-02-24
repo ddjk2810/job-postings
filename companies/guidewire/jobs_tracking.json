@@ -1,95 +1,255 @@
 {
-  "last_updated": "2026-02-24T07:04:39.511065",
+  "last_updated": "2026-02-24T07:44:20.413999",
   "job_count": 243,
   "active_count": 182,
   "jobs": [
     [
-      "Automation Engineer Intern",
+      "Legal Counsel DACH (Commercial)",
       "Not specified",
-      "Dublin Office, Ireland"
+      "Germany - Remote"
     ],
     [
-      "Data Engineer with Scala",
+      "Senior Consultant, Integration",
       "Not specified",
       "India - Bangalore"
     ],
     [
-      "Product Manager/Sr. Product Manager - Revenue Management and Order to Cash",
+      "Pricing & Actuarial Sales Executive",
       "Not specified",
       "United States - Remote"
     ],
     [
-      "Director of Product Management Japan",
+      "Software Engineer III (Java, Microservices, AWS)",
       "Not specified",
-      "Japan - Tokyo"
+      "India - Bangalore"
     ],
     [
-      "Functional Architect",
+      "Cloud Engineer III",
       "Not specified",
-      "Japan - Tokyo"
+      "Malaysia - Kuala Lumpur"
     ],
     [
-      "Cloud Engineering Support",
+      "Lead Programmer Writer",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Software Development Engineer in Test",
       "Not specified",
       "Ireland - Dublin"
     ],
     [
-      "Commercial Legal Counsel, LATAM",
+      "Business Analyst - Claim Center",
       "Not specified",
-      "Mexico - Remote"
+      "India - Bangalore"
     ],
     [
-      "Senior Business Analyst / Business Architect, INOW",
+      "Senior Software Engineer",
+      "Not specified",
+      "United States - Exton, PA"
+    ],
+    [
+      "Senior Software Developer",
       "Not specified",
       "2 Locations"
     ],
     [
-      "Guidewire InsuranceNow Developer",
+      "Site Reliability Engineer III",
+      "Not specified",
+      "Malaysia - Kuala Lumpur"
+    ],
+    [
+      "Data & Research Intern",
+      "Not specified",
+      "United States - San Mateo, CA"
+    ],
+    [
+      "Japan Solution Architect",
+      "Not specified",
+      "Japan - Tokyo"
+    ],
+    [
+      "Outbound Product Manager - GWCP App Platform CI/CD",
+      "Not specified",
+      "Canada - Toronto"
+    ],
+    [
+      "Senior Software Engineer ( Java)",
       "Not specified",
       "India - Bangalore"
     ],
     [
-      "Senior Technology Sourcing Manager, SaaS Category",
+      "Business Technology Consultant, Japan",
       "Not specified",
-      "Mexico - Guadalajara"
+      "Japan - Tokyo"
     ],
     [
-      "Manager, Test Engineering (SDET)",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Full Stack Developer",
-      "Not specified",
-      "Brazil - Curitiba"
-    ],
-    [
-      "Senior Business Analyst \u2013 Guidewire BillingCenter",
+      "Technical Account Manager",
       "Not specified",
       "India - Bangalore"
     ],
     [
-      "Data Engineer with Spark/Scala",
+      "Senior Product Manager, Test Engineering",
       "Not specified",
-      "India - Bangalore"
+      "United States - San Mateo, CA"
     ],
     [
-      "Pricing Advisory",
+      "Principal",
       "Not specified",
       "United States - Remote"
     ],
     [
-      "Director, SRE Application, EMEA Regional lead",
+      "Senior Sales Executive",
       "Not specified",
-      "Poland - Krakow"
+      "Germany - Remote"
     ],
     [
-      "Implementation Support Engineer",
+      "Senior Manager | Global Delivery, Professional Services (Guidewire Implementation)",
       "Not specified",
       "India - Bangalore"
     ],
     [
-      "Senior Consultant, Integration",
+      "Support Admin - Global Helpdesk (Rotational Shift)",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Product Manager \u2013 Cloud Platform CI/CD",
+      "Not specified",
+      "Poland - Krakow"
+    ],
+    [
+      "Senior Software Engineer (FullStack)",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Engagement Director",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Staff Infrastructure & Automation Engineer",
+      "Not specified",
+      "United States - Remote"
+    ],
+    [
+      "Director of Product Management - Germany - Global Content",
+      "Not specified",
+      "Germany - Remote"
+    ],
+    [
+      "Enablement Business Partner- AMER Sales",
+      "Not specified",
+      "United States - Remote"
+    ],
+    [
+      "Senior Director, Global Communications",
+      "Not specified",
+      "United States - Remote"
+    ],
+    [
+      "Strategy & Analytics Intern",
+      "Not specified",
+      "Canada - Toronto"
+    ],
+    [
+      "Pricing Sales Executive",
+      "Not specified",
+      "6 Locations"
+    ],
+    [
+      "Public Relations Specialist",
+      "Not specified",
+      "United States - Remote"
+    ],
+    [
+      "Technical Lead (Front-end)",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Software Engineer III (Backend, AI)",
+      "Not specified",
+      "Brazil - Curitiba"
+    ],
+    [
+      "Manager, Employee Experience Technology (Workday)",
+      "Not specified",
+      "United States - Remote"
+    ],
+    [
+      "Partner Success Manager",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Staff Software Engineer - Application Platform",
+      "Not specified",
+      "United States - San Mateo, CA"
+    ],
+    [
+      "Engineering Manager - Application Platform",
+      "Not specified",
+      "United States - San Mateo, CA"
+    ],
+    [
+      "Software Engineer III(Full stack)",
+      "Not specified",
+      "United States - San Mateo, CA"
+    ],
+    [
+      "Pricing Advisory",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Principal Solution Consultant",
+      "Not specified",
+      "Japan - Tokyo"
+    ],
+    [
+      "Senior Project Manager, INOW",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Software Engineer II",
+      "Not specified",
+      "Poland - Krakow"
+    ],
+    [
+      "AI/ML Architect",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Associate People Business Partner",
+      "Not specified",
+      "Dublin Office, Ireland"
+    ],
+    [
+      "Sr. Technical Product Manager, CCS",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Engineering Manager, Application Platform",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Staff Security Engineer (Vulnerability Management)",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Senior Machine Learning Engineer",
+      "Not specified",
+      "Canada - Toronto"
+    ],
+    [
+      "AI/ML Senior Consultant",
       "Not specified",
       "India - Bangalore"
     ],
@@ -99,24 +259,109 @@
       "6 Locations"
     ],
     [
-      "Technical Account Manager",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Data & Research Intern",
-      "Not specified",
-      "United States - San Mateo, CA"
-    ],
-    [
-      "Software Engineer II",
+      "Senior Manager, Operations",
       "Not specified",
       "India - Bangalore"
     ],
     [
-      "Senior Director, Global Talent Acquisition",
+      "Data Engineer with Spark/Scala",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Software Engineer Intern",
+      "Not specified",
+      "Malaysia - Kuala Lumpur"
+    ],
+    [
+      "Software Engineer III (Java)",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Senior Architect (Functional), Professional Services",
       "Not specified",
       "United States - Remote"
+    ],
+    [
+      "Senior Business Analyst",
+      "Not specified",
+      "Germany - Remote"
+    ],
+    [
+      "Data Migration Senior Architect",
+      "Not specified",
+      "United States - Remote"
+    ],
+    [
+      "Scrum Master, Business Technology",
+      "Not specified",
+      "Mexico - Guadalajara"
+    ],
+    [
+      "Engagement Manager",
+      "Not specified",
+      "Japan - Tokyo"
+    ],
+    [
+      "Machine Learning Engineer III",
+      "Not specified",
+      "Remote (USA)"
+    ],
+    [
+      "Principal Talent Attraction Partner",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Full Stack Developer",
+      "Not specified",
+      "Brazil - Curitiba"
+    ],
+    [
+      "Site Reliability Engineer III",
+      "Not specified",
+      "Dublin Office, Ireland"
+    ],
+    [
+      "Implementation Support Engineer",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Principal Product Manager- APPS & API",
+      "Not specified",
+      "United States - Remote"
+    ],
+    [
+      "Customer Success Senior Manager",
+      "Not specified",
+      "United Kingdom - London"
+    ],
+    [
+      "Senior Product Manager/Product Manager",
+      "Not specified",
+      "United States - Remote"
+    ],
+    [
+      "Engagement Manager/Director, DACH (German Speaking)",
+      "Not specified",
+      "Germany - Remote"
+    ],
+    [
+      "Software Development Engineers in Test lll (SDET)",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Platform Support Engineer III",
+      "Not specified",
+      "Malaysia - Kuala Lumpur"
+    ],
+    [
+      "Software Development Engineer in Test II (SDET)",
+      "Not specified",
+      "India - Bangalore"
     ],
     [
       "Senior Machine Learning Platform Engineer",
@@ -124,9 +369,69 @@
       "United States - San Mateo, CA"
     ],
     [
-      "Staff Infrastructure & Automation Engineer",
+      "Commercial Legal Counsel, LATAM",
       "Not specified",
-      "United States - Remote"
+      "Mexico - Remote"
+    ],
+    [
+      "Software Engineer II",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Software Engineer III (Java, AWS, K8)",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Cloud Platform Support Engineer III",
+      "Not specified",
+      "Ireland - Dublin"
+    ],
+    [
+      "Cloud Engineering Support",
+      "Not specified",
+      "Ireland - Dublin"
+    ],
+    [
+      "Technical Delivery Manager",
+      "Not specified",
+      "Malaysia - Kuala Lumpur"
+    ],
+    [
+      "Tech Leader, Site Reliability Engineering",
+      "Not specified",
+      "Brazil - Curitiba"
+    ],
+    [
+      "Senior Software Engineer",
+      "Not specified",
+      "United States - San Mateo, CA"
+    ],
+    [
+      "Senior Architect - Data Platform",
+      "Not specified",
+      "Japan - Tokyo"
+    ],
+    [
+      "Data Engineer with Scala",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Staff Software Engineer \u2013 Data Platform",
+      "Not specified",
+      "United States - San Mateo, CA"
+    ],
+    [
+      "Senior Consultant/ Consultant, INOW",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Engineering Manager (MLOps Platform Team)",
+      "Not specified",
+      "India - Bangalore"
     ],
     [
       "SBT Senior Software Engineer (Full\u2011Stack)",
@@ -134,12 +439,317 @@
       "2 Locations"
     ],
     [
+      "Lead Guidewire Integration Developer",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Manager, Platform Pricing and Packaging",
+      "Not specified",
+      "United States - San Mateo, CA"
+    ],
+    [
       "Senior Site Reliability Engineer",
       "Not specified",
       "Ireland - Dublin"
     ],
     [
+      "Technical Recruiter",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Customer Success Director",
+      "Not specified",
+      "Australia - Remote"
+    ],
+    [
+      "Senior UI/UX Designer",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Pricing & Actuarial Solutions Executive",
+      "Not specified",
+      "United States - Remote"
+    ],
+    [
+      "Pricing Solution Consultant",
+      "Not specified",
+      "Poland - Remote"
+    ],
+    [
+      "Solution Consultant",
+      "Not specified",
+      "Australia - Remote"
+    ],
+    [
+      "Guidewire InsuranceNow Developer",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Consultant, Account Advisory",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Senior Machine Learning Platform Engineer",
+      "Not specified",
+      "United States - Remote"
+    ],
+    [
+      "Executive Assistant \u2013 Technical Writing & Documentation",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Principal Solution Consultant",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sales Operations Analyst",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Functional Lead - Oracle Fusion Revenue and Order to Cash",
+      "Not specified",
+      "United States - Remote"
+    ],
+    [
+      "Enablement Business Partner- Global Delivery",
+      "Not specified",
+      "United States - Remote"
+    ],
+    [
+      "Senior Director, Global Talent Acquisition",
+      "Not specified",
+      "United States - Remote"
+    ],
+    [
+      "Sr. Data Platform Engineer",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Site Reliability Engineer III, Guidewire Cloud Platform",
+      "Not specified",
+      "Brazil - Curitiba"
+    ],
+    [
+      "Analyst Training Instructor",
+      "Not specified",
+      "United States - Remote"
+    ],
+    [
+      "Senior Manager, Corporate Development",
+      "Not specified",
+      "United States - San Mateo, CA"
+    ],
+    [
+      "Transformation Program Manager to the Chief People Office",
+      "Not specified",
+      "United States - Remote"
+    ],
+    [
+      "Senior Information Security Analyst",
+      "Not specified",
+      "Canada - Remote"
+    ],
+    [
+      "Senior Cloud Engineer",
+      "Not specified",
+      "Malaysia - Kuala Lumpur"
+    ],
+    [
+      "Senior Implementation Engineer",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Technical Program Management - Guidewire Security",
+      "Not specified",
+      "United States - Remote"
+    ],
+    [
+      "Software Engineer",
+      "Not specified",
+      "Poland - Krakow"
+    ],
+    [
+      "Procurement Services Senior Specialist",
+      "Not specified",
+      "Mexico - Guadalajara"
+    ],
+    [
+      "Senior Machine Learning Platform Engineer",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Director, SRE Application, EMEA Regional lead",
+      "Not specified",
+      "Poland - Krakow"
+    ],
+    [
+      "Guidewire Integration Architect",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "AI Business Architect (People & Operations)",
+      "Not specified",
+      "United States - Remote"
+    ],
+    [
+      "Director - User Experience - Guidewire Application Platform",
+      "Not specified",
+      "Canada - Toronto"
+    ],
+    [
+      "Associate Technical Account Manager",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Talent Attraction Partner (Intermediate Technical Recruiter)",
+      "Not specified",
+      "Brazil - Curitiba"
+    ],
+    [
+      "Manager, Test Engineering (SDET)",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Machine Learning Engineer III",
+      "Not specified",
+      "United States - San Mateo, CA"
+    ],
+    [
+      "Database Migration Engineer III",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Customer Success Manager",
+      "Not specified",
+      "Canada - Remote"
+    ],
+    [
+      "UX Designer",
+      "Not specified",
+      "Ireland - Dublin"
+    ],
+    [
       "Pricing & Actuarial Sales Executive",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Outbound Product Manager",
+      "Not specified",
+      "Poland - Krakow"
+    ],
+    [
+      "Delivery Principal (German Speaking)",
+      "Not specified",
+      "Germany - Remote"
+    ],
+    [
+      "Technical Account Manager",
+      "Not specified",
+      "Japan - Tokyo"
+    ],
+    [
+      "Senior Software Engineer",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Software Engineer II",
+      "Not specified",
+      "Ireland - Dublin"
+    ],
+    [
+      "Senior Software Engineer (Java, Backend)",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Pricing Advisory",
+      "Not specified",
+      "United States - Remote"
+    ],
+    [
+      "Project Manager \u2013 GDC",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Associate Product Manager, AI",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Senior Business Analyst \u2013 Guidewire BillingCenter",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Senior Software Engineering Manager",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "VP, Integrated Marketing, EMEA",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Pricing Manager",
+      "Not specified",
+      "Poland - Remote"
+    ],
+    [
+      "Business Architect - Industry Innovation & Co-Development Group (InnoCoDev)",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Software Engineer III, Guidewire Predict",
+      "Not specified",
+      "Brazil - Curitiba"
+    ],
+    [
+      "Marketing Intern",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "People Relations Specialist \u2013 [APAC / India]",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Business Intelligence Analytics Intern",
+      "Not specified",
+      "United States - San Mateo, CA"
+    ],
+    [
+      "Associate  Developer Intern",
+      "Not specified",
+      "Malaysia - Kuala Lumpur"
+    ],
+    [
+      "Software Engineer III (AI/ML)",
+      "Not specified",
+      "United States - San Mateo, CA"
+    ],
+    [
+      "Product Manager/Sr. Product Manager - Revenue Management and Order to Cash",
       "Not specified",
       "United States - Remote"
     ],
@@ -149,114 +759,29 @@
       "Mexico Office, Mexico"
     ],
     [
-      "Director, Site Reliability Engineering (Application) - APAC",
+      "Senior Data Scientist",
+      "Not specified",
+      "Remote (SK, Canada)"
+    ],
+    [
+      "Senior Manager, Software Engineering - Cloud Platform",
       "Not specified",
       "India - Bangalore"
     ],
     [
-      "Business Architect - Industry Innovation & Co-Development Group (InnoCoDev)",
+      "Software Engineer III : Cloud Platform",
       "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Pricing & Actuarial Sales Executive",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Software Engineer III (Java)",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Enablement Business Partner- Global Delivery",
-      "Not specified",
-      "United States - Remote"
-    ],
-    [
-      "Engagement Director",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Pricing Advisory",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Public Relations Specialist",
-      "Not specified",
-      "United States - Remote"
-    ],
-    [
-      "Software Engineer III - AI Services",
-      "Not specified",
-      "United States - San Mateo, CA"
-    ],
-    [
-      "Data Migration Lead Architect",
-      "Not specified",
-      "United States - Remote"
-    ],
-    [
-      "Corporate Legal Intern",
-      "Not specified",
-      "United States - San Mateo, CA"
-    ],
-    [
-      "Enablement Business Partner- AMER Sales",
-      "Not specified",
-      "United States - Remote"
-    ],
-    [
-      "Customer Success Director",
-      "Not specified",
-      "Australia - Remote"
-    ],
-    [
-      "Senior Software Developer",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Not specified",
-      "Not specified",
-      "Not specified"
-    ],
-    [
-      "Senior Product Manager/Product Manager",
-      "Not specified",
-      "United States - Remote"
-    ],
-    [
-      "Staff Software Engineer",
-      "Not specified",
-      "United States - San Mateo, CA"
-    ],
-    [
-      "Staff Software Engineer - Application Platform",
-      "Not specified",
-      "United States - San Mateo, CA"
+      "United States - Birmingham, AL"
     ],
     [
       "Platform Support DBA III",
       "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Technical Architect",
-      "Not specified",
-      "Japan - Tokyo"
-    ],
-    [
-      "Customer Success Manager",
-      "Not specified",
-      "Canada - Remote"
+      "Ireland - Dublin"
     ],
     [
       "Senior Business Analyst",
       "Not specified",
-      "Germany - Remote"
+      "Japan - Tokyo"
     ],
     [
       "Senior Architect",
@@ -264,9 +789,14 @@
       "Australia - Remote"
     ],
     [
-      "Billing Analyst",
+      "Senior Manager (Software Engineering)",
       "Not specified",
-      "Canada - Toronto"
+      "India - Bangalore"
+    ],
+    [
+      "Technical Account Manager",
+      "Not specified",
+      "United States - Remote"
     ],
     [
       "Development / Consulting Manager - Industry Innovation & Co-Development Group (InnoCoDev)",
@@ -279,117 +809,17 @@
       "Malaysia - Kuala Lumpur"
     ],
     [
-      "AI/ML Senior Manager",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Customer Success Senior Manager",
-      "Not specified",
-      "United Kingdom - London"
-    ],
-    [
-      "Product Manager \u2013 Cloud Platform CI/CD",
-      "Not specified",
-      "Poland - Krakow"
-    ],
-    [
-      "Software Engineer III, Guidewire Predict",
-      "Not specified",
-      "Brazil - Curitiba"
-    ],
-    [
-      "Pricing Solution Consultant",
-      "Not specified",
-      "Poland - Remote"
-    ],
-    [
-      "Senior Business Analyst",
-      "Not specified",
-      "United States - Remote"
-    ],
-    [
-      "Machine Learning Engineer III",
-      "Not specified",
-      "Remote (USA)"
-    ],
-    [
-      "Associate  Developer Intern",
-      "Not specified",
-      "Malaysia - Kuala Lumpur"
-    ],
-    [
-      "Senior UI/UX Designer",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Alliance Partner Sales Operations Analyst",
-      "Not specified",
-      "United States - Remote"
-    ],
-    [
-      "Transformation Program Manager to the Chief People Office",
-      "Not specified",
-      "United States - Remote"
-    ],
-    [
-      "Software Developer",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Principal Solution Consultant",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Senior Manager, Corporate Development",
-      "Not specified",
-      "United States - San Mateo, CA"
-    ],
-    [
-      "Employee Experience Integration Intern",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Outbound Product Manager - GWCP App Platform CI/CD",
-      "Not specified",
-      "Canada - Toronto"
-    ],
-    [
-      "Director of Product Management - Germany - Global Content",
+      "Front-end Architect (German speaking)",
       "Not specified",
       "Germany - Remote"
     ],
     [
-      "Senior Business Analyst",
+      "Software Engineer III : Cloud Platform",
       "Not specified",
-      "Japan - Tokyo"
+      "United States - San Mateo, CA"
     ],
     [
-      "Senior Cloud Engineer",
-      "Not specified",
-      "Malaysia - Kuala Lumpur"
-    ],
-    [
-      "People Relations Specialist \u2013 [APAC / India]",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Senior Machine Learning Platform Engineer",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Senior Manager (Software Engineering)",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Software Engineer III(Full stack)",
+      "Revenue Manager",
       "Not specified",
       "United States - San Mateo, CA"
     ],
@@ -399,14 +829,24 @@
       "United States - San Mateo, CA"
     ],
     [
-      "VP, Integrated Marketing, EMEA",
+      "Automation Engineer Intern",
       "Not specified",
-      "2 Locations"
+      "United States - San Mateo, CA"
     ],
     [
-      "Senior Software Engineer ( Java)",
+      "Financial Management AI Engineer Intern",
       "Not specified",
       "India - Bangalore"
+    ],
+    [
+      "Technical Writer/Senior Technical Writer",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Cloud Platform Support Engineer II",
+      "Not specified",
+      "Poland - Krakow"
     ],
     [
       "Site Reliability Engineer II - Guidewire Cloud Platform (Application)",
@@ -414,94 +854,64 @@
       "Malaysia - Kuala Lumpur"
     ],
     [
-      "Solution Architect - Industry Innovation & Co-Development Group (InnoCoDev)",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Principal",
-      "Not specified",
-      "United States - Remote"
-    ],
-    [
-      "Senior Architect - Data Platform",
-      "Not specified",
-      "Japan - Tokyo"
-    ],
-    [
-      "Engineering Manager, Application Platform",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Senior Manager, Software Engineering - Cloud Platform",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "AI/ML Architect",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
       "Director of Alliances EMEA",
       "Not specified",
       "2 Locations"
     ],
     [
-      "Product Marketing Intern",
-      "Not specified",
-      "Ireland - Dublin"
-    ],
-    [
-      "Machine Learning Engineer",
-      "Not specified",
-      "Canada - Mississauga, ON"
-    ],
-    [
-      "Senior Software Engineer",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Technical Account Manager",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Sr. Technical Product Manager, CCS",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Associate Certification Program Systems Analyst",
-      "Not specified",
-      "United States - Remote"
-    ],
-    [
-      "Technical Lead (Front-end)",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Senior Sales Account Manager",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Associate Product Manager, AI",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Engagement Manager",
+      "Director of Product Management Japan",
       "Not specified",
       "Japan - Tokyo"
     ],
     [
+      "Sr Software Engineer - DevOps",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Senior Sales Executive",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Technical Solution Consultant, Japan",
+      "Not specified",
+      "Japan - Tokyo"
+    ],
+    [
+      "Staff Software Engineer",
+      "Not specified",
+      "Poland - Krakow"
+    ],
+    [
+      "Staff Software Engineer",
+      "Not specified",
+      "United States - San Mateo, CA"
+    ],
+    [
+      "Senior Developer, InsuranceNow/ Architect, InsuranceNow",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
       "Pricing Solution Consultant",
       "Not specified",
-      "United States - Remote"
+      "5 Locations"
+    ],
+    [
+      "Customer Marketing Intern",
+      "Not specified",
+      "United States - Birmingham, AL"
+    ],
+    [
+      "Production Support Application Engineer",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Lead Consultant(Business Analyst) - GDC",
+      "Not specified",
+      "India - Bangalore"
     ],
     [
       "Talent Attraction Partner (Intermediate Technical Recuiter)",
@@ -509,97 +919,62 @@
       "Mexico Office, Mexico"
     ],
     [
-      "Senior Manager, Operations",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Pricing Sales Executive",
-      "Not specified",
-      "6 Locations"
-    ],
-    [
-      "Machine Learning Engineer III",
-      "Not specified",
-      "United States - San Mateo, CA"
-    ],
-    [
-      "Lead Guidewire Integration Developer",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Consultant, Account Advisory",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Marketing Intern",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Director, Internal & Executive Communications",
-      "Not specified",
-      "United States - San Mateo, CA"
-    ],
-    [
-      "Manager, Employee Experience Technology (Workday)",
+      "Senior Business Analyst",
       "Not specified",
       "United States - Remote"
     ],
     [
-      "Lead Consultant( Developer )- GDC",
+      "Site Reliability Engineer II (SRE) - Guidewire Cloud Platform (Application)",
       "Not specified",
       "India - Bangalore"
     ],
     [
-      "Senior Sales Executive",
-      "Not specified",
-      "Germany - Remote"
-    ],
-    [
-      "Automation Engineer Intern",
+      "Software Engineer III - AI Services",
       "Not specified",
       "United States - San Mateo, CA"
     ],
     [
-      "Insurtech Vanguard Community Manager",
+      "Solution Architect - Industry Innovation & Co-Development Group (InnoCoDev)",
       "Not specified",
-      "United States - Remote"
+      "2 Locations"
     ],
     [
-      "Engineering Manager - Application Platform",
+      "Billing Analyst",
       "Not specified",
-      "United States - San Mateo, CA"
+      "Canada - Toronto"
     ],
     [
-      "Software Engineer III : Cloud Platform",
-      "Not specified",
-      "United States - San Mateo, CA"
-    ],
-    [
-      "Project Manager \u2013 GDC",
+      "Director, Site Reliability Engineering (Application) - APAC",
       "Not specified",
       "India - Bangalore"
     ],
     [
-      "Lead Consultant ( Quality assurance) - GDC",
+      "Senior Business Analyst / Business Architect, INOW",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Product Owner - Professional Services",
+      "Not specified",
+      "Japan - Tokyo"
+    ],
+    [
+      "Fullstack Engineer - Python",
+      "Not specified",
+      "Poland - Remote"
+    ],
+    [
+      "AI/ML Senior Manager",
       "Not specified",
       "India - Bangalore"
     ],
     [
-      "Business Intelligence Analytics Intern",
+      "Global Help Desk Intern",
       "Not specified",
-      "United States - San Mateo, CA"
+      "Malaysia - Kuala Lumpur"
     ],
     [
-      "Senior Consultant/ Consultant, INOW",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Data Migration Senior Architect",
+      "Pricing Solution Consultant",
       "Not specified",
       "United States - Remote"
     ],
@@ -609,39 +984,9 @@
       "India - Bangalore"
     ],
     [
-      "Software Engineer III",
+      "Machine Learning Engineer",
       "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Senior Sales Executive",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Oracle Fusion Finance Techno-Functional Specialist",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Senior Manager | Global Delivery, Professional Services (Guidewire Implementation)",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Financial Management AI Engineer Intern",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Senior Accountant",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Lead Consultant(Business Analyst) - GDC",
-      "Not specified",
-      "India - Bangalore"
+      "Canada - Mississauga, ON"
     ],
     [
       "Product Owner - Product Strategy",
@@ -654,399 +999,14 @@
       "India - Bangalore"
     ],
     [
-      "Cloud Engineer III",
-      "Not specified",
-      "Malaysia - Kuala Lumpur"
-    ],
-    [
-      "Fullstack Engineer - Python",
-      "Not specified",
-      "Poland - Remote"
-    ],
-    [
-      "Outbound Product Manager",
-      "Not specified",
-      "Poland - Krakow"
-    ],
-    [
-      "Associate People Business Partner",
-      "Not specified",
-      "Dublin Office, Ireland"
-    ],
-    [
-      "Support Admin - Global Helpdesk (Rotational Shift)",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Executive Assistant \u2013 Technical Writing & Documentation",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Technical Delivery Manager",
-      "Not specified",
-      "Malaysia - Kuala Lumpur"
-    ],
-    [
-      "Product Owner - Professional Services",
-      "Not specified",
-      "Japan - Tokyo"
-    ],
-    [
-      "Software Engineer III : Cloud Platform",
-      "Not specified",
-      "United States - Birmingham, AL"
-    ],
-    [
-      "Senior Machine Learning Platform Engineer",
-      "Not specified",
-      "United States - Remote"
-    ],
-    [
-      "Site Reliability Engineer III (Platform)",
-      "Not specified",
-      "Malaysia - Kuala Lumpur"
-    ],
-    [
-      "Technical Program Management - Guidewire Security",
-      "Not specified",
-      "United States - Remote"
-    ],
-    [
-      "Site Reliability Engineer III, Guidewire Cloud Platform",
-      "Not specified",
-      "Brazil - Curitiba"
-    ],
-    [
-      "Functional Lead - Oracle Fusion Revenue and Order to Cash",
-      "Not specified",
-      "United States - Remote"
-    ],
-    [
-      "Senior Implementation Engineer",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "AI Business Architect (People & Operations)",
-      "Not specified",
-      "United States - Remote"
-    ],
-    [
-      "Business Analyst - Claim Center",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Technical Writer/Senior Technical Writer",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Staff Software Engineer \u2013 Data Platform",
-      "Not specified",
-      "United States - San Mateo, CA"
-    ],
-    [
-      "Software Development Engineer in Test",
-      "Not specified",
-      "Ireland - Dublin"
-    ],
-    [
-      "Solution Consultant",
-      "Not specified",
-      "Australia - Remote"
-    ],
-    [
-      "Software Engineer III (Java, AWS, K8)",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Scrum Master, Business Technology",
-      "Not specified",
-      "Mexico - Guadalajara"
-    ],
-    [
-      "Global Help Desk Intern",
-      "Not specified",
-      "Malaysia - Kuala Lumpur"
-    ],
-    [
-      "Technical Account Manager",
-      "Not specified",
-      "United States - Remote"
-    ],
-    [
-      "Staff Software Engineer",
-      "Not specified",
-      "Poland - Krakow"
-    ],
-    [
-      "Event Specialist",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Senior Architect (Functional), Professional Services",
-      "Not specified",
-      "United States - Remote"
-    ],
-    [
-      "Production Support Application Engineer",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Associate Technical Account Manager",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
       "Senior Technology Sourcing Manager",
       "Not specified",
       "Mexico - Guadalajara"
     ],
     [
-      "Software Engineer III (Backend, AI)",
-      "Not specified",
-      "Brazil - Curitiba"
-    ],
-    [
-      "AI/ML Senior Consultant",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Principal Solution Consultant",
-      "Not specified",
-      "Japan - Tokyo"
-    ],
-    [
-      "Engineering Manager (MLOps Platform Team)",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Technical Account Manager",
-      "Not specified",
-      "Japan - Tokyo"
-    ],
-    [
-      "Senior Software Engineer, Guidewire Predict",
-      "Not specified",
-      "Brazil - Curitiba"
-    ],
-    [
-      "Senior Manager | Global Delivery, Professional Services (Guidewire Suite)",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Services Strategy Executive",
-      "Not specified",
-      "Australia - Sydney"
-    ],
-    [
-      "Staff Software  Engineer - Product Development",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Database Migration Engineer III",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Japan Solution Architect",
-      "Not specified",
-      "Japan - Tokyo"
-    ],
-    [
-      "Partner Success Manager",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Senior Software Engineer - AI Services",
-      "Not specified",
-      "United States - San Mateo, CA"
-    ],
-    [
-      "Google Workspace Engineer",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Technical Solution Consultant, Japan",
-      "Not specified",
-      "Japan - Tokyo"
-    ],
-    [
-      "Software Engineer III (AI/ML)",
-      "Not specified",
-      "United States - San Mateo, CA"
-    ],
-    [
-      "Technical Recruiter",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Senior Product Manager, Test Engineering",
-      "Not specified",
-      "United States - San Mateo, CA"
-    ],
-    [
-      "Software Engineer II",
-      "Not specified",
-      "Poland - Krakow"
-    ],
-    [
-      "Senior Software Engineering Manager",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Sr Software Engineer - DevOps",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Principal",
-      "Not specified",
-      "Japan - Tokyo"
-    ],
-    [
-      "Software Engineer",
-      "Not specified",
-      "Poland - Krakow"
-    ],
-    [
-      "Senior Software Engineer",
-      "Not specified",
-      "United States - Exton, PA"
-    ],
-    [
-      "Engagement Manager/Director, DACH (German Speaking)",
-      "Not specified",
-      "Germany - Remote"
-    ],
-    [
-      "Talent Attraction Partner (Intermediate Technical Recruiter)",
-      "Not specified",
-      "Brazil - Curitiba"
-    ],
-    [
-      "Sales Operations Analyst",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Cloud Platform Support Engineer III",
-      "Not specified",
-      "Ireland - Dublin"
-    ],
-    [
-      "Staff Security Engineer (Vulnerability Management)",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Software Engineer III (Java, Microservices, AWS)",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Pricing Manager",
-      "Not specified",
-      "Poland - Remote"
-    ],
-    [
-      "Site Reliability Engineer II (SRE) - Guidewire Cloud Platform (Application)",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "UX Designer",
-      "Not specified",
-      "Ireland - Dublin"
-    ],
-    [
-      "Delivery Principal (German Speaking)",
-      "Not specified",
-      "Germany - Remote"
-    ],
-    [
       "Platform Support DBA III",
       "Not specified",
-      "Ireland - Dublin"
-    ],
-    [
-      "Revenue Manager",
-      "Not specified",
-      "United States - San Mateo, CA"
-    ],
-    [
-      "Platform Support Engineer III",
-      "Not specified",
-      "Malaysia - Kuala Lumpur"
-    ],
-    [
-      "Pricing Solution Consultant",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Site Reliability Engineer III",
-      "Not specified",
-      "Malaysia - Kuala Lumpur"
-    ],
-    [
-      "Tech Leader, Site Reliability Engineering",
-      "Not specified",
-      "Brazil - Curitiba"
-    ],
-    [
-      "Senior Solution Architect",
-      "Not specified",
-      "United States - Remote"
-    ],
-    [
-      "Strategy & Analytics Intern",
-      "Not specified",
-      "Canada - Toronto"
-    ],
-    [
-      "Senior Software Engineer (FullStack)",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Principal Talent Attraction Partner",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Senior Director, Global Communications",
-      "Not specified",
-      "United States - Remote"
-    ],
-    [
-      "Software Development Engineer in Test II (SDET)",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Senior Machine Learning Engineer",
-      "Not specified",
-      "Canada - Toronto"
-    ],
-    [
-      "Front-end Architect (German speaking)",
-      "Not specified",
-      "Germany - Remote"
+      "2 Locations"
     ],
     [
       "Senior Guidewire Integration Developer",
@@ -1054,42 +1014,42 @@
       "India - Bangalore"
     ],
     [
+      "Senior Manager | Global Delivery, Professional Services (Guidewire Suite)",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Data Migration Lead Architect",
+      "Not specified",
+      "United States - Remote"
+    ],
+    [
+      "Corporate Legal Intern",
+      "Not specified",
+      "United States - San Mateo, CA"
+    ],
+    [
+      "Not specified",
+      "Not specified",
+      "Not specified"
+    ],
+    [
+      "Product Marketing Intern",
+      "Not specified",
+      "Ireland - Dublin"
+    ],
+    [
       "Application Support Engineer II - Data Products",
       "Not specified",
       "Brazil - Curitiba"
     ],
     [
-      "Analyst Training Instructor",
-      "Not specified",
-      "United States - Remote"
-    ],
-    [
-      "Senior Software Engineer (Java, Backend)",
+      "Employee Experience Integration Intern",
       "Not specified",
       "India - Bangalore"
     ],
     [
-      "Senior Developer, InsuranceNow/ Architect, InsuranceNow",
-      "Not specified",
-      "India - Bangalore"
-    ],
-    [
-      "Senior Software Engineer",
-      "Not specified",
-      "United States - San Mateo, CA"
-    ],
-    [
-      "Director - User Experience - Guidewire Application Platform",
-      "Not specified",
-      "Canada - Toronto"
-    ],
-    [
-      "Cloud Platform Support Engineer II",
-      "Not specified",
-      "Poland - Krakow"
-    ],
-    [
-      "Pricing & Actuarial Solutions Executive",
+      "Insurtech Vanguard Community Manager",
       "Not specified",
       "United States - Remote"
     ],
@@ -1099,82 +1059,32 @@
       "2 Locations"
     ],
     [
-      "Cyber Risk Data Science Intern",
-      "Not specified",
-      "United States - San Mateo, CA"
-    ],
-    [
-      "Procurement Services Senior Specialist",
-      "Not specified",
-      "Mexico - Guadalajara"
-    ],
-    [
-      "Software Engineer Intern",
-      "Not specified",
-      "Malaysia - Kuala Lumpur"
-    ],
-    [
-      "Senior Information Security Analyst",
-      "Not specified",
-      "Canada - Remote"
-    ],
-    [
-      "Principal Product Manager- APPS & API",
-      "Not specified",
-      "United States - Remote"
-    ],
-    [
-      "Site Reliability Engineer III",
-      "Not specified",
-      "Dublin Office, Ireland"
-    ],
-    [
-      "Senior Project Manager, INOW",
+      "Data Analyst",
       "Not specified",
       "2 Locations"
     ],
     [
-      "Legal Counsel DACH (Commercial)",
+      "Senior Backend Engineer - DevOps",
       "Not specified",
-      "Germany - Remote"
+      "Poland - Remote"
     ],
     [
-      "Engineering Manager/Technical Lead  - Application Platform",
-      "Not specified",
-      "United States - San Mateo, CA"
-    ],
-    [
-      "Employee Experience AI Engineer Intern",
+      "Oracle Fusion Finance Techno-Functional Specialist",
       "Not specified",
       "India - Bangalore"
     ],
     [
-      "Manager, Platform Pricing and Packaging",
+      "Go To Market AI Engineer Intern",
       "Not specified",
       "United States - San Mateo, CA"
     ],
     [
-      "Sr. Data Platform Engineer",
+      "Event Specialist",
       "Not specified",
       "India - Bangalore"
     ],
     [
-      "Customer Marketing Intern",
-      "Not specified",
-      "United States - Birmingham, AL"
-    ],
-    [
-      "Business Technology Consultant, Japan",
-      "Not specified",
-      "Japan - Tokyo"
-    ],
-    [
-      "Senior People Business Partner",
-      "Not specified",
-      "United States - Remote"
-    ],
-    [
-      "Guidewire Integration Architect",
+      "Lead Consultant ( Quality assurance) - GDC",
       "Not specified",
       "India - Bangalore"
     ],
@@ -1184,39 +1094,129 @@
       "Mexico - Guadalajara"
     ],
     [
-      "Go To Market AI Engineer Intern",
+      "Engineering Manager/Technical Lead  - Application Platform",
       "Not specified",
       "United States - San Mateo, CA"
     ],
     [
-      "Senior Backend Engineer - DevOps",
+      "Technical Architect",
       "Not specified",
-      "Poland - Remote"
+      "Japan - Tokyo"
     ],
     [
-      "Software Development Engineers in Test lll (SDET)",
+      "Functional Architect",
+      "Not specified",
+      "Japan - Tokyo"
+    ],
+    [
+      "Lead Consultant( Developer )- GDC",
       "Not specified",
       "India - Bangalore"
     ],
     [
-      "Lead Programmer Writer",
+      "Senior Technology Sourcing Manager, SaaS Category",
+      "Not specified",
+      "Mexico - Guadalajara"
+    ],
+    [
+      "Site Reliability Engineer III (Platform)",
+      "Not specified",
+      "Malaysia - Kuala Lumpur"
+    ],
+    [
+      "Associate Certification Program Systems Analyst",
+      "Not specified",
+      "United States - Remote"
+    ],
+    [
+      "Google Workspace Engineer",
       "Not specified",
       "India - Bangalore"
     ],
     [
-      "Senior Data Scientist",
+      "Director, Internal & Executive Communications",
       "Not specified",
-      "Remote (SK, Canada)"
+      "United States - San Mateo, CA"
     ],
     [
-      "Software Engineer II",
+      "Staff Software  Engineer - Product Development",
       "Not specified",
-      "Ireland - Dublin"
+      "India - Bangalore"
     ],
     [
-      "Data Analyst",
+      "Senior People Business Partner",
+      "Not specified",
+      "United States - Remote"
+    ],
+    [
+      "Senior Accountant",
       "Not specified",
       "2 Locations"
+    ],
+    [
+      "Senior Sales Account Manager",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Technical Account Manager",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Software Engineer III",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Senior Solution Architect",
+      "Not specified",
+      "United States - Remote"
+    ],
+    [
+      "Principal",
+      "Not specified",
+      "Japan - Tokyo"
+    ],
+    [
+      "Cyber Risk Data Science Intern",
+      "Not specified",
+      "United States - San Mateo, CA"
+    ],
+    [
+      "Software Developer",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Services Strategy Executive",
+      "Not specified",
+      "Australia - Sydney"
+    ],
+    [
+      "Automation Engineer Intern",
+      "Not specified",
+      "Dublin Office, Ireland"
+    ],
+    [
+      "Employee Experience AI Engineer Intern",
+      "Not specified",
+      "India - Bangalore"
+    ],
+    [
+      "Senior Software Engineer, Guidewire Predict",
+      "Not specified",
+      "Brazil - Curitiba"
+    ],
+    [
+      "Senior Software Engineer - AI Services",
+      "Not specified",
+      "United States - San Mateo, CA"
+    ],
+    [
+      "Alliance Partner Sales Operations Analyst",
+      "Not specified",
+      "United States - Remote"
     ]
   ]
 }
