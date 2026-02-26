@@ -1,37 +1,12 @@
 {
-  "last_updated": "2026-02-25T07:45:37.648246",
+  "last_updated": "2026-02-26T07:02:21.796508",
   "job_count": 76,
-  "active_count": 51,
+  "active_count": 53,
   "jobs": [
     [
-      "Global HR Business Partner",
+      "Software Engineer Intern",
       "Not specified",
       "US MN Minneapolis Office"
-    ],
-    [
-      "Domestic Tax Manager",
-      "Not specified",
-      "US MN Minneapolis Office"
-    ],
-    [
-      "Retail & Community Director",
-      "Not specified",
-      "Germany Remote"
-    ],
-    [
-      "Manager of Customer Development",
-      "Not specified",
-      "CA ON Toronto Office"
-    ],
-    [
-      "Lead Training Facilitator (Revenue)",
-      "Not specified",
-      "US MN Minneapolis Office"
-    ],
-    [
-      "Lead Consultant",
-      "Not specified",
-      "2 Locations"
     ],
     [
       "Associate Account Executive - Community",
@@ -39,17 +14,42 @@
       "NL Breukelen Office"
     ],
     [
-      "Campaign and Social Media Specialist",
-      "Not specified",
-      "NL Breukelen Office"
-    ],
-    [
-      "Strategic Revenue Operations Analyst",
+      "Security Intern",
       "Not specified",
       "US MN Minneapolis Office"
     ],
     [
-      "Director,Product Marketing",
+      "Customer Development Coordinator",
+      "Not specified",
+      "US AR Rogers Office"
+    ],
+    [
+      "Senior Recruiter - Campus Focused",
+      "Not specified",
+      "US MN Minneapolis Office"
+    ],
+    [
+      "Channel Sales Manager",
+      "Not specified",
+      "CA ON Toronto Office"
+    ],
+    [
+      "Domestic Tax Manager",
+      "Not specified",
+      "US MN Minneapolis Office"
+    ],
+    [
+      "Scrum Master",
+      "Not specified",
+      "US MN Minneapolis Office"
+    ],
+    [
+      "Workplace Operations Intern",
+      "Not specified",
+      "US AR Rogers Office"
+    ],
+    [
+      "Data Scientist Intern",
       "Not specified",
       "US MN Minneapolis Office"
     ],
@@ -59,49 +59,14 @@
       "PL Warsaw Workspace"
     ],
     [
-      "Manager II, Accounting",
+      "Lead Consultant",
       "Not specified",
-      "US MN Minneapolis Office"
+      "NL Breukelen Office"
     ],
     [
-      "Associate Billing Analyst",
-      "Not specified",
-      "US MN Minneapolis Office"
-    ],
-    [
-      "Senior Project Manager",
-      "Not specified",
-      "FR Castelnau-le-Lez Offic"
-    ],
-    [
-      "Sr. Security Engineer",
-      "Not specified",
-      "US MN Minneapolis Office"
-    ],
-    [
-      "Manager I, Customer Operations, Revenue Recovery",
+      "Customer Operations Coordinator",
       "Not specified",
       "US AR Rogers Office"
-    ],
-    [
-      "Payment Solutions Customer Advocate II",
-      "Not specified",
-      "US MN Minneapolis Office"
-    ],
-    [
-      "Associate Consultant",
-      "Not specified",
-      "US MN Minneapolis Office"
-    ],
-    [
-      "Manager, Revenue Accounting",
-      "Not specified",
-      "US MN Minneapolis Office"
-    ],
-    [
-      "Associate Account Executive - Community",
-      "Not specified",
-      "Germany Remote"
     ],
     [
       "Training Content Developer",
@@ -109,17 +74,22 @@
       "US MN Minneapolis Office"
     ],
     [
-      "Senior Marketing Manager",
+      "Product Designer",
       "Not specified",
-      "NL Breukelen Office"
+      "Germany Remote"
     ],
     [
-      "Supplier Sales, Small and Emerging Markets - Strategic Account Executive",
+      "Manager, Revenue Accounting",
       "Not specified",
       "US MN Minneapolis Office"
     ],
     [
-      "Billing Analyst",
+      "Sr. Business Solution Consultant - EDI/ERP NetSuite",
+      "Not specified",
+      "United States Remote"
+    ],
+    [
+      "Senior Consultant",
       "Not specified",
       "US MN Minneapolis Office"
     ],
@@ -129,62 +99,77 @@
       "United States Remote"
     ],
     [
-      "Sr. Business Solution Consultant - EDI/ERP NetSuite",
-      "Not specified",
-      "United States Remote"
-    ],
-    [
-      "Associate Technical Support Engineer",
+      "Project Manager",
       "Not specified",
       "US MN Minneapolis Office"
     ],
     [
-      "Channel Sales Manager",
-      "Not specified",
-      "US MN Minneapolis Office"
-    ],
-    [
-      "Senior Software Engineer",
-      "Not specified",
-      "PL Warsaw Workspace"
-    ],
-    [
-      "Customer Operations Coordinator",
-      "Not specified",
-      "US AR Rogers Office"
-    ],
-    [
-      "Product Designer",
+      "Retail & Community Director",
       "Not specified",
       "Germany Remote"
     ],
     [
-      "Early Career Sales - Associate Account Executive",
+      "Finance Operations & Planning Intern (FP&A)",
       "Not specified",
       "US MN Minneapolis Office"
     ],
     [
-      "Associate Contract Management Specialist",
+      "Associate Account Executive - Community",
       "Not specified",
-      "US MN Minneapolis Office"
+      "Germany Remote"
     ],
     [
-      "Software Engineer Intern",
-      "Not specified",
-      "US MN Minneapolis Office"
-    ],
-    [
-      "Lead Consultant",
+      "Campaign and Social Media Specialist",
       "Not specified",
       "NL Breukelen Office"
     ],
     [
-      "Associate Business Analyst",
+      "Enterprise Strategic Account Executive - Supplier Sales",
       "Not specified",
-      "PL Warsaw Workspace"
+      "US MN Minneapolis Office"
     ],
     [
-      "Sr. Financial Analyst",
+      "Consultant II",
+      "Not specified",
+      "Philippines Remote"
+    ],
+    [
+      "Global HR Business Partner",
+      "Not specified",
+      "US MN Minneapolis Office"
+    ],
+    [
+      "Technical Product Owner (Workday)",
+      "Not specified",
+      "US MN Minneapolis Office"
+    ],
+    [
+      "Associate Billing Analyst",
+      "Not specified",
+      "US MN Minneapolis Office"
+    ],
+    [
+      "Sales Intern",
+      "Not specified",
+      "US AR Rogers Office"
+    ],
+    [
+      "Director,Product Marketing",
+      "Not specified",
+      "US MN Minneapolis Office"
+    ],
+    [
+      "Account Executive - Enterprise",
+      "Not specified",
+      "US AR Rogers Office"
+    ],
+    [
+      "Software Engineer Intern",
+      "Not specified",
+      "US AR Rogers Office"
+    ],
+    [
+      "Early Career Sales - Associate Account Executive",
       "Not specified",
       "US MN Minneapolis Office"
     ],
@@ -199,22 +184,22 @@
       "US AR Rogers Office"
     ],
     [
-      "Customer Development Coordinator",
-      "Not specified",
-      "US AR Rogers Office"
-    ],
-    [
-      "Associate Systems Engineer II",
-      "Not specified",
-      "CA ON Brampton Office"
-    ],
-    [
-      "Project Manager",
+      "Lead Training Facilitator (Revenue)",
       "Not specified",
       "US MN Minneapolis Office"
     ],
     [
-      "New Customer Account Executive",
+      "Manager of Customer Development",
+      "Not specified",
+      "CA ON Toronto Office"
+    ],
+    [
+      "Sr. Manager, Revenue Operations",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "International Tax Manager",
       "Not specified",
       "US MN Minneapolis Office"
     ],
@@ -224,112 +209,7 @@
       "CA ON Toronto Office"
     ],
     [
-      "Financial Consultant - GTM and Product Strategy Insights",
-      "Not specified",
-      "US MN Minneapolis Office"
-    ],
-    [
-      "Sales Intern",
-      "Not specified",
-      "US AR Rogers Office"
-    ],
-    [
-      "Technical Writer Intern",
-      "Not specified",
-      "US MN Minneapolis Office"
-    ],
-    [
-      "Data Scientist Intern",
-      "Not specified",
-      "US MN Minneapolis Office"
-    ],
-    [
-      "Consultant II",
-      "Not specified",
-      "Philippines Remote"
-    ],
-    [
-      "Senior Consultant",
-      "Not specified",
-      "US MN Minneapolis Office"
-    ],
-    [
-      "Channel Sales Manager",
-      "Not specified",
-      "CA ON Toronto Office"
-    ],
-    [
-      "Enterprise Strategic Account Executive - Supplier Sales",
-      "Not specified",
-      "US MN Minneapolis Office"
-    ],
-    [
-      "Community Associate Account Executive",
-      "Not specified",
-      "US MN Minneapolis Office"
-    ],
-    [
-      "NetSuite Channel Sales Manager",
-      "Not specified",
-      "US MN Minneapolis Office"
-    ],
-    [
-      "Consultant I",
-      "Not specified",
-      "US MN Minneapolis Office"
-    ],
-    [
-      "International Tax Manager",
-      "Not specified",
-      "US MN Minneapolis Office"
-    ],
-    [
-      "Strategic Account Executive - Supplier Sales, Small and Emerging Markets",
-      "Not specified",
-      "US MN Minneapolis Office"
-    ],
-    [
-      "Workplace Operations Intern",
-      "Not specified",
-      "US AR Rogers Office"
-    ],
-    [
-      "Sr. Manager, Revenue Operations",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Software Engineer Intern",
-      "Not specified",
-      "US AR Rogers Office"
-    ],
-    [
-      "Account Executive - Enterprise",
-      "Not specified",
-      "US AR Rogers Office"
-    ],
-    [
-      "Sales Engineer",
-      "Not specified",
-      "Germany Remote"
-    ],
-    [
-      "Associate Account Executive",
-      "Not specified",
-      "US MN Minneapolis Office"
-    ],
-    [
-      "Sr. Consultant",
-      "Not specified",
-      "United States Remote"
-    ],
-    [
-      "Scrum Master",
-      "Not specified",
-      "US MN Minneapolis Office"
-    ],
-    [
-      "Account Executive, Supplier Sales - Small and Emerging Markets",
+      "Strategic Revenue Operations Analyst",
       "Not specified",
       "US MN Minneapolis Office"
     ],
@@ -339,14 +219,59 @@
       "US MN Minneapolis Office"
     ],
     [
-      "Technical Product Owner (Workday)",
+      "Associate Consultant",
       "Not specified",
       "US MN Minneapolis Office"
     ],
     [
-      "Strategic Account Executive - Analytics",
+      "Strategic Account Executive - Supplier Sales, Small and Emerging Markets",
       "Not specified",
       "US MN Minneapolis Office"
+    ],
+    [
+      "Sr. Security Engineer",
+      "Not specified",
+      "US MN Minneapolis Office"
+    ],
+    [
+      "Community Associate Account Executive",
+      "Not specified",
+      "US MN Minneapolis Office"
+    ],
+    [
+      "Associate Technical Support Engineer",
+      "Not specified",
+      "US MN Minneapolis Office"
+    ],
+    [
+      "Manager II, Accounting",
+      "Not specified",
+      "US MN Minneapolis Office"
+    ],
+    [
+      "New Customer Account Executive",
+      "Not specified",
+      "US MN Minneapolis Office"
+    ],
+    [
+      "Associate Program Manager",
+      "Not specified",
+      "US MN Minneapolis Office"
+    ],
+    [
+      "Sr. Consultant",
+      "Not specified",
+      "United States Remote"
+    ],
+    [
+      "Supplier Sales, Small and Emerging Markets - Strategic Account Executive",
+      "Not specified",
+      "US MN Minneapolis Office"
+    ],
+    [
+      "Lead Consultant",
+      "Not specified",
+      "2 Locations"
     ],
     [
       "Recovery Operations Specialist",
@@ -354,9 +279,79 @@
       "India Remote"
     ],
     [
-      "Finance Operations & Planning Intern (FP&A)",
+      "Payment Solutions Customer Advocate II",
       "Not specified",
       "US MN Minneapolis Office"
+    ],
+    [
+      "Associate Contract Management Specialist",
+      "Not specified",
+      "US MN Minneapolis Office"
+    ],
+    [
+      "Account Executive, Supplier Sales - Small and Emerging Markets",
+      "Not specified",
+      "US MN Minneapolis Office"
+    ],
+    [
+      "Consultant I",
+      "Not specified",
+      "US MN Minneapolis Office"
+    ],
+    [
+      "Associate Account Executive",
+      "Not specified",
+      "US MN Minneapolis Office"
+    ],
+    [
+      "Channel Sales Manager",
+      "Not specified",
+      "US MN Minneapolis Office"
+    ],
+    [
+      "Billing Analyst",
+      "Not specified",
+      "US MN Minneapolis Office"
+    ],
+    [
+      "NetSuite Channel Sales Manager",
+      "Not specified",
+      "US MN Minneapolis Office"
+    ],
+    [
+      "Manager I, Customer Operations, Revenue Recovery",
+      "Not specified",
+      "US AR Rogers Office"
+    ],
+    [
+      "Senior Software Engineer",
+      "Not specified",
+      "PL Warsaw Workspace"
+    ],
+    [
+      "Strategic Account Executive - Analytics",
+      "Not specified",
+      "US MN Minneapolis Office"
+    ],
+    [
+      "Technical Writer Intern",
+      "Not specified",
+      "US MN Minneapolis Office"
+    ],
+    [
+      "Senior Project Manager",
+      "Not specified",
+      "FR Castelnau-le-Lez Offic"
+    ],
+    [
+      "Senior Marketing Manager",
+      "Not specified",
+      "NL Breukelen Office"
+    ],
+    [
+      "Sales Engineer",
+      "Not specified",
+      "Germany Remote"
     ],
     [
       "Consultant I",
@@ -369,17 +364,22 @@
       "3 Locations"
     ],
     [
-      "Associate Program Manager",
+      "Associate Systems Engineer II",
+      "Not specified",
+      "CA ON Brampton Office"
+    ],
+    [
+      "Sr. Financial Analyst",
       "Not specified",
       "US MN Minneapolis Office"
     ],
     [
-      "Security Intern",
+      "Associate Business Analyst",
       "Not specified",
-      "US MN Minneapolis Office"
+      "PL Warsaw Workspace"
     ],
     [
-      "Senior Recruiter - Campus Focused",
+      "Financial Consultant - GTM and Product Strategy Insights",
       "Not specified",
       "US MN Minneapolis Office"
     ]
