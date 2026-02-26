@@ -1,80 +1,35 @@
 {
-  "last_updated": "2026-02-25T07:45:37.128091",
-  "job_count": 33,
-  "active_count": 32,
+  "last_updated": "2026-02-26T07:44:30.504336",
+  "job_count": 35,
+  "active_count": 34,
   "jobs": [
-    [
-      "Technical Account Manager",
-      "Not specified",
-      "Jakarta, Indonesia"
-    ],
-    [
-      "(Senior) Technical Writer (gn)",
-      "Not specified",
-      "Leipzig, Germany"
-    ],
-    [
-      "Security Engineer",
-      "Not specified",
-      "Bethlehem, Pennsylvania, United States"
-    ],
-    [
-      "Senior Employment Counsel",
-      "Not specified",
-      "Hammersmith (London), UK, England, United Kingdom"
-    ],
-    [
-      "Key Account Manager",
-      "Not specified",
-      "Dublin, Ireland"
-    ],
-    [
-      "Senior Technical Analyst",
-      "Not specified",
-      "Melbourne, Victoria, Australia"
-    ],
-    [
-      "Senior Automation Tester",
-      "Not specified",
-      "Ho Chi Minh City, Vietnam"
-    ],
-    [
-      "Support Analyst",
-      "Not specified",
-      "Argentina"
-    ],
-    [
-      "Requirements Engineer - Finance (gn)",
-      "Not specified",
-      "Germany"
-    ],
-    [
-      "Senior Database Administrator (gn)",
-      "Not specified",
-      "Leipzig, Germany"
-    ],
-    [
-      "Product Owner - Finance (gn)",
-      "Not specified",
-      "Germany"
-    ],
-    [
-      "Service Delivery Manager (gn)",
-      "Not specified",
-      "Germany"
-    ],
-    [
-      "Quality Assurance Analyst (gn)",
-      "Not specified",
-      "Germany"
-    ],
     [
       "Vice President, Account Management",
       "Not specified",
       "Hammersmith (London), UK, England, United Kingdom"
     ],
     [
-      "Strategic Product Manager (gn)",
+      "Senior Software Developer",
+      "Not specified",
+      "F\u00f8rde, Norway"
+    ],
+    [
+      "Technical Account Manager",
+      "Not specified",
+      "Jakarta, Indonesia"
+    ],
+    [
+      "DevOps Engineer",
+      "Not specified",
+      "S\u00f8nderborg, Denmark"
+    ],
+    [
+      "Senior Manager - Cybersecurity",
+      "Not specified",
+      "Hammersmith (London), UK, England, United Kingdom"
+    ],
+    [
+      "Quality Assurance Analyst (gn)",
       "Not specified",
       "Germany"
     ],
@@ -84,14 +39,9 @@
       "Bethlehem, Pennsylvania, United States"
     ],
     [
-      "Senior Software Developer",
+      "Vice President, Legal & Commercial (gn)",
       "Not specified",
-      "F\u00f8rde, Norway"
-    ],
-    [
-      "Financial Controller",
-      "Not specified",
-      "London, England, United Kingdom"
+      "Berlin, Germany"
     ],
     [
       "HR Business Partner",
@@ -99,37 +49,67 @@
       "Melbourne, Victoria, Australia"
     ],
     [
-      "Vice President, Legal & Commercial (gn)",
-      "Not specified",
-      "Berlin, Germany"
-    ],
-    [
-      "Senior Auditor",
-      "Not specified",
-      "Pune, Maharashtra, India"
-    ],
-    [
       "Global Tax Advisor",
       "Not specified",
       "Melbourne, Victoria, Australia"
     ],
     [
-      "AI Engineer",
+      "Director Client Services & Support (gn)",
       "Not specified",
-      "Hammersmith (London), UK, England, United Kingdom"
+      "Germany"
     ],
     [
-      "Senior Manager - Cybersecurity",
+      "Service Delivery Manager (gn)",
       "Not specified",
-      "Hammersmith (London), UK, England, United Kingdom"
+      "Germany"
     ],
     [
-      "Director Product and Platform Strategy (gn)",
+      "Security Engineer",
+      "Not specified",
+      "Bethlehem, Pennsylvania, United States"
+    ],
+    [
+      "Senior Database Administrator (gn)",
+      "Not specified",
+      "Leipzig, Germany"
+    ],
+    [
+      "Strategic Product Manager (gn)",
       "Not specified",
       "Germany"
     ],
     [
       "Financial Controller",
+      "Not specified",
+      "London, England, United Kingdom"
+    ],
+    [
+      "Support Analyst (gn)",
+      "Not specified",
+      "Germany"
+    ],
+    [
+      "Financial Controller",
+      "Not specified",
+      "Hammersmith (London), UK, England, United Kingdom"
+    ],
+    [
+      "DevOps Engineer",
+      "Not specified",
+      "Ho Chi Minh City, Vietnam"
+    ],
+    [
+      "Senior Employment Counsel",
+      "Not specified",
+      "Hammersmith (London), UK, England, United Kingdom"
+    ],
+    [
+      "Senior Software Developer",
+      "Not specified",
+      "Espoo, Finland"
+    ],
+    [
+      "AI Engineer",
       "Not specified",
       "Hammersmith (London), UK, England, United Kingdom"
     ],
@@ -139,9 +119,19 @@
       "Ho Chi Minh City, Vietnam"
     ],
     [
-      "DevOps Engineer",
+      "Senior Data Analyst",
       "Not specified",
-      "S\u00f8nderborg, Denmark"
+      "Pune, Maharashtra, India"
+    ],
+    [
+      "Senior Technical Analyst",
+      "Not specified",
+      "Melbourne, Victoria, Australia"
+    ],
+    [
+      "Key Account Manager",
+      "Not specified",
+      "Dublin, Ireland"
     ],
     [
       "Capacity & Entitlements Manager",
@@ -149,24 +139,44 @@
       "Pune, Maharashtra, India"
     ],
     [
-      "DevOps Engineer",
+      "Vice President, Software Delivery",
       "Not specified",
-      "Ho Chi Minh City, Vietnam"
+      "Oslo, Norway"
     ],
     [
-      "Support Analyst (gn)",
+      "Requirements Engineer - Finance (gn)",
       "Not specified",
       "Germany"
     ],
     [
-      "Senior Data Analyst",
+      "Product Owner - Finance (gn)",
+      "Not specified",
+      "Germany"
+    ],
+    [
+      "Support Analyst",
+      "Not specified",
+      "Argentina"
+    ],
+    [
+      "(Senior) Technical Writer (gn)",
+      "Not specified",
+      "Leipzig, Germany"
+    ],
+    [
+      "Senior Auditor",
       "Not specified",
       "Pune, Maharashtra, India"
     ],
     [
-      "Director Client Services & Support (gn)",
+      "Director Product and Platform Strategy (gn)",
       "Not specified",
       "Germany"
+    ],
+    [
+      "Senior Automation Tester",
+      "Not specified",
+      "Ho Chi Minh City, Vietnam"
     ]
   ]
 }

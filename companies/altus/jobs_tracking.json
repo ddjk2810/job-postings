@@ -1,22 +1,12 @@
 {
-  "last_updated": "2026-02-26T07:02:20.281193",
+  "last_updated": "2026-02-26T07:44:29.934930",
   "job_count": 24,
   "active_count": 21,
   "jobs": [
     [
-      "Sr. Analyst, Advisory",
+      "Consultant, Advisory (Commercial Real Estate)",
       "Not specified",
-      "835 -  New York"
-    ],
-    [
-      "Assistant Manager, Valuation Advisory",
-      "Not specified",
-      "Hyderabad, India"
-    ],
-    [
-      "Lead AI Engineer",
-      "Not specified",
-      "Toronto, Ontario"
+      "New York, New York"
     ],
     [
       "Conseiller(\u00e8re) en immobilier",
@@ -24,9 +14,19 @@
       "Montr\u00e9al, Qu\u00e9bec"
     ],
     [
-      "Directeur(rice)",
+      "Sr. Analyst, Advisory",
       "Not specified",
-      "Montr\u00e9al, Qu\u00e9bec"
+      "835 -  New York"
+    ],
+    [
+      "Analyst, Mechanical",
+      "Not specified",
+      "Calgary, Alberta"
+    ],
+    [
+      "Billing Coordinator",
+      "Not specified",
+      "Hyderabad, India"
     ],
     [
       "Quantity Surveyor",
@@ -39,44 +39,9 @@
       "2 Locations"
     ],
     [
-      "Account Executive, Scale",
-      "Not specified",
-      "937 - London (UK)"
-    ],
-    [
-      "Engineer III",
-      "Not specified",
-      "030 - Christchurch"
-    ],
-    [
-      "Associate Analyst, Managed Services",
-      "Not specified",
-      "Hyderabad, India"
-    ],
-    [
-      "Database Reliability Engineer",
-      "Not specified",
-      "Hyderabad, India"
-    ],
-    [
-      "Consultant, Advisory (Commercial Real Estate)",
-      "Not specified",
-      "New York, New York"
-    ],
-    [
       "Associate Analyst",
       "Not specified",
       "633 - Casablanca"
-    ],
-    [
-      "Customer Success Manager (m/w/d)",
-      "Not specified",
-      "Frankfurt, Germany"
-    ],
-    [
-      "Technical Engineering Manager (AWS, Cloud-Native, AI-Enabled)",
-      "Not specified",
-      "London, United Kingdom"
     ],
     [
       "Stage/Internship \u2013 Consultant en finances locales - Paris",
@@ -84,12 +49,42 @@
       "Paris, France"
     ],
     [
+      "Database Reliability Engineer",
+      "Not specified",
+      "Hyderabad, India"
+    ],
+    [
+      "Engineer III",
+      "Not specified",
+      "030 - Christchurch"
+    ],
+    [
+      "Directeur(rice)",
+      "Not specified",
+      "Montr\u00e9al, Qu\u00e9bec"
+    ],
+    [
+      "Senior Quantity Surveyor",
+      "Not specified",
+      "Sydney, Australia"
+    ],
+    [
+      "Automation Test Engineer",
+      "Not specified",
+      "030 - Christchurch"
+    ],
+    [
       "Manager,  Daily Valuation & NAV Accounting",
       "Not specified",
       "5 Locations"
     ],
     [
-      "Automation Test Engineer",
+      "Account Executive, Scale",
+      "Not specified",
+      "937 - London (UK)"
+    ],
+    [
+      "Senior Engineer I",
       "Not specified",
       "030 - Christchurch"
     ],
@@ -99,14 +94,19 @@
       "2 Locations"
     ],
     [
-      "Billing Coordinator",
+      "Technical Engineering Manager (AWS, Cloud-Native, AI-Enabled)",
+      "Not specified",
+      "London, United Kingdom"
+    ],
+    [
+      "Assistant Manager, Valuation Advisory",
       "Not specified",
       "Hyderabad, India"
     ],
     [
-      "Senior Engineer I",
+      "Customer Success Manager (m/w/d)",
       "Not specified",
-      "030 - Christchurch"
+      "Frankfurt, Germany"
     ],
     [
       "Analyst, Loan Monitoring",
@@ -114,14 +114,14 @@
       "2 Locations"
     ],
     [
-      "Analyst, Mechanical",
+      "Associate Analyst, Managed Services",
       "Not specified",
-      "Calgary, Alberta"
+      "Hyderabad, India"
     ],
     [
-      "Senior Quantity Surveyor",
+      "Lead AI Engineer",
       "Not specified",
-      "Sydney, Australia"
+      "Toronto, Ontario"
     ]
   ]
 }
