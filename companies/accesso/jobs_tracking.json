@@ -1,32 +1,12 @@
 {
-  "last_updated": "2026-02-26T07:44:29.875245",
+  "last_updated": "2026-02-27T07:39:33.926540",
   "job_count": 10,
   "active_count": 9,
   "jobs": [
     [
-      "Director of Operations",
+      "Apply for Future Consideration",
       "Not specified",
-      "Dubai, United Arab Emirates"
-    ],
-    [
-      "Flash Pass Program Manager - Six Flags Great America",
-      "Not specified",
-      "Gurnee, Illinois, United States"
-    ],
-    [
-      "Senior Software Engineer",
-      "Not specified",
-      "Milan, Italy"
-    ],
-    [
-      "Senior Software Engineer",
-      "Not specified",
-      "London, England, United Kingdom"
-    ],
-    [
-      "Client Success Manager",
-      "Not specified",
-      "Singapore"
+      "All Locations"
     ],
     [
       "Sales Director - Live Events",
@@ -34,14 +14,14 @@
       "United States"
     ],
     [
-      "Apply for Future Consideration",
+      "Senior Software Engineer",
       "Not specified",
-      "All Locations"
+      "London, England, United Kingdom"
     ],
     [
-      "Program Manager - Kings Dominion",
+      "Flash Pass Program Manager - Six Flags Great America",
       "Not specified",
-      "Doswell, Virginia, United States"
+      "Gurnee, Illinois, United States"
     ],
     [
       "Product Marketing Manager",
@@ -49,9 +29,29 @@
       "United States"
     ],
     [
+      "Program Manager - Kings Dominion",
+      "Not specified",
+      "Doswell, Virginia, United States"
+    ],
+    [
       "Program Manager - Carowinds",
       "Not specified",
       "Charlotte, North Carolina, United States"
+    ],
+    [
+      "Senior Software Engineer",
+      "Not specified",
+      "Milan, Italy"
+    ],
+    [
+      "Director of Operations",
+      "Not specified",
+      "Dubai, United Arab Emirates"
+    ],
+    [
+      "Client Success Manager",
+      "Not specified",
+      "Singapore"
     ]
   ]
 }
