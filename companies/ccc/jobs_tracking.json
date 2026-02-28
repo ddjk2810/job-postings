@@ -1,65 +1,10 @@
 {
-  "last_updated": "2026-02-28T06:39:30.078029",
+  "last_updated": "2026-02-28T07:20:02.534083",
   "job_count": 63,
   "active_count": 39,
   "jobs": [
     [
-      "Vehicle Inventory Rep & Auditor (East Syracuse, NY)",
-      "Not specified",
-      "Syracuse, NY"
-    ],
-    [
-      "Automation Engineer Intern - Parts Summer 2026",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Associate Product Owner",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Software Engineer Intern - Parts Summer 2026",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Vice President, Fraud Sales",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Black Belt Lean Six Sigma and Automation Trainer",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Financial Business Intelligence and FP&A Intern Summer 2026",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Vice President, APD Sales",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Vehicle Inventory Rep & Auditor (Toledo, OH)",
-      "Not specified",
-      "Toledo, OH"
-    ],
-    [
-      "Business Analyst \u2013 Salesforce Service Cloud",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Vehicle Inventory Rep & Auditor (Omaha, NE)",
-      "Not specified",
-      "Omaha, NE"
-    ],
-    [
-      "Product Manager - Casualty",
+      "Technical Accounting Lead",
       "Not specified",
       "Chicago (Green St), IL"
     ],
@@ -69,12 +14,27 @@
       "Seattle, WA"
     ],
     [
-      "Lead Guidewire Software Engineer",
+      "Vehicle Inventory Rep & Auditor (Eugene, OR)",
+      "Not specified",
+      "Eugene, OR"
+    ],
+    [
+      "Casualty Sr. Solutions Engineer",
+      "Not specified",
+      "Virtual, USA"
+    ],
+    [
+      "Vehicle Inventory Rep & Auditor (Limerick/West Chester, PA)",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Employee Relations Specialist",
       "Not specified",
       "Chicago (Green St), IL"
     ],
     [
-      "Inside Sales Representative",
+      "SRE Intern Summer 2026",
       "Not specified",
       "Chicago (Green St), IL"
     ],
@@ -84,14 +44,14 @@
       "Chicago (Green St), IL"
     ],
     [
-      "Parts Implementation Specialist",
+      "Software Engineer Intern \u2013 Valuation Summer 2026",
       "Not specified",
-      "Sioux Falls, SD"
+      "Chicago (Green St), IL"
     ],
     [
-      "Vehicle Inventory Rep & Auditor (Limerick/West Chester, PA)",
+      "Vehicle Inventory Rep & Auditor (Flint, MI)",
       "Not specified",
-      "2 Locations"
+      "Flint, MI"
     ],
     [
       "Data Science & MLOps Internship Summer 2026",
@@ -99,29 +59,14 @@
       "Chicago (Green St), IL"
     ],
     [
-      "Financial Analyst Intern",
+      "Senior Product Designer",
       "Not specified",
       "Chicago (Green St), IL"
     ],
     [
-      "Associate Manager, End User Technology",
+      "Team Lead, Knowledge Management",
       "Not specified",
       "Chicago (Green St), IL"
-    ],
-    [
-      "Client Engagement Manager",
-      "Not specified",
-      "Virtual, USA"
-    ],
-    [
-      "Director, HR Business Partner",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Business Data Analyst \u2013 Subrogation Strategy",
-      "Not specified",
-      "Virtual, USA"
     ],
     [
       "Product Analyst Intern Summer 2026",
@@ -129,47 +74,27 @@
       "Chicago (Green St), IL"
     ],
     [
-      "Vehicle Inventory Rep & Auditor (Missoula, MT)",
+      "Vehicle Inventory Rep & Auditor (Toledo, OH)",
       "Not specified",
-      "Missoula, MT"
+      "Toledo, OH"
     ],
     [
-      "Regional Business Manager",
+      "Parts Implementation Specialist",
       "Not specified",
-      "3 Locations"
+      "Sioux Falls, SD"
     ],
     [
-      "Security Internship",
+      "Vehicle Inventory Rep & Auditor (Lagrange/Columbus, GA)",
       "Not specified",
-      "Chicago (Green St), IL"
+      "2 Locations"
     ],
     [
-      "R&D Intern",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Lead Software Engineer - .NET, Azure Cloud, AI-Ready",
+      "Vice President, APD Sales",
       "Not specified",
       "Chicago (Green St), IL"
     ],
     [
-      "Vehicle Inventory Rep & Auditor (Eugene, OR)",
-      "Not specified",
-      "Eugene, OR"
-    ],
-    [
-      "IT Compliance Internship Summer 2026",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Audit Specialist",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Employee Relations Specialist",
+      "Black Belt Lean Six Sigma and Automation Trainer",
       "Not specified",
       "Chicago (Green St), IL"
     ],
@@ -184,54 +109,9 @@
       "Syracuse, NY"
     ],
     [
-      "Director, Product Management",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Black Belt Lean Six Sigma Trainer",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Associate Business Systems Analyst",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Client Solutions Advisor",
+      "Vehicle Inventory Rep & Auditor (Newport News/Hampton, VA)",
       "Not specified",
       "2 Locations"
-    ],
-    [
-      "ELEVATE Advisor",
-      "Not specified",
-      "Virtual, USA"
-    ],
-    [
-      "Casualty Sr. Solutions Engineer",
-      "Not specified",
-      "Virtual, USA"
-    ],
-    [
-      "Team Lead, Knowledge Management",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Application Architect",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Vehicle Inventory Rep & Auditor (Westbrook, ME)",
-      "Not specified",
-      "Westbrook, ME"
-    ],
-    [
-      "Site Reliability Engineer - AWS",
-      "Not specified",
-      "Chicago (Green St), IL"
     ],
     [
       "Senior Director, Strategic Sourcing, Procurement & Facilities",
@@ -239,22 +119,7 @@
       "Chicago (Green St), IL"
     ],
     [
-      "SRE Intern Summer 2026",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Vehicle Inventory Rep & Auditor (Lagrange/Columbus, GA)",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Director, Product Management - Outbound Subrogation",
-      "Not specified",
-      "Chicago (Green St), IL"
-    ],
-    [
-      "Business Data Analyst",
+      "Associate Manager, End User Technology",
       "Not specified",
       "Chicago (Green St), IL"
     ],
@@ -264,17 +129,17 @@
       "Chicago (Green St), IL"
     ],
     [
-      "Technical Accounting Lead",
+      "ELEVATE Specialist",
       "Not specified",
-      "Chicago (Green St), IL"
+      "Virtual, USA"
     ],
     [
-      "Vehicle Inventory Rep & Auditor (Newport News/Hampton, VA)",
+      "Vehicle Inventory Rep & Auditor (Omaha, NE)",
       "Not specified",
-      "2 Locations"
+      "Omaha, NE"
     ],
     [
-      "Product Operations Manager",
+      "Black Belt Lean Six Sigma Trainer",
       "Not specified",
       "Chicago (Green St), IL"
     ],
@@ -284,7 +149,132 @@
       "Chicago (Green St), IL"
     ],
     [
-      "Lead SDET / DevEx Engineer \u2013 Playwright + API Testing Enablement (Azure DevOps | App Insights | .NET/C# | Angular/TypeScript)",
+      "Lead Guidewire Software Engineer",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Associate Product Owner",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Client Solutions Advisor",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Associate Business Systems Analyst",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Vice President, Fraud Sales",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Business Data Analyst \u2013 Subrogation Strategy",
+      "Not specified",
+      "Virtual, USA"
+    ],
+    [
+      "R&D Intern",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Financial Analyst Intern",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Vehicle Inventory Rep & Auditor (Missoula, MT)",
+      "Not specified",
+      "Missoula, MT"
+    ],
+    [
+      "Vehicle Inventory Rep & Auditor (Fort Myers, FL)",
+      "Not specified",
+      "Fort Myers, FL"
+    ],
+    [
+      "Inside Sales Representative",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Director, HR Business Partner",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Site Reliability Engineer - AWS",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Vehicle Inventory Rep & Auditor (East Syracuse, NY)",
+      "Not specified",
+      "Syracuse, NY"
+    ],
+    [
+      "Financial Business Intelligence and FP&A Intern Summer 2026",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Lead Software Engineer - .NET, Azure Cloud, AI-Ready",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Vehicle Inventory Rep & Auditor (Westbrook, ME)",
+      "Not specified",
+      "Westbrook, ME"
+    ],
+    [
+      "Software Engineer Intern - Parts Summer 2026",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Director, Product Management - Outbound Subrogation",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "ELEVATE Advisor",
+      "Not specified",
+      "Virtual, USA"
+    ],
+    [
+      "Business Data Analyst",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Audit Specialist",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Product Operations Manager",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Product Manager - Casualty",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Client Engagement Manager",
+      "Not specified",
+      "Virtual, USA"
+    ],
+    [
+      "Security Internship",
       "Not specified",
       "Chicago (Green St), IL"
     ],
@@ -294,29 +284,39 @@
       "Chicago (Green St), IL"
     ],
     [
-      "ELEVATE Specialist",
-      "Not specified",
-      "Virtual, USA"
-    ],
-    [
-      "Software Engineer Intern \u2013 Valuation Summer 2026",
+      "Application Architect",
       "Not specified",
       "Chicago (Green St), IL"
     ],
     [
-      "Vehicle Inventory Rep & Auditor (Fort Myers, FL)",
-      "Not specified",
-      "Fort Myers, FL"
-    ],
-    [
-      "Senior Product Designer",
+      "Business Analyst \u2013 Salesforce Service Cloud",
       "Not specified",
       "Chicago (Green St), IL"
     ],
     [
-      "Vehicle Inventory Rep & Auditor (Flint, MI)",
+      "Director, Product Management",
       "Not specified",
-      "Flint, MI"
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Lead SDET / DevEx Engineer \u2013 Playwright + API Testing Enablement (Azure DevOps | App Insights | .NET/C# | Angular/TypeScript)",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "IT Compliance Internship Summer 2026",
+      "Not specified",
+      "Chicago (Green St), IL"
+    ],
+    [
+      "Regional Business Manager",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Automation Engineer Intern - Parts Summer 2026",
+      "Not specified",
+      "Chicago (Green St), IL"
     ]
   ]
 }
