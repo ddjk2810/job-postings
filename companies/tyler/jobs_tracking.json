@@ -1,12 +1,32 @@
 {
-  "last_updated": "2026-02-27T07:39:35.213376",
-  "job_count": 55,
-  "active_count": 39,
+  "last_updated": "2026-02-28T06:39:31.217918",
+  "job_count": 56,
+  "active_count": 40,
   "jobs": [
     [
-      "Senior Customer Success",
+      "Senior Tax Accountant",
       "Not specified",
-      "Trenton, New Jersey"
+      "Plano, Texas"
+    ],
+    [
+      "Cloud Services Analyst",
+      "Not specified",
+      "Lawrenceville, Georgia"
+    ],
+    [
+      "Implementation Director",
+      "Not specified",
+      "Denver, Colorado"
+    ],
+    [
+      "Project Manager (Public Safety)",
+      "Not specified",
+      "Troy, Michigan"
+    ],
+    [
+      "Software Development Intern, Year-Round (May Start)",
+      "Not specified",
+      "Orono, Maine"
     ],
     [
       "Business Analyst/QA Specialist",
@@ -14,22 +34,62 @@
       "Lubbock, Texas"
     ],
     [
+      "Strategic Account Executive - Wisconsin",
+      "Not specified",
+      "Madison, Wisconsin"
+    ],
+    [
+      "Sr. Director of Delivery",
+      "Not specified",
+      "Herndon, Virginia"
+    ],
+    [
+      "Associate Project Manager (Public Safety)",
+      "Not specified",
+      "Troy, Michigan"
+    ],
+    [
+      "Implementation Consultant/Business Analyst",
+      "Not specified",
+      "Apopka, Florida"
+    ],
+    [
+      "Senior Software Engineer",
+      "Not specified",
+      "Herndon, Virginia"
+    ],
+    [
       "GIS Services Specialist",
       "Not specified",
       "Latham, New York"
     ],
     [
-      "Senior Tax Accountant",
+      "Project Manager",
       "Not specified",
-      "Plano, Texas"
+      "Lakewood, Colorado"
     ],
     [
-      "Associate CloudOps Engineer",
+      "Lead Software Engineer",
+      "Not specified",
+      "Troy, Michigan"
+    ],
+    [
+      "Product Owner",
+      "Not specified",
+      "Falmouth, Maine"
+    ],
+    [
+      "Application Security Intern, Summer 2026",
+      "Not specified",
+      "Yarmouth, Maine"
+    ],
+    [
+      "Automation Engineer, Municipal & Schools",
       "Not specified",
       "Manila, Philippines"
     ],
     [
-      "Automation Engineer, Municipal & Schools",
+      "Tax Accountant",
       "Not specified",
       "Manila, Philippines"
     ],
@@ -39,202 +99,7 @@
       "Troy, Michigan"
     ],
     [
-      "IT Incident & Crisis Management Intern, Summer 2026",
-      "Not specified",
-      "Yarmouth, Maine"
-    ],
-    [
-      "Sales Engineer",
-      "Not specified",
-      "Troy, Michigan"
-    ],
-    [
-      "Implementation Director",
-      "Not specified",
-      "Denver, Colorado"
-    ],
-    [
-      "Director of Technology",
-      "Not specified",
-      "Denver, Colorado"
-    ],
-    [
-      "Implementation Consultant/Business Analyst",
-      "Not specified",
-      "Apopka, Florida"
-    ],
-    [
       "Client Experience Advocate",
-      "Not specified",
-      "Manila, Philippines"
-    ],
-    [
-      "Product Manager - API Platform & Ecosystem",
-      "Not specified",
-      "Troy, Michigan"
-    ],
-    [
-      "Software Engineer, .NET",
-      "Not specified",
-      "Overland Park, Kansas"
-    ],
-    [
-      "You will be part of a cross-functional team that is responsible for the full software development life cycle, from conception to deployment.  As a Full Stack Developer, you should be comfortable around both front-end and back-end coding languages, leveraging AI tools, development frameworks and third-party libraries.",
-      "Not specified",
-      "Account Executive, Payment Solution Sales"
-    ],
-    [
-      "Associate Project Manager (Public Safety)",
-      "Not specified",
-      "Troy, Michigan"
-    ],
-    [
-      "Strategic Account Executive - Wisconsin",
-      "Not specified",
-      "Madison, Wisconsin"
-    ],
-    [
-      "Account Manager",
-      "Not specified",
-      "Montgomery, Alabama"
-    ],
-    [
-      "Software Development Intern, Summer 2026",
-      "Not specified",
-      "Lawrenceville, Georgia"
-    ],
-    [
-      "Client Success Manager",
-      "Not specified",
-      "Trenton, New Jersey"
-    ],
-    [
-      "Manager, Software Engineering",
-      "Not specified",
-      "Montgomery, Alabama"
-    ],
-    [
-      "Product Management Intern, Summer 2026",
-      "Not specified",
-      "Troy, Michigan"
-    ],
-    [
-      "Trade Show Logistics Coordinator",
-      "Not specified",
-      "Plano, Texas"
-    ],
-    [
-      "Software Engineer",
-      "Not specified",
-      "Troy, Michigan"
-    ],
-    [
-      "Strategic Account Executive - Florida",
-      "Not specified",
-      "Tallahassee, Florida"
-    ],
-    [
-      "Tax Accountant",
-      "Not specified",
-      "Manila, Philippines"
-    ],
-    [
-      "FP&A Director",
-      "Not specified",
-      "Plano, Texas"
-    ],
-    [
-      "Applications Administrator",
-      "Not specified",
-      "Plano, Texas"
-    ],
-    [
-      "Client Success Account Manager - Riverside, CA",
-      "Not specified",
-      "Riverside, California"
-    ],
-    [
-      "Java Software Developer",
-      "Not specified",
-      "Topeka, Kansas"
-    ],
-    [
-      "Project Manager (Public Safety)",
-      "Not specified",
-      "Troy, Michigan"
-    ],
-    [
-      "Sr. Director of Delivery",
-      "Not specified",
-      "Herndon, Virginia"
-    ],
-    [
-      "Sr. Software Engineer",
-      "Not specified",
-      "Plano, Texas"
-    ],
-    [
-      "Quality Assurance Analyst",
-      "Not specified",
-      "North Logan, Utah"
-    ],
-    [
-      "Software Development Intern, Year-Round (May Start)",
-      "Not specified",
-      "Orono, Maine"
-    ],
-    [
-      "Technical Services Intern, Summer 2026",
-      "Not specified",
-      "Lawrenceville, Georgia"
-    ],
-    [
-      "Cloud Services Analyst",
-      "Not specified",
-      "Lawrenceville, Georgia"
-    ],
-    [
-      "Responsible for the annual and multi-year planning as well as quarterly forecasting for a company's business division.  Creates and presents managerial financial and KPI reporting.  Collaborates across the Company to help Tyler achieve its financial goals.  Leads and manages a team of FP&A professionals.",
-      "Not specified",
-      "Product Analyst, Telematics"
-    ],
-    [
-      "Account Representative",
-      "Not specified",
-      "Lubbock, Texas"
-    ],
-    [
-      "Technical Services Internship, Summer 2026",
-      "Not specified",
-      "Yarmouth, Maine"
-    ],
-    [
-      "Lead Software Engineer",
-      "Not specified",
-      "Troy, Michigan"
-    ],
-    [
-      "Product Analyst - Dispatch",
-      "Not specified",
-      "Latham, New York"
-    ],
-    [
-      "Senior Software Engineer",
-      "Not specified",
-      "Herndon, Virginia"
-    ],
-    [
-      "Senior Lead Software Engineer",
-      "Not specified",
-      "Lakewood, Colorado"
-    ],
-    [
-      "Property Data Collector (Northumberland County)",
-      "Not specified",
-      "Sunbury, Pennsylvania"
-    ],
-    [
-      "CloudOps Engineer",
       "Not specified",
       "Manila, Philippines"
     ],
@@ -244,24 +109,54 @@
       "Manila, Philippines"
     ],
     [
-      "Product Owner",
+      "Client Success Tools Administrator",
       "Not specified",
-      "Falmouth, Maine"
+      "Manila, Philippines"
     ],
     [
-      "Project Manager",
+      "Product Analyst - Dispatch",
       "Not specified",
-      "Lakewood, Colorado"
+      "Latham, New York"
     ],
     [
-      "Director of Operations",
+      "Account Representative",
       "Not specified",
-      "Madison, Wisconsin"
+      "Lubbock, Texas"
     ],
     [
-      "Staff Accountant",
+      "FP&A Director",
       "Not specified",
-      "Overland Park, Kansas"
+      "Plano, Texas"
+    ],
+    [
+      "Accounts Payable Specialist",
+      "Not specified",
+      "Manila, Philippines"
+    ],
+    [
+      "Strategic Account Executive - Florida",
+      "Not specified",
+      "Tallahassee, Florida"
+    ],
+    [
+      "Software Engineer",
+      "Not specified",
+      "Troy, Michigan"
+    ],
+    [
+      "Technical Services Intern, Summer 2026",
+      "Not specified",
+      "Lawrenceville, Georgia"
+    ],
+    [
+      "Java Software Developer",
+      "Not specified",
+      "Topeka, Kansas"
+    ],
+    [
+      "Product Manager - API Platform & Ecosystem",
+      "Not specified",
+      "Troy, Michigan"
     ],
     [
       "Property Data Collector (Union County)",
@@ -269,14 +164,124 @@
       "Lewisburg, Pennsylvania"
     ],
     [
-      "Client Success Tools Administrator",
+      "Associate CloudOps Engineer",
       "Not specified",
       "Manila, Philippines"
     ],
     [
-      "Application Security Intern, Summer 2026",
+      "Sr. Software Engineer",
+      "Not specified",
+      "Plano, Texas"
+    ],
+    [
+      "Property Data Collector (Northumberland County)",
+      "Not specified",
+      "Sunbury, Pennsylvania"
+    ],
+    [
+      "Client Success Manager",
+      "Not specified",
+      "Trenton, New Jersey"
+    ],
+    [
+      "Staff Accountant",
+      "Not specified",
+      "Overland Park, Kansas"
+    ],
+    [
+      "Product Management Intern, Summer 2026",
+      "Not specified",
+      "Troy, Michigan"
+    ],
+    [
+      "Software Engineer, .NET",
+      "Not specified",
+      "Overland Park, Kansas"
+    ],
+    [
+      "Manager, Software Engineering",
+      "Not specified",
+      "Montgomery, Alabama"
+    ],
+    [
+      "Technical Services Internship, Summer 2026",
       "Not specified",
       "Yarmouth, Maine"
+    ],
+    [
+      "Director of Technology",
+      "Not specified",
+      "Denver, Colorado"
+    ],
+    [
+      "Client Success Account Manager - Riverside, CA",
+      "Not specified",
+      "Riverside, California"
+    ],
+    [
+      "CloudOps Engineer",
+      "Not specified",
+      "Manila, Philippines"
+    ],
+    [
+      "Quality Assurance Analyst",
+      "Not specified",
+      "North Logan, Utah"
+    ],
+    [
+      "Applications Administrator",
+      "Not specified",
+      "Plano, Texas"
+    ],
+    [
+      "IT Incident & Crisis Management Intern, Summer 2026",
+      "Not specified",
+      "Yarmouth, Maine"
+    ],
+    [
+      "Trade Show Logistics Coordinator",
+      "Not specified",
+      "Plano, Texas"
+    ],
+    [
+      "Sales Engineer",
+      "Not specified",
+      "Troy, Michigan"
+    ],
+    [
+      "You will be part of a cross-functional team that is responsible for the full software development life cycle, from conception to deployment.  As a Full Stack Developer, you should be comfortable around both front-end and back-end coding languages, leveraging AI tools, development frameworks and third-party libraries.",
+      "Not specified",
+      "Account Executive, Payment Solution Sales"
+    ],
+    [
+      "Software Development Intern, Summer 2026",
+      "Not specified",
+      "Lawrenceville, Georgia"
+    ],
+    [
+      "Senior Lead Software Engineer",
+      "Not specified",
+      "Lakewood, Colorado"
+    ],
+    [
+      "Account Manager",
+      "Not specified",
+      "Montgomery, Alabama"
+    ],
+    [
+      "Senior Customer Success",
+      "Not specified",
+      "Trenton, New Jersey"
+    ],
+    [
+      "Director of Operations",
+      "Not specified",
+      "Madison, Wisconsin"
+    ],
+    [
+      "Responsible for the annual and multi-year planning as well as quarterly forecasting for a company's business division.  Creates and presents managerial financial and KPI reporting.  Collaborates across the Company to help Tyler achieve its financial goals.  Leads and manages a team of FP&A professionals.",
+      "Not specified",
+      "Product Analyst, Telematics"
     ]
   ]
 }
