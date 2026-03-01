@@ -1,97 +1,17 @@
 {
-  "last_updated": "2026-02-28T07:20:02.564401",
+  "last_updated": "2026-03-01T06:47:37.429607",
   "job_count": 33,
   "active_count": 12,
   "jobs": [
     [
-      "Tech Lead",
-      "Not specified",
+      "Software Engineer",
+      "Software",
       "HUN - Budapest, Budapest,, HU"
-    ],
-    [
-      "Sr. Product Designer",
-      "Not specified",
-      "Work at Home - US, US"
-    ],
-    [
-      "Regulatory Writer I",
-      "Not specified",
-      "PHL - Manila, Manila,, PH"
-    ],
-    [
-      "Director of Commercial Finance Forecasting and Planning",
-      "Not specified",
-      "Work at Home - US, US"
-    ],
-    [
-      "R&A- Associate Principal Regulatory Writer- APRW (Clinical focus)",
-      "Not specified",
-      "Multiple"
-    ],
-    [
-      "Senior Product Manager",
-      "Not specified",
-      "Work at Home - US, US"
-    ],
-    [
-      "Sr. Software Engineer",
-      "Not specified",
-      "PA - Radnor, Radnor, Pennsylvania, US"
-    ],
-    [
-      "Financial Analyst (FP&A)",
-      "Not specified",
-      "PHL - Manila, Manila,, PH"
-    ],
-    [
-      "R&A Associate Principal Medical Writer- (MedPubs Focus)",
-      "Support/Other",
-      "Multiple"
-    ],
-    [
-      "R&A - Associate Principal Regulatory Writer (APRW) - Clinical Focus",
-      "Support/Other",
-      "Work at Home - EMEA, GB"
-    ],
-    [
-      "Senior (Financial) Accountant",
-      "Scientific",
-      "NLD - Oss, Oss,, NL"
-    ],
-    [
-      "Regulatory Writer I",
-      "Not specified",
-      "HUN - Budapest"
-    ],
-    [
-      "Application Scientist",
-      "Not specified",
-      "Multiple"
-    ],
-    [
-      "Associate Scientist, SAS Programmer",
-      "Scientific",
-      "Work at Home - EMEA, GB"
     ],
     [
       "Scientific Software Engineer",
       "Software",
-      "HUN - Budapest, Budapest,, HU"
-    ],
-    [
-      "Customer Success Manager",
-      "Support/Other",
-      "Multiple"
-    ],
-    [
-      "Senior Product Manager",
-      "Scientific",
-      "Work at Home - US, US"
-    ],
-    [
-      "Software Engineer",
-      "Software",
-      "HUN - Budapest, Budapest,, HU"
+      "HUN - Budapest"
     ],
     [
       "Financial Analyst (FP&A)",
@@ -104,18 +24,88 @@
       "Work at Home - US"
     ],
     [
+      "Regulatory Writer I",
+      "Not specified",
+      "HUN - Budapest"
+    ],
+    [
+      "Customer Success Manager",
+      "Support/Other",
+      "Multiple"
+    ],
+    [
+      "Sr. Software Engineer",
+      "Not specified",
+      "PA - Radnor, Radnor, Pennsylvania, US"
+    ],
+    [
+      "Application Scientist",
+      "Not specified",
+      "Multiple"
+    ],
+    [
+      "Customer Success Manager",
+      "Not specified",
+      "Multiple"
+    ],
+    [
+      "R&A - Associate Principal Regulatory Writer (APRW) - Clinical Focus",
+      "Support/Other",
+      "Work at Home - EMEA, GB"
+    ],
+    [
+      "Senior DevOps Engineer",
+      "Not specified",
+      "HUN - Budapest, Budapest,, HU"
+    ],
+    [
+      "Director of Commercial Finance Forecasting and Planning",
+      "Not specified",
+      "Work at Home - US, US"
+    ],
+    [
+      "Financial Analyst (FP&A)",
+      "Not specified",
+      "PHL - Manila, Manila,, PH"
+    ],
+    [
+      "Senior (Financial) Accountant",
+      "Scientific",
+      "NLD - Oss, Oss,, NL"
+    ],
+    [
+      "Associate Director, Pharmacometrics",
+      "Scientific",
+      "Multiple"
+    ],
+    [
+      "Senior Product Manager",
+      "Not specified",
+      "Work at Home - US, US"
+    ],
+    [
+      "Tech Lead",
+      "Not specified",
+      "HUN - Budapest, Budapest,, HU"
+    ],
+    [
+      "Senior Product Manager",
+      "Scientific",
+      "Work at Home - US, US"
+    ],
+    [
+      "Sr. Project Manager",
+      "Not specified",
+      "Multiple"
+    ],
+    [
       "R&A- Senior Regulatory Writer- SRW (Clinical focus)",
       "Support/Other",
       "Work at Home - EMEA, GB"
     ],
     [
-      "Director, Pharmacometrics",
-      "Scientific",
-      "Multiple"
-    ],
-    [
-      "Senior DevOps Engineer",
-      "Not specified",
+      "Scientific Software Engineer",
+      "Software",
       "HUN - Budapest, Budapest,, HU"
     ],
     [
@@ -124,17 +114,27 @@
       "Multiple"
     ],
     [
+      "Associate Scientist, SAS Programmer",
+      "Scientific",
+      "Work at Home - EMEA, GB"
+    ],
+    [
       "R&A - Associate Principal Regulatory Writer (APRW) - Clinical",
       "Support/Other",
       "Work at Home - EMEA, GB"
     ],
     [
-      "Associate Director, Pharmacometrics",
+      "Tech Lead",
+      "Not specified",
+      "Multiple"
+    ],
+    [
+      "Director, Pharmacometrics",
       "Scientific",
       "Multiple"
     ],
     [
-      "Customer Success Manager",
+      "R&A- Associate Principal Regulatory Writer- APRW (Clinical focus)",
       "Not specified",
       "Multiple"
     ],
@@ -144,18 +144,8 @@
       "Multiple"
     ],
     [
-      "Sr. Project Manager",
-      "Not specified",
-      "Multiple"
-    ],
-    [
-      "R&A Associate Principal Medical Writer",
+      "R&A Associate Principal Medical Writer- (MedPubs Focus)",
       "Support/Other",
-      "Multiple"
-    ],
-    [
-      "Tech Lead",
-      "Not specified",
       "Multiple"
     ],
     [
@@ -164,9 +154,19 @@
       "PHL - Manila"
     ],
     [
-      "Scientific Software Engineer",
-      "Software",
-      "HUN - Budapest"
+      "Regulatory Writer I",
+      "Not specified",
+      "PHL - Manila, Manila,, PH"
+    ],
+    [
+      "R&A Associate Principal Medical Writer",
+      "Support/Other",
+      "Multiple"
+    ],
+    [
+      "Sr. Product Designer",
+      "Not specified",
+      "Work at Home - US, US"
     ]
   ]
 }

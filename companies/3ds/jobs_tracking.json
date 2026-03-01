@@ -1,66 +1,31 @@
 {
-  "last_updated": "2026-02-28T07:20:02.202425",
-  "job_count": 123,
+  "last_updated": "2026-03-01T06:47:36.981716",
+  "job_count": 127,
   "active_count": 15,
   "jobs": [
     [
-      "Staff Accountant (New York City)",
-      "FINANCE",
-      "United States, NY, New York"
-    ],
-    [
-      "Director, Project Management, Patient Cloud (Remote)",
+      "Project Manager",
       "SERVICES",
-      "United States, NY, New York"
+      "Brazil, SP, Sao Paulo"
     ],
     [
-      "Senior Director, Global Deployment & Logistics (Remote)",
-      "SERVICES",
-      "United States, NY, New York"
-    ],
-    [
-      "Senior Technical Product Manager (Remote or Hybrid NY/NJ)",
-      "RESEARCH & DEVELOPMENT",
-      "United States, NY, New York"
-    ],
-    [
-      "INTERNSHIP: R&D Web Development",
-      "RESEARCH & DEVELOPMENT",
-      "United States, MI, Royal Oak"
-    ],
-    [
-      "Sales Representative, Cloud & SaaS Solutions",
+      "STAGE - Consultant technique MBSE (F/H)",
       "SALES",
-      "United States, CA, San Diego"
-    ],
-    [
-      "STAGE - Ing\u00e9nieur Generative 3D Multimodality | Data Scientist (F/H)",
-      "RESEARCH & DEVELOPMENT",
       "France, V\u00e9lizy-Villacoublay"
     ],
     [
-      "Solution Sales Specialist, CTMS / eTMF",
+      "SIMULIA Industry Process Consultant",
       "SALES",
-      "United States, CA, San Diego"
-    ],
-    [
-      "Solution Sales Specialist, Patient Experience-eCOA",
-      "SALES",
-      "United States, NY, New York"
-    ],
-    [
-      "Manager Op\u00e9rations de Ventes (F/H)",
-      "FINANCE",
-      "France, V\u00e9lizy-Villacoublay"
-    ],
-    [
-      "Analyste Groupe Tr\u00e9sorerie, Projets, Process & Syst\u00e8mes (F/H)",
-      "FINANCE",
-      "France, V\u00e9lizy-Villacoublay"
+      "Taiwan,China, TPE, Taipei"
     ],
     [
       "Network Engineer - (LAN/WLAN \u2013 Cisco Enterprise)",
       "INFORMATION TECHNOLOGY",
+      "United States, MA, Waltham"
+    ],
+    [
+      "INTERNSHIP - Industry Process Consultant",
+      "SALES",
       "United States, MA, Waltham"
     ],
     [
@@ -69,39 +34,34 @@
       "Germany, Munich"
     ],
     [
-      "QA Test Framework Developer F/H",
-      "RESEARCH & DEVELOPMENT",
-      "France, Saint-Cloud"
-    ],
-    [
-      "CPE PSM - East Region",
-      "SALES",
-      "China, SH, Shanghai"
-    ],
-    [
-      "INDUSTRY PROCESS CONSULTANT",
-      "SALES",
-      "India, MH, Pune"
-    ],
-    [
-      "Strategic Account Manager \u2013 3D Software Development Kits",
-      "SALES",
-      "United States, MA, Waltham"
-    ],
-    [
       "ENOVIA Sales Executive - PLM Software",
       "SALES",
       "United States, MI, Royal Oak"
     ],
     [
-      "Working Student (m/f/d) \u2013 Python Development Assistant",
+      "Ing\u00e9nieur d\u00e9veloppement Back-End d'une Plateforme M\u00e9dicale (F/H)",
       "RESEARCH & DEVELOPMENT",
-      "Germany, Darmstadt"
+      "France, V\u00e9lizy-Villacoublay"
     ],
     [
-      "Ing\u00e9nieur DevOps Exp\u00e9riment\u00e9 (F/H)",
-      "RESEARCH & DEVELOPMENT",
-      "France, Saint-Cloud"
+      "Data Center Arista LAN Specialist",
+      "INFORMATION TECHNOLOGY",
+      "India, MH, Pune"
+    ],
+    [
+      "Solution Sales Specialist, CTMS / eTMF",
+      "SALES",
+      "United States, CA, San Diego"
+    ],
+    [
+      "Client Executive - Manufacturing Industries (m/f/d)",
+      "SALES",
+      "Germany, Munich"
+    ],
+    [
+      "Accounts Payable Specialist",
+      "FINANCE",
+      "United States, MA, Waltham"
     ],
     [
       "Solution Architect",
@@ -109,9 +69,124 @@
       "Brazil, SP, Sao Paulo"
     ],
     [
-      "Data Center Arista LAN Specialist",
-      "INFORMATION TECHNOLOGY",
-      "India, MH, Pune"
+      "SaaS sales expert ( Graduate Program)",
+      "SALES",
+      "China, JS, Nanjing"
+    ],
+    [
+      "STAGE - D\u00e9veloppeur Java - Cloud (F/H)",
+      "RESEARCH & DEVELOPMENT",
+      "France, V\u00e9lizy-Villacoublay"
+    ],
+    [
+      "INTERNSHIP: R&D Web Development",
+      "RESEARCH & DEVELOPMENT",
+      "United States, MI, Royal Oak"
+    ],
+    [
+      "Solution Sales Specialist, Patient Experience-eCOA",
+      "SALES",
+      "United States, NY, New York"
+    ],
+    [
+      "Simulation Sales Rep - Transportation & Mobility",
+      "SALES",
+      "United States, MI, Royal Oak"
+    ],
+    [
+      "Sales Representative, Cloud & SaaS Solutions",
+      "SALES",
+      "United States, CA, San Diego"
+    ],
+    [
+      "INTERNSHIP: Change Management",
+      "RESEARCH & DEVELOPMENT",
+      "United States, MA, Waltham"
+    ],
+    [
+      "Business Planning & Operations Intern",
+      "FINANCE",
+      "United Kingdom, Cambridge"
+    ],
+    [
+      "STAGE \u2013 Chef de Projet et Transformation (F/H)",
+      "FINANCE",
+      "France, V\u00e9lizy-Villacoublay"
+    ],
+    [
+      "Strategic Account Manager \u2013 3D Software Development Kits",
+      "SALES",
+      "United States, MA, Waltham"
+    ],
+    [
+      "Ing\u00e9nieur DevOps Exp\u00e9riment\u00e9 (F/H)",
+      "RESEARCH & DEVELOPMENT",
+      "France, Saint-Cloud"
+    ],
+    [
+      "Working Student (m/f/d) \u2013 Electromagnetics AI/ML Surrogate Modeling",
+      "RESEARCH & DEVELOPMENT",
+      "Germany, Darmstadt"
+    ],
+    [
+      "Operational Advisor (DQRS)",
+      "SERVICES",
+      "United Kingdom, London"
+    ],
+    [
+      "Experiential Marketing Senior Manager - Events",
+      "MARKETING & COMMUNICATIONS",
+      "United States, NY, New York"
+    ],
+    [
+      "Ing\u00e9nieur de donn\u00e9es (F/H)",
+      "RESEARCH & DEVELOPMENT",
+      "France, V\u00e9lizy-Villacoublay"
+    ],
+    [
+      "STAGE - Ing\u00e9nieur Qualit\u00e9 Construction (F/H)",
+      "RESEARCH & DEVELOPMENT",
+      "France, V\u00e9lizy-Villacoublay"
+    ],
+    [
+      "STAGE - Architecte de Solutions \u2013 Transformation Digitale A\u00e9ronautique - Nantes (F/H)",
+      "SERVICES",
+      "France, Bouguenais"
+    ],
+    [
+      "Software Engineer Intern (Backend)",
+      "RESEARCH & DEVELOPMENT",
+      "Malaysia, 10, Petaling Jaya"
+    ],
+    [
+      "Ing\u00e9nieur d\u00e9veloppement JAVA / CLOUD - expert (F/H)",
+      "RESEARCH & DEVELOPMENT",
+      "France, V\u00e9lizy-Villacoublay"
+    ],
+    [
+      "Responsable de la s\u00e9curit\u00e9 GRC F/H",
+      "RESEARCH & DEVELOPMENT",
+      "France, Saint-Cloud"
+    ],
+    [
+      "Solution Consultant \u2013 PLM",
+      "SALES",
+      "Brazil, SP, Sao Paulo"
+    ],
+    [
+      "SIMULIA Sales Expert",
+      "SALES",
+      "Japan, 13, Tokyo"
+    ],
+    [
+      "CATIA Brand Client Executive",
+      "SALES",
+      "Korea, Republic of, 11, Seoul"
+    ],
+    [
+      "CDD 8 mois - Ing\u00e9nieur de recherche en Analyse d'images (F/H)",
+      "RESEARCH & DEVELOPMENT",
+      "France, Valbonne"
     ],
     [
       "Project Manager",
@@ -124,8 +199,88 @@
       "United States, NY, New York"
     ],
     [
-      "Ing\u00e9nieur D\u00e9veloppement Logiciel (F/H)",
+      "Auotmation Intelligence Solutions Lead (Remote)",
+      "FINANCE",
+      "United States, NJ, Iselin"
+    ],
+    [
+      "INTERNSHIP: Learning Experience Specialist",
+      "PEOPLE & ENVIRONMENT",
+      "United States, MA, Waltham"
+    ],
+    [
+      "Solution Sales Specialist, Data Experience",
+      "SALES",
+      "United States, NY, New York"
+    ],
+    [
+      "PMO Intern",
+      "SERVICES",
+      "Poland, Krakow"
+    ],
+    [
+      "Partner Acquisition Specialist (Intern)",
+      "SALES",
+      "Singapore, Singapore"
+    ],
+    [
+      "Teamleiter Eventmanagement (m/w/d)",
+      "MARKETING & COMMUNICATIONS",
+      "Germany, Munich"
+    ],
+    [
+      "Enterprise Support Analyst",
+      "INFORMATION TECHNOLOGY",
+      "United States, NJ, Iselin"
+    ],
+    [
+      "Sales Mediator INDIA",
+      "SALES",
+      "India, HR, Gurgaon"
+    ],
+    [
+      "Senior Technical Product Manager (Remote or Hybrid NY/NJ)",
       "RESEARCH & DEVELOPMENT",
+      "United States, NY, New York"
+    ],
+    [
+      "QA Intern Core Tech Client",
+      "RESEARCH & DEVELOPMENT",
+      "Malaysia, 10, Petaling Jaya"
+    ],
+    [
+      "Industry Consultant for Fabrication, Machining and Additive Manufacturing",
+      "SALES",
+      "United States, MI, Royal Oak"
+    ],
+    [
+      "Video Senior Manager",
+      "MARKETING & COMMUNICATIONS",
+      "United States, NY, New York"
+    ],
+    [
+      "Senior SQL Server Developer",
+      "SERVICES",
+      "India, MH, Pune"
+    ],
+    [
+      "INTERNSHIP - Customer Success - GenAI NLP",
+      "RESEARCH & DEVELOPMENT",
+      "United States, RI, Johnston"
+    ],
+    [
+      "Analyste Prix de Transfert global \u2013 CDD de 5 mois (F/H)",
+      "FINANCE",
+      "France, V\u00e9lizy-Villacoublay"
+    ],
+    [
+      "Finance Intern",
+      "FINANCE",
+      "Korea, Republic of, 11, Seoul"
+    ],
+    [
+      "Sp\u00e9cialiste Comptabilit\u00e9 & Gestion Portail Clients (F/H)",
+      "FINANCE",
       "France, V\u00e9lizy-Villacoublay"
     ],
     [
@@ -134,64 +289,14 @@
       "United States, CA, Long Beach"
     ],
     [
-      "Operational Advisor (DQRS)",
-      "SERVICES",
-      "United Kingdom, London"
-    ],
-    [
-      "PMO Intern",
-      "SERVICES",
-      "Poland, Krakow"
-    ],
-    [
-      "Senior SQL Server Developer",
-      "SERVICES",
-      "India, MH, Pune"
-    ],
-    [
-      "Project Manager",
-      "SERVICES",
-      "Brazil, SP, Sao Paulo"
-    ],
-    [
-      "Ing\u00e9nieur de donn\u00e9es (F/H)",
-      "RESEARCH & DEVELOPMENT",
-      "France, V\u00e9lizy-Villacoublay"
-    ],
-    [
-      "Sr. Business Development Specialist",
+      "DELMIAWorks Business Development Associate",
       "SALES",
-      "United States, NJ, Iselin"
+      "United States, MA, Waltham"
     ],
     [
-      "Consultant Industrie et valeur client (F/H)",
-      "INDUSTRY",
-      "France, V\u00e9lizy-Villacoublay"
-    ],
-    [
-      "Auotmation Intelligence Solutions Lead (Remote)",
-      "FINANCE",
-      "United States, NJ, Iselin"
-    ],
-    [
-      "Client Executive - Manufacturing Industries (m/f/d)",
-      "SALES",
-      "Germany, Munich"
-    ],
-    [
-      "Consultant en Solutions \u2013 DELMIA Quinitiq (F-H)",
-      "SALES",
-      "France, V\u00e9lizy-Villacoublay"
-    ],
-    [
-      "3DEXPERIENCE EDU Sales",
-      "SALES",
-      "China, SH, Shanghai"
-    ],
-    [
-      "STAGE - Ing\u00e9nieur Qualit\u00e9 Construction (F/H)",
-      "RESEARCH & DEVELOPMENT",
-      "France, V\u00e9lizy-Villacoublay"
+      "People Care Specialist",
+      "PEOPLE & ENVIRONMENT",
+      "Korea, Republic of, 11, Seoul"
     ],
     [
       "Catia Internship",
@@ -199,13 +304,113 @@
       "China, SH, Shanghai"
     ],
     [
-      "Video Senior Manager",
-      "MARKETING & COMMUNICATIONS",
+      "Administrateur de base de donn\u00e9es (F/H)",
+      "INFORMATION TECHNOLOGY",
+      "France, V\u00e9lizy-Villacoublay"
+    ],
+    [
+      "Business Analyst (Agile Transformation)/ Process & Operations Transformation Expert (GBS)",
+      "FINANCE",
+      "India, MH, Pune"
+    ],
+    [
+      "Technical Support Specialist",
+      "SERVICES",
+      "United Kingdom, London"
+    ],
+    [
+      "Technologies R&D Intern - 2",
+      "RESEARCH & DEVELOPMENT",
+      "India, MH, Pune"
+    ],
+    [
+      ".Net Full Stack Developer",
+      "RESEARCH & DEVELOPMENT",
+      "India, MH, Pune"
+    ],
+    [
+      "Learning Business Partner",
+      "FINANCE",
+      "United States, MA, Waltham"
+    ],
+    [
+      "Software Engineer (R&D Internship)",
+      "RESEARCH & DEVELOPMENT",
+      "India, MH, Pune"
+    ],
+    [
+      "Solution Consultant \u2013 PLM",
+      "SERVICES",
+      "Brazil, SP, Sao Paulo"
+    ],
+    [
+      "Sr. Business Development Specialist",
+      "SALES",
+      "United States, NJ, Iselin"
+    ],
+    [
+      "Staff Accountant (New York City)",
+      "FINANCE",
       "United States, NY, New York"
     ],
     [
-      "STAGE - D\u00e9veloppeur Java - Cloud (F/H)",
+      "STAGE - Ing\u00e9nieur Generative 3D Multimodality | Data Scientist (F/H)",
       "RESEARCH & DEVELOPMENT",
+      "France, V\u00e9lizy-Villacoublay"
+    ],
+    [
+      "ENOVIA Sales Engineer",
+      "SALES",
+      "Canada, QC, Montreal"
+    ],
+    [
+      "QA Test Framework Developer F/H",
+      "RESEARCH & DEVELOPMENT",
+      "France, Saint-Cloud"
+    ],
+    [
+      "Order Management Specialist",
+      "FINANCE",
+      "India, MH, Pune"
+    ],
+    [
+      "Consolideur Financier (F/H)",
+      "FINANCE",
+      "France, V\u00e9lizy-Villacoublay"
+    ],
+    [
+      "Ing\u00e9nieur D\u00e9veloppement Logiciel (F/H)",
+      "RESEARCH & DEVELOPMENT",
+      "France, V\u00e9lizy-Villacoublay"
+    ],
+    [
+      "DELMIA Solutions Consultant Intern",
+      "SALES",
+      "Korea, Republic of, 11, Seoul"
+    ],
+    [
+      "Industry Business Development Consultant for Science in CPG \u2013 East Coast",
+      "INDUSTRY",
+      "United States, MA, Waltham"
+    ],
+    [
+      "STAGE - Ing\u00e9nieur Simulation et Optimisation des Syst\u00e8mes de Production (NVIDIA Omniverse) (F/H)",
+      "RESEARCH & DEVELOPMENT",
+      "France, V\u00e9lizy-Villacoublay"
+    ],
+    [
+      "Responsable de site/ facilities (F/H)",
+      "PEOPLE & ENVIRONMENT",
+      "France, V\u00e9lizy-Villacoublay"
+    ],
+    [
+      "Director, Offering Management",
+      "SERVICES",
+      "United States, NY, New York"
+    ],
+    [
+      "Consultant(e) solutions industrielles - Industrie Automobile (F/H)",
+      "INDUSTRY",
       "France, V\u00e9lizy-Villacoublay"
     ],
     [
@@ -214,19 +419,44 @@
       "United States, NJ, Iselin"
     ],
     [
-      "Technical Support Specialist",
-      "SERVICES",
-      "United Kingdom, London"
-    ],
-    [
-      "Business Analyst (Agile Transformation)/ Process & Operations Transformation Expert (GBS)",
-      "FINANCE",
+      "INDUSTRY PROCESS CONSULTANT",
+      "SALES",
       "India, MH, Pune"
     ],
     [
-      "Finance Intern",
-      "FINANCE",
-      "Korea, Republic of, 11, Seoul"
+      "CPE PSM - East Region",
+      "SALES",
+      "China, SH, Shanghai"
+    ],
+    [
+      "Partner Sales Manager- North Region",
+      "SALES",
+      "China, BJ, Beijing"
+    ],
+    [
+      "JavaScript Developer - Pune",
+      "RESEARCH & DEVELOPMENT",
+      "India, MH, Pune"
+    ],
+    [
+      "STAGE - Data Scientist - Systeme Multi-Agents IA & LLM (F/H)",
+      "RESEARCH & DEVELOPMENT",
+      "France, V\u00e9lizy-Villacoublay"
+    ],
+    [
+      "Software Engineer Intern (Frontend)",
+      "RESEARCH & DEVELOPMENT",
+      "Malaysia, 10, Petaling Jaya"
+    ],
+    [
+      "Product owner F/H",
+      "RESEARCH & DEVELOPMENT",
+      "France, Saint-Cloud"
+    ],
+    [
+      "Working Student (m/f/d) \u2013 Python Development Assistant",
+      "RESEARCH & DEVELOPMENT",
+      "Germany, Darmstadt"
     ],
     [
       "Ing\u00e9nieur d\u00e9veloppement Kubernetes (F/H)",
@@ -239,13 +469,103 @@
       "United States, NY, New York"
     ],
     [
-      "Industry Consultant for Fabrication, Machining and Additive Manufacturing",
-      "SALES",
-      "United States, MI, Royal Oak"
+      "Sales Operations Intern",
+      "FINANCE",
+      "Korea, Republic of, 11, Seoul"
     ],
     [
-      "STAGE - Consultant technique MBSE (F/H)",
+      "Marketing Manager",
+      "MARKETING & COMMUNICATIONS",
+      "Brazil, SP, Sao Paulo"
+    ],
+    [
+      "Consultant en Solutions \u2013 DELMIA Quinitiq (F-H)",
       "SALES",
+      "France, V\u00e9lizy-Villacoublay"
+    ],
+    [
+      "Staff Revenue Accountant (New York City)",
+      "FINANCE",
+      "United States, NY, New York"
+    ],
+    [
+      "MBSE Industry Process Consultant",
+      "SALES",
+      "United States, MA, Waltham"
+    ],
+    [
+      "Fiscaliste (F/H)",
+      "FINANCE",
+      "France, V\u00e9lizy-Villacoublay"
+    ],
+    [
+      "Consultant Industrie et valeur client (F/H)",
+      "INDUSTRY",
+      "France, V\u00e9lizy-Villacoublay"
+    ],
+    [
+      "Technical Support Engineer",
+      "SERVICES",
+      "United Kingdom, London"
+    ],
+    [
+      "Electromagnetics Software Testing - Summer Internship",
+      "RESEARCH & DEVELOPMENT",
+      "United Kingdom, Nottingham"
+    ],
+    [
+      "Senior Business Development Specialist",
+      "SALES",
+      "United Kingdom, London"
+    ],
+    [
+      "ENOVIA Sales Engineer - Detroit/Montreal Or Boston",
+      "SALES",
+      "United States, MA, Waltham"
+    ],
+    [
+      "Responsable offre Services (F/H)",
+      "SERVICES",
+      "France, Meudon La Foret"
+    ],
+    [
+      "3DEXPERIENCE EDU Sales",
+      "SALES",
+      "China, SH, Shanghai"
+    ],
+    [
+      "Audiovisual Engineering Specialist",
+      "RESEARCH & DEVELOPMENT",
+      "India, MH, Pune"
+    ],
+    [
+      "Juriste contrats",
+      "LEGAL",
+      "France, Saint-Cloud"
+    ],
+    [
+      "Regional Account Manager (eClinical Solution Sales)",
+      "SALES",
+      "Korea, Republic of, 11, Seoul"
+    ],
+    [
+      "Industry Services Manager",
+      "SERVICES",
+      "Turkey, 34, Istanbul"
+    ],
+    [
+      "Client Executive T&M South",
+      "SALES",
+      "China, GD, Guangzhou"
+    ],
+    [
+      "Director, Project Management, Patient Cloud (Remote)",
+      "SERVICES",
+      "United States, NY, New York"
+    ],
+    [
+      "Manager Op\u00e9rations de Ventes (F/H)",
+      "FINANCE",
       "France, V\u00e9lizy-Villacoublay"
     ],
     [
@@ -254,324 +574,9 @@
       "Korea, Republic of, 11, Seoul"
     ],
     [
-      "Senior Business Development Specialist",
-      "SALES",
-      "United Kingdom, London"
-    ],
-    [
-      "Implementation Consultant",
-      "SERVICES",
-      "India, MH, Pune"
-    ],
-    [
-      "Experiential Marketing Senior Manager - Events",
-      "MARKETING & COMMUNICATIONS",
-      "United States, NY, New York"
-    ],
-    [
-      "Sales Mediator INDIA",
-      "SALES",
-      "India, HR, Gurgaon"
-    ],
-    [
-      "Software Engineer Intern (Frontend)",
-      "RESEARCH & DEVELOPMENT",
-      "Malaysia, 10, Petaling Jaya"
-    ],
-    [
-      "Administrateur de base de donn\u00e9es (F/H)",
-      "INFORMATION TECHNOLOGY",
-      "France, V\u00e9lizy-Villacoublay"
-    ],
-    [
-      "Ing\u00e9nieur d\u00e9veloppement Back-End d'une Plateforme M\u00e9dicale (F/H)",
-      "RESEARCH & DEVELOPMENT",
-      "France, V\u00e9lizy-Villacoublay"
-    ],
-    [
-      "Consultant(e) solutions industrielles - Industrie Automobile (F/H)",
-      "INDUSTRY",
-      "France, V\u00e9lizy-Villacoublay"
-    ],
-    [
-      "Software Engineer (R&D Internship)",
-      "RESEARCH & DEVELOPMENT",
-      "India, MH, Pune"
-    ],
-    [
-      "Simulation Sales Rep - Transportation & Mobility",
-      "SALES",
-      "United States, MI, Royal Oak"
-    ],
-    [
-      "STAGE \u2013 Chef de Projet et Transformation (F/H)",
-      "FINANCE",
-      "France, V\u00e9lizy-Villacoublay"
-    ],
-    [
-      "Sales Operations Intern",
-      "FINANCE",
-      "Korea, Republic of, 11, Seoul"
-    ],
-    [
-      "STAGE - Ing\u00e9nieur Simulation et Optimisation des Syst\u00e8mes de Production (NVIDIA Omniverse) (F/H)",
-      "RESEARCH & DEVELOPMENT",
-      "France, V\u00e9lizy-Villacoublay"
-    ],
-    [
-      "Marketing Manager",
-      "MARKETING & COMMUNICATIONS",
-      "Brazil, SP, Sao Paulo"
-    ],
-    [
-      "Senior Technical Project Manager",
-      "SERVICES",
-      "India, MH, Pune"
-    ],
-    [
-      "ENOVIA Sales Engineer - Detroit/Montreal Or Boston",
-      "SALES",
-      "United States, MA, Waltham"
-    ],
-    [
-      "Audiovisual Engineering Specialist",
-      "RESEARCH & DEVELOPMENT",
-      "India, MH, Pune"
-    ],
-    [
-      "Fiscaliste (F/H)",
-      "FINANCE",
-      "France, V\u00e9lizy-Villacoublay"
-    ],
-    [
-      "INTERNSHIP: Change Management",
-      "RESEARCH & DEVELOPMENT",
-      "United States, MA, Waltham"
-    ],
-    [
-      "DELMIA Solutions Consultant Intern",
-      "SALES",
-      "Korea, Republic of, 11, Seoul"
-    ],
-    [
-      "Solution Consultant \u2013 PLM",
-      "SALES",
-      "Brazil, SP, Sao Paulo"
-    ],
-    [
-      "SaaS sales expert ( Graduate Program)",
-      "SALES",
-      "China, JS, Nanjing"
-    ],
-    [
-      "Solution Sales Specialist, Data Experience",
-      "SALES",
-      "United States, NY, New York"
-    ],
-    [
-      "Teamleiter Eventmanagement (m/w/d)",
+      "Event Manager (m/w/d)",
       "MARKETING & COMMUNICATIONS",
       "Germany, Munich"
-    ],
-    [
-      "Partner Sales Manager- North Region",
-      "SALES",
-      "China, BJ, Beijing"
-    ],
-    [
-      "Director, Offering Management",
-      "SERVICES",
-      "United States, NY, New York"
-    ],
-    [
-      "CDD 8 mois - Ing\u00e9nieur de recherche en Analyse d'images (F/H)",
-      "RESEARCH & DEVELOPMENT",
-      "France, Valbonne"
-    ],
-    [
-      "DELMIAWorks Business Development Associate",
-      "SALES",
-      "United States, MA, Waltham"
-    ],
-    [
-      "INTERNSHIP - Industry Process Consultant",
-      "SALES",
-      "United States, MA, Waltham"
-    ],
-    [
-      "Regional Account Manager (eClinical Solution Sales)",
-      "SALES",
-      "Korea, Republic of, 11, Seoul"
-    ],
-    [
-      "STAGE - Sp\u00e9cialiste R\u00e9mun\u00e9ration & Avantages sociaux (F/H)",
-      "PEOPLE & ENVIRONMENT",
-      "France, V\u00e9lizy-Villacoublay"
-    ],
-    [
-      "Accounts Payable Specialist",
-      "FINANCE",
-      "United States, MA, Waltham"
-    ],
-    [
-      "Responsable de site/ facilities (F/H)",
-      "PEOPLE & ENVIRONMENT",
-      "France, V\u00e9lizy-Villacoublay"
-    ],
-    [
-      "Enterprise Support Analyst",
-      "INFORMATION TECHNOLOGY",
-      "United States, NJ, Iselin"
-    ],
-    [
-      "MBSE Industry Process Consultant",
-      "SALES",
-      "United States, MA, Waltham"
-    ],
-    [
-      "Client Executive T&M South",
-      "SALES",
-      "China, GD, Guangzhou"
-    ],
-    [
-      "Responsable de la s\u00e9curit\u00e9 GRC F/H",
-      "RESEARCH & DEVELOPMENT",
-      "France, Saint-Cloud"
-    ],
-    [
-      "Working Student (m/f/d) \u2013 Electromagnetics AI/ML Surrogate Modeling",
-      "RESEARCH & DEVELOPMENT",
-      "Germany, Darmstadt"
-    ],
-    [
-      "Automation Developer (Python/Selenium Focus) - Tokyo Based",
-      "FINANCE",
-      "Japan, 13, Tokyo"
-    ],
-    [
-      "Industry Services Manager",
-      "SERVICES",
-      "Turkey, 34, Istanbul"
-    ],
-    [
-      "SIMULIA Sales Expert",
-      "SALES",
-      "Japan, 13, Tokyo"
-    ],
-    [
-      "Juriste contrats",
-      "LEGAL",
-      "France, Saint-Cloud"
-    ],
-    [
-      "Technical Support Engineer",
-      "SERVICES",
-      "United Kingdom, London"
-    ],
-    [
-      "JavaScript Developer - Pune",
-      "RESEARCH & DEVELOPMENT",
-      "India, MH, Pune"
-    ],
-    [
-      "CATIA Brand Client Executive",
-      "SALES",
-      "Korea, Republic of, 11, Seoul"
-    ],
-    [
-      "Staff Revenue Accountant (New York City)",
-      "FINANCE",
-      "United States, NY, New York"
-    ],
-    [
-      "Leader R&D Customer Success \u2013 Zone EUROCENTRAL (F/H)",
-      "RESEARCH & DEVELOPMENT",
-      "France, V\u00e9lizy-Villacoublay"
-    ],
-    [
-      "Technologies R&D Intern - 2",
-      "RESEARCH & DEVELOPMENT",
-      "India, MH, Pune"
-    ],
-    [
-      "Consolideur Financier (F/H)",
-      "FINANCE",
-      "France, V\u00e9lizy-Villacoublay"
-    ],
-    [
-      "Sp\u00e9cialiste Comptabilit\u00e9 & Gestion Portail Clients (F/H)",
-      "FINANCE",
-      "France, V\u00e9lizy-Villacoublay"
-    ],
-    [
-      "Systems Analyst",
-      "RESEARCH & DEVELOPMENT",
-      "Lithuania, Kaunas"
-    ],
-    [
-      "ENOVIA Sales Engineer",
-      "SALES",
-      "Canada, QC, Montreal"
-    ],
-    [
-      "Sales Operations Analyst",
-      "FINANCE",
-      "United States, MA, Waltham"
-    ],
-    [
-      "STAGE - Data Scientist - Systeme Multi-Agents IA & LLM (F/H)",
-      "RESEARCH & DEVELOPMENT",
-      "France, V\u00e9lizy-Villacoublay"
-    ],
-    [
-      "Electromagnetics Software Testing - Summer Internship",
-      "RESEARCH & DEVELOPMENT",
-      "United Kingdom, Nottingham"
-    ],
-    [
-      "Sr. Director, Financial Planning & Analysis (FP&A)(New York City)",
-      "FINANCE",
-      "United States, NY, New York"
-    ],
-    [
-      "People Care Specialist",
-      "PEOPLE & ENVIRONMENT",
-      "Korea, Republic of, 11, Seoul"
-    ],
-    [
-      "Partner Acquisition Specialist (Intern)",
-      "SALES",
-      "Singapore, Singapore"
-    ],
-    [
-      "Solution Sales Specialist, Study Experiences",
-      "SALES",
-      "Japan, 13, Tokyo"
-    ],
-    [
-      "STAGE - Architecte de Solutions \u2013 Transformation Digitale A\u00e9ronautique - Nantes (F/H)",
-      "SERVICES",
-      "France, Bouguenais"
-    ],
-    [
-      "Responsable offre Services (F/H)",
-      "SERVICES",
-      "France, Meudon La Foret"
-    ],
-    [
-      "Order Management Specialist",
-      "FINANCE",
-      "India, MH, Pune"
-    ],
-    [
-      "Learning Business Partner",
-      "FINANCE",
-      "United States, MA, Waltham"
-    ],
-    [
-      "Ing\u00e9nieur d\u00e9veloppement JAVA / CLOUD - expert (F/H)",
-      "RESEARCH & DEVELOPMENT",
-      "France, V\u00e9lizy-Villacoublay"
     ],
     [
       "Services Sales Expert",
@@ -579,44 +584,59 @@
       "India, MH, Pune"
     ],
     [
-      "Analyste Prix de Transfert global \u2013 CDD de 5 mois (F/H)",
+      "Sales Operations Analyst",
+      "FINANCE",
+      "United States, MA, Waltham"
+    ],
+    [
+      "Leader R&D Customer Success \u2013 Zone EUROCENTRAL (F/H)",
+      "RESEARCH & DEVELOPMENT",
+      "France, V\u00e9lizy-Villacoublay"
+    ],
+    [
+      "Solution Sales Specialist, Study Experiences",
+      "SALES",
+      "Japan, 13, Tokyo"
+    ],
+    [
+      "Analyste Groupe Tr\u00e9sorerie, Projets, Process & Syst\u00e8mes (F/H)",
       "FINANCE",
       "France, V\u00e9lizy-Villacoublay"
     ],
     [
-      "Event Manager (m/w/d)",
-      "MARKETING & COMMUNICATIONS",
-      "Germany, Munich"
-    ],
-    [
-      ".Net Full Stack Developer",
-      "RESEARCH & DEVELOPMENT",
+      "Implementation Consultant",
+      "SERVICES",
       "India, MH, Pune"
     ],
     [
-      "Solution Consultant \u2013 PLM",
+      "Systems Analyst",
+      "RESEARCH & DEVELOPMENT",
+      "Lithuania, Kaunas"
+    ],
+    [
+      "Sr. Director, Financial Planning & Analysis (FP&A)(New York City)",
+      "FINANCE",
+      "United States, NY, New York"
+    ],
+    [
+      "Senior Technical Project Manager",
       "SERVICES",
-      "Brazil, SP, Sao Paulo"
+      "India, MH, Pune"
     ],
     [
-      "INTERNSHIP - Customer Success - GenAI NLP",
-      "RESEARCH & DEVELOPMENT",
-      "United States, RI, Johnston"
+      "Senior Director, Global Deployment & Logistics (Remote)",
+      "SERVICES",
+      "United States, NY, New York"
     ],
     [
-      "Software Engineer Intern (Backend)",
-      "RESEARCH & DEVELOPMENT",
-      "Malaysia, 10, Petaling Jaya"
+      "STAGE - Sp\u00e9cialiste R\u00e9mun\u00e9ration & Avantages sociaux (F/H)",
+      "PEOPLE & ENVIRONMENT",
+      "France, V\u00e9lizy-Villacoublay"
     ],
     [
-      "Product owner F/H",
-      "RESEARCH & DEVELOPMENT",
-      "France, Saint-Cloud"
-    ],
-    [
-      "QA Intern Core Tech Client",
-      "RESEARCH & DEVELOPMENT",
-      "Malaysia, 10, Petaling Jaya"
+      "Automation Developer (Python/Selenium Focus) - Tokyo Based",
+      "FINANCE",
+      "Japan, 13, Tokyo"
     ]
   ]
 }
