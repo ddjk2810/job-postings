@@ -1,19 +1,22 @@
 
-## Company Hiring Priorities (2026-02-28 -> 2026-03-01)
+## Company Hiring Priorities (2026-03-01 -> 2026-03-02)
 
 What each company appears to be prioritizing based on new job postings:
 
-### Dassault Systemes (3DS) (15->15, +0 net, 6 new postings)
+**Dassault Systemes (3DS)** (15->15, +0 net, 4 new postings): heavily focused on **mixed functions** (3/4 new roles).
 
-adding 6 new roles across multiple functions.
+**Autodesk** (677->676, -1 net, 4 new postings): adding 4 new roles across multiple functions.
 
-**Department mix:** other (2), consulting/services (1), sales (1), operations (1), engineering (1)  
-**Geographic focus:** United States, MA, Waltham (3), Taiwan,China, TPE, Taipei (1), United Kingdom, Cambridge (1), Malaysia, 10, Petaling Jaya (1)  
+**Workday** (388->382, -6 net, 4 new postings): adding 4 new roles across multiple functions.
 
-**Veeva** (1016->1013, -3 net, 4 new postings): investing in **quality systems** (4 related roles).
+**Blue Yonder** (182->183, +1 net, 3 new postings): adding 3 new roles across multiple functions, with growth in India.
 
-**Procore** (205->207, +2 net, 2 new postings): adding 2 new roles across multiple functions.
+**Procore** (207->213, +6 net, 3 new postings): heavily focused on **engineering** (3/3 new roles), with emphasis on software engineer.
 
-**Descartes** (25->25, +0 net, 1 new postings): adding 1 new roles across multiple functions.
+**Descartes** (25->25, +0 net, 2 new postings): adding 2 new roles across multiple functions.
 
-**Toast** (274->275, +1 net, 1 new postings): adding 1 new roles across multiple functions.
+**o9 Solutions** (34->35, +1 net, 1 new postings): adding 1 new roles across multiple functions.
+
+**ServiceTitan** (15->16, +1 net, 1 new postings): adding 1 new roles across multiple functions.
+
+**Toast** (275->273, -2 net, 1 new postings): adding 1 new roles across multiple functions.
