@@ -1,10 +1,25 @@
 {
-  "last_updated": "2026-03-02T07:42:59.721386",
-  "job_count": 35,
-  "active_count": 33,
+  "last_updated": "2026-03-03T07:36:17.642733",
+  "job_count": 38,
+  "active_count": 36,
   "jobs": [
     [
-      "AI Engineer",
+      "Financial Controller",
+      "Not specified",
+      "London, England, United Kingdom"
+    ],
+    [
+      "Office Coordinator",
+      "Not specified",
+      "Buenos Aires, Argentina"
+    ],
+    [
+      "Senior Auditor",
+      "Not specified",
+      "Pune, Maharashtra, India"
+    ],
+    [
+      "Vice President, Account Management",
       "Not specified",
       "Hammersmith (London), UK, England, United Kingdom"
     ],
@@ -14,64 +29,9 @@
       "Bethlehem, Pennsylvania, United States"
     ],
     [
-      "Quality Assurance Analyst (gn)",
-      "Not specified",
-      "Germany"
-    ],
-    [
-      "Senior Auditor",
-      "Not specified",
-      "Pune, Maharashtra, India"
-    ],
-    [
-      "Capacity & Entitlements Manager",
-      "Not specified",
-      "Pune, Maharashtra, India"
-    ],
-    [
       "Senior Database Administrator (gn)",
       "Not specified",
       "Leipzig, Germany"
-    ],
-    [
-      "Requirements Engineer - Finance (gn)",
-      "Not specified",
-      "Germany"
-    ],
-    [
-      "Senior Software Developer",
-      "Not specified",
-      "Espoo, Finland"
-    ],
-    [
-      "Senior Automation Tester",
-      "Not specified",
-      "Ho Chi Minh City, Vietnam"
-    ],
-    [
-      "Support Analyst (gn)",
-      "Not specified",
-      "Germany"
-    ],
-    [
-      "Network Engineer",
-      "Not specified",
-      "Ho Chi Minh City, Vietnam"
-    ],
-    [
-      "Senior Data Analyst",
-      "Not specified",
-      "Pune, Maharashtra, India"
-    ],
-    [
-      "Senior Manager - Cybersecurity",
-      "Not specified",
-      "Hammersmith (London), UK, England, United Kingdom"
-    ],
-    [
-      "Global Tax Advisor",
-      "Not specified",
-      "Melbourne, Victoria, Australia"
     ],
     [
       "DevOps Engineer",
@@ -84,39 +44,9 @@
       "Melbourne, Victoria, Australia"
     ],
     [
-      "Support Analyst",
+      "Technical Account Manager",
       "Not specified",
-      "Argentina"
-    ],
-    [
-      "(Senior) Technical Writer (gn)",
-      "Not specified",
-      "Leipzig, Germany"
-    ],
-    [
-      "HR Business Partner",
-      "Not specified",
-      "Melbourne, Victoria, Australia"
-    ],
-    [
-      "DevOps Engineer",
-      "Not specified",
-      "Ho Chi Minh City, Vietnam"
-    ],
-    [
-      "Security Engineer",
-      "Not specified",
-      "Bethlehem, Pennsylvania, United States"
-    ],
-    [
-      "Vice President, Legal & Commercial (gn)",
-      "Not specified",
-      "Berlin, Germany"
-    ],
-    [
-      "Vice President, Account Management",
-      "Not specified",
-      "Hammersmith (London), UK, England, United Kingdom"
+      "Jakarta, Indonesia"
     ],
     [
       "Senior Software Developer",
@@ -124,14 +54,14 @@
       "F\u00f8rde, Norway"
     ],
     [
-      "Financial Controller",
+      "Senior Manager - Cybersecurity",
       "Not specified",
       "Hammersmith (London), UK, England, United Kingdom"
     ],
     [
-      "Technical Account Manager",
+      "HR Business Partner",
       "Not specified",
-      "Jakarta, Indonesia"
+      "Melbourne, Victoria, Australia"
     ],
     [
       "Director Product and Platform Strategy (gn)",
@@ -139,14 +69,89 @@
       "Germany"
     ],
     [
+      "Product Owner - Finance (gn)",
+      "Not specified",
+      "Germany"
+    ],
+    [
+      "Vice President, Software Delivery",
+      "Not specified",
+      "Oslo, Norway"
+    ],
+    [
+      "Financial Controller",
+      "Not specified",
+      "Hammersmith (London), UK, England, United Kingdom"
+    ],
+    [
+      "Senior Automation Tester",
+      "Not specified",
+      "Ho Chi Minh City, Vietnam"
+    ],
+    [
+      "Capacity & Entitlements Manager",
+      "Not specified",
+      "Pune, Maharashtra, India"
+    ],
+    [
+      "Support Analyst (gn)",
+      "Not specified",
+      "Germany"
+    ],
+    [
+      "Director of Product Management",
+      "Not specified",
+      "Oslo, Norway"
+    ],
+    [
+      "Requirements Engineer - Finance (gn)",
+      "Not specified",
+      "Germany"
+    ],
+    [
+      "Network Engineer",
+      "Not specified",
+      "Ho Chi Minh City, Vietnam"
+    ],
+    [
+      "Senior Software Developer",
+      "Not specified",
+      "Espoo, Finland"
+    ],
+    [
+      "DevOps Engineer",
+      "Not specified",
+      "Ho Chi Minh City, Vietnam"
+    ],
+    [
+      "Global Tax Advisor",
+      "Not specified",
+      "Melbourne, Victoria, Australia"
+    ],
+    [
       "Service Delivery Manager (gn)",
       "Not specified",
       "Germany"
     ],
     [
-      "Senior Employment Counsel",
+      "Head of Energy & Utilities Strategy",
       "Not specified",
-      "Hammersmith (London), UK, England, United Kingdom"
+      "Stockholm, Sweden"
+    ],
+    [
+      "(Senior) Technical Writer (gn)",
+      "Not specified",
+      "Leipzig, Germany"
+    ],
+    [
+      "Quality Assurance Analyst (gn)",
+      "Not specified",
+      "Germany"
+    ],
+    [
+      "Vice President, Legal & Commercial (gn)",
+      "Not specified",
+      "Berlin, Germany"
     ],
     [
       "Key Account Manager",
@@ -164,19 +169,29 @@
       "Germany"
     ],
     [
-      "Product Owner - Finance (gn)",
+      "Security Engineer",
       "Not specified",
-      "Germany"
+      "Bethlehem, Pennsylvania, United States"
     ],
     [
-      "Vice President, Software Delivery",
+      "Senior Data Analyst",
       "Not specified",
-      "Oslo, Norway"
+      "Pune, Maharashtra, India"
     ],
     [
-      "Financial Controller",
+      "AI Engineer",
       "Not specified",
-      "London, England, United Kingdom"
+      "Hammersmith (London), UK, England, United Kingdom"
+    ],
+    [
+      "Senior Employment Counsel",
+      "Not specified",
+      "Hammersmith (London), UK, England, United Kingdom"
+    ],
+    [
+      "Support Analyst",
+      "Not specified",
+      "Argentina"
     ]
   ]
 }
