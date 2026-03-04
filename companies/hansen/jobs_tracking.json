@@ -1,17 +1,27 @@
 {
-  "last_updated": "2026-03-03T07:36:17.642733",
+  "last_updated": "2026-03-04T07:32:20.798878",
   "job_count": 38,
-  "active_count": 36,
+  "active_count": 34,
   "jobs": [
     [
-      "Financial Controller",
+      "Key Account Manager",
       "Not specified",
-      "London, England, United Kingdom"
+      "Dublin, Ireland"
     ],
     [
-      "Office Coordinator",
+      "Head of Energy & Utilities Strategy",
       "Not specified",
-      "Buenos Aires, Argentina"
+      "Stockholm, Sweden"
+    ],
+    [
+      "Security Engineer",
+      "Not specified",
+      "Bethlehem, Pennsylvania, United States"
+    ],
+    [
+      "Network Engineer",
+      "Not specified",
+      "Ho Chi Minh City, Vietnam"
     ],
     [
       "Senior Auditor",
@@ -19,54 +29,14 @@
       "Pune, Maharashtra, India"
     ],
     [
-      "Vice President, Account Management",
-      "Not specified",
-      "Hammersmith (London), UK, England, United Kingdom"
-    ],
-    [
-      "Senior Talent Acquisition Partner",
-      "Not specified",
-      "Bethlehem, Pennsylvania, United States"
-    ],
-    [
-      "Senior Database Administrator (gn)",
-      "Not specified",
-      "Leipzig, Germany"
-    ],
-    [
       "DevOps Engineer",
       "Not specified",
       "S\u00f8nderborg, Denmark"
     ],
     [
-      "Senior Technical Analyst",
-      "Not specified",
-      "Melbourne, Victoria, Australia"
-    ],
-    [
       "Technical Account Manager",
       "Not specified",
       "Jakarta, Indonesia"
-    ],
-    [
-      "Senior Software Developer",
-      "Not specified",
-      "F\u00f8rde, Norway"
-    ],
-    [
-      "Senior Manager - Cybersecurity",
-      "Not specified",
-      "Hammersmith (London), UK, England, United Kingdom"
-    ],
-    [
-      "HR Business Partner",
-      "Not specified",
-      "Melbourne, Victoria, Australia"
-    ],
-    [
-      "Director Product and Platform Strategy (gn)",
-      "Not specified",
-      "Germany"
     ],
     [
       "Product Owner - Finance (gn)",
@@ -79,9 +49,9 @@
       "Oslo, Norway"
     ],
     [
-      "Financial Controller",
+      "Director Product and Platform Strategy (gn)",
       "Not specified",
-      "Hammersmith (London), UK, England, United Kingdom"
+      "Germany"
     ],
     [
       "Senior Automation Tester",
@@ -89,34 +59,9 @@
       "Ho Chi Minh City, Vietnam"
     ],
     [
-      "Capacity & Entitlements Manager",
-      "Not specified",
-      "Pune, Maharashtra, India"
-    ],
-    [
-      "Support Analyst (gn)",
-      "Not specified",
-      "Germany"
-    ],
-    [
-      "Director of Product Management",
-      "Not specified",
-      "Oslo, Norway"
-    ],
-    [
       "Requirements Engineer - Finance (gn)",
       "Not specified",
       "Germany"
-    ],
-    [
-      "Network Engineer",
-      "Not specified",
-      "Ho Chi Minh City, Vietnam"
-    ],
-    [
-      "Senior Software Developer",
-      "Not specified",
-      "Espoo, Finland"
     ],
     [
       "DevOps Engineer",
@@ -124,9 +69,29 @@
       "Ho Chi Minh City, Vietnam"
     ],
     [
+      "Senior Database Administrator (gn)",
+      "Not specified",
+      "Leipzig, Germany"
+    ],
+    [
       "Global Tax Advisor",
       "Not specified",
       "Melbourne, Victoria, Australia"
+    ],
+    [
+      "Senior Talent Acquisition Partner",
+      "Not specified",
+      "Bethlehem, Pennsylvania, United States"
+    ],
+    [
+      "Office Coordinator",
+      "Not specified",
+      "Buenos Aires, Argentina"
+    ],
+    [
+      "Senior Employment Counsel",
+      "Not specified",
+      "Hammersmith (London), UK, England, United Kingdom"
     ],
     [
       "Service Delivery Manager (gn)",
@@ -134,9 +99,9 @@
       "Germany"
     ],
     [
-      "Head of Energy & Utilities Strategy",
+      "Director of Product Management",
       "Not specified",
-      "Stockholm, Sweden"
+      "Oslo, Norway"
     ],
     [
       "(Senior) Technical Writer (gn)",
@@ -149,17 +114,42 @@
       "Germany"
     ],
     [
-      "Vice President, Legal & Commercial (gn)",
+      "Senior Software Developer",
       "Not specified",
-      "Berlin, Germany"
-    ],
-    [
-      "Key Account Manager",
-      "Not specified",
-      "Dublin, Ireland"
+      "Espoo, Finland"
     ],
     [
       "Director Client Services & Support (gn)",
+      "Not specified",
+      "Germany"
+    ],
+    [
+      "Support Analyst",
+      "Not specified",
+      "Argentina"
+    ],
+    [
+      "Vice President, Account Management",
+      "Not specified",
+      "Hammersmith (London), UK, England, United Kingdom"
+    ],
+    [
+      "Senior Software Developer",
+      "Not specified",
+      "F\u00f8rde, Norway"
+    ],
+    [
+      "Senior Data Analyst",
+      "Not specified",
+      "Pune, Maharashtra, India"
+    ],
+    [
+      "Financial Controller",
+      "Not specified",
+      "London, England, United Kingdom"
+    ],
+    [
+      "Support Analyst (gn)",
       "Not specified",
       "Germany"
     ],
@@ -169,14 +159,24 @@
       "Germany"
     ],
     [
-      "Security Engineer",
+      "Senior Manager - Cybersecurity",
       "Not specified",
-      "Bethlehem, Pennsylvania, United States"
+      "Hammersmith (London), UK, England, United Kingdom"
     ],
     [
-      "Senior Data Analyst",
+      "Senior Technical Analyst",
+      "Not specified",
+      "Melbourne, Victoria, Australia"
+    ],
+    [
+      "Capacity & Entitlements Manager",
       "Not specified",
       "Pune, Maharashtra, India"
+    ],
+    [
+      "HR Business Partner",
+      "Not specified",
+      "Melbourne, Victoria, Australia"
     ],
     [
       "AI Engineer",
@@ -184,14 +184,14 @@
       "Hammersmith (London), UK, England, United Kingdom"
     ],
     [
-      "Senior Employment Counsel",
+      "Vice President, Legal & Commercial (gn)",
       "Not specified",
-      "Hammersmith (London), UK, England, United Kingdom"
+      "Berlin, Germany"
     ],
     [
-      "Support Analyst",
+      "Financial Controller",
       "Not specified",
-      "Argentina"
+      "Hammersmith (London), UK, England, United Kingdom"
     ]
   ]
 }
