@@ -1,557 +1,12 @@
 {
-  "last_updated": "2026-03-03T07:36:18.420531",
-  "job_count": 685,
-  "active_count": 380,
+  "last_updated": "2026-03-04T06:48:40.036038",
+  "job_count": 702,
+  "active_count": 387,
   "jobs": [
     [
-      "Sr Payroll, Absence & Time Tracking Consultant - Workday Success Plans",
-      "Not specified",
-      "9 Locations"
-    ],
-    [
-      "Group Product Manager - Evisort AI",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Regional Sales Director - Healthcare",
-      "Not specified",
-      "9 Locations"
-    ],
-    [
-      "Enterprise Account Executive - Large Enterprise",
-      "Not specified",
-      "India, Mumbai"
-    ],
-    [
-      "Senior Software Engineer, DBaas - US Federal",
-      "Not specified",
-      "USA, VA, McLean"
-    ],
-    [
-      "Sr. Proposal Manager, US Federal",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Workday Advisory Consultant - Absence & Time Tracking | Workday Success Plans",
-      "Not specified",
-      "IND.Pune"
-    ],
-    [
-      "Enterprise Architect Italy",
-      "Not specified",
-      "Italy, Milan"
-    ],
-    [
-      "Sr Associate Software Development Engineer (Golang & Kubernetes)",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Account Executive - Medium Enterprise",
-      "Not specified",
-      "USA, MA, Boston"
-    ],
-    [
-      "Engagement Manager",
-      "Not specified",
-      "United Kingdom, London"
-    ],
-    [
-      "Senior Technical Consultant - Data Conversion",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Senior Account Executive",
+      "Principal Technical Consultant - Tokyo, Japan",
       "Not specified",
       "Japan, Tokyo"
-    ],
-    [
-      "Regional Sales Director - Professional Business Services",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Infrastructure Automation Engineer",
-      "Not specified",
-      "IND.Pune"
-    ],
-    [
-      "Software Application Engineer (US Federal)",
-      "Not specified",
-      "USA, GA, Atlanta"
-    ],
-    [
-      "Senior Delivery Manager - HiredScore",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Major Account Executive, Net New (Manufacturing)",
-      "Not specified",
-      "9 Locations"
-    ],
-    [
-      "Account Executive - Medium Enterprise, Net New, Healthcare",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Functional Consultant - Payroll, Absence & Time Tracking Systems",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Deal Operations Manager, Renewals",
-      "Not specified",
-      "Singapore"
-    ],
-    [
-      "Principal Financials Functional Consultant",
-      "Not specified",
-      "Hong Kong"
-    ],
-    [
-      "Sr Associate Information Systems Software Application Engineer",
-      "Not specified",
-      "IND.Pune"
-    ],
-    [
-      "Functional Architect - Workday Payroll",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Product Manager (HCM or Workforce Management)",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Sr. Manager, Technical Account Management",
-      "Not specified",
-      "IND.Pune"
-    ],
-    [
-      "Sr Solution Consultant - Adaptive Planning (EPM / CPM)",
-      "Not specified",
-      "Japan, Tokyo"
-    ],
-    [
-      "Senior Paid Search Manager",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Large Enterprise Account Executive - Customer Base, Financials/oCFO (RHT)",
-      "Not specified",
-      "10 Locations"
-    ],
-    [
-      "Sr Distributed Systems Engineer (DevOps)",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Manager, Software Development Engineering -  Talent Mobility",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Channel Account Executive - Retail & Hospitality & Transportation",
-      "Not specified",
-      "France, Paris"
-    ],
-    [
-      "Third-Party Risk Management Program Manager",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Demand Marketing Manager, ME & Industries",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Sr Engagement (Project/ Delivery) Manager - State & Local Government",
-      "Not specified",
-      "USA Remote"
-    ],
-    [
-      "Account Executive - Customer Base, Large Enterprise",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Senior / Principal Product Manager - Workday AI",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Account Executive - Medium Enterprise",
-      "Not specified",
-      "USA, GA, Atlanta"
-    ],
-    [
-      "Software Development Engineering Manager (DEVX, IAHUB, Perf) - (US Federal)",
-      "Not specified",
-      "USA, VA, McLean"
-    ],
-    [
-      "Integration Consultant, Global Content \u2013 Growth",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Senior Solution Consultant HCM",
-      "Not specified",
-      "Spain, Madrid"
-    ],
-    [
-      "Technical Project Manager - Hiredscore",
-      "Not specified",
-      "Israel, Tel Aviv"
-    ],
-    [
-      "Technical Support Engineer - Analytics and Reporting",
-      "Not specified",
-      "Poland, Warsaw"
-    ],
-    [
-      "Account Executive Large Enterprise",
-      "Not specified",
-      "France, Paris"
-    ],
-    [
-      "Sr. Engagement Manager, AI Solutions Delivery",
-      "Not specified",
-      "7 Locations"
-    ],
-    [
-      "Sr Manager, Software Development Engineering",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "DevOps Engineer, Evisort/Flowise",
-      "Not specified",
-      "Canada, BC, Vancouver"
-    ],
-    [
-      "Manager, Product Management, US Federal",
-      "Not specified",
-      "USA, GA, Atlanta"
-    ],
-    [
-      "Senior Software Development Engineer (Distributed DB systems & Storage internals)",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Vulnerability Management Analyst - US Federal",
-      "Not specified",
-      "USA, VA, McLean"
-    ],
-    [
-      "Product Specialist - Workday Platform (Workday Build, Workday Data Cloud) and AI Agents",
-      "Not specified",
-      "Canada, ON, Toronto"
-    ],
-    [
-      "Data Scientist, Global Products \u2013 Growth",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "DataOps Engineer (DevOps for Data)",
-      "Not specified",
-      "Canada, ON, Toronto"
-    ],
-    [
-      "BT Asset and Vendor Governance Lead",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Healthcare - HCM and Compensation Senior Consultant",
-      "Not specified",
-      "71 Locations"
-    ],
-    [
-      "Value Manager",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr Solution Consultant",
-      "Not specified",
-      "USA, CA, Remote"
-    ],
-    [
-      "Technical Account Manager",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Cybersecurity Engineer",
-      "Not specified",
-      "Ireland, Dublin"
-    ],
-    [
-      "Senior Functional Consultant \u2013 Financials (ERP)",
-      "Not specified",
-      "Japan, Tokyo"
-    ],
-    [
-      "Senior Engagement Manager",
-      "Not specified",
-      "Japan, Tokyo"
-    ],
-    [
-      "Manager, Software Development Engineering - (US Federal)",
-      "Not specified",
-      "USA, GA, Atlanta"
-    ],
-    [
-      "Solution Consultant - PLN",
-      "Not specified",
-      "7 Locations"
-    ],
-    [
-      "Sr Software Application Engineer (US Federal)",
-      "Not specified",
-      "USA, VA, McLean"
-    ],
-    [
-      "Senior Account Executive, Net New, Poland",
-      "Not specified",
-      "Poland, Warsaw"
-    ],
-    [
-      "Sr Solution Consultant",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Manager, Marketing Automation, NA",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Customer Solution Strategist",
-      "Not specified",
-      "United Kingdom, London"
-    ],
-    [
-      "Technical Lead",
-      "Not specified",
-      "Japan, Tokyo"
-    ],
-    [
-      "Account Executive - Large Enterprise Switzerland",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr Product Manager Payroll AI",
-      "Not specified",
-      "Ireland, Dublin"
-    ],
-    [
-      "Financial Accountant",
-      "Not specified",
-      "IND.Pune"
-    ],
-    [
-      "Sales Development Representative",
-      "Not specified",
-      "USA, IL, Chicago"
-    ],
-    [
-      "Medium Enterprise Account Executive, Customer Base FSI",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Large Enterprise Account Executive, Net New- MFG, TM & PS",
-      "Not specified",
-      "11 Locations"
-    ],
-    [
-      "Senior Manager, Sales Development",
-      "Not specified",
-      "Japan, Tokyo"
-    ],
-    [
-      "Technical Support Delivery Analyst-Compensation",
-      "Not specified",
-      "IND.Pune"
-    ],
-    [
-      "Production Readiness Manager",
-      "Not specified",
-      "Poland, Warsaw"
-    ],
-    [
-      "Software Development Engineer, DevOps - Lifecycle Platform (US Federal)",
-      "Not specified",
-      "USA, VA, McLean"
-    ],
-    [
-      "Sr Software Development Engineer - US Federal",
-      "Not specified",
-      "USA, VA, McLean"
-    ],
-    [
-      "Account Executive - Medium Enterprise",
-      "Not specified",
-      "USA, NY, New York City"
-    ],
-    [
-      "Senior Reporting and Analytics Consultant - Prism",
-      "Not specified",
-      "13 Locations"
-    ],
-    [
-      "Principal Services Executive",
-      "Not specified",
-      "India, Mumbai"
-    ],
-    [
-      "Product Manager / Sr Product Manager - Evisort AI",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr Customer Success Manager",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Consultant: Agentic AI & Workday Integrations - Workday Success Plans",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Integration Consultant",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Expression of Interest: Business Development Representative (Supporting Korea)",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Product Instructor Workday Integrations & Extend",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Account Executive Public Sector",
-      "Not specified",
-      "Italy, Milan"
-    ],
-    [
-      "Tax Provision Manager",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Account Executive - Customer Base Major Accounts: Retail, Hospitality and Transportation",
-      "Not specified",
-      "7 Locations"
-    ],
-    [
-      "Large Enterprise Account Executive, Customer Base - RHT",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Channel Account Executive - Nordics",
-      "Not specified",
-      "Sweden, Stockholm"
-    ],
-    [
-      "Senior Technical Integration Consultant - AI Financial Solutions",
-      "Not specified",
-      "39 Locations"
-    ],
-    [
-      "Principal Cybersecurity Engineer",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Senior Solution Consultant HCM",
-      "Not specified",
-      "United Kingdom, London"
-    ],
-    [
-      "Functional Consultant, Global Content \u2013 Growth",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Sr. Principal/Principal Program Manager (HR AI)",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Solution Consultant- FINS",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Machine Learning Engineer",
-      "Not specified",
-      "Canada, ON, Toronto"
-    ],
-    [
-      "Manager, Integrations & Technical Solutions  - Hiredscore",
-      "Not specified",
-      "Israel, Tel Aviv"
-    ],
-    [
-      "Software Development Engineer (Backend) - Evisort AI",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Director of Channel Partner GTM Strategy and Operations, Adaptive Planning",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr Product Manager - Accounting Center",
-      "Not specified",
-      "Canada, BC, Vancouver"
-    ],
-    [
-      "Financials Account Executive, Customer Base",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Principal Software Development Engineer - Java or Kotlin",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Curriculum Development Instructional Design Producer",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Cybersecurity GRC Specialist",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Principal Managing Partner",
-      "Not specified",
-      "United Kingdom, London"
     ],
     [
       "Account Executive - Customer Base",
@@ -559,579 +14,19 @@
       "Hong Kong"
     ],
     [
-      "Incident Manager",
-      "Not specified",
-      "USA, GA, Atlanta"
-    ],
-    [
-      "Account Executive - Medium Enterprise - Not for Profit",
-      "Not specified",
-      "United Kingdom, London"
-    ],
-    [
-      "Senior Software Development Engineer (Full Stack)",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Sr. Software Development Engineer - Integrations - Python",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Assistant General Counsel, Cybersecurity",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Account Executive Customer Base - LE - Healthcare",
-      "Not specified",
-      "USA, TX, Frisco"
-    ],
-    [
-      "Senior Customer Success Manager-State & Local Government",
-      "Not specified",
-      "USA, UT, Salt Lake City"
-    ],
-    [
-      "Sales Development Representative | Dutch, French, German, Italian or Spanish",
-      "Not specified",
-      "Ireland, Dublin"
-    ],
-    [
-      "Incident Coordinator/Cyber Incident Commander - US Federal",
-      "Not specified",
-      "USA, VA, McLean"
-    ],
-    [
-      "Account Executive - Customer Base Major Accounts: Retail, Hospitality and Transportation",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "IT Risk Principal, BT Risk Management",
-      "Not specified",
-      "USA, GA, Atlanta"
-    ],
-    [
-      "Senior Event Marketing Manager - Adaptive Planning",
-      "Not specified",
-      "United Kingdom, London"
-    ],
-    [
-      "Sr. Prism Analytics Consultant - Workday Success Plans",
-      "Not specified",
-      "Poland, Warsaw"
-    ],
-    [
-      "Account Executive Large Enterprise - Spain",
-      "Not specified",
-      "Spain, Madrid"
-    ],
-    [
-      "Director of Outbound Product Management, Workday GO",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "People Analytics Data Scientist",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Senior Analyst, Technology Control & Process",
+      "Senior SWAT Support Engineer",
       "Not specified",
       "Costa Rica"
     ],
     [
-      "Account Executive - Large Enterprise, Customer Base, Public Sector",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Principal Software Development Engineer - (Flowise)",
-      "Not specified",
-      "Canada, BC, Vancouver"
-    ],
-    [
-      "Large Enterprise Account Executive, Customer Base - Manufacturing",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Senior Associate Product Manager - AI Experience",
-      "Not specified",
-      "Ireland, Dublin"
-    ],
-    [
-      "Senior Site Reliability Engineer",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Software Solution Analyst, Global Partner Organization",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Manager, Business Development DACH (German-Speaking)",
-      "Not specified",
-      "Ireland, Dublin"
-    ],
-    [
-      "Enterprise Architect - Presales",
-      "Not specified",
-      "Poland, Warsaw"
-    ],
-    [
-      "Principal Machine Learning Engineer",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Account Executive Government",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Regional Sales Director, Large Enterprise Customer Base, MFG",
-      "Not specified",
-      "USA, NY, New York City"
-    ],
-    [
-      "Business Development Representative - APAC and Japan",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Software Development Engineer for Machine Learning",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Commercial Account Executive - Emerging Enterprise, Nordics",
-      "Not specified",
-      "Sweden, Stockholm"
-    ],
-    [
-      "Sr Associate Technical Product Support Engineer",
-      "Not specified",
-      "IND.Pune"
-    ],
-    [
-      "Account Executive Medium Enterprise, FSI",
-      "Not specified",
-      "United Kingdom, London"
-    ],
-    [
-      "Senior Functional Consultant - Workday CLM Evisort",
-      "Not specified",
-      "133 Locations"
-    ],
-    [
-      "Partner Success",
-      "Not specified",
-      "Malaysia, Kuala Lumpur"
-    ],
-    [
-      "Strategic Sales Specialist - VNDLY Centre of Excellence",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Senior Sales Recruiter - ASEAN",
-      "Not specified",
-      "Singapore"
-    ],
-    [
-      "Account Executive - Customer Base LE",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Regional Sales Director",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Sr Associate ED&A Quality Engineer",
-      "Not specified",
-      "IND.Pune"
-    ],
-    [
-      "Business Development Representative | German | Dublin based",
-      "Not specified",
-      "7 Locations"
-    ],
-    [
-      "Solution Consultant HCM",
-      "Not specified",
-      "Netherlands, Amsterdam"
-    ],
-    [
-      "Senior Manager PR, Industry and Customer",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "DevOps Engineer (Unix, Shell Scripting)",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Software Development Engineer III / Senior Software Development Engineer - Full Stack",
+      "Manager/Senior Manager, Machine Learning Engineering",
       "Not specified",
       "Canada, ON, Toronto"
     ],
     [
-      "Solution Consultant- FINS",
+      "Principal Services Executive",
       "Not specified",
-      "18 Locations"
-    ],
-    [
-      "Senior Auditor, Internal Audit \u2013 Operational Audits",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Sr. Product Advisor, Workforce Management- PAO (Product Acceleration & Optimization)",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Sales Development Representative",
-      "Not specified",
-      "USA, CA, San Francisco"
-    ],
-    [
-      "Sr Manager, APAC Customer Success",
-      "Not specified",
-      "Malaysia, Kuala Lumpur"
-    ],
-    [
-      "Manager, Technical Support Delivery-Talent",
-      "Not specified",
-      "IND.Pune"
-    ],
-    [
-      "Sr Marketing Automation Manager",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Product Manager, Talent Acquisition",
-      "Not specified",
-      "USA, GA, Atlanta"
-    ],
-    [
-      "Solution Consultant HCM",
-      "Not specified",
-      "Poland, Warsaw"
-    ],
-    [
-      "Director, Talent Acquisition - US Federal",
-      "Not specified",
-      "USA, VA, McLean"
-    ],
-    [
-      "Large Enterprise Account Executive, Customer Base - Manufacturing",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Financials Services Consulting Manager - APAC",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Software Development Engineer: Deployment Adoption Platform (US Federal)",
-      "Not specified",
-      "USA, VA, McLean"
-    ],
-    [
-      "Senior Manager, Machine Learning Engineering - Evisort",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "M&A Finance Integration Senior Manager",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Principal Data & Analytics Security Architect",
-      "Not specified",
-      "Canada, ON, Toronto"
-    ],
-    [
-      "Senior Manager, Software Development Engineering",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Executive Assistant",
-      "Not specified",
-      "Sweden, Stockholm"
-    ],
-    [
-      "Fullstack Developer (AI)",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Value Manager UKI",
-      "Not specified",
-      "United Kingdom, London"
-    ],
-    [
-      "Fullstack Product Engineer",
-      "Not specified",
-      "Sweden, Stockholm"
-    ],
-    [
-      "Account Executive for Existing Clients - Switzerland",
-      "Not specified",
-      "Switzerland, Zurich"
-    ],
-    [
-      "Sr Manager, Customer Success",
-      "Not specified",
-      "Malaysia, Kuala Lumpur"
-    ],
-    [
-      "Product Manager (HCM - Absence Management and Time tracking)",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Large Enterprise Account Executive, Net New- MFG, TM & PS",
-      "Not specified",
-      "14 Locations"
-    ],
-    [
-      "Principal Product Manager, Enterprise Applications",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Senior Solution Consultant - PLN",
-      "Not specified",
-      "7 Locations"
-    ],
-    [
-      "Product Manager",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Sr Financial Analyst",
-      "Not specified",
-      "IND.Pune"
-    ],
-    [
-      "Business Development Representative (UKI - oCFO)",
-      "Not specified",
-      "Ireland, Dublin"
-    ],
-    [
-      "Senior Functional Consultant - Financials",
-      "Not specified",
-      "Japan, Tokyo"
-    ],
-    [
-      "Sr Software Development Engineer",
-      "Not specified",
-      "Israel, Tel Aviv"
-    ],
-    [
-      "Senior Functional Consultant - HCM and Security - Workday Success Plans",
-      "Not specified",
-      "146 Locations"
-    ],
-    [
-      "Senior Principal Open Source Architect",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Sr Cloud Engineer (US Federal)",
-      "Not specified",
-      "USA, VA, McLean"
-    ],
-    [
-      "Software Developer - Authentication",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Manager, Software Development Engineering in Test",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Enterprise Architect",
-      "Not specified",
-      "13 Locations"
-    ],
-    [
-      "Solution Consultant HCM",
-      "Not specified",
-      "France, Paris"
-    ],
-    [
-      "Engagement Manager",
-      "Not specified",
-      "Sweden, Stockholm"
-    ],
-    [
-      "Customer Success Manager - French Speaking",
-      "Not specified",
-      "Poland, Warsaw"
-    ],
-    [
-      "Senior Solution Consultant - FINS",
-      "Not specified",
-      "Malaysia, Kuala Lumpur"
-    ],
-    [
-      "Senior Manager, Architects",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr Business Development & GTM Lead, Workday Wellness",
-      "Not specified",
-      "USA, TN, Remote"
-    ],
-    [
-      "Senior Financials Reporting and Analytics Consultant",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Finance M&A Lead",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Senior Developer Advocate, India",
-      "Not specified",
-      "10 Locations"
-    ],
-    [
-      "Principal Consultant, Finance & Accounting Systems",
-      "Not specified",
-      "IND.Pune"
-    ],
-    [
-      "Sr/Consultant - Workday Financials",
-      "Not specified",
-      "IND.Pune"
-    ],
-    [
-      "Director, Employee & Labour Relations",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Customer Success Manager - APAC",
-      "Not specified",
-      "Malaysia, Kuala Lumpur"
-    ],
-    [
-      "Account Executive - Medium Enterprise",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Senior Director/Director, Digital Customer Success Transformation & Innovations",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Senior Manager, Software Development Engineering",
-      "Not specified",
-      "Canada, BC, Vancouver"
-    ],
-    [
-      "Product Specialist - Workday Platform (Workday Build, Workday Data Cloud) and AI Agents",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "GTM-M Stockholm",
-      "Not specified",
-      "Sweden, Stockholm"
-    ],
-    [
-      "Software Engineer III/Senior Software Engineer (Full Stack)",
-      "Not specified",
-      "Canada, BC, Vancouver"
-    ],
-    [
-      "Sr. Director of Strategic Partnerships & Ecosystem, Adaptive Planning",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Senior Program Manager, Strategic Initiatives",
-      "Not specified",
-      "6 Locations"
-    ],
-    [
-      "Sr. ServiceNow Application Engineer",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Project Manager - HCM / Financials  implementations - Paradox",
-      "Not specified",
-      "USA, IL, Chicago"
-    ],
-    [
-      "Senior Product Manager, Revenue Management",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Senior Cybersecurity Engineer - Network Security and Network Fundamentals",
-      "Not specified",
-      "USA, VA, McLean"
-    ],
-    [
-      "Business Development Representative, UKI",
-      "Not specified",
-      "Ireland, Dublin"
-    ],
-    [
-      "Principal Support Model WSP consultant",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "DevOps Engineer (DBA, System engineer)",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Software Development Engineer",
-      "Not specified",
-      "Ireland, Dublin"
-    ],
-    [
-      "Account Executive - Medium Enterprise",
-      "Not specified",
-      "Canada, QC, Montreal"
-    ],
-    [
-      "Senior Intelligent Automation Analyst",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Sales Development Representative",
-      "Not specified",
-      "Australia, NSW, North Sydney"
+      "India, Mumbai"
     ],
     [
       "Account Executive - Large Enterprise - Customer Base",
@@ -1139,182 +34,67 @@
       "3 Locations"
     ],
     [
-      "Senior Developer Advocate, UKI",
-      "Not specified",
-      "7 Locations"
-    ],
-    [
-      "Principal Cloud IAM Engineer",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Principal Outbound Product Manager, Workday GO",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Sr. Network Engineer",
-      "Not specified",
-      "IND.Pune"
-    ],
-    [
-      "Account Executive - Large Enterprise",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Account Executive Medium Enterprise",
-      "Not specified",
-      "France, Paris"
-    ],
-    [
-      "Account Executive - Customer Base LE - FSI",
+      "Account Executive - Commercial",
       "Not specified",
       "3 Locations"
     ],
     [
-      "Channel Account Executive - Netherlands",
+      "Senior Account Executive",
       "Not specified",
-      "Netherlands, Amsterdam"
+      "Japan, Tokyo"
     ],
     [
-      "Software Engineer/Data Engineering",
-      "Not specified",
-      "New Zealand, Auckland"
-    ],
-    [
-      "Program Executive, Post Award - US Federal",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Sr Payroll Consultant: State & Local Government",
-      "Not specified",
-      "USA Remote"
-    ],
-    [
-      "Senior Cybersecurity Compliance Program Manager",
+      "Data Scientist, Global Products \u2013 Growth",
       "Not specified",
       "IND.Chennai"
     ],
     [
-      "Channel Account Executive - Germany",
+      "Sr Associate Engagement Manager",
       "Not specified",
-      "3 Locations"
+      "MEX.Guadalajara"
     ],
     [
-      "Principal HR Business Partner, CMO",
+      "Account Executive - Medium Enterprise",
       "Not specified",
-      "USA, CA, Pleasanton"
+      "USA, MA, Boston"
     ],
     [
-      "Summer Sanian - Intern",
-      "Not specified",
-      "Sweden, Stockholm"
-    ],
-    [
-      "Account Executive - FSI",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Medium Enterprise Account Executive",
-      "Not specified",
-      "USA, IL, Chicago"
-    ],
-    [
-      "Senior Customer Success Manager",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Account Executive - Medium Enterprise, Manufacturing UKI",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Senior Financial Implementation Consultant (Healthcare)",
-      "Not specified",
-      "62 Locations"
-    ],
-    [
-      "Principal Contracts Manager",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Senior Functional Consultant - Payroll, Absence and Time Tracking - Workday Success Plans",
-      "Not specified",
-      "146 Locations"
-    ],
-    [
-      "Senior Software Developer - Authentication",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Engagement Manager",
-      "Not specified",
-      "USA, NY, New York City"
-    ],
-    [
-      "Software Development Engineer",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Account Executive",
-      "Not specified",
-      "Italy, Milan"
-    ],
-    [
-      "Sr. Solution Consultant",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Account Executive - Major Accounts",
-      "Not specified",
-      "Korea, Seoul"
-    ],
-    [
-      "Sr Functional Consultant - Absence & Time Tracking",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Senior Lifecycle Marketing Manager - Adaptive Planning",
-      "Not specified",
-      "USA, TX, Frisco"
-    ],
-    [
-      "Senior Software Engineer, Agent Platform",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr. Outbound Product Manager, Financials",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Account Executive - Medium Enterprise, Customer Base",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Sr Software Development Engineer",
+      "Senior Product Manager, Development Platforms",
       "Not specified",
       "Ireland, Dublin"
     ],
     [
-      "Software Development Engineer - Cloud/DevOps Engineer",
+      "Sr. Product Advisor",
       "Not specified",
-      "IND.Chennai"
+      "4 Locations"
     ],
     [
-      "Principal Software Development Engineer (Backend) - Evisort AI",
+      "Customer Success Manager",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Senior Technical Integration Consultant - Cross - HiredScore",
+      "Not specified",
+      "Israel, Tel Aviv"
+    ],
+    [
+      "Principal Managing Partner",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Sr Software Engineer, DevOps",
+      "Not specified",
+      "USA, VA, McLean"
+    ],
+    [
+      "Integrations Consultant (German speaking)",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "HCM Functional Consultant - German Speaking",
       "Not specified",
       "2 Locations"
     ],
@@ -1324,834 +104,19 @@
       "5 Locations"
     ],
     [
-      "Regional Sales Director, Office of the CFO - FSI",
+      "Sr/Principal Workday Financials Functional Consultant",
       "Not specified",
-      "5 Locations"
+      "Singapore"
     ],
     [
-      "Medium Enterprise Account Executive, Customer Base",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Account Executive - Customer Base  - FSI",
-      "Not specified",
-      "7 Locations"
-    ],
-    [
-      "Sr Manager, Software Development Engineering (US Federal)",
-      "Not specified",
-      "USA, VA, McLean"
-    ],
-    [
-      "Software Development Engineer - ML Ops (US Federal)",
-      "Not specified",
-      "USA, VA, McLean"
-    ],
-    [
-      "Financials Spend Functional Consultant - Workday Success Plans",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Senior Software Development Engineer (Backend) - Evisort AI",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Legal Associate",
-      "Not specified",
-      "Sweden, Stockholm"
-    ],
-    [
-      "Solution Consultant- FINS",
-      "Not specified",
-      "57 Locations"
-    ],
-    [
-      "AI Product Designer/Senior AI Product Designer - Evisort AI",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Cybersecurity GRC - US Federal",
-      "Not specified",
-      "USA, VA, McLean"
-    ],
-    [
-      "Channel Account Executive",
-      "Not specified",
-      "Poland, Warsaw"
-    ],
-    [
-      "Technical Implementation Manager",
-      "Not specified",
-      "Ireland, Dublin"
-    ],
-    [
-      "Sr Software Development Engineer",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Regional Sales Director - Healthcare",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Senior Manager, Site Reliabilty Engineering",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Software Development Engineer",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Account Executive - Major Accounts Germany",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Senior Manager, CyberSecurity GRC",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Presales Digital Demo Lead",
-      "Not specified",
-      "United Kingdom, London"
-    ],
-    [
-      "Senior Program Manager, Early Career",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Software Development Engineer, Security - Evisort",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Machine Learning Engineer - Agent Factory",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "HCM Functional Consultant - German Speaking",
-      "Not specified",
-      "Poland, Warsaw"
-    ],
-    [
-      "Project Director",
-      "Not specified",
-      "India, Mumbai"
-    ],
-    [
-      "Large Enterprise Account Executive - Customer Base, Financials/oCFO (RHT)",
-      "Not specified",
-      "7 Locations"
-    ],
-    [
-      "Major Account Executive, Net New (Manufacturing)",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Principal Machine Learning Engineer - Evisort AI",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Senior Solution Consultant (Student Product)",
-      "Not specified",
-      "United Kingdom, London"
-    ],
-    [
-      "Manager, Software Development Engineering",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Solution Consultant - HCM",
-      "Not specified",
-      "19 Locations"
-    ],
-    [
-      "Large Enterprise Account Executive - FINS Customer Base (oCFO)",
-      "Not specified",
-      "10 Locations"
-    ],
-    [
-      "Account Executive - FSI",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Workday Finance Technical Integration Consultant",
-      "Not specified",
-      "IND.Pune"
-    ],
-    [
-      "Principal, Art Director",
+      "Principal Machine Learning Engineer",
       "Not specified",
       "USA, CA, Pleasanton"
     ],
     [
-      "HCM Functional Consultant - German Speaking",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr Software Development Engineer (Java)",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Outbound Product Manager, Integrations",
-      "Not specified",
-      "Ireland, Dublin"
-    ],
-    [
-      "Financial System Implementation Consultant",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Sr. Program Manager - CAO Strategy & Operations",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Dev Ops Engineer, Evisort",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Large Enterprise Account Executive - Customer Base, Financials/oCFO (RHT)",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Sr Software Development Engineer",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Sr Financials Integrations Consultant",
-      "Not specified",
-      "Singapore"
-    ],
-    [
-      "EMEA Strategy Manager",
-      "Not specified",
-      "United Kingdom, London"
-    ],
-    [
-      "Sr Manager, Software Development Engineering",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Channel Account Executive - Switzerland & Austria",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Regional Sales Director, Large Enterprise Customer Base oCFO",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Account Executive, Taiwan",
-      "Not specified",
-      "Taiwan, Taipei"
-    ],
-    [
-      "Product Manager, Federal Industry",
-      "Not specified",
-      "USA, GA, Atlanta"
-    ],
-    [
-      "Senior Value Manager",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Principal Asset Manager, IT Service Management",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Director of Strategic Initiatives, Medium Enterprise",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Senior Engagement Manager",
-      "Not specified",
-      "United Kingdom, London"
-    ],
-    [
-      "Sr PostgreSQL Engineer",
-      "Not specified",
-      "Ireland, Dublin"
-    ],
-    [
-      "Executive Assistant, Workday Foundation",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Regional Sales Director, Large Enterprise  Customer Base RHT",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Sr. Product Advisor",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Large Enterprise Customer Base Account Executive, Manufacturing",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Principal AI Product Designer",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Payroll/Absence/Time Tracking Functional Consultant - Workday Success Plans",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "GTM-MANAGER",
-      "Not specified",
-      "Sweden, Stockholm"
-    ],
-    [
-      "Senior Financial Functional Consultant - Spend Management - Workday Success Plans",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr Associate Software development Engineer - Platform Security",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Principal Contracts Negotiator",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Principal, Performance and Capacity Engineer (Infrastructure & Platform)",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "HCM Solution Consultant",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Account Executive - Large Enterprise - Healthcare",
-      "Not specified",
-      "USA, IL, Chicago"
-    ],
-    [
-      "Manager, Support Platform Engineering",
+      "Functional Consultant - HCM",
       "Not specified",
       "Poland, Warsaw"
-    ],
-    [
-      "Software Application Engineer (US Federal)",
-      "Not specified",
-      "USA, VA, McLean"
-    ],
-    [
-      "Product Manager",
-      "Not specified",
-      "Ireland, Dublin"
-    ],
-    [
-      "Principal Technical Consultant - Tokyo, Japan",
-      "Not specified",
-      "Japan, Tokyo"
-    ],
-    [
-      "Senior Manager, Financials Solution Consulting",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Senior Solution Consultant (HCM)",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Director, Engagement Management",
-      "Not specified",
-      "Japan, Tokyo"
-    ],
-    [
-      "Sr Evisort Implementation Manager, Engagement Management",
-      "Not specified",
-      "6 Locations"
-    ],
-    [
-      "Technical Delivery Support Analyst - Talent and Learning",
-      "Not specified",
-      "Poland, Warsaw"
-    ],
-    [
-      "Solution Consultant - Public Sector",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Sr. Prism Analytics Consultant - Workday Success Plans",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Software Development Engineer in Test - SDET (Intermediate to Senior), Evisort AI",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Reporting & Analytics Consultant - Workday Success Plans",
-      "Not specified",
-      "Poland, Warsaw"
-    ],
-    [
-      "Channel Account Executive - Services & Tech & media",
-      "Not specified",
-      "France, Paris"
-    ],
-    [
-      "Sr Associate Engagement Manager",
-      "Not specified",
-      "MEX.Guadalajara"
-    ],
-    [
-      "Business Development Representative - Thailand",
-      "Not specified",
-      "Singapore"
-    ],
-    [
-      "Regional Sales Director",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Software Development Engineer (Cybersecurity Risk & Automation)",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Customer Success Manager - German Speaking",
-      "Not specified",
-      "Poland, Warsaw"
-    ],
-    [
-      "Senior SRE or DevOps Engineer",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Software Engineer, BDS Hadoop Engineer - US Federal",
-      "Not specified",
-      "USA, VA, McLean"
-    ],
-    [
-      "Principal Program Manager - Finance",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Senior Manager, Enterprise Performance",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Principal, Partner Innovation Business Development",
-      "Not specified",
-      "9 Locations"
-    ],
-    [
-      "Regional Sales Director, Office of the CFO",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Principal Engagement Manager, Deployment Success Management",
-      "Not specified",
-      "6 Locations"
-    ],
-    [
-      "Principal Software Engineer - Evisort AI",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Account Executive - Emerging Enterprise UKI",
-      "Not specified",
-      "United Kingdom, London"
-    ],
-    [
-      "Sr Talent, Learning, Recruiting Consultant - Workday Success Plans",
-      "Not specified",
-      "6 Locations"
-    ],
-    [
-      "Account Executive - Customer Base Major Accounts- Healthcare",
-      "Not specified",
-      "USA, IL, Chicago"
-    ],
-    [
-      "Sr Software Engineer, DevOps",
-      "Not specified",
-      "USA, VA, McLean"
-    ],
-    [
-      "Account Executive - Medium Enterprise",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Regional Sales Director, oCFO",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr Value Manager",
-      "Not specified",
-      "Japan, Tokyo"
-    ],
-    [
-      "Director, Talent Acquisition (Product & Technology)",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Principal HCM Consultant, State & Local Government",
-      "Not specified",
-      "USA Remote"
-    ],
-    [
-      "Principal Software Engineer - AI Platform",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Services Consulting Manager (HCM, FIN or PATT)",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Senior Manager PR, Industry and Customer",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Enterprise Sales Development Representative",
-      "Not specified",
-      "India, Mumbai"
-    ],
-    [
-      "Senior LLM Software Engineer",
-      "Not specified",
-      "Israel, Tel Aviv"
-    ],
-    [
-      "Sr Change Management Consultant",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Functional Consultant - Adaptive Planning",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Principal Cybersecurity Engineer - US Federal",
-      "Not specified",
-      "USA, VA, McLean"
-    ],
-    [
-      "Technical Go-Live Readiness Manager",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Senior Software Engineer - Platform Security",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Strategic Professional Services Engineer",
-      "Not specified",
-      "Israel, Tel Aviv"
-    ],
-    [
-      "Sr. Extend Services Consultant - Workday Success Plans",
-      "Not specified",
-      "IND.Pune"
-    ],
-    [
-      "Senior Account Executive - Customer Base",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Technical Consultant - Paradox",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Expression of Interest: Business Development Representative",
-      "Not specified",
-      "Singapore"
-    ],
-    [
-      "Technical Product Support Engineer",
-      "Not specified",
-      "IND.Pune"
-    ],
-    [
-      "Senior AI Product Designer - Evisort AI",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Functional Consultant -Financials - Consultant fonctionnel ou consultante fonctionnelle \u2013 Gestion financi\u00e8re",
-      "Not specified",
-      "6 Locations"
-    ],
-    [
-      "Senior CLM Product Manager - Evisort AI",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr Associate Site Reliability Engineering",
-      "Not specified",
-      "Australia, NSW, North Sydney"
-    ],
-    [
-      "Sr Cybersecurity Engineer",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Account Executive Medium Enterprise - Germany - Services",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Financials Strategist",
-      "Not specified",
-      "Japan, Tokyo"
-    ],
-    [
-      "Machine Learning Engineer III",
-      "Not specified",
-      "USA, CO, Boulder"
-    ],
-    [
-      "Commercial Account Executive - Emerging Enterprise",
-      "Not specified",
-      "Netherlands, Amsterdam"
-    ],
-    [
-      "Specialised Account Executive (Contract Intelligence and Contract Lifecycle Management)",
-      "Not specified",
-      "Singapore"
-    ],
-    [
-      "Sr Software Engineer",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Senior Talent Acquisition Recruiter",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Marketing Manager",
-      "Not specified",
-      "Singapore"
-    ],
-    [
-      "Digital Demo Lead",
-      "Not specified",
-      "United Kingdom, London"
-    ],
-    [
-      "Project Manager - German Speaking",
-      "Not specified",
-      "Poland, Warsaw"
-    ],
-    [
-      "Account Executive Customer Base Medium Enterprise, TMT",
-      "Not specified",
-      "United Kingdom, London"
-    ],
-    [
-      "Enterprise Applications Analyst",
-      "Not specified",
-      "IND.Pune"
-    ],
-    [
-      "Senior Manager, Machine Learning Engineering",
-      "Not specified",
-      "USA, CO, Boulder"
-    ],
-    [
-      "Product Specialist \u2013 Workday Talent Suite",
-      "Not specified",
-      "Singapore"
-    ],
-    [
-      "Technical Support Engineer",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Principal, Partner Growth Manager - Adaptive Planning",
-      "Not specified",
-      "Singapore"
-    ],
-    [
-      "Senior Director, Workday Wellness",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Manager, Technical Consulting - HiredScore",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Senior SWAT Support Engineer",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Sr Software Development Engineer (Full Stack) - Evisort AI",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Workday Product Instructor \u2013 Integrations / Extend",
-      "Not specified",
-      "Poland, Warsaw"
-    ],
-    [
-      "Sr. Reporting & Analytics Consultant - Workday Success Plans",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Senior Manager, Machine Learning Engineering",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Manager, Technical Consulting - Integration",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Senior Manager, Cybersecurity GRC Engineering",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Software Development Engineer (Full Stack) - Evisort AI",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Solution Consultant HCM",
-      "Not specified",
-      "Italy, Milan"
-    ],
-    [
-      "Principal, Data Scientist",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "UX Designer",
-      "Not specified",
-      "Canada, BC, Vancouver"
-    ],
-    [
-      "Cybersecurity Engineer - US Federal",
-      "Not specified",
-      "USA, VA, McLean"
-    ],
-    [
-      "Senior Integration Consultant - Workday Success Plans",
-      "Not specified",
-      "Poland, Warsaw"
-    ],
-    [
-      "Account Executive Large Enterprise - Services / Tech / M\u00e9dia",
-      "Not specified",
-      "France, Paris"
-    ],
-    [
-      "Business Development Representative (Dutch Speaker)",
-      "Not specified",
-      "Ireland, Dublin"
-    ],
-    [
-      "Account Executive - Customer Base Major Accounts",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Large Enterprise Customer Base Account Executive, oCFO (RHT)",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Account Executive - Medium Enterprise",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr Solution Consultant (Planning)",
-      "Not specified",
-      "Japan, Tokyo"
-    ],
-    [
-      "Account Executive - Government",
-      "Not specified",
-      "Australia, VIC, Melbourne"
-    ],
-    [
-      "Prism Reporting & Analytics Consultant",
-      "Not specified",
-      "13 Locations"
-    ],
-    [
-      "Business Development Representative (Spanish & Portuguese Speaker)",
-      "Not specified",
-      "Ireland, Dublin"
-    ],
-    [
-      "Finance Director, US Federal",
-      "Not specified",
-      "USA, VA, McLean"
     ],
     [
       "Senior Technical Consultant - Financials Integrations",
@@ -2159,134 +124,44 @@
       "MEX.Zapopan"
     ],
     [
-      "Account Executive - Customer Base Major Accounts- Healthcare",
+      "Senior Manager, Machine Learning Engineering - Evisort",
       "Not specified",
-      "USA.IL.Home Office Chicago Metro"
+      "2 Locations"
     ],
     [
-      "Learning Consultant - Workday Success Plans",
+      "Sr. Associate Software Development Engineer - Workday Everywhere",
       "Not specified",
-      "Poland, Warsaw"
+      "2 Locations"
     ],
     [
-      "Account Executive - Medium Enterprise, Customer Base, FSI",
+      "Manager, Software Development Engineering in Test",
       "Not specified",
-      "Canada, ON, Toronto"
+      "2 Locations"
     ],
     [
-      "Functional Consultant - Financial Software",
+      "Principal Managing Partner",
       "Not specified",
-      "Poland, Warsaw"
+      "United Kingdom, London"
     ],
     [
-      "Software Development Engineer, Azure VDI Engineer (US Federal)",
+      "Vulnerability Management Analyst - US Federal",
       "Not specified",
       "USA, VA, McLean"
     ],
     [
-      "Enterprise Operations, Senior Program Manager",
+      "Principal Contracts Manager",
       "Not specified",
-      "USA, CA, Pleasanton"
+      "3 Locations"
     ],
     [
-      "Principal Software Engineer - Evisort AI (Open)",
+      "Large Enterprise Account Executive, Net New- MFG, TM & PS",
       "Not specified",
-      "2 Locations"
+      "11 Locations"
     ],
     [
-      "Account Executive - Customer Base LE",
+      "Sr Evisort Implementation Manager, Engagement Management",
       "Not specified",
-      "USA, FL, Remote"
-    ],
-    [
-      "Absence Time Tracking Scheduling Functional Consultant",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Account Executive - Large Enterprise",
-      "Not specified",
-      "THA, Remote"
-    ],
-    [
-      "Technical Delivery Support Analyst - Peakon",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Senior Director, Corporate Development",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Principal Consultant, Finance & Accounting Systems (Workday Only)",
-      "Not specified",
-      "IND.Pune"
-    ],
-    [
-      "Senior Financial Consultant - Record to Report with Security - Workday Success Plans",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr Software Development Engineer for AI",
-      "Not specified",
-      "Canada, BC, Vancouver"
-    ],
-    [
-      "Technical Support Engineer - Performance and Availability",
-      "Not specified",
-      "Poland, Warsaw"
-    ],
-    [
-      "Large Enterprise Account Executive - Net New - Middle East (Riyadh, KSA)",
-      "Not specified",
-      "UAE.Dubai"
-    ],
-    [
-      "Enterprise Architect",
-      "Not specified",
-      "12 Locations"
-    ],
-    [
-      "Senior Product Manager, Authentication",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Head of Event Keynote Experience & Innovation",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Senior Technical Account Manager (EMEA Shift)",
-      "Not specified",
-      "IND.Pune"
-    ],
-    [
-      "Production Readiness Manager",
-      "Not specified",
-      "IND.Pune"
-    ],
-    [
-      "Principal Financial Implementation Consultant",
-      "Not specified",
-      "72 Locations"
-    ],
-    [
-      "Sr Enterprise Architect",
-      "Not specified",
-      "10 Locations"
-    ],
-    [
-      "Sr Workday Functional Consultant - Core HCM, Absence and Time Tracking",
-      "Not specified",
-      "Singapore"
-    ],
-    [
-      "Account Executive - Customer Base ME - Healthcare",
-      "Not specified",
-      "USA, CA, Pleasanton"
+      "6 Locations"
     ],
     [
       "Engagement Manager - Stockholm",
@@ -2294,164 +169,9 @@
       "Sweden, Stockholm"
     ],
     [
-      "Account Executive - Medium Enterprise, Net New, Public Sector",
+      "Adoption & Retention Programs Lead",
       "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Medium Enterprise Account Executive, Customer Base",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Global Project Delivery Manager",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Senior Strategy & Operations Manager",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Senior Functional Consultant for Workday CLM Evisort",
-      "Not specified",
-      "13 Locations"
-    ],
-    [
-      "Solution Consultant - HCM",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr Director, Software Development Engineering",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Sr Solution Consultant - HCM",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Ecosystem Specialist, Indonesia",
-      "Not specified",
-      "IDN.Jakarta"
-    ],
-    [
-      "Sr Services Executive",
-      "Not specified",
-      "France, Paris"
-    ],
-    [
-      "Senior US Corporate Tax Analyst | 1120",
-      "Not specified",
-      "IND.Pune"
-    ],
-    [
-      "Working Student - Customer Success EMEA",
-      "Not specified",
-      "Germany, Munich"
-    ],
-    [
-      "Account Executive - Medium Enterprise, Customer Base",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Manager/Senior Manager, Machine Learning Engineering",
-      "Not specified",
-      "Canada, ON, Toronto"
-    ],
-    [
-      "Senior Enterprise Architect",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Senior Cybersecurity Engineer",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Principal Managing Partner",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Director, Compensation Product Management",
-      "Not specified",
-      "Ireland, Dublin"
-    ],
-    [
-      "Manager, Software Development Engineering",
-      "Not specified",
-      "Israel, Tel Aviv"
-    ],
-    [
-      "Product Specialist - Workday Platform (Workday Build, Workday Data Cloud) and AI Agents",
-      "Not specified",
-      "7 Locations"
-    ],
-    [
-      "Senior Services Executive - Nordics",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Senior Services Sales Executive - Healthcare",
-      "Not specified",
-      "31 Locations"
-    ],
-    [
-      "Account Executive - FINS Customer Base LE",
-      "Not specified",
-      "USA, TN, Remote"
-    ],
-    [
-      "Senior Account Executive",
-      "Not specified",
-      "JPN.Osaka"
-    ],
-    [
-      "Senior Strategy & Operations Manager",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Senior DataOps Engineer",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Software Development Engineer (Golang & Kubernetes)",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Account Executive - Major Accounts",
-      "Not specified",
-      "USA, GA, Atlanta"
-    ],
-    [
-      "Principal Software Development Engineer, Flowise",
-      "Not specified",
-      "Canada, BC, Vancouver"
-    ],
-    [
-      "Principal Software Development Engineer (Cybersecurity Risk & Automation)",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Regional Sales Director, Large Enterprise Customer Base, oCFO",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Integrations Consultant (German speaking)",
-      "Not specified",
-      "2 Locations"
+      "5 Locations"
     ],
     [
       "Sr. Software Development Engineer in Test (SDET)",
@@ -2459,102 +179,12 @@
       "IND.Chennai"
     ],
     [
-      "Sr. Associate DevOps Engineer",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Principal, Workday HCM Consultant",
-      "Not specified",
-      "IND.Pune"
-    ],
-    [
-      "Senior Technical Integration Consultant (Financials) - Consultant(e) Technique S\u00e9nior (Finance)",
-      "Not specified",
-      "6 Locations"
-    ],
-    [
-      "Technical Integration Consultant",
-      "Not specified",
-      "Ireland, Dublin"
-    ],
-    [
-      "Regional Sales Director, Large Enterprise, oCFO",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Center of Excellence, Customer Success Manager",
-      "Not specified",
-      "Australia, NSW, North Sydney"
-    ],
-    [
-      "Senior Software Developer, Global Content \u2013 Growth",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Legal AI Product Specialist / Sr Legal AI Product Specialist - Evisort AI",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Account Executive Medium Enterprise - Retail, Hospitality & Transport",
-      "Not specified",
-      "United Kingdom, London"
-    ],
-    [
-      "Account Executive - Customer Base Major Accounts: Retail, Hospitality and Transportation",
-      "Not specified",
-      "9 Locations"
-    ],
-    [
-      "Senior Consultant - Financials, FSI Industry",
-      "Not specified",
-      "71 Locations"
-    ],
-    [
-      "Sr Manager, Infrastructure Security Innovation",
-      "Not specified",
-      "Ireland, Dublin"
-    ],
-    [
-      "Manager, Software Development Engineering (US Federal)",
-      "Not specified",
-      "USA, VA, McLean"
-    ],
-    [
-      "Regional Sales Director, Large Enterprise Customer Base- Retail, Hospitality & Transportation",
-      "Not specified",
-      "USA, GA, Atlanta"
-    ],
-    [
-      "Financials Account Executive, Customer Base",
-      "Not specified",
-      "Australia, VIC, Melbourne"
-    ],
-    [
-      "Senior Technical Integration Consultant - AI HCM Solutions",
-      "Not specified",
-      "6 Locations"
-    ],
-    [
-      "Senior Software Development Engineer - US Federal",
-      "Not specified",
-      "USA, GA, Atlanta"
-    ],
-    [
-      "Principal Managing Partner",
-      "Not specified",
-      "Japan, Tokyo"
-    ],
-    [
-      "Regional Sales Director",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
       "Manager, Technical Support Delivery- Talent",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Senior Intelligent Automation Analyst",
       "Not specified",
       "Costa Rica"
     ],
@@ -2564,159 +194,39 @@
       "Malaysia, Kuala Lumpur"
     ],
     [
-      "Senior Cybersecurity Engineer - US Federal",
+      "Finance Director, US Federal",
       "Not specified",
       "USA, VA, McLean"
     ],
     [
-      "Global Design and Sustainability Lead",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Senior Product Manager, Global Products \u2013 Growth",
-      "Not specified",
-      "Ireland, Dublin"
-    ],
-    [
-      "Business Development Representative - Korean Speaking",
-      "Not specified",
-      "Singapore"
-    ],
-    [
-      "HiredScore Technical Consultant - Integrations",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Solution Consultant - HCM",
-      "Not specified",
-      "USA, UT, Salt Lake City"
-    ],
-    [
-      "Technical Project Manager - Hiredscore",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Software Development Engineer in Test (SDET)",
+      "Manager, Software Development Engineering",
       "Not specified",
       "IND.Chennai"
     ],
     [
-      "Software Development Engineer / Senior Software Development Engineer - Core BI Reporting",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Executive Assistant",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Engagement Manager - Workday Success Plans Subscription Services",
+      "Manager, Technical Consulting - Integration",
       "Not specified",
       "Costa Rica"
     ],
     [
-      "Functional Consultant - Financial Software DACH",
+      "Senior Manager, Site Reliabilty Engineering",
       "Not specified",
       "2 Locations"
     ],
     [
-      "Channel Account Executive",
+      "Commercial Account Executive - Emerging Enterprise",
       "Not specified",
-      "Italy, Milan"
+      "Netherlands, Amsterdam"
     ],
     [
-      "Principal Solution Consultant\uff08\u4eba\u4e8b\u9818\u57df\uff09",
-      "Not specified",
-      "Japan, Tokyo"
-    ],
-    [
-      "Software Development Engineer - ML Ops",
-      "Not specified",
-      "USA, GA, Atlanta"
-    ],
-    [
-      "Software Development Engineer III / Senior Software Development Engineer - Full Stack",
+      "Value Manager",
       "Not specified",
       "2 Locations"
     ],
     [
-      "Software Application Engineer - (US Federal)",
-      "Not specified",
-      "USA, GA, Atlanta"
-    ],
-    [
-      "Sr. Director Cloud and Network Infrastructure",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Director, Marketing Campaigns & Programs (APJ)",
-      "Not specified",
-      "Australia, NSW, North Sydney"
-    ],
-    [
-      "Sr HCM Consultant - Workday Success Plans",
-      "Not specified",
-      "Poland, Warsaw"
-    ],
-    [
-      "Sr Associate Site Reliability Engineer (SRE)",
-      "Not specified",
-      "Ireland, Dublin"
-    ],
-    [
-      "BT Sr. BizOps Analyst",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Cybersecurity Compliance Program Manager",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Manager, Product Management US Payroll",
-      "Not specified",
-      "USA, GA, Atlanta"
-    ],
-    [
-      "Sr Extend Consultant - Workday Success Plans",
-      "Not specified",
-      "7 Locations"
-    ],
-    [
-      "Sr Solution Consultant - HCM",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Junior Office Chef",
-      "Not specified",
-      "Sweden, Stockholm"
-    ],
-    [
-      "Sr. Outbound Product Manager, Workforce Management",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Workday Integration | Extend Consultant",
+      "Enterprise Applications Analyst",
       "Not specified",
       "IND.Pune"
-    ],
-    [
-      "Renewals Manager - Specialized Products",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Sr Solution Consultant",
-      "Not specified",
-      "9 Locations"
     ],
     [
       "Solution Consultant",
@@ -2724,147 +234,22 @@
       "United Kingdom, London"
     ],
     [
-      "Sr. Healthcare Technical Integration Consultant(Fins)",
-      "Not specified",
-      "75 Locations"
-    ],
-    [
-      "Sr. Outbound Product Manager",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Account Executive - K12",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Account Executive - Medium Enterprise, Net New, Public Sector",
-      "Not specified",
-      "Canada, ON, Toronto"
-    ],
-    [
-      "Sr Software Engineer - SRE",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Senior Functional Consultant - Adaptive Planning (EPM / CPM)",
-      "Not specified",
-      "Japan, Tokyo"
-    ],
-    [
-      "Sales Development Representative",
-      "Not specified",
-      "USA, UT, Salt Lake City"
-    ],
-    [
-      "Sr Associate Software Development Engineer",
-      "Not specified",
-      "Ireland, Dublin"
-    ],
-    [
-      "Account Executive Majors Account FSI",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Data Conversion Consultant",
-      "Not specified",
-      "MEX.Zapopan"
-    ],
-    [
-      "Sr Technical Account Manager",
-      "Not specified",
-      "Poland, Warsaw"
-    ],
-    [
-      "Account Executive - Large Enterprise, Customer Base, Public Sector",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Machine Learning Engineer - Evisort",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Senior Manager - Authentication",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Regional Sales Director - LE Customer Base - Healthcare",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Large Enterprise Account Executive, Customer Base FSI",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Director, Variable Compensation Operations",
+      "Senior Manager PR, Industry and Customer",
       "Not specified",
       "3 Locations"
     ],
     [
-      "Regional Sales Director, Office of the CFO - FSI",
+      "Enterprise Architect",
       "Not specified",
-      "4 Locations"
+      "12 Locations"
     ],
     [
-      "Senior HR People Consultant",
+      "Working Student - Customer Success EMEA",
       "Not specified",
-      "2 Locations"
+      "Germany, Munich"
     ],
     [
-      "Business Development Representative Nordics (Norwegian, Swedish or Danish)",
-      "Not specified",
-      "Ireland, Dublin"
-    ],
-    [
-      "Sr Software Development Engineer (AI & Full Stack)",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Sr Engagement Manager",
-      "Not specified",
-      "Italy, Milan"
-    ],
-    [
-      "Software Development Engineer (Full Stack)",
-      "Not specified",
-      "Canada, BC, Vancouver"
-    ],
-    [
-      "Senior Services Executive",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Manager, Software Development Engineering",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Cybersecurity Engineer",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Account Executive - Large Enterprise, Net New, Federal",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Customer Success Manager",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Regional Sales Director",
+      "Account Executive Government",
       "Not specified",
       "2 Locations"
     ],
@@ -2874,269 +259,284 @@
       "USA, VA, McLean"
     ],
     [
-      "Principal Solution Consultant",
+      "Third-Party Risk Management Program Manager",
       "Not specified",
-      "Japan, Tokyo"
+      "Costa Rica"
     ],
     [
-      "Regional Sales Director - Large Enterprise - Customer Base",
-      "Not specified",
-      "USA, GA, Atlanta"
-    ],
-    [
-      "Expression of Interest: Business Development Representative (Supporting Taiwan)",
+      "Senior Manager PR, Industry and Customer",
       "Not specified",
       "2 Locations"
     ],
     [
-      "Associate Manager, Product Management",
+      "Software Development Engineer III / Senior Software Development Engineer - Full Stack",
       "Not specified",
-      "IND.Chennai"
+      "2 Locations"
     ],
     [
-      "Technical Integration Consultant (HCM/ Finance)",
+      "Senior Manager, Financials Solution Consulting",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr. Proposal Manager, US Federal",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Senior Solution Consultant HCM",
+      "Not specified",
+      "Spain, Madrid"
+    ],
+    [
+      "Sr Software Development Engineer - US Federal",
+      "Not specified",
+      "USA, VA, McLean"
+    ],
+    [
+      "Sr Associate Technical Product Support Engineer",
       "Not specified",
       "IND.Pune"
     ],
     [
-      "Sr Information Systems Software Application Engineer",
+      "Account Executive Medium Enterprise",
       "Not specified",
-      "USA, GA, Atlanta"
+      "France, Paris"
     ],
     [
-      "Solution Consultant - HCM",
+      "Account Executive - Medium Enterprise, Customer Base",
       "Not specified",
-      "12 Locations"
+      "3 Locations"
     ],
     [
-      "Senior Solution Consultant",
+      "Account Executive Medium Enterprise - Germany - Services",
       "Not specified",
-      "2 Locations"
+      "3 Locations"
     ],
     [
-      "Automation Test Engineer - Paradox (Da Nang)",
-      "Not specified",
-      "Vietnam"
-    ],
-    [
-      "Medium Enterprise Account executive",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Financial Analyst",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Principal  Consultant  - Workday finance - Workday Success Plans ( Workday Experience Only, Certification - Highly Desired)",
-      "Not specified",
-      "IND.Pune"
-    ],
-    [
-      "Sr. Associate Software Development Engineer - Workday Everywhere",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Site Reliability Engineer - Deployment & Monitoring",
+      "Senior Software Development Engineer (Full Stack)",
       "Not specified",
       "IND.Chennai"
     ],
     [
-      "Enterprise Architect",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Manager, Technical Project Implementation Team",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Business Development Representative (Spanish Speaker)",
-      "Not specified",
-      "Ireland, Dublin"
-    ],
-    [
-      "Principal Outbound Workforce Management Product Manager",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Software Development Engineer - Hiredscore",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "LLM Engineer",
-      "Not specified",
-      "Israel, Tel Aviv"
-    ],
-    [
-      "Senior Software Development Engineer",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr. SDET Engineer",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Product Sales Specialist - HiredScore / Workday Talent",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Senior Devops Engineer, Alpaca Engineer (US Federal)",
-      "Not specified",
-      "USA, VA, McLean"
-    ],
-    [
-      "Senior Technical Integration Consultant - Cross - HiredScore",
-      "Not specified",
-      "Israel, Tel Aviv"
-    ],
-    [
-      "Senior Value Manager",
+      "Financials Strategist",
       "Not specified",
       "Japan, Tokyo"
     ],
     [
-      "Quality Assurance Engineer - Paradox (Da Nang)",
-      "Not specified",
-      "Vietnam"
-    ],
-    [
-      "Sr Customer Success Manager",
-      "Not specified",
-      "6 Locations"
-    ],
-    [
-      "Account Executive",
-      "Not specified",
-      "New Zealand, Auckland"
-    ],
-    [
-      "Senior Functional Consultant - Revenue - Workday Success Plans",
-      "Not specified",
-      "146 Locations"
-    ],
-    [
-      "Manager, Software Development Engineering",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Sr Software Engineer Analytics (US Federal)",
-      "Not specified",
-      "USA, VA, McLean"
-    ],
-    [
-      "Principal DataOps Engineer (DevOps for Data)",
-      "Not specified",
-      "Canada, ON, Toronto"
-    ],
-    [
-      "Sr Software Engineer (US Federal)",
-      "Not specified",
-      "USA, VA, McLean"
-    ],
-    [
-      "Product Specialist",
-      "Not specified",
-      "13 Locations"
-    ],
-    [
-      "Account Executive - Large Enterprise- Government",
-      "Not specified",
-      "USA, OH, Remote"
-    ],
-    [
-      "Manager, Solution Consulting",
-      "Not specified",
-      "Denmark, Copenhagen"
-    ],
-    [
-      "Sr/Principal Workday Financials Functional Consultant",
-      "Not specified",
-      "Singapore"
-    ],
-    [
-      "Sr. Accounts Receivable Operations Analyst",
-      "Not specified",
-      "Ireland, Dublin"
-    ],
-    [
-      "HCM Implementation Consultant",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Sr. Talent Acquisition Partner - Sales ANZ",
-      "Not specified",
-      "Australia, NSW, North Sydney"
-    ],
-    [
-      "Functional Consultant - HCM",
+      "Sr Technical Account Manager",
       "Not specified",
       "Poland, Warsaw"
     ],
     [
-      "Sr Associate Software Development Engineer",
+      "Technical Lead",
+      "Not specified",
+      "Japan, Tokyo"
+    ],
+    [
+      "Software Development Engineer (Java)",
       "Not specified",
       "IND.Chennai"
     ],
     [
-      "Senior Financial Accountant - International Statutory Compliance",
+      "Sr Associate Site Reliability Engineer (SRE)",
       "Not specified",
-      "IND.Pune"
+      "Ireland, Dublin"
     ],
     [
-      "Senior Functional Consultant - Financials",
+      "Business Development Representative (Dutch Speaker)",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "Manager, Support Platform Engineering",
+      "Not specified",
+      "Poland, Warsaw"
+    ],
+    [
+      "Product Specialist - Workday Platform (Workday Build, Workday Data Cloud) and AI Agents",
+      "Not specified",
+      "7 Locations"
+    ],
+    [
+      "Product Specialist - Workday Platform (Workday Build, Workday Data Cloud) and AI Agents",
       "Not specified",
       "4 Locations"
     ],
     [
-      "Principal Graphic Designer, Art director",
-      "Not specified",
-      "USA, CA, Pleasanton"
-    ],
-    [
-      "Medium Enterprise Account Executive",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Sr Distributed Systems Engineer (DevOps)",
-      "Not specified",
-      "New Zealand, Auckland"
-    ],
-    [
-      "Functional Consultant - Paradox",
+      "Account Executive - Customer Base LE",
       "Not specified",
       "2 Locations"
     ],
     [
-      "Accountant",
+      "Business Development Representative (Spanish & Portuguese Speaker)",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "Account Executive - Major Accounts",
+      "Not specified",
+      "USA, GA, Atlanta"
+    ],
+    [
+      "Principal, Art Director",
       "Not specified",
       "USA, CA, Pleasanton"
     ],
     [
-      "Senior Engagement Manager",
+      "Head of Event Keynote Experience & Innovation",
       "Not specified",
-      "MEX.Zapopan"
+      "USA, CA, Pleasanton"
     ],
     [
-      "Sr. Infrastructure Engineer",
+      "Principal Outbound Product Manager, Workday GO",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Senior US Corporate Tax Analyst | 1120",
       "Not specified",
       "IND.Pune"
     ],
     [
-      "System Owner-Boundary Compliance Owner - US Federal",
+      "Senior Talent Acquisition Recruiter",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Business Development Representative - Korean Speaking",
+      "Not specified",
+      "Singapore"
+    ],
+    [
+      "Paid & Organic Search Manager - APJ",
+      "Not specified",
+      "Singapore"
+    ],
+    [
+      "Software Development Engineer (Golang & Kubernetes)",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Principal Software Development Engineer - Java or Kotlin",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Account Executive - Large Enterprise",
+      "Not specified",
+      "THA, Remote"
+    ],
+    [
+      "Sr. Principal/Principal Program Manager (HR AI)",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Senior Associate Product Manager - AI Experience",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "Account Executive - Medium Enterprise, Net New, Healthcare",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Senior Functional Consultant \u2013 Financials (ERP)",
+      "Not specified",
+      "Japan, Tokyo"
+    ],
+    [
+      "Regional Sales Director, Large Enterprise  Customer Base RHT",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Senior Services Sales Executive - Healthcare",
+      "Not specified",
+      "31 Locations"
+    ],
+    [
+      "Software Development Engineer / Senior Software Development Engineer - Core BI Reporting",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Financial Accountant",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Regional Sales Director, Large Enterprise Customer Base- Retail, Hospitality & Transportation",
+      "Not specified",
+      "USA, GA, Atlanta"
+    ],
+    [
+      "Sr Engagement Manager - Diversified Industries",
+      "Not specified",
+      "32 Locations"
+    ],
+    [
+      "Junior Office Chef",
+      "Not specified",
+      "Sweden, Stockholm"
+    ],
+    [
+      "Sr. Director Cloud and Network Infrastructure",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Senior Functional Consultant - Financials",
+      "Not specified",
+      "Japan, Tokyo"
+    ],
+    [
+      "Senior Delivery Manager - HiredScore",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Software Development Engineer - ML Ops",
+      "Not specified",
+      "USA, GA, Atlanta"
+    ],
+    [
+      "Account Executive - Emerging Enterprise UKI",
+      "Not specified",
+      "United Kingdom, London"
+    ],
+    [
+      "Cybersecurity Engineer - Security Architecture & Integration",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "Principal Cybersecurity Engineer - US Federal",
       "Not specified",
       "USA, VA, McLean"
+    ],
+    [
+      "Principal Product Manager, PATT & Benefits",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Cybersecurity Engineer",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Channel Account Executive - Services & Tech & media",
+      "Not specified",
+      "France, Paris"
+    ],
+    [
+      "Solution Consultant- FINS",
+      "Not specified",
+      "2 Locations"
     ],
     [
       "Senior Cloud IAM Engineer",
@@ -3144,14 +544,134 @@
       "2 Locations"
     ],
     [
-      "Account Executive - Customer Base ME",
+      "Director, Talent Acquisition - US Federal",
+      "Not specified",
+      "USA, VA, McLean"
+    ],
+    [
+      "Regional Sales Director",
       "Not specified",
       "5 Locations"
     ],
     [
-      "Product Specialist - Workday Platform (Workday Build, Workday Data Cloud) and AI Agents",
+      "Principal Financials Functional Consultant",
+      "Not specified",
+      "Hong Kong"
+    ],
+    [
+      "Incident Coordinator/Cyber Incident Commander - US Federal",
+      "Not specified",
+      "USA, VA, McLean"
+    ],
+    [
+      "Value Manager UKI",
+      "Not specified",
+      "United Kingdom, London"
+    ],
+    [
+      "Senior Account Executive - Customer Base",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Senior Director, Corporate Development",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Engagement Manager",
+      "Not specified",
+      "USA, NY, New York City"
+    ],
+    [
+      "Technical Implementation Manager",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "Product Specialist \u2013 Workday Talent Suite",
       "Not specified",
       "Singapore"
+    ],
+    [
+      "Principal  Consultant  - Workday finance - Workday Success Plans ( Workday Experience Only, Certification - Highly Desired)",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Software Developer - Authentication",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Sr. Reporting & Analytics Consultant - Workday Success Plans",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Financials Account Executive, Customer Base",
+      "Not specified",
+      "Australia, VIC, Melbourne"
+    ],
+    [
+      "Sr Software Development Engineer (Full Stack) - Evisort AI",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Tax Provision Manager",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Senior Functional Consultant - Revenue - Workday Success Plans",
+      "Not specified",
+      "146 Locations"
+    ],
+    [
+      "Account Executive - Medium Enterprise",
+      "Not specified",
+      "USA, GA, Atlanta"
+    ],
+    [
+      "Senior Software Developer - Authentication",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Senior Technical Integration Consultant - AI HCM Solutions",
+      "Not specified",
+      "6 Locations"
+    ],
+    [
+      "Sr Engagement Manager",
+      "Not specified",
+      "Italy, Milan"
+    ],
+    [
+      "Senior Financials Reporting and Analytics Consultant",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Regional Sales Director",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Account Executive - Customer Base LE - FSI",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Principal, Partner Growth Manager - Adaptive Planning",
+      "Not specified",
+      "Singapore"
+    ],
+    [
+      "Account Executive - K12",
+      "Not specified",
+      "2 Locations"
     ],
     [
       "Principal Analytics Engineer",
@@ -3159,62 +679,197 @@
       "Canada, ON, Toronto"
     ],
     [
+      "Principal Machine Learning Engineer - Evisort AI",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr Business Development & GTM Lead, Workday Wellness",
+      "Not specified",
+      "USA, TN, Remote"
+    ],
+    [
+      "Renewals Manager - Specialized Products",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Regional Sales Director",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Senior Expert Assist Consultant - Integrations",
+      "Not specified",
+      "Poland, Warsaw"
+    ],
+    [
+      "Account Executive - Customer Base LE - FSI",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
       "Senior People Business Partner - Pune",
       "Not specified",
       "IND.Pune"
     ],
     [
-      "Principal Product Manager, IT Service Management",
+      "Summer Sanian - Intern",
       "Not specified",
-      "IND.Pune"
+      "Sweden, Stockholm"
     ],
     [
-      "Manager, Site Reliability Engineering (SRE)",
+      "Senior Business Intelligence Analyst, Growth",
       "Not specified",
-      "Ireland, Dublin"
+      "6 Locations"
     ],
     [
-      "Manager, Software Development Engineering (DevOps), Evisort",
+      "Senior Solution Consultant HCM",
       "Not specified",
-      "4 Locations"
+      "United Kingdom, London"
     ],
     [
-      "Software Development Engineer-Adobe Experience Manager",
+      "Senior Program Manager, Strategic Initiatives",
       "Not specified",
-      "IND.Pune"
+      "6 Locations"
     ],
     [
-      "US Federal Functional Architect, Talent & Recruiting",
+      "Sr Solution Consultant",
+      "Not specified",
+      "USA, CA, Remote"
+    ],
+    [
+      "Principal Cloud IAM Engineer",
       "Not specified",
       "2 Locations"
     ],
     [
-      "Sr Functional Consultant (Core HCM, Learning) - Workday Success Plans",
+      "Sr. Outbound Product Manager",
       "Not specified",
-      "4 Locations"
+      "5 Locations"
     ],
     [
-      "Senior Engineer (Tech Lead) - Application Development",
+      "Specialised Account Executive - Workday AI Talent Suite",
       "Not specified",
-      "IND.Chennai"
+      "2 Locations"
     ],
     [
-      "Senior Associate Software Development Engineer (US Federal)",
+      "Sales Development Representative",
+      "Not specified",
+      "Australia, NSW, North Sydney"
+    ],
+    [
+      "Fullstack Product Engineer",
+      "Not specified",
+      "Sweden, Stockholm"
+    ],
+    [
+      "Sales Development Representative | Dutch, French, German, Italian or Spanish",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "Software Application Engineer (US Federal)",
       "Not specified",
       "USA, GA, Atlanta"
     ],
     [
-      "HCM Solution Consultant",
+      "Program Executive, Post Award - US Federal",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Senior Financial Functional Consultant - Accounting Center and Record to Report - Workday Success Plans",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Machine Learning Engineer III",
+      "Not specified",
+      "USA, CO, Boulder"
+    ],
+    [
+      "Sr Software Development Engineer (AI & Full Stack)",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "BT Sr. BizOps Analyst",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Account Executive Medium Enterprise - Retail, Hospitality & Transport",
+      "Not specified",
+      "United Kingdom, London"
+    ],
+    [
+      "Production Readiness Manager",
+      "Not specified",
+      "Poland, Warsaw"
+    ],
+    [
+      "Healthcare - HCM and Compensation Senior Consultant",
+      "Not specified",
+      "70 Locations"
+    ],
+    [
+      "Services Consulting Manager (FIN or PATT)",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Principal Managing Partner",
+      "Not specified",
+      "Japan, Tokyo"
+    ],
+    [
+      "Solution Consultant HCM",
       "Not specified",
       "Italy, Milan"
     ],
     [
-      "Senior Product Manager, Authentication",
+      "Global Project Delivery Manager",
       "Not specified",
       "USA, CA, Pleasanton"
     ],
     [
-      "Workday Product Instructor \u2013 Human Capital Management",
+      "Large Enterprise Customer Base Account Executive, oCFO (RHT)",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Expression of Interest: Business Development Representative (Supporting Korea)",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Solution Consultant HCM",
+      "Not specified",
+      "Poland, Warsaw"
+    ],
+    [
+      "Sr Functional Consultant - Absence & Time Tracking",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Senior Manager, Machine Learning Engineering",
+      "Not specified",
+      "USA, CO, Boulder"
+    ],
+    [
+      "Senior Software Development Engineer (Distributed DB systems & Storage internals)",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Senior Functional Consultant for Workday CLM Evisort",
+      "Not specified",
+      "133 Locations"
+    ],
+    [
+      "Solution Consulting HCM",
       "Not specified",
       "Poland, Warsaw"
     ],
@@ -3224,14 +879,169 @@
       "USA, VA, McLean"
     ],
     [
-      "Manager, Software Development Engineering",
+      "Sr PostgreSQL Engineer",
       "Not specified",
-      "USA, GA, Atlanta"
+      "Ireland, Dublin"
     ],
     [
-      "Senior/Principal Machine Learning Engineer",
+      "Sr Solution Consultant - Adaptive Planning (EPM / CPM)",
+      "Not specified",
+      "Japan, Tokyo"
+    ],
+    [
+      "Technical Support Engineer",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Account Executive - Medium Enterprise",
       "Not specified",
       "2 Locations"
+    ],
+    [
+      "Senior Developer Advocate, India",
+      "Not specified",
+      "10 Locations"
+    ],
+    [
+      "Product Specialist",
+      "Not specified",
+      "13 Locations"
+    ],
+    [
+      "Technical Product Support Engineer",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Senior Value Manager",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Major Account Executive, Net New (Manufacturing)",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Workday Product Instructor \u2013 Integrations / Extend",
+      "Not specified",
+      "Poland, Warsaw"
+    ],
+    [
+      "Demand Marketing Manager, ME & Industries",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Senior Software Development Engineer",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Senior Functional Consultant - Workday CLM Evisort",
+      "Not specified",
+      "133 Locations"
+    ],
+    [
+      "Associate Manager, Product Management",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Account Executive Large Enterprise - Spain",
+      "Not specified",
+      "Spain, Madrid"
+    ],
+    [
+      "Regional Sales Director, Large Enterprise, oCFO",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Machine Learning Engineer - Agent Factory",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Technical Delivery Support Analyst - Peakon",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Sr Value Manager",
+      "Not specified",
+      "Japan, Tokyo"
+    ],
+    [
+      "US Federal Functional Architect, Talent & Recruiting",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Project Director",
+      "Not specified",
+      "India, Mumbai"
+    ],
+    [
+      "Financials Services Consulting Manager - APAC",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Account Executive - Large Enterprise, Customer Base, Public Sector",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Marketing Manager",
+      "Not specified",
+      "Singapore"
+    ],
+    [
+      "Enterprise Sales Development Representative",
+      "Not specified",
+      "India, Mumbai"
+    ],
+    [
+      "Senior Manager, Machine Learning Engineering",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Consultant, Workday Data Conversion",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Sr. Director of Strategic Partnerships & Ecosystem, Adaptive Planning",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Principal Product Manager, IT Service Management",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Senior Manager, Cybersecurity GRC Engineering",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Account Executive - Large Enterprise, Customer Base, Public Sector",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Senior Reporting and Analytics Consultant - Prism",
+      "Not specified",
+      "13 Locations"
+    ],
+    [
+      "Account Executive - Customer Base Major Accounts: Retail, Hospitality and Transportation",
+      "Not specified",
+      "7 Locations"
     ],
     [
       "Expression of Interest: Business Development Representative (Supporting Hong Kong)",
@@ -3239,29 +1049,99 @@
       "2 Locations"
     ],
     [
-      "Senior Functional Consultant for Workday CLM Evisort",
+      "Senior Associate Software Development Engineer (US Federal)",
       "Not specified",
-      "133 Locations"
+      "USA, GA, Atlanta"
     ],
     [
-      "Principal Managing Partner - French & Italian Speaking",
+      "Senior Manager - Authentication",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Manager, Product Management, US Federal",
+      "Not specified",
+      "USA, GA, Atlanta"
+    ],
+    [
+      "Center of Excellence, Customer Success Manager",
+      "Not specified",
+      "Australia, NSW, North Sydney"
+    ],
+    [
+      "Principal Software Development Engineer (Backend) - Evisort AI",
       "Not specified",
       "2 Locations"
     ],
     [
-      "Cybersecurity Engineer - Security Architecture & Integration",
+      "Software Development Engineer for Machine Learning",
       "Not specified",
-      "Ireland, Dublin"
+      "3 Locations"
     ],
     [
-      "Principal, Corporate Strategy",
+      "Senior Account Executive, Net New, Poland",
+      "Not specified",
+      "Poland, Warsaw"
+    ],
+    [
+      "Principal HR Business Partner, CMO",
       "Not specified",
       "USA, CA, Pleasanton"
     ],
     [
-      "Specialised Account Executive - Workday AI Talent Suite",
+      "Senior Cybersecurity Engineer - US Federal",
+      "Not specified",
+      "USA, VA, McLean"
+    ],
+    [
+      "Regional Sales Director, Office of the CFO - FSI",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Sr Financials Integrations Consultant",
+      "Not specified",
+      "Singapore"
+    ],
+    [
+      "Account Executive - Large Enterprise- Government",
+      "Not specified",
+      "USA, OH, Remote"
+    ],
+    [
+      "Prism Reporting & Analytics Consultant",
+      "Not specified",
+      "13 Locations"
+    ],
+    [
+      "Large Enterprise Account Executive - Customer Base, Financials/oCFO (RHT)",
+      "Not specified",
+      "7 Locations"
+    ],
+    [
+      "Learning Consultant - Workday Success Plans",
+      "Not specified",
+      "Poland, Warsaw"
+    ],
+    [
+      "Large Enterprise Account Executive, Customer Base - RHT",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Product Sales Specialist - HiredScore / Workday Talent",
       "Not specified",
       "2 Locations"
+    ],
+    [
+      "Finance M&A Lead",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Sr Product Manager - Accounting Center",
+      "Not specified",
+      "Canada, BC, Vancouver"
     ],
     [
       "Manager, Finance Operations & Engagement",
@@ -3269,74 +1149,19 @@
       "Costa Rica"
     ],
     [
-      "Solution Consulting HCM",
-      "Not specified",
-      "Poland, Warsaw"
-    ],
-    [
-      "Account Executive -Medium Enterprise- Healthcare",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Paid & Organic Search Manager - APJ",
-      "Not specified",
-      "Singapore"
-    ],
-    [
-      "Senior Business Intelligence Analyst, Growth",
-      "Not specified",
-      "6 Locations"
-    ],
-    [
-      "Platform Security - Software Development Engineer in Test",
+      "Integration Consultant, Global Content \u2013 Growth",
       "Not specified",
       "IND.Chennai"
     ],
     [
-      "Software Development Engineer (Java)",
-      "Not specified",
-      "IND.Chennai"
-    ],
-    [
-      "Sr Solution Consultant (HCM)",
-      "Not specified",
-      "Japan, Tokyo"
-    ],
-    [
-      "Senior Financial Functional Consultant - Accounting Center and Record to Report - Workday Success Plans",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr Workday HCM Functional Consultant",
+      "Expression of Interest: Business Development Representative",
       "Not specified",
       "Singapore"
     ],
     [
-      "HCM Functional Consultant",
+      "Regional Sales Director - LE Customer Base - Healthcare",
       "Not specified",
-      "19 Locations"
-    ],
-    [
-      "Technical Consultant - Data Conversion",
-      "Not specified",
-      "Costa Rica"
-    ],
-    [
-      "Collaboration Engineer",
-      "Not specified",
-      "IND.Pune"
-    ],
-    [
-      "Sr Engagement Manager - Diversified Industries",
-      "Not specified",
-      "32 Locations"
-    ],
-    [
-      "Senior Product Manager, Development Platforms",
-      "Not specified",
-      "Ireland, Dublin"
+      "2 Locations"
     ],
     [
       "Principal Engagement Manager - HCM",
@@ -3344,9 +1169,459 @@
       "2 Locations"
     ],
     [
-      "Snr Associate Software Development Engineer - Application Development",
+      "Account Executive Medium Enterprise, Manufacturing",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Senior Customer Success Manager",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Dev Ops Engineer, Evisort",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Principal, Partner Innovation Business Development",
+      "Not specified",
+      "9 Locations"
+    ],
+    [
+      "Workday Product Instructor \u2013 Human Capital Management",
+      "Not specified",
+      "Poland, Warsaw"
+    ],
+    [
+      "Major Account Executive, Net New (Manufacturing)",
+      "Not specified",
+      "9 Locations"
+    ],
+    [
+      "Solution Consultant HCM",
+      "Not specified",
+      "France, Paris"
+    ],
+    [
+      "Sr Software Development Engineer",
+      "Not specified",
+      "Israel, Tel Aviv"
+    ],
+    [
+      "Account Executive Large Enterprise",
+      "Not specified",
+      "France, Paris"
+    ],
+    [
+      "Machine Learning Engineer - Evisort",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Product Instructor Workday Integrations & Extend",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Assistant General Counsel, Cybersecurity",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Sr Associate ED&A Quality Engineer",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Sr Solution Consultant (HCM)",
+      "Not specified",
+      "Japan, Tokyo"
+    ],
+    [
+      "Sr. Manager, Technical Account Management",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Manager, Site Reliability Engineering (SRE)",
       "Not specified",
       "Ireland, Dublin"
+    ],
+    [
+      "Sr Director, Data Science & Machine Learning",
+      "Not specified",
+      "Canada, ON, Toronto"
+    ],
+    [
+      "Large Enterprise Account Executive, Customer Base FSI",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Enterprise Architect - Presales",
+      "Not specified",
+      "Poland, Warsaw"
+    ],
+    [
+      "Functional Consultant -Financials - Consultant fonctionnel ou consultante fonctionnelle \u2013 Gestion financi\u00e8re",
+      "Not specified",
+      "6 Locations"
+    ],
+    [
+      "Sr Associate Software Development Engineer (Golang & Kubernetes)",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Engagement Manager",
+      "Not specified",
+      "Sweden, Stockholm"
+    ],
+    [
+      "Product Specialist - Workday Platform (Workday Build, Workday Data Cloud) and AI Agents",
+      "Not specified",
+      "Singapore"
+    ],
+    [
+      "Solution Consultant- FINS",
+      "Not specified",
+      "18 Locations"
+    ],
+    [
+      "Account Executive for Existing Clients - Switzerland",
+      "Not specified",
+      "Switzerland, Zurich"
+    ],
+    [
+      "Technical Delivery Support Analyst - Talent and Learning",
+      "Not specified",
+      "Poland, Warsaw"
+    ],
+    [
+      "Enterprise Architect Italy",
+      "Not specified",
+      "Italy, Milan"
+    ],
+    [
+      "Sales Development Representative",
+      "Not specified",
+      "USA, IL, Chicago"
+    ],
+    [
+      "Software Development Engineer",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "Regional Sales Director, Office of the CFO",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Sr. ServiceNow Application Engineer",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Financials Spend Functional Consultant - Workday Success Plans",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Sr Software Engineer - SRE",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Senior Developer Advocate, UKI",
+      "Not specified",
+      "7 Locations"
+    ],
+    [
+      "Regional Sales Director, Large Enterprise Customer Base oCFO",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Software Development Engineer (Cybersecurity Risk & Automation)",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Product Manager / Sr Product Manager - Evisort AI",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Software Development Engineering Manager (DEVX, IAHUB, Perf) - (US Federal)",
+      "Not specified",
+      "USA, VA, McLean"
+    ],
+    [
+      "Account Executive -Medium Enterprise- Healthcare",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Principal Program Manager - Finance",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Technical Consultant - Paradox",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Manager, Software Development Engineering - (US Federal)",
+      "Not specified",
+      "USA, GA, Atlanta"
+    ],
+    [
+      "Manager, Integrations & Technical Solutions  - Hiredscore",
+      "Not specified",
+      "Israel, Tel Aviv"
+    ],
+    [
+      "Senior CLM Product Manager - Evisort AI",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Principal Cybersecurity Engineer",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Software Development Engineer",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Sr. Outbound Product Manager, Financials",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Cybersecurity GRC Specialist",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Account Executive - Major Accounts",
+      "Not specified",
+      "Korea, Seoul"
+    ],
+    [
+      "Sr Distributed Systems Engineer (DevOps)",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Director of Outbound Product Management, Workday GO",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Sr Manager, Software Development Engineering (US Federal)",
+      "Not specified",
+      "USA, VA, McLean"
+    ],
+    [
+      "Enterprise Operations, Senior Program Manager",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Account Executive Customer Base Medium Enterprise, TMT",
+      "Not specified",
+      "United Kingdom, London"
+    ],
+    [
+      "Principal Software Engineer - Evisort AI (Open)",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Software Engineer/Data Engineering",
+      "Not specified",
+      "New Zealand, Auckland"
+    ],
+    [
+      "Business Development Representative (UKI - oCFO)",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "Senior Manager, Architects",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Cybersecurity Engineer",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "DevOps Engineer, Evisort/Flowise",
+      "Not specified",
+      "Canada, BC, Vancouver"
+    ],
+    [
+      "Senior Solution Consultant",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Account Executive Majors Account FSI",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Medium Enterprise Account Executive, Customer Base FSI",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Regional Sales Director - Professional Business Services",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Senior HR People Consultant",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Software Development Engineer - ML Ops (US Federal)",
+      "Not specified",
+      "USA, VA, McLean"
+    ],
+    [
+      "Senior Lifecycle Marketing Manager - Adaptive Planning",
+      "Not specified",
+      "USA, TX, Frisco"
+    ],
+    [
+      "Partner Success",
+      "Not specified",
+      "Malaysia, Kuala Lumpur"
+    ],
+    [
+      "Senior Functional Consultant - Financials",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Software Development Engineer III / Senior Software Development Engineer - Full Stack",
+      "Not specified",
+      "Canada, ON, Toronto"
+    ],
+    [
+      "Large Enterprise Customer Base Account Executive, Manufacturing",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Regional Sales Director, oCFO",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Customer Success Manager - German Speaking",
+      "Not specified",
+      "Poland, Warsaw"
+    ],
+    [
+      "Senior Director/Director, Digital Customer Success Transformation & Innovations",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Principal Consultant, Finance & Accounting Systems (Workday Only)",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Financial System Implementation Consultant",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Account Executive - Customer Base  - FSI",
+      "Not specified",
+      "7 Locations"
+    ],
+    [
+      "Manager, Software Development Engineering",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Sr. Analytics Engineer",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Functional Consultant - Paradox",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Product Manager",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Sr Software Engineer (US Federal)",
+      "Not specified",
+      "USA, VA, McLean"
+    ],
+    [
+      "Senior Value Manager",
+      "Not specified",
+      "Japan, Tokyo"
+    ],
+    [
+      "Senior Software Developer, Global Content \u2013 Growth",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Senior LLM Software Engineer",
+      "Not specified",
+      "Israel, Tel Aviv"
+    ],
+    [
+      "Account Executive - Medium Enterprise - Not for Profit",
+      "Not specified",
+      "United Kingdom, London"
+    ],
+    [
+      "Senior Solution Consultant - PLN",
+      "Not specified",
+      "7 Locations"
+    ],
+    [
+      "Workday Integration | Extend Consultant",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Production Readiness Manager",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Senior Manager, Enterprise Performance",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Principal Managing Partner - French & Italian Speaking",
+      "Not specified",
+      "2 Locations"
     ],
     [
       "Integrations Consultant",
@@ -3354,32 +1629,947 @@
       "2 Locations"
     ],
     [
-      "Sr Product Manager - Workday AI",
+      "Senior Solution Consultant (HCM)",
       "Not specified",
-      "USA, WA, Seattle"
+      "3 Locations"
     ],
     [
-      "Business Development Representative (French Speaker)",
+      "Senior Financial Consultant - Record to Report with Security - Workday Success Plans",
       "Not specified",
-      "Ireland, Dublin"
+      "2 Locations"
     ],
     [
-      "Sr Recruiting Consultant - Workday Success Plans",
+      "Senior Event Marketing Manager - Adaptive Planning",
       "Not specified",
-      "Poland, Warsaw"
+      "United Kingdom, London"
     ],
     [
-      "HCM Consultant \u2013 Workday Success Plans",
+      "Sr Software Development Engineer",
       "Not specified",
-      "Poland, Warsaw"
+      "2 Locations"
     ],
     [
-      "Software Engineer (Full Stack) - Evisort AI",
+      "Principal Contracts Negotiator",
       "Not specified",
-      "Ireland, Dublin"
+      "4 Locations"
+    ],
+    [
+      "Senior Manager, Sales Development",
+      "Not specified",
+      "Japan, Tokyo"
+    ],
+    [
+      "Sales Development Representative",
+      "Not specified",
+      "USA, CA, San Francisco"
     ],
     [
       "Regional Sales Director - Healthcare",
+      "Not specified",
+      "9 Locations"
+    ],
+    [
+      "Senior Customer Success Manager-State & Local Government",
+      "Not specified",
+      "USA, UT, Salt Lake City"
+    ],
+    [
+      "Manager, Software Development Engineering",
+      "Not specified",
+      "USA, GA, Atlanta"
+    ],
+    [
+      "Business Development Representative | German | Dublin based",
+      "Not specified",
+      "7 Locations"
+    ],
+    [
+      "Sr/Consultant - Workday Financials",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Principal, Corporate Strategy",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Software Development Engineer (Full Stack)",
+      "Not specified",
+      "Canada, BC, Vancouver"
+    ],
+    [
+      "Software Solution Analyst, Global Partner Organization",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Software Development Engineer in Test - SDET (Intermediate to Senior), Evisort AI",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Principal DataOps Engineer (DevOps for Data)",
+      "Not specified",
+      "Canada, ON, Toronto"
+    ],
+    [
+      "Director of Channel Partner GTM Strategy and Operations, Adaptive Planning",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr. Talent Acquisition Partner - Sales ANZ",
+      "Not specified",
+      "Australia, NSW, North Sydney"
+    ],
+    [
+      "Software Engineer III/Senior Software Engineer (Full Stack)",
+      "Not specified",
+      "Canada, BC, Vancouver"
+    ],
+    [
+      "Sr Information Systems Software Application Engineer",
+      "Not specified",
+      "USA, GA, Atlanta"
+    ],
+    [
+      "Sr. Prism Analytics Consultant - Workday Success Plans",
+      "Not specified",
+      "Poland, Warsaw"
+    ],
+    [
+      "Sr HCM Consultant - Workday Success Plans",
+      "Not specified",
+      "Poland, Warsaw"
+    ],
+    [
+      "Snr Associate Software Development Engineer - Application Development",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "Account Executive - Customer Base ME",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Sr Manager, Infrastructure Security Innovation",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "Digital Demo Lead",
+      "Not specified",
+      "United Kingdom, London"
+    ],
+    [
+      "Project Manager - HCM / Financials  implementations - Paradox",
+      "Not specified",
+      "USA, IL, Chicago"
+    ],
+    [
+      "Principal, Performance and Capacity Engineer (Infrastructure & Platform)",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Sr Solution Consultant (Planning)",
+      "Not specified",
+      "Japan, Tokyo"
+    ],
+    [
+      "Senior Functional Consultant for Workday CLM Evisort",
+      "Not specified",
+      "13 Locations"
+    ],
+    [
+      "Global Design and Sustainability Lead",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Account Executive - Medium Enterprise",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Ecosystem Specialist, Indonesia",
+      "Not specified",
+      "IDN.Jakarta"
+    ],
+    [
+      "Workday Finance Technical Integration Consultant",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Sr Financial Analyst",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Regional Sales Director, Large Enterprise Customer Base, oCFO",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "GTM-M Stockholm",
+      "Not specified",
+      "Sweden, Stockholm"
+    ],
+    [
+      "Principal Software Engineer - AI Platform",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Accountant",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Sr Functional Consultant (Core HCM, Learning) - Workday Success Plans",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Functional Consultant - Adaptive Planning",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Senior Technical Account Manager (EMEA Shift)",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Expression of Interest: Business Development Representative (Supporting Taiwan)",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Senior Financial Accountant - International Statutory Compliance",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Sr. Software Development Engineer - Integrations - Python",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Account Executive - FSI",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Account Executive - Government",
+      "Not specified",
+      "Australia, VIC, Melbourne"
+    ],
+    [
+      "Sr Manager, APAC Customer Success",
+      "Not specified",
+      "Malaysia, Kuala Lumpur"
+    ],
+    [
+      "Legal Associate",
+      "Not specified",
+      "Sweden, Stockholm"
+    ],
+    [
+      "Medium Enterprise Account Executive",
+      "Not specified",
+      "USA, IL, Chicago"
+    ],
+    [
+      "Technical Project Manager - Hiredscore",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Account Executive - Customer Base Major Accounts: Retail, Hospitality and Transportation",
+      "Not specified",
+      "9 Locations"
+    ],
+    [
+      "Principal Solution Consultant\uff08\u4eba\u4e8b\u9818\u57df\uff09",
+      "Not specified",
+      "Japan, Tokyo"
+    ],
+    [
+      "Sr Associate Information Systems Software Application Engineer",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Senior Director, Workday Wellness",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Senior Solution Consultant (Student Product)",
+      "Not specified",
+      "United Kingdom, London"
+    ],
+    [
+      "Channel Account Executive - Germany",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Regional Sales Director - Healthcare",
+      "Not specified",
+      "10 Locations"
+    ],
+    [
+      "Sr Software Engineer",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Account Executive - Medium Enterprise",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Manager, Software Development Engineering",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Regional Sales Director - Customer Base - FSI",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Principal Graphic Designer, Art director",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Senior Functional Consultant - Adaptive Planning (EPM / CPM)",
+      "Not specified",
+      "Japan, Tokyo"
+    ],
+    [
+      "Senior Solution Consultant - FINS",
+      "Not specified",
+      "Malaysia, Kuala Lumpur"
+    ],
+    [
+      "Executive Assistant",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Data Conversion Consultant",
+      "Not specified",
+      "MEX.Zapopan"
+    ],
+    [
+      "Senior Technical Integration Consultant - AI Financial Solutions",
+      "Not specified",
+      "39 Locations"
+    ],
+    [
+      "Senior DataOps Engineer",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Sr Marketing Automation Manager",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Software Application Engineer - (US Federal)",
+      "Not specified",
+      "USA, GA, Atlanta"
+    ],
+    [
+      "Account Executive - Large Enterprise - Healthcare",
+      "Not specified",
+      "USA, IL, Chicago"
+    ],
+    [
+      "Sr Payroll Consultant: State & Local Government",
+      "Not specified",
+      "USA Remote"
+    ],
+    [
+      "M&A Finance Integration Senior Manager",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Strategic Sales Specialist - VNDLY Centre of Excellence",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr Software Development Engineer (Java)",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Functional Consultant - Financial Software",
+      "Not specified",
+      "Poland, Warsaw"
+    ],
+    [
+      "Account Executive - FSI",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Principal Solution Consultant",
+      "Not specified",
+      "Japan, Tokyo"
+    ],
+    [
+      "Sr Technical Consultant, Government",
+      "Not specified",
+      "USA Remote"
+    ],
+    [
+      "Outbound Product Manager, Integrations",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "Regional Sales Director, Large Enterprise Customer Base, MFG",
+      "Not specified",
+      "USA, NY, New York City"
+    ],
+    [
+      "Account Executive - Large Enterprise, Net New, Federal",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Principal Data & Analytics Security Architect",
+      "Not specified",
+      "Canada, ON, Toronto"
+    ],
+    [
+      "Senior Services Executive",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "GTM-MANAGER",
+      "Not specified",
+      "Sweden, Stockholm"
+    ],
+    [
+      "Absence Time Tracking Scheduling Functional Consultant",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "LLM Engineer",
+      "Not specified",
+      "Israel, Tel Aviv"
+    ],
+    [
+      "Sr Services Executive",
+      "Not specified",
+      "France, Paris"
+    ],
+    [
+      "Functional Consultant - Payroll, Absence & Time Tracking Systems",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Sr. Infrastructure Engineer",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Sr Workday HCM Functional Consultant",
+      "Not specified",
+      "Singapore"
+    ],
+    [
+      "Technical Support Engineer - Performance and Availability",
+      "Not specified",
+      "Poland, Warsaw"
+    ],
+    [
+      "Senior Functional Consultant - Payroll, Absence and Time Tracking - Workday Success Plans",
+      "Not specified",
+      "146 Locations"
+    ],
+    [
+      "Executive Assistant",
+      "Not specified",
+      "Sweden, Stockholm"
+    ],
+    [
+      "Services Consulting Manager (HCM, FIN or PATT)",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Senior Financial Functional Consultant - Spend Management - Workday Success Plans",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Channel Account Executive",
+      "Not specified",
+      "Italy, Milan"
+    ],
+    [
+      "Channel Account Executive - Retail & Hospitality & Transportation",
+      "Not specified",
+      "France, Paris"
+    ],
+    [
+      "People Analytics Data Scientist",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Software Development Engineer in Test (SDET)",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Sr Manager, Software Development Engineering",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Principal Software Development Engineer - (Flowise)",
+      "Not specified",
+      "Canada, BC, Vancouver"
+    ],
+    [
+      "Channel Account Executive",
+      "Not specified",
+      "Poland, Warsaw"
+    ],
+    [
+      "Legal AI Product Specialist / Sr Legal AI Product Specialist - Evisort AI",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Large Enterprise Account Executive - Customer Base, Financials/oCFO (RHT)",
+      "Not specified",
+      "10 Locations"
+    ],
+    [
+      "Solution Consultant - HCM",
+      "Not specified",
+      "USA, UT, Salt Lake City"
+    ],
+    [
+      "Manager, Solution Consulting",
+      "Not specified",
+      "Denmark, Copenhagen"
+    ],
+    [
+      "Sr Payroll, Absence & Time Tracking Consultant - Workday Success Plans",
+      "Not specified",
+      "9 Locations"
+    ],
+    [
+      "Product Manager (HCM - Absence Management and Time tracking)",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Sr Software Application Engineer (US Federal)",
+      "Not specified",
+      "USA, VA, McLean"
+    ],
+    [
+      "Large Enterprise Account Executive - Net New - Middle East (Riyadh, KSA)",
+      "Not specified",
+      "UAE.Dubai"
+    ],
+    [
+      "Sr Associate Software development Engineer - Platform Security",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Software Development Engineer: Deployment Adoption Platform (US Federal)",
+      "Not specified",
+      "USA, VA, McLean"
+    ],
+    [
+      "Sr Software Development Engineer for AI",
+      "Not specified",
+      "Canada, BC, Vancouver"
+    ],
+    [
+      "Senior Site Reliability Engineer",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Senior/Principal Machine Learning Engineer",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr Manager, Customer Success",
+      "Not specified",
+      "Malaysia, Kuala Lumpur"
+    ],
+    [
+      "Account Executive, Taiwan",
+      "Not specified",
+      "Taiwan, Taipei"
+    ],
+    [
+      "Solution Consultant - HCM",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Senior Paid Search Manager",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Senior Auditor, Internal Audit \u2013 Operational Audits",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Sr Cloud Engineer (US Federal)",
+      "Not specified",
+      "USA, VA, McLean"
+    ],
+    [
+      "Senior Engagement Manager",
+      "Not specified",
+      "Japan, Tokyo"
+    ],
+    [
+      "Sr Manager, Software Development Engineering",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Principal HCM Consultant, State & Local Government",
+      "Not specified",
+      "USA Remote"
+    ],
+    [
+      "Account Executive",
+      "Not specified",
+      "New Zealand, Auckland"
+    ],
+    [
+      "Business Development Representative (Spanish Speaker)",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "DataOps Engineer (DevOps for Data)",
+      "Not specified",
+      "Canada, ON, Toronto"
+    ],
+    [
+      "Integration Consultant",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Solution Consultant - HCM",
+      "Not specified",
+      "12 Locations"
+    ],
+    [
+      "Principal, Workday HCM Consultant",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Platform Security - Software Development Engineer in Test",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Solution Consultant HCM",
+      "Not specified",
+      "Netherlands, Amsterdam"
+    ],
+    [
+      "Software Development Engineer (Node.JS)",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Incident Manager",
+      "Not specified",
+      "USA, GA, Atlanta"
+    ],
+    [
+      "Sales Development Representative",
+      "Not specified",
+      "USA, UT, Salt Lake City"
+    ],
+    [
+      "Senior Software Engineer, DBaas - US Federal",
+      "Not specified",
+      "USA, VA, McLean"
+    ],
+    [
+      "Sr Associate Site Reliability Engineering",
+      "Not specified",
+      "Australia, NSW, North Sydney"
+    ],
+    [
+      "Financials Account Executive, Customer Base",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Enterprise Architect",
+      "Not specified",
+      "13 Locations"
+    ],
+    [
+      "Software Development Engineer, DevOps - Lifecycle Platform (US Federal)",
+      "Not specified",
+      "USA, VA, McLean"
+    ],
+    [
+      "Principal Outbound Workforce Management Product Manager",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Large Enterprise Account Executive, Net New- MFG, TM & PS",
+      "Not specified",
+      "14 Locations"
+    ],
+    [
+      "Senior Software Development Engineer (Backend) - Evisort AI",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Senior AI Product Designer - Evisort AI",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Senior Product Manager, Authentication",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Technical Integration Consultant",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "Medium Enterprise Account Executive, Customer Base",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Medium Enterprise Account executive",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Director, Talent Acquisition (Product & Technology)",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Account Executive - Customer Base LE",
+      "Not specified",
+      "USA, FL, Remote"
+    ],
+    [
+      "Technical Consultant - Data Conversion",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Engagement Manager",
+      "Not specified",
+      "United Kingdom, London"
+    ],
+    [
+      "Sr Product Manager Payroll AI",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "Account Executive - Medium Enterprise, Net New, Public Sector",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr. Program Manager - CAO Strategy & Operations",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Senior Integration Consultant - Workday Success Plans",
+      "Not specified",
+      "Poland, Warsaw"
+    ],
+    [
+      "Senior Devops Engineer, Alpaca Engineer (US Federal)",
+      "Not specified",
+      "USA, VA, McLean"
+    ],
+    [
+      "Sr. Product Advisor, Workforce Management- PAO (Product Acceleration & Optimization)",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Enterprise Account Executive - Large Enterprise",
+      "Not specified",
+      "India, Mumbai"
+    ],
+    [
+      "Senior Manager, Software Development Engineering",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Senior Functional Consultant - HCM and Security - Workday Success Plans",
+      "Not specified",
+      "146 Locations"
+    ],
+    [
+      "Account Executive - Medium Enterprise, Manufacturing UKI",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Presales Digital Demo Lead",
+      "Not specified",
+      "United Kingdom, London"
+    ],
+    [
+      "Large Enterprise Account Executive, Customer Base - Manufacturing",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Regional Sales Director",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Sr. Solution Consultant",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Regional Sales Director - Healthcare",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Senior Strategy & Operations Manager",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Sr Solution Consultant",
+      "Not specified",
+      "9 Locations"
+    ],
+    [
+      "Solution Consultant - HCM",
+      "Not specified",
+      "19 Locations"
+    ],
+    [
+      "Account Executive - Medium Enterprise",
+      "Not specified",
+      "USA, NY, New York City"
+    ],
+    [
+      "Director, Engagement Management",
+      "Not specified",
+      "Japan, Tokyo"
+    ],
+    [
+      "Senior Product Manager, Authentication",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "HCM Solution Consultant",
+      "Not specified",
+      "Italy, Milan"
+    ],
+    [
+      "Sr. SDET Engineer",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Senior Software Engineer, Agent Platform",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Software Development Engineer, Azure VDI Engineer (US Federal)",
+      "Not specified",
+      "USA, VA, McLean"
+    ],
+    [
+      "Principal, Data Scientist",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Account Executive Emerging Enterprise - Financial Services",
+      "Not specified",
+      "United Kingdom, London"
+    ],
+    [
+      "Manager, Software Development Engineering (DevOps), Evisort",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Consultant: Agentic AI & Workday Integrations - Workday Success Plans",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "DevOps Engineer (Unix, Shell Scripting)",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Sr Associate Software Development Engineer",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "Business Development Representative Nordics (Norwegian, Swedish or Danish)",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "Sr. Accounts Receivable Operations Analyst",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "Sr Enterprise Architect",
       "Not specified",
       "10 Locations"
     ],
@@ -3389,34 +2579,34 @@
       "USA, CA, Pleasanton"
     ],
     [
-      "Sr Technical Consultant, Government",
+      "Channel Account Executive - Netherlands",
       "Not specified",
-      "USA Remote"
+      "Netherlands, Amsterdam"
     ],
     [
-      "Consultant, Workday Data Conversion",
-      "Not specified",
-      "IND.Pune"
-    ],
-    [
-      "Ecosystem Specialist, Thailand",
-      "Not specified",
-      "THA, Remote"
-    ],
-    [
-      "Account Executive - Customer Base LE - FSI",
+      "Account Executive - Large Enterprise Switzerland",
       "Not specified",
       "2 Locations"
     ],
     [
-      "Account Executive Large Enterprise, Net New (Retail, Hospitality, and Transportation)",
-      "Not specified",
-      "9 Locations"
-    ],
-    [
-      "Account Executive Medium Enterprise, Manufacturing",
+      "Principal AI Product Designer",
       "Not specified",
       "2 Locations"
+    ],
+    [
+      "Solution Consultant- FINS",
+      "Not specified",
+      "57 Locations"
+    ],
+    [
+      "Account Executive Medium Enterprise, FSI",
+      "Not specified",
+      "United Kingdom, London"
+    ],
+    [
+      "Executive Assistant, Workday Foundation",
+      "Not specified",
+      "USA, CA, Pleasanton"
     ],
     [
       "Integration Consultant - Workday Success Plans",
@@ -3424,7 +2614,902 @@
       "Costa Rica"
     ],
     [
-      "Regional Sales Director - Customer Base - FSI",
+      "Manager, Software Development Engineering",
+      "Not specified",
+      "Israel, Tel Aviv"
+    ],
+    [
+      "Product Manager",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "Senior Software Development Engineer",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Channel Account Executive - Nordics",
+      "Not specified",
+      "Sweden, Stockholm"
+    ],
+    [
+      "Cybersecurity Engineer - US Federal",
+      "Not specified",
+      "USA, VA, McLean"
+    ],
+    [
+      "Software Application Engineer (US Federal)",
+      "Not specified",
+      "USA, VA, McLean"
+    ],
+    [
+      "Sr Associate Software Development Engineer",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Machine Learning Engineer",
+      "Not specified",
+      "Canada, ON, Toronto"
+    ],
+    [
+      "Principal Product Manager, Enterprise Applications",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Manager, Technical Project Implementation Team",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Sr Talent, Learning, Recruiting Consultant - Workday Success Plans",
+      "Not specified",
+      "6 Locations"
+    ],
+    [
+      "Deal Operations Manager, Renewals",
+      "Not specified",
+      "Singapore"
+    ],
+    [
+      "Account Executive - Customer Base Major Accounts: Retail, Hospitality and Transportation",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Account Executive - Medium Enterprise, Net New, Public Sector",
+      "Not specified",
+      "Canada, ON, Toronto"
+    ],
+    [
+      "Senior Consultant - Financials, FSI Industry",
+      "Not specified",
+      "71 Locations"
+    ],
+    [
+      "Technical Integration Consultant (HCM/ Finance)",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Senior Technical Integration Consultant (Financials) - Consultant(e) Technique S\u00e9nior (Finance)",
+      "Not specified",
+      "6 Locations"
+    ],
+    [
+      "Site Reliability Engineer - Deployment & Monitoring",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Account Executive - Medium Enterprise, Customer Base",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Manager, Marketing Automation, NA",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Project Manager - German Speaking",
+      "Not specified",
+      "Poland, Warsaw"
+    ],
+    [
+      "Sr Workday Functional Consultant - Core HCM, Absence and Time Tracking",
+      "Not specified",
+      "Singapore"
+    ],
+    [
+      "Sr Recruiting Consultant - Workday Success Plans",
+      "Not specified",
+      "Poland, Warsaw"
+    ],
+    [
+      "Sr. Engagement Manager, AI Solutions Delivery",
+      "Not specified",
+      "7 Locations"
+    ],
+    [
+      "Senior Engagement Manager",
+      "Not specified",
+      "United Kingdom, London"
+    ],
+    [
+      "Manager, Technical Consulting - HiredScore",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Senior / Principal Product Manager - Workday AI",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Engagement Manager - Workday Success Plans Subscription Services",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Group Product Manager - Evisort AI",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Senior Enterprise Architect",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Large Enterprise Account Executive - Customer Base, Financials/oCFO (RHT)",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Account Executive - Large Enterprise",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "M&A Finance Integration Senior Manager",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Manager, Technical Support Delivery-Talent",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Senior Manager, Software Development Engineering",
+      "Not specified",
+      "Canada, BC, Vancouver"
+    ],
+    [
+      "IT Risk Principal, BT Risk Management",
+      "Not specified",
+      "USA, GA, Atlanta"
+    ],
+    [
+      "HCM Implementation Consultant",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Sr Cybersecurity Engineer",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Strategic Professional Services Engineer",
+      "Not specified",
+      "Israel, Tel Aviv"
+    ],
+    [
+      "Senior Cybersecurity Engineer - Network Security and Network Fundamentals",
+      "Not specified",
+      "USA, VA, McLean"
+    ],
+    [
+      "Director of Strategic Initiatives, Medium Enterprise",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Sr. Extend Services Consultant - Workday Success Plans",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Sr Change Management Consultant",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Principal Consultant, Finance & Accounting Systems",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Product Manager, Federal Industry",
+      "Not specified",
+      "USA, GA, Atlanta"
+    ],
+    [
+      "Functional Consultant, Global Content \u2013 Growth",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Medium Enterprise Account Executive",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Senior Product Manager, Global Products \u2013 Growth",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "Reporting & Analytics Consultant - Workday Success Plans",
+      "Not specified",
+      "Poland, Warsaw"
+    ],
+    [
+      "Functional Architect - Workday Payroll",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Senior Analyst, Technology Control & Process",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Manager, Business Development DACH (German-Speaking)",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "Sr Customer Success Manager",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Customer Success Manager - APAC",
+      "Not specified",
+      "Malaysia, Kuala Lumpur"
+    ],
+    [
+      "Principal Support Model WSP consultant",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr Director, Software Development Engineering",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Senior Product Manager, Revenue Management",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Sr Product Manager - Workday AI",
+      "Not specified",
+      "USA, WA, Seattle"
+    ],
+    [
+      "Software Development Engineer, Security - Evisort",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Workday Advisory Consultant - Absence & Time Tracking | Workday Success Plans",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Principal Engagement Manager, Deployment Success Management",
+      "Not specified",
+      "6 Locations"
+    ],
+    [
+      "Account Executive - Customer Base Major Accounts- Healthcare",
+      "Not specified",
+      "USA.IL.Home Office Chicago Metro"
+    ],
+    [
+      "Principal Software Development Engineer, Flowise",
+      "Not specified",
+      "Canada, BC, Vancouver"
+    ],
+    [
+      "Sr Engagement (Project/ Delivery) Manager - State & Local Government",
+      "Not specified",
+      "USA Remote"
+    ],
+    [
+      "Director, Employee & Labour Relations",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Technical Project Manager - Hiredscore",
+      "Not specified",
+      "Israel, Tel Aviv"
+    ],
+    [
+      "Functional Consultant - Financial Software DACH",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Senior Software Engineer - Platform Security",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Product Manager, Talent Acquisition",
+      "Not specified",
+      "USA, GA, Atlanta"
+    ],
+    [
+      "Sr Solution Consultant - HCM",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Sr. Director, Customer Success Innovation",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Manager, Software Development Engineering -  Talent Mobility",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "HCM Solution Consultant",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Senior SRE or DevOps Engineer",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "HCM Functional Consultant - German Speaking",
+      "Not specified",
+      "Poland, Warsaw"
+    ],
+    [
+      "Ecosystem Specialist, Thailand",
+      "Not specified",
+      "THA, Remote"
+    ],
+    [
+      "Cybersecurity Compliance Program Manager",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Senior Account Executive",
+      "Not specified",
+      "JPN.Osaka"
+    ],
+    [
+      "Account Executive - Customer Base Major Accounts- Healthcare",
+      "Not specified",
+      "USA, IL, Chicago"
+    ],
+    [
+      "Customer Solution Strategist",
+      "Not specified",
+      "United Kingdom, London"
+    ],
+    [
+      "Sr Solution Consultant - HCM",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Collaboration Engineer",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Software Engineer (Full Stack) - Evisort AI",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "Specialised Account Executive (Contract Intelligence and Contract Lifecycle Management)",
+      "Not specified",
+      "Singapore"
+    ],
+    [
+      "Technical Account Manager",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Infrastructure Automation Engineer",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Technical Support Associate - Hiredscore (7am -4pm)",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Financial Analyst",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Senior Cybersecurity Compliance Program Manager",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Fullstack Developer (AI)",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Large Enterprise Account Executive - FINS Customer Base (oCFO)",
+      "Not specified",
+      "10 Locations"
+    ],
+    [
+      "Software Engineer, BDS Hadoop Engineer - US Federal",
+      "Not specified",
+      "USA, VA, McLean"
+    ],
+    [
+      "Regional Sales Director, Office of the CFO - FSI",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Quality Assurance Engineer - Paradox (Da Nang)",
+      "Not specified",
+      "Vietnam"
+    ],
+    [
+      "Enterprise Architect",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Senior Software Development Engineer - US Federal",
+      "Not specified",
+      "USA, GA, Atlanta"
+    ],
+    [
+      "Senior Services Executive - Nordics",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Software Engineering Manager",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "Sr. Network Engineer",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Business Development Representative, UKI",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "Software Development Engineer (Backend) - Evisort AI",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Account Executive - Major Accounts Germany",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Regional Sales Director - Large Enterprise - Customer Base",
+      "Not specified",
+      "USA, GA, Atlanta"
+    ],
+    [
+      "AI Product Designer/Senior AI Product Designer - Evisort AI",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "BT Asset and Vendor Governance Lead",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Senior Manager, CyberSecurity GRC",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Product Manager (HCM or Workforce Management)",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Manager, Product Management US Payroll",
+      "Not specified",
+      "USA, GA, Atlanta"
+    ],
+    [
+      "Medium Enterprise Account Executive, Customer Base",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Senior Engagement Manager",
+      "Not specified",
+      "MEX.Zapopan"
+    ],
+    [
+      "Business Development Representative (French Speaker)",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "Account Executive Medium Enterprise",
+      "Not specified",
+      "USA, NY, New York City"
+    ],
+    [
+      "Sr Distributed Systems Engineer (DevOps)",
+      "Not specified",
+      "New Zealand, Auckland"
+    ],
+    [
+      "Sr Software Engineer Analytics (US Federal)",
+      "Not specified",
+      "USA, VA, McLean"
+    ],
+    [
+      "Large Enterprise Account Executive, Customer Base - Manufacturing",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Director, Marketing Campaigns & Programs (APJ)",
+      "Not specified",
+      "Australia, NSW, North Sydney"
+    ],
+    [
+      "Account Executive Public Sector",
+      "Not specified",
+      "Italy, Milan"
+    ],
+    [
+      "Software Development Engineer",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Cybersecurity GRC - US Federal",
+      "Not specified",
+      "USA, VA, McLean"
+    ],
+    [
+      "Solution Consultant - Public Sector",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Automation Test Engineer - Paradox (Da Nang)",
+      "Not specified",
+      "Vietnam"
+    ],
+    [
+      "Senior Technical Consultant - Data Conversion",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Business Development Representative - APAC and Japan",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Director, Variable Compensation Operations",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Account Executive Large Enterprise, Net New (Retail, Hospitality, and Transportation)",
+      "Not specified",
+      "9 Locations"
+    ],
+    [
+      "System Owner-Boundary Compliance Owner - US Federal",
+      "Not specified",
+      "USA, VA, McLean"
+    ],
+    [
+      "Technical Support Engineer - Analytics and Reporting",
+      "Not specified",
+      "Poland, Warsaw"
+    ],
+    [
+      "Software Development Engineer - Cloud/DevOps Engineer",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Channel Account Executive - Switzerland & Austria",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr. Healthcare Technical Integration Consultant(Fins)",
+      "Not specified",
+      "75 Locations"
+    ],
+    [
+      "Curriculum Development Instructional Design Producer",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Account Executive - Medium Enterprise, Customer Base, FSI",
+      "Not specified",
+      "Canada, ON, Toronto"
+    ],
+    [
+      "Commercial Account Executive - Emerging Enterprise, Nordics",
+      "Not specified",
+      "Sweden, Stockholm"
+    ],
+    [
+      "DevOps Engineer (DBA, System engineer)",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Account Executive Large Enterprise - Services / Tech / M\u00e9dia",
+      "Not specified",
+      "France, Paris"
+    ],
+    [
+      "Senior Cybersecurity Engineer",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Senior Principal Open Source Architect",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Senior Strategy & Operations Manager",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Sr Customer Success Manager",
+      "Not specified",
+      "6 Locations"
+    ],
+    [
+      "Director, Compensation Product Management",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "HiredScore Technical Consultant - Integrations",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "UX Designer",
+      "Not specified",
+      "Canada, BC, Vancouver"
+    ],
+    [
+      "Sr Software Development Engineer",
+      "Not specified",
+      "Ireland, Dublin"
+    ],
+    [
+      "Business Development Representative - Thailand",
+      "Not specified",
+      "Singapore"
+    ],
+    [
+      "Senior Expert Assist Consultant - Reporting",
+      "Not specified",
+      "Poland, Warsaw"
+    ],
+    [
+      "Sr Solution Consultant",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Technical Support Delivery Analyst-Compensation",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Manager, Software Development Engineering (US Federal)",
+      "Not specified",
+      "USA, VA, McLean"
+    ],
+    [
+      "Account Executive Customer Base - LE - Healthcare",
+      "Not specified",
+      "USA, TX, Frisco"
+    ],
+    [
+      "Customer Success Manager - French Speaking",
+      "Not specified",
+      "Poland, Warsaw"
+    ],
+    [
+      "Account Executive - Customer Base ME - Healthcare",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Product Specialist - Workday Platform (Workday Build, Workday Data Cloud) and AI Agents",
+      "Not specified",
+      "Canada, ON, Toronto"
+    ],
+    [
+      "Senior Sales Recruiter - ASEAN",
+      "Not specified",
+      "Singapore"
+    ],
+    [
+      "Technical Go-Live Readiness Manager",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Sr. Associate DevOps Engineer",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Software Development Engineer - Hiredscore",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "HCM Consultant \u2013 Workday Success Plans",
+      "Not specified",
+      "Poland, Warsaw"
+    ],
+    [
+      "Principal Software Engineer - Evisort AI",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Payroll/Absence/Time Tracking Functional Consultant - Workday Success Plans",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Sr Software Development Engineer",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Principal Asset Manager, IT Service Management",
+      "Not specified",
+      "Costa Rica"
+    ],
+    [
+      "Account Executive - Customer Base Major Accounts",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Senior Engineer (Tech Lead) - Application Development",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Healthcare - HCM and Compensation Senior Consultant",
+      "Not specified",
+      "71 Locations"
+    ],
+    [
+      "EMEA Strategy Manager",
+      "Not specified",
+      "United Kingdom, London"
+    ],
+    [
+      "Account Executive - Medium Enterprise",
+      "Not specified",
+      "Canada, QC, Montreal"
+    ],
+    [
+      "Sr Extend Consultant - Workday Success Plans",
+      "Not specified",
+      "7 Locations"
+    ],
+    [
+      "Senior Financial Implementation Consultant (Healthcare)",
+      "Not specified",
+      "62 Locations"
+    ],
+    [
+      "Account Executive",
+      "Not specified",
+      "Italy, Milan"
+    ],
+    [
+      "Software Development Engineer (Full Stack) - Evisort AI",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr. Prism Analytics Consultant - Workday Success Plans",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Account Executive - FINS Customer Base LE",
+      "Not specified",
+      "USA, TN, Remote"
+    ],
+    [
+      "HCM Functional Consultant",
+      "Not specified",
+      "19 Locations"
+    ],
+    [
+      "Solution Consultant - PLN",
+      "Not specified",
+      "7 Locations"
+    ],
+    [
+      "Principal Software Development Engineer (Cybersecurity Risk & Automation)",
+      "Not specified",
+      "IND.Chennai"
+    ],
+    [
+      "Principal Financial Implementation Consultant",
+      "Not specified",
+      "72 Locations"
+    ],
+    [
+      "Software Development Engineer-Adobe Experience Manager",
+      "Not specified",
+      "IND.Pune"
+    ],
+    [
+      "Sr. Outbound Product Manager, Workforce Management",
+      "Not specified",
+      "USA, CA, Pleasanton"
+    ],
+    [
+      "Account Executive - Customer Base, Large Enterprise",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Senior Program Manager, Early Career",
       "Not specified",
       "2 Locations"
     ]

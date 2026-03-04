@@ -1,145 +1,10 @@
 {
-  "last_updated": "2026-03-03T07:36:17.483608",
-  "job_count": 52,
+  "last_updated": "2026-03-04T06:48:38.735749",
+  "job_count": 54,
   "active_count": 24,
   "jobs": [
     [
-      "Field Marketing Manager( Global Events Management)",
-      "Not specified",
-      "US"
-    ],
-    [
-      "Technical Support Representative",
-      "Not specified",
-      "Montevideo, UY"
-    ],
-    [
-      "Technical Support Representative",
-      "Not specified",
-      "UY"
-    ],
-    [
-      "Software Developer",
-      "Not specified",
-      "Sencur, SI, SI-4208"
-    ],
-    [
-      "AI Solutions Architect",
-      "Not specified",
-      "US"
-    ],
-    [
-      "Site Reliability Engineer",
-      "Not specified",
-      "Makati City, PH"
-    ],
-    [
-      "Account Executive E-Commerce",
-      "Not specified",
-      "US"
-    ],
-    [
-      "Customs Compliance Analyst",
-      "Not specified",
-      "US"
-    ],
-    [
-      "Senior Software Developer",
-      "Not specified",
-      "Sencur, SI, SI-4208"
-    ],
-    [
-      "Implementation Consultant (m/f/d) - SaaS / WMS",
-      "Not specified",
-      "Leipzig, DE, 4109"
-    ],
-    [
-      "Director of Sales",
-      "Not specified",
-      "US"
-    ],
-    [
-      "Expertise Centre Manager",
-      "Not specified",
-      "Amersfoort, NL, 10 3812 RK"
-    ],
-    [
-      "Customer Success Manager",
-      "Not specified",
-      "Waterloo, ON, N2V 1C6"
-    ],
-    [
-      "Technical Support Representative",
-      "Not specified",
-      "BG"
-    ],
-    [
-      "Technical Architect",
-      "Not specified",
-      "Gurugram, HR, IN, 122018"
-    ],
-    [
-      "A/R Representative",
-      "Not specified",
-      "Waterloo, ON, N2V 1C6"
-    ],
-    [
-      "Senior Enterprise Account Executive",
-      "Not specified",
-      "US"
-    ],
-    [
-      "Director, Corporate Development",
-      "Not specified",
-      "Waterloo, ON, N2V 1C6"
-    ],
-    [
-      "Support Agent Trainee",
-      "Not specified",
-      "Leipzig, DE, 4109"
-    ],
-    [
-      "Senior Software Engineer- JavaScript (Node.js, React)",
-      "Not specified",
-      "Sencur, SI, SI-4208"
-    ],
-    [
       "Business Development Representative",
-      "Not specified",
-      "US"
-    ],
-    [
-      "Software Test Engineer",
-      "Not specified",
-      "Zilina, SK, 010 01"
-    ],
-    [
-      "TMS Implementation Specialist",
-      "Not specified",
-      "US"
-    ],
-    [
-      "Hyper-V and Storage Administrator",
-      "Not specified",
-      "Waterloo, ON, N2V 1C6"
-    ],
-    [
-      "Account Executive LSP",
-      "Not specified",
-      "Malmo, SE, 211 20"
-    ],
-    [
-      "Junior Product Owner",
-      "Not specified",
-      "UY"
-    ],
-    [
-      "Product Designer",
-      "Not specified",
-      "Waterloo, ON, N2V 1C6"
-    ],
-    [
-      "TMS Support Specialist (Freight brokerage support)",
       "Not specified",
       "US"
     ],
@@ -149,27 +14,7 @@
       "US"
     ],
     [
-      "Account Executive, Broker and Forwarder Solutions",
-      "Not specified",
-      "US"
-    ],
-    [
-      "Customs Support specialist",
-      "Not specified",
-      "US"
-    ],
-    [
-      "Senior Systems Engineer",
-      "Not specified",
-      "Namestovo, SK, 029 01 \u2022 Philippines, PH"
-    ],
-    [
-      "Customer Support Representative",
-      "Not specified",
-      "US"
-    ],
-    [
-      "Manager, Billing",
+      "Customer Success Manager",
       "Not specified",
       "Waterloo, ON, N2V 1C6"
     ],
@@ -179,9 +24,14 @@
       "Waterloo, ON, N2V 1C6"
     ],
     [
-      "Financial Analyst",
+      "TMS Implementation Specialist",
       "Not specified",
-      "Gurugram, HR, IN, 122018"
+      "US"
+    ],
+    [
+      "Account Executive ( German Speaking)",
+      "Not specified",
+      "DE"
     ],
     [
       "Technical Team Lead, JavaScript (Node.js, React)",
@@ -189,9 +39,19 @@
       "Sencur, SI, SI-4208"
     ],
     [
-      "Implementation Consultant",
+      "Expertise Centre Manager",
       "Not specified",
-      "US"
+      "DE"
+    ],
+    [
+      "Technical Support Representative",
+      "Not specified",
+      "BG"
+    ],
+    [
+      "Implementation Consultant (m/f/d) - SaaS / WMS",
+      "Not specified",
+      "Leipzig, DE, 4109"
     ],
     [
       "Customer Success Manager",
@@ -199,7 +59,172 @@
       "Amersfoort, NL, 10 3812 RK"
     ],
     [
+      "Customs Support specialist",
+      "Not specified",
+      "US"
+    ],
+    [
+      "VP Sales -Enterprise SaaS | Logistics Service Providers | Broker &amp; Forwarder Systems",
+      "Not specified",
+      "US"
+    ],
+    [
+      "Software Test Engineer",
+      "Not specified",
+      "Zilina, SK, 010 01"
+    ],
+    [
+      "Account Executive LSP",
+      "Not specified",
+      "Malmo, SE, 211 20"
+    ],
+    [
+      "Senior Software Developer",
+      "Not specified",
+      "Sencur, SI, SI-4208"
+    ],
+    [
+      "Senior Solutions Consultant-Global Trade Intelligence",
+      "Not specified",
+      "Waterloo, ON, N2V 1C6"
+    ],
+    [
+      "Account Executive",
+      "Not specified",
+      "US"
+    ],
+    [
+      "Technical Support Representative",
+      "Not specified",
+      "UY"
+    ],
+    [
+      "Director of Sales",
+      "Not specified",
+      "US"
+    ],
+    [
+      "Site Reliability Engineer",
+      "Not specified",
+      "Makati City, PH"
+    ],
+    [
+      "Customs Compliance Analyst",
+      "Not specified",
+      "US"
+    ],
+    [
+      "Field Marketing Manager( Global Events Management)",
+      "Not specified",
+      "US"
+    ],
+    [
+      "Support Agent Trainee",
+      "Not specified",
+      "Leipzig, DE, 4109"
+    ],
+    [
+      "Hyper-V and Storage Administrator",
+      "Not specified",
+      "Waterloo, ON, N2V 1C6"
+    ],
+    [
+      "Customer Success Manager",
+      "Not specified",
+      "US"
+    ],
+    [
+      "Implementation Consultant",
+      "Not specified",
+      "US"
+    ],
+    [
+      "Junior Product Owner",
+      "Not specified",
+      "UY"
+    ],
+    [
       "Support Specialist",
+      "Not specified",
+      "US"
+    ],
+    [
+      "Senior Systems Engineer",
+      "Not specified",
+      "Namestovo, SK, 029 01 \u2022 Philippines, PH"
+    ],
+    [
+      "Software Developer",
+      "Not specified",
+      "Sencur, SI, SI-4208"
+    ],
+    [
+      "Customer Support Representative",
+      "Not specified",
+      "Makati City, PH"
+    ],
+    [
+      "Senior Enterprise Account Executive",
+      "Not specified",
+      "US"
+    ],
+    [
+      "Expertise Centre Support Agent",
+      "Not specified",
+      "US"
+    ],
+    [
+      "Account Executive E-Commerce",
+      "Not specified",
+      "US"
+    ],
+    [
+      "A/R Representative",
+      "Not specified",
+      "Waterloo, ON, N2V 1C6"
+    ],
+    [
+      "Expertise Centre Manager",
+      "Not specified",
+      "Amersfoort, NL, 10 3812 RK"
+    ],
+    [
+      "Data Analyst",
+      "Not specified",
+      "Gurugram, HR, IN, 122018"
+    ],
+    [
+      "Product Designer",
+      "Not specified",
+      "Waterloo, ON, N2V 1C6"
+    ],
+    [
+      "Senior Software Engineer- JavaScript (Node.js, React)",
+      "Not specified",
+      "Sencur, SI, SI-4208"
+    ],
+    [
+      "Technical Support Representative",
+      "Not specified",
+      "Montevideo, UY"
+    ],
+    [
+      "Financial Analyst",
+      "Not specified",
+      "Gurugram, HR, IN, 122018"
+    ],
+    [
+      "AI Solutions Architect",
+      "Not specified",
+      "US"
+    ],
+    [
+      "Technical Architect",
+      "Not specified",
+      "Gurugram, HR, IN, 122018"
+    ],
+    [
+      "TMS Support Specialist (Freight brokerage support)",
       "Not specified",
       "US"
     ],
@@ -209,34 +234,9 @@
       "Rheinfelden, CH, 4310"
     ],
     [
-      "Expertise Centre Support Agent",
+      "Manager, Billing",
       "Not specified",
-      "US"
-    ],
-    [
-      "Expertise Centre Manager",
-      "Not specified",
-      "DE"
-    ],
-    [
-      "Data Analyst",
-      "Not specified",
-      "Gurugram, HR, IN, 122018"
-    ],
-    [
-      "Client Onboarding Specialist",
-      "Not specified",
-      "BG"
-    ],
-    [
-      "PR &amp; Marketing Communications Manager",
-      "Not specified",
-      "Amersfoort, NL, 10 3812 RK"
-    ],
-    [
-      "Account Executive",
-      "Not specified",
-      "US"
+      "Waterloo, ON, N2V 1C6"
     ],
     [
       "Site Reliability Engineer",
@@ -244,24 +244,34 @@
       "BR"
     ],
     [
-      "VP Sales -Enterprise SaaS | Logistics Service Providers | Broker &amp; Forwarder Systems",
+      "PR &amp; Marketing Communications Manager",
+      "Not specified",
+      "Amersfoort, NL, 10 3812 RK"
+    ],
+    [
+      "Account Executive, Broker and Forwarder Solutions",
       "Not specified",
       "US"
-    ],
-    [
-      "Customer Support Representative",
-      "Not specified",
-      "Makati City, PH"
-    ],
-    [
-      "Account Executive ( German Speaking)",
-      "Not specified",
-      "DE"
     ],
     [
       "Senior Systems Engineer",
       "Not specified",
       "Namestovo, SK, 029 01 \u2022 SK"
+    ],
+    [
+      "Director, Corporate Development",
+      "Not specified",
+      "Waterloo, ON, N2V 1C6"
+    ],
+    [
+      "Client Onboarding Specialist",
+      "Not specified",
+      "BG"
+    ],
+    [
+      "Customer Support Representative",
+      "Not specified",
+      "US"
     ]
   ]
 }

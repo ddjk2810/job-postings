@@ -1,52 +1,17 @@
 {
-  "last_updated": "2026-03-03T07:36:17.085442",
+  "last_updated": "2026-03-04T06:48:38.168526",
   "job_count": 28,
-  "active_count": 22,
+  "active_count": 20,
   "jobs": [
     [
-      "Directeur(rice)",
+      "Consultant, Advisory (Commercial Real Estate)",
       "Not specified",
-      "Montr\u00e9al, Qu\u00e9bec"
+      "New York, New York"
     ],
     [
-      "Sr. Analyst, Advisory",
-      "Not specified",
-      "835 -  New York"
-    ],
-    [
-      "Technical Engineering Manager (AWS, Cloud-Native, AI-Enabled)",
-      "Not specified",
-      "London, United Kingdom"
-    ],
-    [
-      "Assistant Manager, Valuation Advisory",
+      "Billing Coordinator",
       "Not specified",
       "Hyderabad, India"
-    ],
-    [
-      "Senior Engineer I",
-      "Not specified",
-      "030 - Christchurch"
-    ],
-    [
-      "Associate Analyst",
-      "Not specified",
-      "633 - Casablanca"
-    ],
-    [
-      "Analyst, Loan Monitoring",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Stagiaire Ing\u00e9nieur Commercial (Finance Active)",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Analyst, Mechanical",
-      "Not specified",
-      "Calgary, Alberta"
     ],
     [
       "Database Reliability Engineer",
@@ -54,39 +19,9 @@
       "Hyderabad, India"
     ],
     [
-      "Quantity Surveyor",
+      "Technical Engineering Manager (AWS, Cloud-Native, AI-Enabled)",
       "Not specified",
-      "Sydney, Australia"
-    ],
-    [
-      "Lead AI Engineer",
-      "Not specified",
-      "Toronto, Ontario"
-    ],
-    [
-      "Manager,  Daily Valuation & NAV Accounting",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Stage Customer Success Manager - Italian speaker",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Senior Director, User Experience, Research & Customer Experience (Remote, US)",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Engineer III",
-      "Not specified",
-      "030 - Christchurch"
-    ],
-    [
-      "Customer Success Manager (m/w/d)",
-      "Not specified",
-      "Frankfurt, Germany"
+      "London, United Kingdom"
     ],
     [
       "Automation Test Engineer",
@@ -94,14 +29,14 @@
       "030 - Christchurch"
     ],
     [
-      "Stage/Internship \u2013 Consultant en finances locales - Paris",
+      "Senior Director, User Experience, Research & Customer Experience (Remote, US)",
       "Not specified",
-      "Paris, France"
+      "4 Locations"
     ],
     [
-      "Associate Analyst, Managed Services",
+      "Senior Engineer I",
       "Not specified",
-      "Hyderabad, India"
+      "030 - Christchurch"
     ],
     [
       "Technology Lead",
@@ -109,9 +44,14 @@
       "2 Locations"
     ],
     [
-      "Account Executive, Scale",
+      "Conseiller(\u00e8re) en immobilier",
       "Not specified",
-      "937 - London (UK)"
+      "Montr\u00e9al, Qu\u00e9bec"
+    ],
+    [
+      "Lead AI Engineer",
+      "Not specified",
+      "Toronto, Ontario"
     ],
     [
       "Senior Quantity Surveyor",
@@ -119,7 +59,62 @@
       "Sydney, Australia"
     ],
     [
-      "Billing Coordinator",
+      "Account Executive, Scale",
+      "Not specified",
+      "937 - London (UK)"
+    ],
+    [
+      "Analyst, Loan Monitoring",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Engineer III",
+      "Not specified",
+      "030 - Christchurch"
+    ],
+    [
+      "Associate Analyst, Managed Services",
+      "Not specified",
+      "Hyderabad, India"
+    ],
+    [
+      "Manager,  Daily Valuation & NAV Accounting",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Quantity Surveyor",
+      "Not specified",
+      "Sydney, Australia"
+    ],
+    [
+      "Stagiaire Ing\u00e9nieur Commercial (Finance Active)",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr. Analyst, Advisory",
+      "Not specified",
+      "835 -  New York"
+    ],
+    [
+      "Analyst, Mechanical",
+      "Not specified",
+      "Calgary, Alberta"
+    ],
+    [
+      "Directeur(rice)",
+      "Not specified",
+      "Montr\u00e9al, Qu\u00e9bec"
+    ],
+    [
+      "Director, Product Marketing",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Assistant Manager, Valuation Advisory",
       "Not specified",
       "Hyderabad, India"
     ],
@@ -129,19 +124,24 @@
       "4 Locations"
     ],
     [
-      "Consultant, Advisory (Commercial Real Estate)",
+      "Associate Analyst",
       "Not specified",
-      "New York, New York"
+      "633 - Casablanca"
     ],
     [
-      "Conseiller(\u00e8re) en immobilier",
+      "Stage Customer Success Manager - Italian speaker",
       "Not specified",
-      "Montr\u00e9al, Qu\u00e9bec"
+      "2 Locations"
     ],
     [
-      "Director, Product Marketing",
+      "Stage/Internship \u2013 Consultant en finances locales - Paris",
       "Not specified",
-      "4 Locations"
+      "Paris, France"
+    ],
+    [
+      "Customer Success Manager (m/w/d)",
+      "Not specified",
+      "Frankfurt, Germany"
     ]
   ]
 }
