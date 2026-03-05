@@ -1,87 +1,22 @@
 {
-  "last_updated": "2026-03-04T07:32:20.798878",
-  "job_count": 38,
-  "active_count": 34,
+  "last_updated": "2026-03-05T07:36:21.335902",
+  "job_count": 39,
+  "active_count": 35,
   "jobs": [
-    [
-      "Key Account Manager",
-      "Not specified",
-      "Dublin, Ireland"
-    ],
-    [
-      "Head of Energy & Utilities Strategy",
-      "Not specified",
-      "Stockholm, Sweden"
-    ],
-    [
-      "Security Engineer",
-      "Not specified",
-      "Bethlehem, Pennsylvania, United States"
-    ],
-    [
-      "Network Engineer",
-      "Not specified",
-      "Ho Chi Minh City, Vietnam"
-    ],
-    [
-      "Senior Auditor",
-      "Not specified",
-      "Pune, Maharashtra, India"
-    ],
-    [
-      "DevOps Engineer",
-      "Not specified",
-      "S\u00f8nderborg, Denmark"
-    ],
-    [
-      "Technical Account Manager",
-      "Not specified",
-      "Jakarta, Indonesia"
-    ],
-    [
-      "Product Owner - Finance (gn)",
-      "Not specified",
-      "Germany"
-    ],
-    [
-      "Vice President, Software Delivery",
-      "Not specified",
-      "Oslo, Norway"
-    ],
-    [
-      "Director Product and Platform Strategy (gn)",
-      "Not specified",
-      "Germany"
-    ],
-    [
-      "Senior Automation Tester",
-      "Not specified",
-      "Ho Chi Minh City, Vietnam"
-    ],
-    [
-      "Requirements Engineer - Finance (gn)",
-      "Not specified",
-      "Germany"
-    ],
-    [
-      "DevOps Engineer",
-      "Not specified",
-      "Ho Chi Minh City, Vietnam"
-    ],
-    [
-      "Senior Database Administrator (gn)",
-      "Not specified",
-      "Leipzig, Germany"
-    ],
-    [
-      "Global Tax Advisor",
-      "Not specified",
-      "Melbourne, Victoria, Australia"
-    ],
     [
       "Senior Talent Acquisition Partner",
       "Not specified",
       "Bethlehem, Pennsylvania, United States"
+    ],
+    [
+      "(Senior) Technical Writer (gn)",
+      "Not specified",
+      "Leipzig, Germany"
+    ],
+    [
+      "HR Business Partner",
+      "Not specified",
+      "Melbourne, Victoria, Australia"
     ],
     [
       "Office Coordinator",
@@ -89,9 +24,59 @@
       "Buenos Aires, Argentina"
     ],
     [
-      "Senior Employment Counsel",
+      "Director Product and Platform Strategy (gn)",
+      "Not specified",
+      "Germany"
+    ],
+    [
+      "Network Engineer",
+      "Not specified",
+      "Ho Chi Minh City, Vietnam"
+    ],
+    [
+      "Financial Controller",
       "Not specified",
       "Hammersmith (London), UK, England, United Kingdom"
+    ],
+    [
+      "Senior Auditor",
+      "Not specified",
+      "Pune, Maharashtra, India"
+    ],
+    [
+      "Senior Software Developer",
+      "Not specified",
+      "F\u00f8rde, Norway"
+    ],
+    [
+      "DevOps Engineer",
+      "Not specified",
+      "Ho Chi Minh City, Vietnam"
+    ],
+    [
+      "Security Engineer",
+      "Not specified",
+      "Bethlehem, Pennsylvania, United States"
+    ],
+    [
+      "Director Client Services & Support (gn)",
+      "Not specified",
+      "Germany"
+    ],
+    [
+      "Director of Support & Operations",
+      "Not specified",
+      "Espoo, Finland"
+    ],
+    [
+      "Global Tax Advisor",
+      "Not specified",
+      "Melbourne, Victoria, Australia"
+    ],
+    [
+      "Financial Controller",
+      "Not specified",
+      "London, England, United Kingdom"
     ],
     [
       "Service Delivery Manager (gn)",
@@ -104,57 +89,17 @@
       "Oslo, Norway"
     ],
     [
-      "(Senior) Technical Writer (gn)",
-      "Not specified",
-      "Leipzig, Germany"
-    ],
-    [
-      "Quality Assurance Analyst (gn)",
+      "Product Owner - Finance (gn)",
       "Not specified",
       "Germany"
     ],
     [
-      "Senior Software Developer",
-      "Not specified",
-      "Espoo, Finland"
-    ],
-    [
-      "Director Client Services & Support (gn)",
-      "Not specified",
-      "Germany"
-    ],
-    [
-      "Support Analyst",
-      "Not specified",
-      "Argentina"
-    ],
-    [
-      "Vice President, Account Management",
+      "Senior Employment Counsel",
       "Not specified",
       "Hammersmith (London), UK, England, United Kingdom"
     ],
     [
-      "Senior Software Developer",
-      "Not specified",
-      "F\u00f8rde, Norway"
-    ],
-    [
-      "Senior Data Analyst",
-      "Not specified",
-      "Pune, Maharashtra, India"
-    ],
-    [
-      "Financial Controller",
-      "Not specified",
-      "London, England, United Kingdom"
-    ],
-    [
       "Support Analyst (gn)",
-      "Not specified",
-      "Germany"
-    ],
-    [
-      "Strategic Product Manager (gn)",
       "Not specified",
       "Germany"
     ],
@@ -164,9 +109,29 @@
       "Hammersmith (London), UK, England, United Kingdom"
     ],
     [
-      "Senior Technical Analyst",
+      "Senior Software Developer",
       "Not specified",
-      "Melbourne, Victoria, Australia"
+      "Espoo, Finland"
+    ],
+    [
+      "Key Account Manager",
+      "Not specified",
+      "Dublin, Ireland"
+    ],
+    [
+      "Support Analyst",
+      "Not specified",
+      "Argentina"
+    ],
+    [
+      "Senior Automation Tester",
+      "Not specified",
+      "Ho Chi Minh City, Vietnam"
+    ],
+    [
+      "Quality Assurance Analyst (gn)",
+      "Not specified",
+      "Germany"
     ],
     [
       "Capacity & Entitlements Manager",
@@ -174,9 +139,29 @@
       "Pune, Maharashtra, India"
     ],
     [
-      "HR Business Partner",
+      "Technical Account Manager",
+      "Not specified",
+      "Jakarta, Indonesia"
+    ],
+    [
+      "Senior Technical Analyst",
       "Not specified",
       "Melbourne, Victoria, Australia"
+    ],
+    [
+      "DevOps Engineer",
+      "Not specified",
+      "S\u00f8nderborg, Denmark"
+    ],
+    [
+      "Requirements Engineer - Finance (gn)",
+      "Not specified",
+      "Germany"
+    ],
+    [
+      "Vice President, Software Delivery",
+      "Not specified",
+      "Oslo, Norway"
     ],
     [
       "AI Engineer",
@@ -189,9 +174,29 @@
       "Berlin, Germany"
     ],
     [
-      "Financial Controller",
+      "Senior Data Analyst",
+      "Not specified",
+      "Pune, Maharashtra, India"
+    ],
+    [
+      "Vice President, Account Management",
       "Not specified",
       "Hammersmith (London), UK, England, United Kingdom"
+    ],
+    [
+      "Senior Database Administrator (gn)",
+      "Not specified",
+      "Leipzig, Germany"
+    ],
+    [
+      "Strategic Product Manager (gn)",
+      "Not specified",
+      "Germany"
+    ],
+    [
+      "Head of Energy & Utilities Strategy",
+      "Not specified",
+      "Stockholm, Sweden"
     ]
   ]
 }
