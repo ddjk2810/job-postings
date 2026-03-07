@@ -1,17 +1,12 @@
 {
-  "last_updated": "2026-03-06T07:33:13.323522",
-  "job_count": 43,
-  "active_count": 36,
+  "last_updated": "2026-03-07T07:22:10.115443",
+  "job_count": 45,
+  "active_count": 38,
   "jobs": [
     [
-      "Senior Customer Success Manager",
+      "Senior Manager, Services Sales",
       "Revenue",
       "Toronto, Ontario"
-    ],
-    [
-      "Business Development Representative, German or Dutch Speaking",
-      "Revenue",
-      "London, UK"
     ],
     [
       "Product Manager - WhiteGloves",
@@ -19,28 +14,23 @@
       "Toronto, Ontario"
     ],
     [
-      "Senior Manager, Revenue Strategy and Planning",
+      "Service Sales Executive (North America)",
       "Revenue",
       "Toronto, Ontario"
-    ],
-    [
-      "Director, Customer Marketing & Education",
-      "Marketing",
-      "Toronto, Ontario"
-    ],
-    [
-      "Senior Manager, Services Sales",
-      "Revenue",
-      "Toronto, Ontario"
-    ],
-    [
-      "Business Development Representative, Italian Speaking",
-      "Revenue",
-      "London, UK"
     ],
     [
       "Marketing Project Manager",
       "Marketing",
+      "Toronto, Ontario"
+    ],
+    [
+      "Technical Account Manager (French Speaking)",
+      "Product Management",
+      "London, UK"
+    ],
+    [
+      "Senior Customer Success Manager",
+      "Revenue",
       "Toronto, Ontario"
     ],
     [
@@ -49,7 +39,27 @@
       "Toronto, Ontario"
     ],
     [
-      "Customer Success Manager - Mid-Market",
+      "Business Development Representative, French Speaking",
+      "Revenue",
+      "London, UK"
+    ],
+    [
+      "Product Manager - Analytics",
+      "Product Management",
+      "Toronto, Ontario"
+    ],
+    [
+      "Director, Solutions Architecture",
+      "Product Management",
+      "Toronto, Ontario"
+    ],
+    [
+      "Cloud Systems Engineer",
+      "Product Engineering",
+      "Toronto, Ontario"
+    ],
+    [
+      "Customer Success Manager - Enterprise",
       "Revenue",
       "Toronto, Ontario"
     ],
@@ -59,97 +69,22 @@
       "Biassono, Italy"
     ],
     [
-      "Customer Success Manager - Enterprise",
-      "Revenue",
-      "Toronto, Ontario"
-    ],
-    [
-      "Service Sales Executive (North America)",
-      "Revenue",
-      "Toronto, Ontario"
-    ],
-    [
-      "Senior Solutions Consultant ",
-      "Revenue",
-      "London, UK"
-    ],
-    [
-      "Technical Account Manager",
-      "Product Management",
-      "Toronto, Ontario"
-    ],
-    [
-      "Visual Brand Designer",
+      "Director, Customer Marketing & Education",
       "Marketing",
       "Toronto, Ontario"
-    ],
-    [
-      "Manager, Solutions Consulting \u2013 Enterprise & US Public Sector",
-      "Revenue",
-      "Toronto, Ontario"
-    ],
-    [
-      "Lifecycle & Expansion Marketing Manager",
-      "Marketing",
-      "Toronto, Ontario"
-    ],
-    [
-      "Solutions Consultant, Mid-Market",
-      "Revenue",
-      "Toronto, Ontario"
-    ],
-    [
-      "Support Operations Specialist ",
-      "Product Engineering",
-      "Toronto, Ontario"
-    ],
-    [
-      "Customer Success Manager",
-      "Revenue",
-      "London, UK"
-    ],
-    [
-      "Senior Manager, Workplace Experience",
-      "People",
-      "Toronto, Ontario"
-    ],
-    [
-      "Cloud Systems Engineer",
-      "Product Engineering",
-      "Toronto, Ontario"
-    ],
-    [
-      "DevOps Engineer",
-      "Product Engineering",
-      "Toronto, Ontario"
-    ],
-    [
-      "Cloud Engineer",
-      "Product Engineering",
-      "Toronto, Ontario"
-    ],
-    [
-      "Senior Product Engineer",
-      "Product Engineering",
-      "Toronto, Ontario"
-    ],
-    [
-      "Director, Engineering",
-      "Product Engineering",
-      "Toronto, Ontario"
-    ],
-    [
-      "Staff Product Engineer",
-      "Product Engineering",
-      "Toronto, Ontario"
-    ],
-    [
-      "Business Development Representative, French Speaking",
-      "Revenue",
-      "London, UK"
     ],
     [
       "Resource Manager",
+      "Revenue",
+      "Toronto, Ontario"
+    ],
+    [
+      "Solution Architect EMEA",
+      "Product Management",
+      "London, UK"
+    ],
+    [
+      "Manager, Solutions Consulting \u2013 Enterprise & US Public Sector",
       "Revenue",
       "Toronto, Ontario"
     ],
@@ -164,11 +99,6 @@
       "Toronto, Ontario"
     ],
     [
-      "Director, Solutions Architecture",
-      "Product Management",
-      "Toronto, Ontario"
-    ],
-    [
       "Cloud Systems Engineer",
       "Product Engineering",
       "Biassono, Italy"
@@ -176,25 +106,70 @@
     [
       "DevOps Engineer",
       "Product Engineering",
-      "Biassono, Italy"
+      "Toronto, Ontario"
     ],
     [
-      "Technical Account Manager (French Speaking)",
-      "Product Management",
+      "Business Development Representative, German or Dutch Speaking",
+      "Revenue",
       "London, UK"
     ],
     [
-      "Senior Product Engineer",
-      "Product Engineering",
-      "Biassono, Italy"
-    ],
-    [
-      "Product Manager - Analytics",
+      "Product Data Analyst",
       "Product Management",
       "Toronto, Ontario"
     ],
     [
-      "Global VP, Professional Services",
+      "Technical Account Manager",
+      "Product Management",
+      "Toronto, Ontario"
+    ],
+    [
+      "Director, Engineering",
+      "Product Engineering",
+      "Toronto, Ontario"
+    ],
+    [
+      "Business Development Representative, Italian Speaking",
+      "Revenue",
+      "London, UK"
+    ],
+    [
+      "Staff Product Engineer",
+      "Product Engineering",
+      "Toronto, Ontario"
+    ],
+    [
+      "Visual Brand Designer",
+      "Marketing",
+      "Toronto, Ontario"
+    ],
+    [
+      "Senior Customer Success Manager, Enterprise",
+      "Revenue",
+      "Toronto, Ontario"
+    ],
+    [
+      "Senior Solutions Consultant ",
+      "Revenue",
+      "London, UK"
+    ],
+    [
+      "Senior Manager, Workplace Experience",
+      "People",
+      "Toronto, Ontario"
+    ],
+    [
+      "DevOps Engineer",
+      "Product Engineering",
+      "Biassono, Italy"
+    ],
+    [
+      "Customer Success Manager",
+      "Revenue",
+      "London, UK"
+    ],
+    [
+      "Customer Success Manager - Mid-Market",
       "Revenue",
       "Toronto, Ontario"
     ],
@@ -204,19 +179,54 @@
       "Remote USA"
     ],
     [
+      "Senior Product Engineer",
+      "Product Engineering",
+      "Toronto, Ontario"
+    ],
+    [
       "Solution Deployment Manager (North America)",
       "Revenue",
       "Toronto, Ontario"
     ],
     [
-      "Solution Architect EMEA",
-      "Product Management",
-      "London, UK"
-    ],
-    [
       "Marketing Manager, Germany",
       "Marketing",
       "Munich, Germany"
+    ],
+    [
+      "Cloud Engineer",
+      "Product Engineering",
+      "Toronto, Ontario"
+    ],
+    [
+      "Senior Product Engineer",
+      "Product Engineering",
+      "Biassono, Italy"
+    ],
+    [
+      "Global VP, Professional Services",
+      "Revenue",
+      "Toronto, Ontario"
+    ],
+    [
+      "Support Operations Specialist ",
+      "Product Engineering",
+      "Toronto, Ontario"
+    ],
+    [
+      "Solutions Consultant, Mid-Market",
+      "Revenue",
+      "Toronto, Ontario"
+    ],
+    [
+      "Lifecycle & Expansion Marketing Manager",
+      "Marketing",
+      "Toronto, Ontario"
+    ],
+    [
+      "Senior Manager, Revenue Strategy and Planning",
+      "Revenue",
+      "Toronto, Ontario"
     ]
   ]
 }
