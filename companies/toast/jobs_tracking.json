@@ -1,2082 +1,17 @@
 {
-  "last_updated": "2026-03-06T07:33:14.085214",
-  "job_count": 506,
+  "last_updated": "2026-03-07T06:41:32.715934",
+  "job_count": 516,
   "active_count": 272,
   "jobs": [
-    [
-      "Product Designer - Platform Experience",
-      "",
-      "United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Charlotte, NC",
-      "Sales",
-      "Charlotte, North Carolina, United States"
-    ],
-    [
-      "Growth Account Executive",
-      "Sales",
-      "Raleigh, North Carolina, United States"
-    ],
-    [
-      "Lead Technical Compliance Analyst",
-      "Product",
-      "Dublin, County Dublin, Ireland"
-    ],
-    [
-      "Growth Account Executive - Pittsburgh, PA",
-      "Sales",
-      "Morgantown, West Virginia, United States"
-    ],
-    [
-      "Director of Corporate Engineering",
-      "Engineering",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Territory Account Executive, Retail - Charleston, SC",
-      "Sales",
-      "Charleston, South Carolina, United States"
-    ],
-    [
-      "Senior Data Analyst (Finance, Strategy & Analytics)",
-      "Finance",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Staff Software Engineer, AI & Strategy",
-      "Enterprise Tech",
-      "Remote, United States"
-    ],
-    [
-      "Customer Growth Account Executive",
-      "Sales",
-      "Seattle, Washington, United States"
-    ],
-    [
-      "Principal Product Manager, Enterprise Systems",
-      "Enterprise Tech",
-      "Remote, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - St. Augustine, FL",
-      "Sales",
-      "St. Augustine, Florida, United States"
-    ],
-    [
-      "Bilingual Business Development Representative (Mandarin)",
-      "Sales",
-      "San Antonio, Texas, United States"
-    ],
-    [
-      "West Coast - Inside Strategic Cuisines Account Executive - Spanish",
-      "Sales",
-      "United States"
-    ],
-    [
-      "Staff Software Engineer, Enterprise",
-      "Engineering",
-      "Canada"
-    ],
-    [
-      "Software Engineer I (Mobile), MyToast",
-      "Engineering",
-      "Canada"
-    ],
-    [
-      "Senior Product Designer",
-      "Design",
-      "Canada"
-    ],
-    [
-      "Senior Technical Program Manager, Business Technology",
-      "Enterprise Tech",
-      "Remote, United States"
-    ],
-    [
-      "Territory Account Executive, SMB - Strongsville, OH",
-      "Sales",
-      "Strongsville, Ohio, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - East North Carolina",
-      "Sales",
-      "Fayetteville, North Carolina, United States"
-    ],
-    [
-      "Associate, Internal & External Event Marketing",
-      "Marketing",
-      "Remote, United States"
-    ],
-    [
-      "Director of Talent Acquisition Operations",
-      "People & Places",
-      "New York, United States"
-    ],
-    [
-      "Principal Revenue Data Analyst",
-      "Finance",
-      "San Francisco, California, United States"
-    ],
-    [
-      "Growth Flex Account Executive",
-      "Sales",
-      "Phoenix, Arizona, United States"
-    ],
-    [
-      "Staff Software Engineer, AI & Strategy",
-      "Engineering",
-      "Remote, United States"
-    ],
-    [
-      "Senior Hardware Program Manager",
-      "Product",
-      "Taipei City, Taiwan"
-    ],
-    [
-      "Principal Product Manager - Toast IQ",
-      "Product",
-      "New York, United States"
-    ],
-    [
-      "Associate Hardware Quality Engineer",
-      "Hardware",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Senior Accounts Payable Specialist",
-      "Finance",
-      "Chennai, Tamil Nadu, India"
-    ],
-    [
-      "Software Engineer I",
-      "Engineering",
-      "Toronto, Ontario, Canada"
-    ],
-    [
-      "Territory Account Executive, Retail - East North Carolina",
-      "Sales",
-      "Myrtle Beach, South Carolina, United States"
-    ],
-    [
-      "Territory Account Executive, SMB - Eastern Tennessee",
-      "Sales",
-      "Tennessee, United States"
-    ],
-    [
-      "Kissimmee FL, Territory Account Executive",
-      "Sales",
-      "Kissimmee, Florida, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - North CA/South OR",
-      "Sales",
-      "Portland, Oregon, United States"
-    ],
-    [
-      "Senior Software Engineer, Enterprise",
-      "Product",
-      "Remote, United States"
-    ],
-    [
-      "Senior Software Engineer (Backend), Payments",
-      "Engineering",
-      "Boston, New York, United States"
-    ],
-    [
-      "Software Engineer II - MLOps",
-      "Engineering",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "West Coast - Inside Strategic Cuisines Account Executive - Spanish",
-      "Sales",
-      "Seattle, Washington, United States"
-    ],
-    [
-      "Manager, Paid Social",
-      "Marketing",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "East Coast Mandarin Strategic Cuisines Inside Account Executive",
-      "Sales",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - ABQ, NM (Spanish/Bilingual)",
-      "Sales",
-      "Clovis, New Mexico, United States"
-    ],
-    [
-      "Onboarding Consultant, Guest - Remote",
-      "",
-      "Remote, United States"
-    ],
-    [
-      "AI Architect - People Products",
-      "People & Places",
-      "Chennai, Tamil Nadu, India"
-    ],
-    [
-      "Staff Software Engineer, Guest CRM",
-      "Engineering",
-      "Dublin, County Dublin, Ireland"
-    ],
-    [
-      "Corporate Development Deal Lead",
-      "Finance",
-      "New York, United States"
-    ],
-    [
-      "Zuora Administrator",
-      "Enterprise Tech",
-      "Remote, United States"
-    ],
-    [
-      "Senior Software Engineer, Supply Chain",
-      "Engineering",
-      "Remote, United States"
-    ],
-    [
-      "Hybrid Development Representative",
-      "Sales",
-      "Philadelphia, Pennsylvania, United States"
-    ],
-    [
-      "Growth Sales Account Executive - Allentown, PA",
-      "Sales",
-      "Allentown, Pennsylvania, United States"
-    ],
-    [
-      "District Manager, SMB - Seattle, WA",
-      "Sales",
-      "Seattle, Washington, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Olympia, WA",
-      "Sales",
-      "Olympia, Washington, United States"
-    ],
-    [
-      "Flex Growth Account Executive",
-      "Sales",
-      "Atlanta, Georgia, United States"
-    ],
-    [
-      "Senior Manager, Digital Upsell Strategy",
-      "Marketing",
-      ""
-    ],
-    [
-      "Software Engineer II",
-      "Engineering",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Lead Credit Risk Strategist, Acquisition",
-      "Fintech",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Retail Account Executive - Augusta GA",
-      "Sales",
-      "Augusta, Georgia, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Kingston NY",
-      "Sales",
-      "Kingston, New York, United States"
-    ],
-    [
-      "Senior Director, International Partnerships",
-      "",
-      "London, England, United Kingdom"
-    ],
-    [
-      "Onboarding Consultant II, Retail",
-      "",
-      "Remote, United States"
-    ],
-    [
-      "Bilingual Mandarin Strategic Cuisines Flex Account Executive - West Coast",
-      "Sales",
-      "Seattle, Washington, United States"
-    ],
-    [
-      "Territory Account Executive, SMB - Rochester, New York",
-      "Sales",
-      "Rochester, New York, United States"
-    ],
-    [
-      "Senior HRIS Analyst",
-      "People & Places",
-      "Chennai, Tamil Nadu, India"
-    ],
-    [
-      "Territory Account Executive, Retail - Stockton/Modesto, CA",
-      "Sales",
-      "Atwater, California, United States"
-    ],
-    [
-      "Senior Customer Success Manager II, Enterprise",
-      "Customer Success",
-      ""
-    ],
-    [
-      "Territory Account Executive, Retail - Stockton/Modesto, CA",
-      "Sales",
-      "Stockton, California, United States"
-    ],
-    [
-      "Senior Associate Retail, Event Marketing",
-      "Marketing",
-      ""
-    ],
-    [
-      "Corporate Development Deal Lead",
-      "Finance",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Bilingual Sales Development Representative (Spanish)",
-      "Sales",
-      "Jacksonville, Florida, United States"
-    ],
-    [
-      "Flex Growth Account Executive",
-      "Sales",
-      "Denver, Colorado, United States"
-    ],
-    [
-      "Software Engineer II, Enterprise",
-      "Engineering",
-      "Canada"
-    ],
-    [
-      "Territory Account Executive, Retail - Rochester, NY",
-      "Sales",
-      "Rochester, New York, United States"
-    ],
-    [
-      "West Coast - Inside Strategic Cuisines Account Executive - Spanish",
-      "Sales",
-      "San Diego, California, United States"
-    ],
-    [
-      "Senior Director, Software Engineering - Payments, Fraud & Risk",
-      "Engineering",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Senior Product Designer - Customer Support Experience",
-      "",
-      "United States"
-    ],
-    [
-      "Senior Software Engineer, Menus",
-      "Engineering",
-      "United States"
-    ],
-    [
-      "Senior Product Manager, Hardware",
-      "Product",
-      "Remote, United States"
-    ],
-    [
-      "Senior Customer Success Manager I, RMM",
-      "Customer Success",
-      ""
-    ],
-    [
-      "Hybrid Development Representative",
-      "Sales",
-      "Cleveland, Ohio, United States"
-    ],
-    [
-      "Senior Data Analyst, Consumer",
-      "Product",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Flex Growth Account Executive",
-      "Sales",
-      "Houston, Texas, United States"
-    ],
-    [
-      "Flex Growth Account Executive",
-      "Sales",
-      "Dallas, Texas, United States"
-    ],
-    [
-      "Senior Data Scientist",
-      "Engineering",
-      "Remote, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Austin: San Antonio (Spanish/Bilingual)",
-      "Sales",
-      "San Marcos, Texas, United States"
-    ],
-    [
-      "Senior Compliance Manager, Fintech Banking Products",
-      "Legal",
-      "Remote, United States"
-    ],
-    [
-      "Territory Account Executive, SMB - Salem, WA",
-      "Sales",
-      "Washington, United States"
-    ],
-    [
-      "Bilingual Business Development Representative (Mandarin)",
-      "Sales",
-      "Houston, Texas, United States"
-    ],
-    [
-      "Flex Strategic Cuisine Territory Account Executive (Spanish/Bilingual), South Central, USA",
-      "Sales",
-      "Oklahoma City, Oklahoma, United States"
-    ],
-    [
-      "Manager, Privacy Specialist",
-      "Legal",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Territory Account Executive, SMB- Portland, OR",
-      "Sales",
-      "Portland, Oregon, United States"
-    ],
-    [
-      "Bilingual Mandarin Strategic Cuisines Flex Account Executive - West Coast",
-      "Sales",
-      "San Diego, California, United States"
-    ],
     [
       "PeopleHub Partner",
       "People & Places",
       "Omaha, Nebraska, United States"
-    ],
-    [
-      "NetSuite Administrator",
-      "Enterprise Tech",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Territory Account Executive (Spanish), Strategic Cuisines - San Bernardino, CA",
-      "Sales",
-      "San Bernardino, California, United States"
-    ],
-    [
-      "Director of Product Management, Card Readers",
-      "Product",
-      "Dublin, County Dublin, Ireland"
-    ],
-    [
-      "Principal Software Engineer - Payments",
-      "Engineering",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Flex Growth Account Executive",
-      "Sales",
-      "Charlotte, North Carolina, United States"
-    ],
-    [
-      "Bilingual Sales Development Representative (Spanish)",
-      "Sales",
-      "San Antonio, Texas, United States"
-    ],
-    [
-      "Principal, Workday PAT Analyst",
-      "People & Places",
-      ""
-    ],
-    [
-      "Flex Growth Account Executive",
-      "Sales",
-      "Pittsburgh, Pennsylvania, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Stockton/Modesto, CA",
-      "Sales",
-      "Sacramento, California, United States"
-    ],
-    [
-      "Bilingual Mandarin Houston, TX Strategic Cuisines Account Executive",
-      "Sales",
-      "Houston, Texas, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Asheville, NC",
-      "Sales",
-      "Asheville, North Carolina, United States"
-    ],
-    [
-      "Lakeland, FL Territory Account Executive",
-      "Sales",
-      "Lakeland, Florida, United States"
-    ],
-    [
-      "Senior Revenue Accountant",
-      "Finance",
-      "Chennai, Tamil Nadu, India"
-    ],
-    [
-      "Senior Fullstack Engineer, New Ventures",
-      "Product",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - ABQ, NM (Spanish/Bilingual)",
-      "Sales",
-      "Santa Fe, New Mexico, United States"
-    ],
-    [
-      "Senior Software Engineer, Retail",
-      "Product",
-      "Remote, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Stockton/Modesto, CA",
-      "Sales",
-      "Modesto, California, United States"
-    ],
-    [
-      "District Manager, SMB - Atlanta, GA",
-      "Sales",
-      "Atlanta, Georgia, United States"
-    ],
-    [
-      "Hybrid Development Representative",
-      "Sales",
-      "Los Angeles, California, United States"
-    ],
-    [
-      "District Manager, SMB - Michigan/Indiana",
-      "Sales",
-      "Grand Rapids, Michigan, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Stockton/Modesto, CA",
-      "Sales",
-      "Tracy, California, United States"
-    ],
-    [
-      "Growth Sales Account Executive",
-      "Sales",
-      "Phoenix, Arizona, United States"
-    ],
-    [
-      "Senior Android Software Engineer",
-      "Engineering",
-      "Dublin, County Dublin, Ireland"
-    ],
-    [
-      "Territory Account Executive, SMB - Salem, OR",
-      "Sales",
-      "Salem, Oregon, United States"
-    ],
-    [
-      "Collections Representative",
-      "Finance",
-      ""
-    ],
-    [
-      "Senior Software Engineer (Frontend), Menus",
-      "Engineering",
-      "United States"
-    ],
-    [
-      "Hybrid Development Representative",
-      "Sales",
-      "New York, United States"
-    ],
-    [
-      "Staff Android Engineer, New Ventures",
-      "Engineering",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "North Jersey, NJ Strategic Cuisines Account Executive - Spanish",
-      "Sales : Strategic Cuisines Sales Management",
-      "New Jersey, United States"
-    ],
-    [
-      "Associate Counsel, Privacy",
-      "Legal",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Territory Account Executive, Retail - West Houston, TX",
-      "Sales",
-      "Missouri City, Texas, United States"
-    ],
-    [
-      "Manager II, Customer Care Tax",
-      "Customer Success",
-      "Remote, United States"
-    ],
-    [
-      "Senior Data Scientist",
-      "Engineering",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Territory Account Executive, Retail - Burlington, VT",
-      "Sales",
-      "Burlington, Vermont, United States"
-    ],
-    [
-      "Senior Android Engineer",
-      "Engineering",
-      "Dublin, County Dublin, Ireland"
-    ],
-    [
-      "Territory Account Executive, Retail - North CA/South OR",
-      "Sales",
-      "Eugene, Oregon, United States"
-    ],
-    [
-      "Territory Account Executive, SMB - Ventura, CA",
-      "Sales",
-      "Ventura, California, United States"
-    ],
-    [
-      "Senior Software Engineer - Modern Dining",
-      "Engineering",
-      "Dublin, County Dublin, Ireland"
-    ],
-    [
-      "Manager, Consumer Protection & AI Compliance",
-      "Legal",
-      "Remote, United States"
-    ],
-    [
-      "Jersey Central, NJ Mandarin Strategic Cuisines Account Executive",
-      "Sales",
-      "New Jersey, United States"
-    ],
-    [
-      "Senior Customer Success Manager, RMM - New York City",
-      "Customer Success",
-      "New York, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Columbus, GA",
-      "Sales",
-      "Columbus, Georgia, United States"
-    ],
-    [
-      "Territory Account Executive, SMB - Greater Philadelphia, PA",
-      "Sales",
-      "Philadelphia, Pennsylvania, United States"
-    ],
-    [
-      "Manager, Consumer Protection & AI Compliance",
-      "Legal",
-      "San Francisco, California, United States"
-    ],
-    [
-      "Engineering Manager II, Supply Chain",
-      "Enterprise Tech",
-      "Remote, United States"
-    ],
-    [
-      "Senior Backend Engineer",
-      "Enterprise Tech",
-      "Remote, United States"
-    ],
-    [
-      "Senior Software Engineer, Full Stack",
-      "Engineering",
-      "Dublin, County Dublin, Ireland"
-    ],
-    [
-      "Senior Systems Engineer, Salesforce",
-      "Enterprise Tech",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Bilingual Business Development Representative (Mandarin)",
-      "Sales",
-      "Cincinnati, Ohio, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Minneapolis, MN",
-      "Sales",
-      "Minneapolis, Minnesota, United States"
-    ],
-    [
-      "Principal Fraud Analyst, Payments & Onboarding",
-      "Fintech",
-      "United States"
-    ],
-    [
-      "Senior Software Engineer, Android - Retail",
-      "Engineering",
-      "Remote, United States"
-    ],
-    [
-      "Las Vegas, NV District Manager, SMB",
-      "Sales",
-      "Las Vegas, Nevada, United States"
-    ],
-    [
-      "Sr. Workday Analyst, HCM",
-      "People & Places",
-      ""
-    ],
-    [
-      "Territory Account Executive, Retail - Jackson/Tuscaloosa",
-      "Sales",
-      "Tuscaloosa, Alabama, United States"
-    ],
-    [
-      "Senior Full Stack Engineer, Help Center",
-      "",
-      "Dublin, County Dublin, Ireland"
-    ],
-    [
-      "Senior Software Engineer (Full Stack)",
-      "Engineering",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Phoenix, AZ Strategic Cuisines Account Executive - Bilingual Spanish",
-      "Sales",
-      "Phoenix, Arizona, United States"
-    ],
-    [
-      "TA Partner (Contractor)",
-      "People & Places",
-      "Bengaluru, Karnataka, India"
     ],
     [
       "District Manager, SMB- Eastern North Carolina",
       "Sales",
       "Raleigh, North Carolina, United States"
-    ],
-    [
-      "Technical Product Manager, People Products",
-      "People & Places",
-      ""
-    ],
-    [
-      "Territory Account Executive, Retail - East North Carolina",
-      "Sales",
-      "Wilmington, North Carolina, United States"
-    ],
-    [
-      "Director, FinTech Counsel",
-      "Legal",
-      ""
-    ],
-    [
-      "West Coast - Inside Strategic Cuisines Account Executive - Spanish",
-      "Sales",
-      "San Francisco, California, United States"
-    ],
-    [
-      "Territory Account Executive (Spanish), Strategic Cuisines - Jacksonville, FL",
-      "Sales",
-      "Jacksonville, Florida, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Sioux Falls, SD",
-      "Sales",
-      "Sioux Falls, South Dakota, United States"
-    ],
-    [
-      "Staff Software Engineer, Ads & Insights",
-      "Engineering",
-      "United States"
-    ],
-    [
-      "Territory Account Executive, SMB - Orange County, CA",
-      "Sales",
-      "Orange County, California, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Glendale, CA",
-      "Sales",
-      "Glendale, California, United States"
-    ],
-    [
-      "Sales District Manager, Toast Retail",
-      "Sales",
-      "San Diego, California, United States"
-    ],
-    [
-      "Bilingual Business Development Representative (Mandarin)",
-      "Sales",
-      "Columbus, Ohio, United States"
-    ],
-    [
-      "Zuora Admin",
-      "Engineering",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Director, Talent Acquisition Operations",
-      "People & Places",
-      "San Francisco, California, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Northeast Houston, TX",
-      "Sales",
-      "Humble, Texas, United States"
-    ],
-    [
-      "Territory Account Executive (Spanish), Strategic Cuisines -LA Valley",
-      "Sales",
-      "Los Angeles, California, United States"
-    ],
-    [
-      "Senior Salesforce Developer",
-      "Enterprise Tech",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Staff System Engineer, Zuora Billing",
-      "Engineering",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Director, Fintech Compliance",
-      "Legal",
-      "Remote, United States"
-    ],
-    [
-      "Senior Backend Engineer - Enterprise Financial Systems",
-      "Enterprise Tech",
-      "Remote, United States"
-    ],
-    [
-      "Hybrid Development Representative",
-      "Sales",
-      "Austin, Texas, United States"
-    ],
-    [
-      "Flex Customer Growth Sales Account Executive",
-      "Sales",
-      "Charlotte, North Carolina, United States"
-    ],
-    [
-      "Hybrid Development Representative",
-      "Sales",
-      "Tampa, Florida, United States"
-    ],
-    [
-      "Bloomington, Indiana Territory Account Executive",
-      "Sales",
-      "Bloomington, Indiana, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Tyler, TX",
-      "Sales",
-      "Tyler, Texas, United States"
-    ],
-    [
-      "Hybrid Development Representative",
-      "Sales",
-      "Houston, Texas, United States"
-    ],
-    [
-      "Territory Account Executive (Spanish), Strategic Cuisines - San Diego, CA",
-      "Sales",
-      "San Diego, California, United States"
-    ],
-    [
-      "Territory Account Executive, SMB - North Minneapolis, MN",
-      "Sales",
-      "Minneapolis, Minnesota, United States"
-    ],
-    [
-      "Hybrid Development Representative",
-      "Sales",
-      "Dallas, Texas, United States"
-    ],
-    [
-      "Bilingual Mandarin Strategic Cuisines Flex Account Executive - West Coast",
-      "Sales",
-      "San Francisco, California, United States"
-    ],
-    [
-      "Flex Growth Account Executive",
-      "Sales",
-      "Miami, Florida, United States"
-    ],
-    [
-      "Business Development Manager, CBG",
-      "Sales",
-      ""
-    ],
-    [
-      "Silver Spring, MD Territory Account Executive",
-      "Sales",
-      "Silver Spring, Maryland, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Binghamton, NY",
-      "Sales",
-      "Binghamton, New York, United States"
-    ],
-    [
-      "Senior Engineering Manager, Supply Chain",
-      "Enterprise Tech",
-      "Remote, United States"
-    ],
-    [
-      "Territory Account Executive, SMB - San Francisco, CA",
-      "Sales",
-      "San Francisco, California, United States"
-    ],
-    [
-      "Bilingual Business Development Representative (Mandarin)",
-      "Sales",
-      "Miami, Florida, United States"
-    ],
-    [
-      "Associate Product Designer - Toast Retail",
-      "Product",
-      "United States"
-    ],
-    [
-      "Manager, Payroll Operations",
-      "General & Admin",
-      "Chennai, Tamil Nadu, India"
-    ],
-    [
-      "Analyst II, Payments Pricing & Operations",
-      "Fintech",
-      "Remote, United States"
-    ],
-    [
-      "Senior Customer Success Manager I, ENT",
-      "Customer Success",
-      ""
-    ],
-    [
-      "Senior Software Engineer, Delivery Service",
-      "Engineering",
-      "United States"
-    ],
-    [
-      "Manager, Software Engineering",
-      "Engineering",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Inside Account Executive(Mandarin), Strategic Cuisines - Remote, U.S.",
-      "Sales",
-      ""
-    ],
-    [
-      "Staff Software Engineer",
-      "Engineering",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Senior Software Engineer, Supply Chain",
-      "Enterprise Tech",
-      "Remote, United States"
-    ],
-    [
-      "Senior Software Engineer",
-      "Engineering",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Territory Account Executive, Retail - Pasadena, CA",
-      "Sales",
-      "Pasadena, California, United States"
-    ],
-    [
-      "Director of Corporate Engineering",
-      "Enterprise Tech",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Manager, Paid Search",
-      "Marketing",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - East CT",
-      "Sales",
-      "Windham, Connecticut, United States"
-    ],
-    [
-      "Principal Software Engineer",
-      "Engineering",
-      "Remote, United States"
-    ],
-    [
-      "Staff Data Scientist",
-      "Engineering",
-      "Remote, United States"
-    ],
-    [
-      "Associate Product Designer - Toast Retail",
-      "R & D : UX : Retail",
-      "United States"
-    ],
-    [
-      "Customer Growth Account Executive",
-      "Sales",
-      "Portland, Oregon, United States"
-    ],
-    [
-      "Senior Software Engineer, Android",
-      "Engineering",
-      "Costa Mesa, California, United States"
-    ],
-    [
-      "Growth Account Executive",
-      "Sales",
-      "Durham, North Carolina, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Jackson, MS",
-      "Sales",
-      "Jackson, Mississippi, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Austin: San Antonio",
-      "Sales",
-      "New Braunfels, Texas, United States"
-    ],
-    [
-      "Flex Growth Account Executive",
-      "Sales",
-      "Minneapolis, Minnesota, United States"
-    ],
-    [
-      "Bilingual Sales Development Representative (Spanish)",
-      "Sales",
-      "San Diego, California, United States"
-    ],
-    [
-      "Director, Care Analytics",
-      "Customer Success",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Senior Automation Engineering Manager",
-      "Engineering",
-      "Bangalore, India"
-    ],
-    [
-      "Product Analyst",
-      "Product",
-      "Remote, United States"
-    ],
-    [
-      "Service Designer - Customer Experience",
-      "",
-      ""
-    ],
-    [
-      "Senior Manager, Revenue Accounting",
-      "Finance",
-      "Chennai, Tamil Nadu, India"
-    ],
-    [
-      "Territory Account Executive, SMB- Eugene, OR",
-      "Sales",
-      "Eugene, Oregon, United States"
-    ],
-    [
-      "Senior Software Engineer - Toast IQ",
-      "",
-      "Remote, United States"
-    ],
-    [
-      "Bilingual Business Development Representative (Mandarin)",
-      "Sales",
-      "Remote, United States"
-    ],
-    [
-      "Bilingual Business Development Representative (Mandarin)",
-      "Sales",
-      "Jersey City, New Jersey, United States"
-    ],
-    [
-      "Senior Software Engineer - Back End",
-      "Engineering",
-      "Chennai, Tamil Nadu, India"
-    ],
-    [
-      "PeopleHub Specialist",
-      "People & Places",
-      "Chennai, Tamil Nadu, India"
-    ],
-    [
-      "Jacksonville, FL Territory Account Executive",
-      "Sales",
-      "Jacksonville, Florida, United States"
-    ],
-    [
-      "IT Service Desk Manager, APAC",
-      "Enterprise Tech",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Senior Fullstack Engineer",
-      "Enterprise Tech",
-      "Remote, United States"
-    ],
-    [
-      "Vineland, NJ Territory Account Executive",
-      "Sales",
-      "Vineland, New Jersey, United States"
-    ],
-    [
-      "Mandarin Strategic Cuisines Inside Account Executive",
-      "Sales",
-      "Chicago, Illinois, United States"
-    ],
-    [
-      "Senior Manager, Data Science and Machine Learning",
-      "Engineering",
-      "Remote, United States"
-    ],
-    [
-      "Customer Care Specialist - Retail",
-      "Customer Success : Customer Care : Retail",
-      "Omaha, Nebraska, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Jackson/Tuscaloosa",
-      "Sales",
-      "Jackson, Mississippi, United States"
-    ],
-    [
-      "Senior Fullstack Engineer",
-      "Engineering",
-      "Remote, United States"
-    ],
-    [
-      "Hybrid Development Representative",
-      "Sales",
-      "Cincinnati, Ohio, United States"
-    ],
-    [
-      "Principal Customer Success Analyst - AI and Advance Customer Analytics",
-      "Customer Success",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Growth Account Executive- Charlotte, NC",
-      "Sales",
-      "Charlotte, North Carolina, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Metro Dallas South (Spanish/Bilingual)",
-      "Sales",
-      "Dallas, Texas, United States"
-    ],
-    [
-      "Hybrid Development Representative",
-      "Sales",
-      "Jacksonville, Florida, United States"
-    ],
-    [
-      "Bilingual Business Development Representative (Mandarin)",
-      "Sales",
-      "Orlando, Florida, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Burlington, VT",
-      "Sales",
-      "Montpelier, Vermont, United States"
-    ],
-    [
-      "Marketing Manager, SEO & Organic Growth",
-      "Marketing",
-      "Remote, United States"
-    ],
-    [
-      "Growth Account Executive- Greensboro, NC",
-      "Sales",
-      "Greensboro, North Carolina, United States"
-    ],
-    [
-      "Territory Account Executive , SMB - Waterbury, CT",
-      "Sales",
-      "Waterbury, Connecticut, United States"
-    ],
-    [
-      "Staff Software Engineer(MLOps)",
-      "Engineering",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Territory Account Executive - Cleveland West, OH",
-      "Sales",
-      "Cleveland, Ohio, United States"
-    ],
-    [
-      "Experience Designer, Customer Experience",
-      "",
-      ""
-    ],
-    [
-      "Territory Account Executive, SMB - Oklahoma City, OK",
-      "Sales",
-      "Oklahoma City, Oklahoma, United States"
-    ],
-    [
-      "Senior Software Engineer",
-      "Engineering",
-      "Chennai, Tamil Nadu, India"
-    ],
-    [
-      "Senior Manager, Payments Optimization",
-      "Fintech",
-      "United States"
-    ],
-    [
-      "Senior Software Engineer, Menus",
-      "Engineering",
-      "Boston, New York, United States"
-    ],
-    [
-      "Bilingual Business Development Representative (Mandarin)",
-      "Sales",
-      "Seattle, Washington, United States"
-    ],
-    [
-      "Bilingual Sales Development Representative (Spanish)",
-      "Sales",
-      "Miami, Florida, United States"
-    ],
-    [
-      "Territory Account Executive, SMB - Fort Wayne, IN",
-      "Sales",
-      "Fort Wayne, Indiana, United States"
-    ],
-    [
-      "Software Engineer I (Fullstack), Employee Lifecycle Management",
-      "Engineering",
-      "Canada"
-    ],
-    [
-      "Flex Customer Growth Sales Account Executive",
-      "Sales",
-      "Miami, Florida, United States"
-    ],
-    [
-      "Senior Software Engineer, Android",
-      "Engineering",
-      "Dublin, County Dublin, Ireland"
-    ],
-    [
-      "Enterprise Account Executive, Restaurant Sales",
-      "",
-      "Denver, Colorado, United States"
-    ],
-    [
-      "Director, Data Engineering & Infrastructure (Customer Success)",
-      "Customer Success",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Territory Account Executive , SMB- GTA West (Mississauga)",
-      "Sales",
-      "Mississauga, Ontario, Canada"
-    ],
-    [
-      "Corporate Security Analyst II",
-      "Engineering",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Senior Software Engineer (Full Stack)",
-      "Engineering",
-      "Dublin, County Dublin, Ireland"
-    ],
-    [
-      "Territory Account Executive, Retail - Central New England",
-      "Sales",
-      "Springfield, Massachusetts, United States"
-    ],
-    [
-      "Lead Credit Risk Strategist, Acquisition (Data Science)",
-      "Fintech",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Sales District Manager, Retail - New Orleans, LA",
-      "Sales",
-      "New Orleans, Louisiana, United States"
-    ],
-    [
-      "Principal Technical Program Manager",
-      "Product",
-      "Remote, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Lafayette, LA/Beaumont, TX",
-      "Sales",
-      "Lafayette, Louisiana, United States"
-    ],
-    [
-      "Hybrid Development Representative",
-      "Sales",
-      "San Antonio, Texas, United States"
-    ],
-    [
-      "Territory Account Executive SMB - San Diego, CA",
-      "Sales",
-      "San Diego, California, United States"
-    ],
-    [
-      "Business Continuity Manager",
-      "Legal",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Counsel, Partnerships & Commerce",
-      "Legal",
-      "San Francisco, California, United States"
-    ],
-    [
-      "Manager, Consumer Protection & AI Compliance",
-      "Legal",
-      "New York, United States"
-    ],
-    [
-      "Inside Account Executive, SMB - Remote",
-      "Sales",
-      ""
-    ],
-    [
-      "Software Engineer, Full Stack",
-      "Engineering",
-      "Dublin, County Dublin, Ireland"
-    ],
-    [
-      "Territory Account Executive, Retail - Coastal Connecticut",
-      "Sales",
-      "Fairfield, Connecticut, United States"
-    ],
-    [
-      "Software Engineer I - Timekeeping",
-      "Engineering",
-      "Dublin, County Dublin, Ireland"
-    ],
-    [
-      "Territory Account Executive, SMB - Sacramento, CA",
-      "Sales",
-      "Sacramento, California, United States"
-    ],
-    [
-      "Paid Acquisition Lead, Consumer",
-      "Product",
-      "San Francisco, California, United States"
-    ],
-    [
-      "Territory Account Executive, SMB - Joliet, IL",
-      "Sales",
-      "Joliet, Illinois, United States"
-    ],
-    [
-      "Product Lead, Toast Partner Ecosystem",
-      "Product",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Territory Account Executive , SMB - Newton, MA",
-      "Sales",
-      "Newton, Massachusetts, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Savannah GA",
-      "Sales",
-      "Savannah, Georgia, United States"
-    ],
-    [
-      "Manager, Content Partnerships",
-      "Marketing",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Northeast Houston, TX",
-      "Sales",
-      "Houston, Texas, United States"
-    ],
-    [
-      "Manager, Consumer Protection & AI Compliance",
-      "Legal",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Senior Software Engineer, Enterprise",
-      "Engineering",
-      "Toronto, Ontario, Canada"
-    ],
-    [
-      "Territory Account Executive, SMB - Columbia/Jefferson City, MO",
-      "Sales",
-      "Jefferson City, Missouri, United States"
-    ],
-    [
-      "Jersey City, NJ Mandarin Strategic Cuisines Account Executive",
-      "Sales",
-      "Jersey City, New Jersey, United States"
-    ],
-    [
-      "Manager, Retail Product Partnerships",
-      "Sales",
-      "Remote, United States"
-    ],
-    [
-      "Vice President of Retail Marketing",
-      "Marketing",
-      "Remote, United States"
-    ],
-    [
-      "Growth Flex Account Executive",
-      "Sales",
-      "San Diego, California, United States"
-    ],
-    [
-      "Bilingual Business Development Representative (Mandarin)",
-      "Sales",
-      "Philadelphia, Pennsylvania, United States"
-    ],
-    [
-      "Senior Product Manager, GTM Revenue",
-      "Enterprise Tech",
-      "Remote, United States"
-    ],
-    [
-      "Territory Account Executive, SMB - Twin Cities Metro, MN",
-      "Sales",
-      "Minneapolis, Minnesota, United States"
-    ],
-    [
-      "Principal Software Engineer",
-      "",
-      "Dublin, County Dublin, Ireland"
-    ],
-    [
-      "Bilingual Sales Development Representative (Spanish)",
-      "Sales",
-      "Jersey City, New Jersey, United States"
-    ],
-    [
-      "Senior Netsuite Developer",
-      "Engineering",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Flex Strategic Cuisine Territory Account Executive (Spanish/Bilingual), West Coast, USA",
-      "Sales",
-      "San Francisco, California, United States"
-    ],
-    [
-      "North Atlantic Flex Account Executive",
-      "Sales",
-      "Philadelphia, Pennsylvania, United States"
-    ],
-    [
-      "Manager II, Care Account Operations",
-      "Customer Success",
-      ""
-    ],
-    [
-      "Bilingual Sales Development Representative (Spanish)",
-      "Sales",
-      "San Francisco, California, United States"
-    ],
-    [
-      "Flex Strategic Cuisine Territory Account Executive (Spanish/Bilingual)-East Coast, USA",
-      "Sales",
-      "Long Island, New York, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Seattle, WA",
-      "Sales",
-      "Seattle, Washington, United States"
-    ],
-    [
-      "Lead Zuora Engineer",
-      "Enterprise Tech",
-      "Remote, United States"
-    ],
-    [
-      "Program Manager, Fintech",
-      "",
-      "Remote, United States"
-    ],
-    [
-      "Staff Software Engineer",
-      "Engineering",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Principal Customer Success Analyst - AI and Advance Customer Analytics",
-      "Customer Success : Customer Success Operations",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Staff Software Engineer, Retail Integrations",
-      "Engineering",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Flex Account Executive, SMB - Philadelphia, PA",
-      "Sales",
-      "Philadelphia, Pennsylvania, United States"
-    ],
-    [
-      "Senior Fullstack Engineer, New Ventures",
-      "Product",
-      "United States"
-    ],
-    [
-      "Customer Care Tax Expert",
-      "Customer Success",
-      "Remote, United States"
-    ],
-    [
-      "Bilingual Mandarin Strategic Cuisines Flex Account Executive - West Coast",
-      "Sales",
-      "Los Angeles, California, United States"
-    ],
-    [
-      "Senior Software Engineer",
-      "Engineering",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Coral Springs, FL Territory Account Executive",
-      "Sales",
-      "Coral Springs, Florida, United States"
-    ],
-    [
-      "Flex Growth Account Executive",
-      "Sales",
-      "Chicago, Illinois, United States"
-    ],
-    [
-      "Principal Workday Architect, Talent & Compensation",
-      "People & Places",
-      "Remote, United States"
-    ],
-    [
-      "PeopleHub Partner",
-      "People & Places",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Tech TA Partner (Contractor)",
-      "People & Places",
-      "Remote, United States"
-    ],
-    [
-      "Bilingual Mandarin Strategic Cuisines Account Executive (Northeast)",
-      "Sales",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Bilingual Sales Development Representative (Spanish)",
-      "Sales",
-      "Orlando, Florida, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Austin: San Antonio",
-      "Sales",
-      "San Marcos, Texas, United States"
-    ],
-    [
-      "Bilingual Thai Strategic Cuisines Account Executive",
-      "Sales",
-      "Texas, United States"
-    ],
-    [
-      "Hybrid Development Representative",
-      "Sales",
-      "Jersey City, New Jersey, United States"
-    ],
-    [
-      "Senior Revenue Accounting Manager",
-      "Finance",
-      "Remote, United States"
-    ],
-    [
-      "Growth Sales Account Executive",
-      "Sales",
-      "Springfield, Missouri, United States"
-    ],
-    [
-      "Principal Workday Architect, Benefits & Absence",
-      "People & Places",
-      ""
-    ],
-    [
-      "Principal Technical Architect - HR Ecosystem",
-      "People & Places",
-      "Chennai, Tamil Nadu, India"
-    ],
-    [
-      "Territory Account Executive, Retail - Poughkeepsie NY",
-      "Sales",
-      "Poughkeepsie, New York, United States"
-    ],
-    [
-      "Bilingual Business Development Representative (Mandarin)",
-      "Sales",
-      "Cleveland, Ohio, United States"
-    ],
-    [
-      "Flex Account Executive, SMB- Mountain West",
-      "Sales",
-      "Denver, Colorado, United States"
-    ],
-    [
-      "Manager, Retail Product Partnerships",
-      "Sales : Retail Sales Acceleration",
-      "Remote, United States"
-    ],
-    [
-      "Senior Product Manager- Guest Engagement",
-      "Product",
-      "Dublin, County Dublin, Ireland"
-    ],
-    [
-      "Senior Software Engineer, Android",
-      "R & D : Engineering : Delphi",
-      "Costa Mesa, California, United States"
-    ],
-    [
-      "Territory Account Executive, SMB - Benicia, CA",
-      "Sales",
-      "Benicia, California, United States"
-    ],
-    [
-      "Flex Strategic Cuisine Territory Account Executive (Spanish/Bilingual)-Central, USA",
-      "Sales",
-      "Lansing, Michigan, United States"
-    ],
-    [
-      "Last Vegas, NV District Manager, SMB",
-      "Sales",
-      "Las Vegas, Nevada, United States"
-    ],
-    [
-      "Customer Care Expert - Retail",
-      "Customer Success : Customer Care : Retail",
-      "Omaha, Nebraska, United States"
-    ],
-    [
-      "Fraud Analyst",
-      "Fintech",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Hybrid Development Representative",
-      "Sales",
-      "Orlando, Florida, United States"
-    ],
-    [
-      "Staff Software Engineer",
-      "Enterprise Tech",
-      "Remote, United States"
-    ],
-    [
-      "Flex Strategic Cuisine Territory Account Executive (Spanish/Bilingual)-East Coast, USA",
-      "Sales",
-      "Raleigh, North Carolina, United States"
-    ],
-    [
-      "Principal Software Engineer - Payments, Fraud & Risk",
-      "Engineering",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Territory Account Executive, Retail - Cincinnati, OH",
-      "Sales",
-      "Cincinnati, Ohio, United States"
-    ],
-    [
-      "Territory Account Executive, SMB - Fairfield, CA",
-      "Sales",
-      "Fairfield, California, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Augusta GA",
-      "Sales",
-      "Augusta, Georgia, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Montgomery, AL",
-      "Sales",
-      "Montgomery, Alabama, United States"
-    ],
-    [
-      "Growth Sales Account Executive",
-      "Sales",
-      "Oklahoma City, Oklahoma, United States"
-    ],
-    [
-      "Territory Account Executive, SMB - Las Vegas, NV",
-      "Sales",
-      "Las Vegas, Nevada, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Tacoma, WA",
-      "Sales",
-      "Tacoma, Washington, United States"
-    ],
-    [
-      "Senior Associate, Strategic Finance",
-      "Finance",
-      "New York, United States"
-    ],
-    [
-      "Territory Account Executive - Akron, OH",
-      "Sales",
-      "Akron, Ohio, United States"
-    ],
-    [
-      "Senior Software Engineer (Backend), Payments",
-      "Engineering",
-      "United States"
-    ],
-    [
-      "Growth Account Executive- Wilmington, NC",
-      "Sales",
-      "Wilmington, North Carolina, United States"
-    ],
-    [
-      "Philadelphia, PA Strategic Cuisines Account Executive - Spanish",
-      "Sales",
-      "Philadelphia, Pennsylvania, United States"
-    ],
-    [
-      "Staff System Engineer, Zuora Billing",
-      "Enterprise Tech",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Senior Product Manager, Networking Platform",
-      "Product",
-      "Remote, United States"
-    ],
-    [
-      "Territory Account Executive, SMB - San Jose, CA",
-      "Sales",
-      "San Jose, California, United States"
-    ],
-    [
-      "Principal Software Engineer",
-      "Enterprise Tech",
-      "Remote, United States"
-    ],
-    [
-      "Zuora Admin",
-      "Enterprise Tech",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Territory Account Executive, Retail - Tampa, FL",
-      "Sales",
-      "Tampa, Florida, United States"
-    ],
-    [
-      "Flex Account Executive , SMB - New York, NY",
-      "Sales",
-      "New York, United States"
-    ],
-    [
-      "AI Data Analyst - Customer Success",
-      "Customer Success",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Pittsburgh, PA Territory Account Executive",
-      "Sales",
-      "Pittsburgh, Pennsylvania, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - East CT",
-      "Sales",
-      "New Haven, Connecticut, United States"
-    ],
-    [
-      "Flex Growth Account Executive",
-      "Sales",
-      "Washington, District of Columbia, United States"
-    ],
-    [
-      "Senior Data Analyst (Finance, Strategy & Analytics)",
-      "Finance",
-      "San Francisco, California, United States"
-    ],
-    [
-      "Senior Associate, Strategic Finance",
-      "Finance",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Senior Associate, Strategic Finance",
-      "Finance",
-      "San Francisco, California, United States"
-    ],
-    [
-      "Senior Manager, Disaster Recovery & Business Continuity",
-      "Legal",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Bilingual Business Development Representative (Mandarin)",
-      "Sales",
-      "New York, United States"
-    ],
-    [
-      "Product Designer, Guest",
-      "Design",
-      "Dublin, County Dublin, Ireland"
-    ],
-    [
-      "Senior Software Engineer, Menus",
-      "Engineering",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Greenville, SC",
-      "Sales",
-      "Greenville, South Carolina, United States"
-    ],
-    [
-      "Territory Account Executive, SMB - Baton Rouge, LA",
-      "Sales",
-      "Baton Rouge, Louisiana, United States"
-    ],
-    [
-      "Tax Operations Specialist",
-      "Finance",
-      "Chennai, Tamil Nadu, India"
-    ],
-    [
-      "Territory Account Executive, SMB - San Antonio, TX",
-      "Sales",
-      "San Antonio, Texas, United States"
-    ],
-    [
-      "Sales District Manager, Toast Retail - Phoenix, AZ",
-      "Sales",
-      "Phoenix, Arizona, United States"
-    ],
-    [
-      "Bilingual Thai Strategic Cuisines Account Executive - Northeast",
-      "Sales",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Albany NY",
-      "Sales",
-      "Albany, New York, United States"
-    ],
-    [
-      "Bilingual Sales Development Representative (Spanish)",
-      "Sales",
-      "Philadelphia, Pennsylvania, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - ABQ, NM (Spanish/Bilingual)",
-      "Sales",
-      "El Paso, Texas, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Kansas City, MO",
-      "Sales",
-      "Kansas City, Missouri, United States"
-    ],
-    [
-      "Principal Enablement Program Manager, AI & Self-Service",
-      "Customer Success",
-      ""
-    ],
-    [
-      "Payroll Tax Manager II, Customer Care",
-      "Customer Success",
-      ""
-    ],
-    [
-      "Staff Software Engineer - Retail Payments",
-      "Engineering",
-      "Dublin, County Dublin, Ireland"
-    ],
-    [
-      "Vice President, Retail Sales",
-      "Sales",
-      "Remote, United States"
-    ],
-    [
-      "Flex (Mid Atlantic Region) Territory Account Executive",
-      "Sales",
-      "Washington, District of Columbia, United States"
-    ],
-    [
-      "Senior Product Analyst",
-      "Product",
-      "Remote, United States"
-    ],
-    [
-      "Senior Product Manager, Core Payments",
-      "Product",
-      "Remote, United States"
-    ],
-    [
-      "Inside Sales Executive",
-      "Sales",
-      ""
-    ],
-    [
-      "North Jersey, NJ Strategic Cuisines Account Executive - Spanish",
-      "Sales",
-      "New Jersey, United States"
-    ],
-    [
-      "Hybrid Development Representative",
-      "Sales",
-      "San Diego, California, United States"
-    ],
-    [
-      "Staff Software Engineer, Guest Engagement",
-      "Engineering",
-      "Dublin, County Dublin, Ireland"
-    ],
-    [
-      "Senior Software Engineer, Delivery Services",
-      "Engineering",
-      "Canada"
-    ],
-    [
-      "Senior Manager, Trade and Hardware Compliance",
-      "Legal",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Stockton/Modesto, CA",
-      "Sales",
-      "Livermore, California, United States"
-    ],
-    [
-      "Territory Account Executive , Retail - Chicago, IL",
-      "Sales",
-      "Naperville, Illinois, United States"
-    ],
-    [
-      "Territory Account Executive, SMB - Napa Valley, CA",
-      "Sales",
-      "Napa County, California, United States"
-    ],
-    [
-      "Flex Customer Growth Sales Account Executive",
-      "Sales",
-      "Chicago, Illinois, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Memphis, TN",
-      "Sales",
-      "Memphis, Tennessee, United States"
-    ],
-    [
-      "Senior Software Engineer (Frontend), Financial Management",
-      "Engineering",
-      "United States"
-    ],
-    [
-      "Senior Automation Engineering Manager",
-      "Enterprise Tech",
-      "Bangalore, India"
-    ],
-    [
-      "Territory Account Executive, Retail - Lafayette, LA/Beaumont, TX",
-      "Sales",
-      "Beaumont, Texas, United States"
-    ],
-    [
-      "Staff Software Engineer, Android",
-      "Engineering",
-      "Remote, United States"
-    ],
-    [
-      "Equity Analyst -Stock Plan Administrator",
-      "People & Places",
-      "Chennai, Tamil Nadu, India"
-    ],
-    [
-      "Principal Fraud And Risk Strategy Analyst",
-      "Fintech",
-      "Bangalore, India"
-    ],
-    [
-      "NetSuite Administrator",
-      "Engineering",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Flex Account Executive, SMB - Connecticut / NY Metro",
-      "Sales",
-      "New York, United States"
-    ],
-    [
-      "Corporate Development Deal Lead",
-      "Finance",
-      "San Francisco, California, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Central New England",
-      "Sales",
-      "Worcester, Massachusetts, United States"
-    ],
-    [
-      "Staff Software Engineer, Toast Tables",
-      "Engineering",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Las Vegas, NV",
-      "Sales",
-      "Las Vegas, Nevada, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - West Houston, TX",
-      "Sales",
-      "Katy, Texas, United States"
-    ],
-    [
-      "Counsel, Partnerships & Commerce",
-      "Legal",
-      "New York, United States"
-    ],
-    [
-      "Customer Care Specialist - Retail",
-      "Customer Success",
-      "Omaha, Nebraska, United States"
-    ],
-    [
-      "Territory Account Executive - Allentown PA",
-      "Sales",
-      "Allentown, Pennsylvania, United States"
-    ],
-    [
-      "Baltimore MD, Territory Account Executive",
-      "Sales",
-      "Baltimore, Maryland, United States"
-    ],
-    [
-      "Territory Account Executive, SMB - Red Bank, NJ",
-      "Sales",
-      "Red Bank, New Jersey, United States"
     ],
     [
       "Hybrid Development Representative",
@@ -2089,34 +24,164 @@
       "Texas, United States"
     ],
     [
-      "Enterprise Account Executive, Restaurant Sales",
+      "Corporate Security Analyst II",
+      "Engineering",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Fraud Analyst",
+      "Fintech",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Senior Compliance Manager, Fintech Banking Products",
+      "Legal",
+      "Remote, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Rochester, NY",
+      "Sales",
+      "Rochester, New York, United States"
+    ],
+    [
+      "PeopleHub Specialist",
+      "People & Places",
+      "Chennai, Tamil Nadu, India"
+    ],
+    [
+      "Director, Fintech Compliance",
+      "Legal",
+      "Remote, United States"
+    ],
+    [
+      "Staff System Engineer, Zuora Billing",
+      "Enterprise Tech",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Flex Account Executive, SMB - Philadelphia, PA",
+      "Sales",
+      "Philadelphia, Pennsylvania, United States"
+    ],
+    [
+      "Territory Account Executive, SMB - Salt Lake City, UT",
+      "Sales",
+      "Salt Lake City, Utah, United States"
+    ],
+    [
+      "Territory Account Executive, SMB- Portland, OR",
+      "Sales",
+      "Portland, Oregon, United States"
+    ],
+    [
+      "Software Engineer I (Backend), Employee Lifecycle Management",
+      "Engineering",
+      "Canada"
+    ],
+    [
+      "Las Vegas, NV District Manager, SMB",
+      "Sales",
+      "Las Vegas, Nevada, United States"
+    ],
+    [
+      "Product Designer - Platform Experience",
       "",
-      "San Francisco, California, United States"
+      "United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Asheville, NC",
+      "Sales",
+      "Asheville, North Carolina, United States"
+    ],
+    [
+      "Flex Customer Growth Sales Account Executive",
+      "Sales",
+      "Miami, Florida, United States"
+    ],
+    [
+      "Business Development Manager, CBG",
+      "Sales",
+      ""
+    ],
+    [
+      "Principal Product Manager - Toast IQ",
+      "Product",
+      "New York, United States"
+    ],
+    [
+      "North Jersey, NJ Strategic Cuisines Account Executive - Spanish",
+      "Sales",
+      "New Jersey, United States"
+    ],
+    [
+      "Business Continuity Manager",
+      "Legal",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Senior Customer Success Manager II, Enterprise",
+      "Customer Success",
+      ""
+    ],
+    [
+      "Senior Software Engineer, Delivery Services",
+      "Engineering",
+      "Canada"
+    ],
+    [
+      "Senior Manager, Payments Optimization",
+      "Fintech",
+      "United States"
     ],
     [
       "Flex Growth Account Executive",
       "Sales",
+      "Minneapolis, Minnesota, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Stockton/Modesto, CA",
+      "Sales",
+      "Modesto, California, United States"
+    ],
+    [
+      "Last Vegas, NV District Manager, SMB",
+      "Sales",
+      "Las Vegas, Nevada, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Deltona, FL",
+      "Sales",
+      "Deltona, Florida, United States"
+    ],
+    [
+      "Flex Strategic Cuisine Territory Account Executive (Spanish/Bilingual), South Central, USA",
+      "Sales",
+      "Oklahoma City, Oklahoma, United States"
+    ],
+    [
+      "Senior Manager, Trade and Hardware Compliance",
+      "Legal",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Bilingual Sales Development Representative (Spanish)",
+      "Sales",
+      "Orlando, Florida, United States"
+    ],
+    [
+      "Senior Director, International Partnerships",
+      "",
+      "London, England, United Kingdom"
+    ],
+    [
+      "Hybrid Development Representative",
+      "Sales",
       "Austin, Texas, United States"
     ],
     [
-      "Territory Account Executive, Retail - Milwaukee, WI",
-      "Sales",
-      "Milwaukee, Wisconsin, United States"
-    ],
-    [
-      "Bilingual Business Development Representative (Mandarin)",
-      "Sales",
-      "Austin, Texas, United States"
-    ],
-    [
-      "Bilingual Business Development Representative (Mandarin)",
-      "Sales",
-      "Tampa, Florida, United States"
-    ],
-    [
-      "Manager II, Software Engineering",
+      "Staff Android Engineer, New Ventures",
       "Engineering",
-      "Bengaluru, Karnataka, India"
+      "United States"
     ],
     [
       "Bilingual Business Development Representative (Mandarin)",
@@ -2124,24 +189,199 @@
       "Dallas, Texas, United States"
     ],
     [
-      "Counsel, Partnerships & Commerce",
-      "Legal",
+      "Coral Springs, FL Territory Account Executive",
+      "Sales",
+      "Coral Springs, Florida, United States"
+    ],
+    [
+      "Territory Account Executive, SMB - San Jose, CA",
+      "Sales",
+      "San Jose, California, United States"
+    ],
+    [
+      "Tech TA Partner (Contractor)",
+      "People & Places",
+      "Remote, United States"
+    ],
+    [
+      "Senior Software Engineer, Android",
+      "R & D : Engineering : Delphi",
+      "Costa Mesa, California, United States"
+    ],
+    [
+      "Territory Account Executive, SMB - Fort Wayne, IN",
+      "Sales",
+      "Fort Wayne, Indiana, United States"
+    ],
+    [
+      "Customer Advocacy & Storytelling Lead",
+      "Marketing",
+      "Remote, United States"
+    ],
+    [
+      "Principal Software Engineer",
+      "Enterprise Tech",
+      "Remote, United States"
+    ],
+    [
+      "Bilingual Sales Development Representative (Spanish)",
+      "Sales",
+      "Jacksonville, Florida, United States"
+    ],
+    [
+      "Senior Fullstack Engineer, New Ventures",
+      "Product",
       "Boston, Massachusetts, United States"
     ],
     [
-      "Territory Account Executive (Mandarin), Strategic Cuisines - Las Vegas, NV",
-      "Sales",
-      "Las Vegas, Nevada, United States"
+      "Senior Software Engineer (Frontend), Menus",
+      "Engineering",
+      "United States"
     ],
     [
-      "Territory Account Executive, Retail - ABQ, NM (Spanish/Bilingual)",
+      "Hybrid Development Representative",
       "Sales",
-      "Albuquerque, New Mexico, United States"
+      "Orlando, Florida, United States"
     ],
     [
-      "Program Manager - FinTech",
-      "Fintech",
-      "Dublin, County Dublin, Ireland"
+      "Staff Software Engineer",
+      "Enterprise Tech",
+      "Remote, United States"
+    ],
+    [
+      "Territory Account Executive, SMB - Rochester, New York",
+      "Sales",
+      "Rochester, New York, United States"
+    ],
+    [
+      "Territory Account Executive, SMB - Twin Cities Metro, MN",
+      "Sales",
+      "Minneapolis, Minnesota, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Sanford, FL",
+      "Sales",
+      "Sanford, Florida, United States"
+    ],
+    [
+      "Senior Manager, Pricing Strategy",
+      "Marketing",
+      "Remote, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Central New England",
+      "Sales",
+      "Worcester, Massachusetts, United States"
+    ],
+    [
+      "Territory Account Executive , SMB - Newton, MA",
+      "Sales",
+      "Newton, Massachusetts, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Savannah GA",
+      "Sales",
+      "Savannah, Georgia, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Memphis, TN",
+      "Sales",
+      "Memphis, Tennessee, United States"
+    ],
+    [
+      "Flex Growth Account Executive",
+      "Sales",
+      "Austin, Texas, United States"
+    ],
+    [
+      "Principal Customer Success Analyst - AI and Advance Customer Analytics",
+      "Customer Success : Customer Success Operations",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Augusta GA",
+      "Sales",
+      "Augusta, Georgia, United States"
+    ],
+    [
+      "Director of Corporate Engineering",
+      "Engineering",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Principal Workday Architect, Benefits & Absence",
+      "People & Places",
+      ""
+    ],
+    [
+      "Territory Account Executive, Retail - Columbus, GA",
+      "Sales",
+      "Columbus, Georgia, United States"
+    ],
+    [
+      "Staff Software Engineer, Retail Integrations",
+      "Engineering",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Seattle, WA",
+      "Sales",
+      "Seattle, Washington, United States"
+    ],
+    [
+      "Bilingual Business Development Representative (Mandarin)",
+      "Sales",
+      "Cleveland, Ohio, United States"
+    ],
+    [
+      "Bilingual Business Development Representative (Mandarin)",
+      "Sales",
+      "Philadelphia, Pennsylvania, United States"
+    ],
+    [
+      "Senior Software Engineer, Supply Chain",
+      "Engineering",
+      "Remote, United States"
+    ],
+    [
+      "Senior Systems Engineer, Salesforce",
+      "Enterprise Tech",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Experience Designer, Customer Experience",
+      "",
+      ""
+    ],
+    [
+      "Bilingual Business Development Representative (Mandarin)",
+      "Sales",
+      "New York, United States"
+    ],
+    [
+      "Paid Acquisition Lead, Consumer",
+      "Product",
+      "San Francisco, California, United States"
+    ],
+    [
+      "Senior Data Scientist",
+      "Engineering",
+      "Remote, United States"
+    ],
+    [
+      "Phoenix, AZ Strategic Cuisines Account Executive - Bilingual Spanish",
+      "Sales",
+      "Phoenix, Arizona, United States"
+    ],
+    [
+      "Bilingual Thai Strategic Cuisines Account Executive",
+      "Sales",
+      "Texas, United States"
+    ],
+    [
+      "Senior Product Manager, Networking Platform",
+      "Product",
+      "Remote, United States"
     ],
     [
       "West Coast - Inside Strategic Cuisines Account Executive - Spanish",
@@ -2149,14 +389,99 @@
       "Las Vegas, Nevada, United States"
     ],
     [
-      "Senior Software Engineer - Full Stack",
-      "Engineering",
-      "Chennai, Tamil Nadu, India"
+      "Territory Account Executive, Retail - Jackson, MS",
+      "Sales",
+      "Jackson, Mississippi, United States"
     ],
     [
-      "Territory Account Executive, Retail - Shreveport, LA",
+      "Staff Software Engineer, Android",
+      "Engineering",
+      "Remote, United States"
+    ],
+    [
+      "Territory Account Executive, SMB - Milwaukee, WI",
       "Sales",
-      "Shreveport, Louisiana, United States"
+      "Milwaukee, Wisconsin, United States"
+    ],
+    [
+      "Flex Account Executive , SMB - New York, NY",
+      "Sales",
+      "New York, United States"
+    ],
+    [
+      "Territory Account Executive (Spanish), Strategic Cuisines - San Bernardino, CA",
+      "Sales",
+      "San Bernardino, California, United States"
+    ],
+    [
+      "Queens, NY Strategic Cuisines Account Executive - Spanish",
+      "Sales",
+      "Queens, New York, United States"
+    ],
+    [
+      "Staff Data Scientist",
+      "Engineering",
+      "Remote, United States"
+    ],
+    [
+      "Compliance Manager, Consumer Protection & AI",
+      "Legal",
+      "Remote, United States"
+    ],
+    [
+      "NetSuite Administrator",
+      "Enterprise Tech",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Territory Account Executive, Retail - Kansas City, MO",
+      "Sales",
+      "Kansas City, Missouri, United States"
+    ],
+    [
+      "Corporate Development Deal Lead",
+      "Finance",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Lafayette, LA/Beaumont, TX",
+      "Sales",
+      "Beaumont, Texas, United States"
+    ],
+    [
+      "Hybrid Development Representative",
+      "Sales",
+      "Cincinnati, Ohio, United States"
+    ],
+    [
+      "Philadelphia, PA Strategic Cuisines Account Executive - Spanish",
+      "Sales",
+      "Philadelphia, Pennsylvania, United States"
+    ],
+    [
+      "Senior Software Engineer, Menus",
+      "Engineering",
+      "Boston, New York, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Buffalo, NY",
+      "Sales",
+      "Buffalo, New York, United States"
+    ],
+    [
+      "Bilingual Mandarin Strategic Cuisines Flex Account Executive - West Coast",
+      "Sales",
+      "Seattle, Washington, United States"
+    ],
+    [
+      "Sr. Workday Analyst, HCM",
+      "People & Places",
+      ""
+    ],
+    [
+      "Staff Software Engineer, AI & Strategy",
+      "Enterprise Tech",
+      "Remote, United States"
     ],
     [
       "Manager, US Payroll Operations",
@@ -2166,277 +491,12 @@
     [
       "Bilingual Sales Development Representative (Spanish)",
       "Sales",
-      "Los Angeles, California, United States"
+      "Jersey City, New Jersey, United States"
     ],
     [
-      "Hybrid Development Representative",
-      "Sales",
-      "Miami, Florida, United States"
-    ],
-    [
-      "Customer Care Specialist - xtraChef",
+      "Manager II, Care Account Operations",
       "Customer Success",
-      "Omaha, Nebraska, United States"
-    ],
-    [
-      "Manager, Integration Partnerships",
-      "Sales",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Colorado Springs, CO",
-      "Sales",
-      "Colorado Springs, Colorado, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Bellevue, WA",
-      "Sales",
-      "Bellevue, Washington, United States"
-    ],
-    [
-      "Senior Technical Program Manager",
-      "Product",
-      "Dublin, County Dublin, Ireland"
-    ],
-    [
-      "Territory Account Executive, SMB - Toms River, NJ",
-      "Sales",
-      "Toms River, New Jersey, United States"
-    ],
-    [
-      "Territory Account Executive, SMB - Milwaukee, WI",
-      "Sales",
-      "Milwaukee, Wisconsin, United States"
-    ],
-    [
-      "Territory Account Executive, SMB - Oahu, HI",
-      "Sales",
-      "Honolulu County, Hawaii, United States"
-    ],
-    [
-      "Bilingual Sales Development Representative (Spanish)",
-      "Sales",
-      "New York, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Central New England",
-      "Sales",
-      "Framingham, Massachusetts, United States"
-    ],
-    [
-      "Senior Netsuite Developer",
-      "Enterprise Tech",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Growth Account Executive- Pittsburgh, PA",
-      "Sales",
-      "Pittsburgh, Pennsylvania, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - North Atlanta, GA",
-      "Sales",
-      "Marietta, Georgia, United States"
-    ],
-    [
-      "Software Engineer II (Full Stack)",
-      "Engineering",
-      "Dublin, County Dublin, Ireland"
-    ],
-    [
-      "Software Engineer II-Full Stack",
-      "Engineering",
-      "Dublin, County Dublin, Ireland"
-    ],
-    [
-      "Territory Account Executive, Retail - Buffalo, NY",
-      "Sales",
-      "Buffalo, New York, United States"
-    ],
-    [
-      "Territory Account Executive, SMB - Cleveland, OH",
-      "Sales",
-      "Cleveland, Ohio, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Metro Dallas South",
-      "Sales",
-      "Dallas, Texas, United States"
-    ],
-    [
-      "San Diego, CA District Manager, SMB",
-      "Sales",
-      "San Diego, California, United States"
-    ],
-    [
-      "Territory Account Executive, SMB - Kansas City, MO",
-      "Sales",
-      "Kansas City, Missouri, United States"
-    ],
-    [
-      "Engineering Manager II, Supply Chain",
-      "Engineering",
-      "Remote, United States"
-    ],
-    [
-      "Senior Analyst, Model Risk Management",
-      "Legal",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Territory Account Executive, Retail - Sanford, FL",
-      "Sales",
-      "Sanford, Florida, United States"
-    ],
-    [
-      "Director - People Operations, Shared Services",
-      "People & Places",
-      "Chennai, Tamil Nadu, India"
-    ],
-    [
-      "Lead Risk Analyst - Commercial Risk Analyst Underwriting",
-      "Fintech",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Accounting Manager",
-      "Finance",
-      "Chennai, Tamil Nadu, India"
-    ],
-    [
-      "Credit Risk Senior Analyst",
-      "Fintech",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "West Orlando FL, Territory Account Executive",
-      "Sales",
-      "Orlando, Florida, United States"
-    ],
-    [
-      "Senior Backend Engineer - Enterprise Financial Systems",
-      "Engineering",
-      "Remote, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - West Atlanta, GA",
-      "Sales",
-      "Atlanta, Georgia, United States"
-    ],
-    [
-      "Senior Software Engineer, Care Experience",
-      "",
-      "Remote, United States"
-    ],
-    [
-      "Senior Corporate Security Analyst",
-      "Engineering",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Territory Account Executive , Retail - Chicago, IL",
-      "Sales",
-      "Aurora, Illinois, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Deltona, FL",
-      "Sales",
-      "Deltona, Florida, United States"
-    ],
-    [
-      "Principal - Credit Risk Strategy",
-      "Fintech",
-      "United States"
-    ],
-    [
-      "Collections Support Specialist",
-      "Fintech",
-      "Bengaluru, Karnataka, India"
-    ],
-    [
-      "Lead Salesforce Developer",
-      "Enterprise Tech",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Staff Software Engineer, Enterprise",
-      "Engineering",
-      "Remote, United States"
-    ],
-    [
-      "Territory Account Executive, Retail - Austin: San Antonio (Spanish/Bilingual)",
-      "Sales",
-      "New Braunfels, Texas, United States"
-    ],
-    [
-      "Software Engineer I (Backend), Employee Lifecycle Management",
-      "Engineering",
-      "Canada"
-    ],
-    [
-      "Territory Account Executive (Mandarin), Strategic Cuisines -LA North",
-      "Sales",
-      "Los Angeles, California, United States"
-    ],
-    [
-      "Hybrid Development Representative",
-      "Sales",
-      "San Francisco, California, United States"
-    ],
-    [
-      "Territory Account Executive, SMB - Tacoma, WA",
-      "Sales",
-      "Tacoma, Washington, United States"
-    ],
-    [
-      "Marketing Services Manager",
-      "Marketing",
-      "Remote, United States"
-    ],
-    [
-      "Sales Enablement Manager, SMB New Business",
-      "Sales",
-      "Boston, Massachusetts, United States"
-    ],
-    [
-      "Staff Zuora Engineer",
-      "Enterprise Tech",
-      "Remote, United States"
-    ],
-    [
-      "Staff Android Engineer, New Ventures",
-      "Engineering",
-      "United States"
-    ],
-    [
-      "Growth Sales Account Executive - Cherry Hill, NJ",
-      "Sales",
-      "Cherry Hill, New Jersey, United States"
-    ],
-    [
-      "Lead Technical Governance Analyst",
-      "Product",
       ""
-    ],
-    [
-      "Territory Account Executive, Retail - Burbank, CA",
-      "Sales",
-      "Burbank, California, United States"
-    ],
-    [
-      "Software Engineer II- Funds Management",
-      "Engineering",
-      "Dublin, County Dublin, Ireland"
-    ],
-    [
-      "Territory Account Executive, Retail - Palm Coast, FL",
-      "Sales",
-      "Palm Coast, Florida, United States"
-    ],
-    [
-      "Bilingual Business Development Representative (Mandarin)",
-      "Sales",
-      "Jacksonville, Florida, United States"
     ],
     [
       "Growth Sales Account Executive",
@@ -2444,24 +504,369 @@
       "Scottsdale, Arizona, United States"
     ],
     [
-      "Territory Account Executive, SMB - Olympia, WA",
-      "Sales",
-      "Olympia, Washington, United States"
+      "Senior Data Analyst (Finance, Strategy & Analytics)",
+      "Finance",
+      "Boston, Massachusetts, United States"
     ],
     [
-      "Senior Manager, Enablement Project Management",
+      "Growth Sales Account Executive - Allentown, PA",
+      "Sales",
+      "Allentown, Pennsylvania, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Minneapolis, MN",
+      "Sales",
+      "Minneapolis, Minnesota, United States"
+    ],
+    [
+      "Senior Product Designer",
+      "Design",
+      "Canada"
+    ],
+    [
+      "Senior Customer Success Manager I, ENT",
       "Customer Success",
       ""
     ],
     [
-      "Territory Account Executive, Retail - West Houston, TX",
+      "Territory Account Executive, Retail - ABQ, NM (Spanish/Bilingual)",
+      "Sales",
+      "Clovis, New Mexico, United States"
+    ],
+    [
+      "Bilingual Sales Development Representative (Spanish)",
+      "Sales",
+      "San Antonio, Texas, United States"
+    ],
+    [
+      "Hybrid Development Representative",
+      "Sales",
+      "Jersey City, New Jersey, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Austin: San Antonio",
+      "Sales",
+      "San Marcos, Texas, United States"
+    ],
+    [
+      "Enterprise Account Executive, Restaurant Sales",
+      "",
+      "Denver, Colorado, United States"
+    ],
+    [
+      "Senior Software Engineer (Backend), Payments",
+      "Engineering",
+      "United States"
+    ],
+    [
+      "Territory Account Executive, SMB - Baton Rouge, LA",
+      "Sales",
+      "Baton Rouge, Louisiana, United States"
+    ],
+    [
+      "Staff Software Engineer, Toast Tables",
+      "Engineering",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "San Diego, CA District Manager, SMB",
+      "Sales",
+      "San Diego, California, United States"
+    ],
+    [
+      "Senior Software Engineer, Menus",
+      "Engineering",
+      "United States"
+    ],
+    [
+      "Lead Zuora Engineer",
+      "Enterprise Tech",
+      "Remote, United States"
+    ],
+    [
+      "Senior Android Software Engineer",
+      "Engineering",
+      "Dublin, County Dublin, Ireland"
+    ],
+    [
+      "Staff Software Engineer, Ads & Insights",
+      "Engineering",
+      "United States"
+    ],
+    [
+      "Software Engineer II (Full Stack)",
+      "Engineering",
+      "Dublin, County Dublin, Ireland"
+    ],
+    [
+      "Senior Backend Engineer",
+      "Enterprise Tech",
+      "Remote, United States"
+    ],
+    [
+      "Growth Account Executive- Greensboro, NC",
+      "Sales",
+      "Greensboro, North Carolina, United States"
+    ],
+    [
+      "Flex Customer Growth Sales Account Executive",
+      "Sales",
+      "Chicago, Illinois, United States"
+    ],
+    [
+      "Manager, Integration Partnerships",
+      "Sales",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Senior Netsuite Developer",
+      "Engineering",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Territory Account Executive, Retail - West Atlanta, GA",
+      "Sales",
+      "Atlanta, Georgia, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - North CA/South OR",
+      "Sales",
+      "Eugene, Oregon, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Tyler, TX",
+      "Sales",
+      "Tyler, Texas, United States"
+    ],
+    [
+      "Growth Account Executive",
       "Sales",
       "Houston, Texas, United States"
     ],
     [
-      "Product Manager, Employee Compensation",
+      "Territory Account Executive, Retail - Stockton/Modesto, CA",
+      "Sales",
+      "Sacramento, California, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Pasadena, CA",
+      "Sales",
+      "Pasadena, California, United States"
+    ],
+    [
+      "Sales District Manager, Retail - New Orleans, LA",
+      "Sales",
+      "New Orleans, Louisiana, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Burlington, VT",
+      "Sales",
+      "Burlington, Vermont, United States"
+    ],
+    [
+      "Software Engineer I",
+      "Engineering",
+      "Toronto, Ontario, Canada"
+    ],
+    [
+      "Bilingual Mandarin Strategic Cuisines Flex Account Executive - West Coast",
+      "Sales",
+      "San Diego, California, United States"
+    ],
+    [
+      "Senior Customer Success Manager I, RMM",
+      "Customer Success",
+      ""
+    ],
+    [
+      "Onboarding Consultant, Menu",
+      "Onboarding : Menu",
+      "Remote, United States"
+    ],
+    [
+      "Manager, Payroll Operations",
+      "General & Admin",
+      "Chennai, Tamil Nadu, India"
+    ],
+    [
+      "Territory Account Executive, Retail - Central New England",
+      "Sales",
+      "Framingham, Massachusetts, United States"
+    ],
+    [
+      "Senior Software Engineer",
+      "Engineering",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Territory Account Executive, Retail - Palm Coast, FL",
+      "Sales",
+      "Palm Coast, Florida, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - West Houston, TX",
+      "Sales",
+      "Katy, Texas, United States"
+    ],
+    [
+      "Principal, Workday PAT Analyst",
+      "People & Places",
+      ""
+    ],
+    [
+      "Territory Account Executive, SMB - Napa Valley, CA",
+      "Sales",
+      "Napa County, California, United States"
+    ],
+    [
+      "Senior Product Analyst",
       "Product",
       "Remote, United States"
+    ],
+    [
+      "Equity Analyst -Stock Plan Administrator",
+      "People & Places",
+      "Chennai, Tamil Nadu, India"
+    ],
+    [
+      "Territory Account Executive, Retail - Metro Dallas South (Spanish/Bilingual)",
+      "Sales",
+      "Dallas, Texas, United States"
+    ],
+    [
+      "Flex Strategic Cuisine Territory Account Executive (Spanish/Bilingual)-East Coast, USA",
+      "Sales",
+      "Long Island, New York, United States"
+    ],
+    [
+      "Hybrid Development Representative",
+      "Sales",
+      "Miami, Florida, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Olympia, WA",
+      "Sales",
+      "Olympia, Washington, United States"
+    ],
+    [
+      "Kissimmee FL, Territory Account Executive",
+      "Sales",
+      "Kissimmee, Florida, United States"
+    ],
+    [
+      "Lead Technical Compliance Analyst",
+      "Product",
+      "Dublin, County Dublin, Ireland"
+    ],
+    [
+      "West Coast - Inside Strategic Cuisines Account Executive - Spanish",
+      "Sales",
+      "San Francisco, California, United States"
+    ],
+    [
+      "Associate Hardware Quality Engineer",
+      "Hardware",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Lead Technical Governance Analyst",
+      "Product",
+      ""
+    ],
+    [
+      "Senior Data Analyst (Finance, Strategy & Analytics)",
+      "Finance",
+      "New York, United States"
+    ],
+    [
+      "Bilingual Business Development Representative (Mandarin)",
+      "Sales",
+      "Seattle, Washington, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Kingston NY",
+      "Sales",
+      "Kingston, New York, United States"
+    ],
+    [
+      "Principal Software Engineer",
+      "Engineering",
+      "Remote, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Binghamton, NY",
+      "Sales",
+      "Binghamton, New York, United States"
+    ],
+    [
+      "Bilingual Business Development Representative (Mandarin)",
+      "Sales",
+      "Jacksonville, Florida, United States"
+    ],
+    [
+      "Engineering Manager II, Supply Chain",
+      "Enterprise Tech",
+      "Remote, United States"
+    ],
+    [
+      "District Manager, SMB - Michigan/Indiana",
+      "Sales",
+      "Grand Rapids, Michigan, United States"
+    ],
+    [
+      "Senior Software Engineer, Care Experience",
+      "",
+      "Remote, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Stockton/Modesto, CA",
+      "Sales",
+      "Atwater, California, United States"
+    ],
+    [
+      "Senior Manager, Data Science and Machine Learning",
+      "Engineering",
+      "Remote, United States"
+    ],
+    [
+      "Senior Software Engineer (Full Stack)",
+      "Engineering",
+      "Dublin, County Dublin, Ireland"
+    ],
+    [
+      "East Coast Mandarin Strategic Cuisines Inside Account Executive",
+      "Sales",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Counsel, Partnerships & Commerce",
+      "Legal",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Software Engineer I (Mobile), MyToast",
+      "Engineering",
+      "Canada"
+    ],
+    [
+      "Baltimore MD, Territory Account Executive",
+      "Sales",
+      "Baltimore, Maryland, United States"
+    ],
+    [
+      "Senior Software Engineer - Modern Dining",
+      "Engineering",
+      "Dublin, County Dublin, Ireland"
+    ],
+    [
+      "NetSuite Administrator",
+      "Engineering",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Manager, Consumer Protection & AI Compliance",
+      "Legal",
+      "San Francisco, California, United States"
     ],
     [
       "QA Engineer II",
@@ -2469,14 +874,1229 @@
       "Bengaluru, Karnataka, India"
     ],
     [
-      "Senior Data Engineer",
+      "Territory Account Executive, Retail - Northeast Houston, TX",
+      "Sales",
+      "Humble, Texas, United States"
+    ],
+    [
+      "Senior Corporate Security Analyst",
+      "Engineering",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Bilingual Sales Development Representative (Spanish)",
+      "Sales",
+      "Los Angeles, California, United States"
+    ],
+    [
+      "Software Engineer I (Fullstack), Employee Lifecycle Management",
+      "Engineering",
+      "Canada"
+    ],
+    [
+      "Territory Account Executive, Retail - Las Vegas, NV",
+      "Sales",
+      "Las Vegas, Nevada, United States"
+    ],
+    [
+      "Service Designer - Customer Experience",
+      "",
+      ""
+    ],
+    [
+      "Territory Account Executive, Retail - East North Carolina",
+      "Sales",
+      "Fayetteville, North Carolina, United States"
+    ],
+    [
+      "Jersey Central, NJ Mandarin Strategic Cuisines Account Executive",
+      "Sales",
+      "New Jersey, United States"
+    ],
+    [
+      "Senior Customer Success Manager, RMM - New York City",
+      "Customer Success",
+      "New York, United States"
+    ],
+    [
+      "Zuora Admin",
+      "Enterprise Tech",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Territory Account Executive (Spanish), Strategic Cuisines - San Diego, CA",
+      "Sales",
+      "San Diego, California, United States"
+    ],
+    [
+      "Territory Account Executive, SMB - Fairfield, CA",
+      "Sales",
+      "Fairfield, California, United States"
+    ],
+    [
+      "Director, Talent Acquisition Operations",
+      "People & Places",
+      "San Francisco, California, United States"
+    ],
+    [
+      "Territory Account Executive , Retail - Chicago, IL",
+      "Sales",
+      "Aurora, Illinois, United States"
+    ],
+    [
+      "Senior Backend Engineer - Enterprise Financial Systems",
+      "Enterprise Tech",
+      "Remote, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - North CA/South OR",
+      "Sales",
+      "Portland, Oregon, United States"
+    ],
+    [
+      "Manager, Retail Product Partnerships",
+      "Sales : Retail Sales Acceleration",
+      "Remote, United States"
+    ],
+    [
+      "Territory Account Executive, SMB - Joliet, IL",
+      "Sales",
+      "Joliet, Illinois, United States"
+    ],
+    [
+      "Credit Risk Senior Analyst",
+      "Fintech",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Enterprise Account Executive, Restaurant Sales",
+      "",
+      "San Francisco, California, United States"
+    ],
+    [
+      "TA Partner (Contractor)",
+      "People & Places",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Collections Support Specialist",
+      "Fintech",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Associate Product Designer - Toast Retail",
+      "R & D : UX : Retail",
+      "United States"
+    ],
+    [
+      "Sales Enablement Manager, SMB New Business",
+      "Sales",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Hybrid Development Representative",
+      "Sales",
+      "Los Angeles, California, United States"
+    ],
+    [
+      "Territory Account Executive, SMB - Salem, OR",
+      "Sales",
+      "Salem, Oregon, United States"
+    ],
+    [
+      "Software Engineer, Full Stack",
       "Engineering",
       "Dublin, County Dublin, Ireland"
     ],
     [
-      "Territory Account Executive, SMB - Salt Lake City, UT",
+      "Growth Account Executive",
       "Sales",
-      "Salt Lake City, Utah, United States"
+      "Dallas, Texas, United States"
+    ],
+    [
+      "Hybrid Development Representative",
+      "Sales",
+      "Houston, Texas, United States"
+    ],
+    [
+      "Pittsburgh, PA Territory Account Executive",
+      "Sales",
+      "Pittsburgh, Pennsylvania, United States"
+    ],
+    [
+      "Territory Account Executive, SMB - Chicago, IL",
+      "Sales",
+      "Chicago, Illinois, United States"
+    ],
+    [
+      "Counsel, Partnerships & Commerce",
+      "Legal",
+      "San Francisco, California, United States"
+    ],
+    [
+      "Staff Software Engineer(MLOps)",
+      "Engineering",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Flex Account Executive, SMB - Connecticut / NY Metro",
+      "Sales",
+      "New York, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Austin: San Antonio (Spanish/Bilingual)",
+      "Sales",
+      "San Marcos, Texas, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Poughkeepsie NY",
+      "Sales",
+      "Poughkeepsie, New York, United States"
+    ],
+    [
+      "Bilingual Mandarin Strategic Cuisines Account Executive (Northeast)",
+      "Sales",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "IT Service Desk Manager, APAC",
+      "Enterprise Tech",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Collections Representative",
+      "Finance",
+      ""
+    ],
+    [
+      "Associate Counsel, Privacy",
+      "Legal",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Lead Credit Risk Strategist, Acquisition (Data Science)",
+      "Fintech",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Principal Technical Architect - HR Ecosystem",
+      "People & Places",
+      "Chennai, Tamil Nadu, India"
+    ],
+    [
+      "Territory Account Executive, Retail - Greenville, SC",
+      "Sales",
+      "Greenville, South Carolina, United States"
+    ],
+    [
+      "Flex Growth Account Executive",
+      "Sales",
+      "Pittsburgh, Pennsylvania, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Coastal Connecticut",
+      "Sales",
+      "Fairfield, Connecticut, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Tampa, FL",
+      "Sales",
+      "Tampa, Florida, United States"
+    ],
+    [
+      "Flex Growth Account Executive",
+      "Sales",
+      "Houston, Texas, United States"
+    ],
+    [
+      "Staff Software Engineer, AI & Strategy",
+      "Engineering",
+      "Remote, United States"
+    ],
+    [
+      "Senior Manager, Disaster Recovery & Business Continuity",
+      "Legal",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Territory Account Executive, Retail - Austin: San Antonio",
+      "Sales",
+      "New Braunfels, Texas, United States"
+    ],
+    [
+      "Staff Software Engineer, Guest CRM",
+      "Engineering",
+      "Dublin, County Dublin, Ireland"
+    ],
+    [
+      "Manager, Retail Product Partnerships",
+      "Sales",
+      "Remote, United States"
+    ],
+    [
+      "Software Engineer II - MLOps",
+      "Engineering",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Counsel, Partnerships & Commerce",
+      "Legal",
+      "New York, United States"
+    ],
+    [
+      "Manager II, Customer Care Tax",
+      "Customer Success",
+      "Remote, United States"
+    ],
+    [
+      "North Jersey, NJ Strategic Cuisines Account Executive - Spanish",
+      "Sales : Strategic Cuisines Sales Management",
+      "New Jersey, United States"
+    ],
+    [
+      "Principal - Credit Risk Strategy",
+      "Fintech",
+      "United States"
+    ],
+    [
+      "Senior Software Engineer (Backend), Menus",
+      "Engineering",
+      "United States"
+    ],
+    [
+      "Bilingual Business Development Representative (Mandarin)",
+      "Sales",
+      "Jersey City, New Jersey, United States"
+    ],
+    [
+      "Senior Data Scientist",
+      "Engineering",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Flex Growth Account Executive",
+      "Sales",
+      "Denver, Colorado, United States"
+    ],
+    [
+      "Senior Fullstack Engineer, New Ventures",
+      "Product",
+      "United States"
+    ],
+    [
+      "Program Manager - FinTech",
+      "Fintech",
+      "Dublin, County Dublin, Ireland"
+    ],
+    [
+      "Director of Talent Acquisition Operations",
+      "People & Places",
+      "New York, United States"
+    ],
+    [
+      "Senior Software Engineer, Full Stack",
+      "Engineering",
+      "Dublin, County Dublin, Ireland"
+    ],
+    [
+      "Bilingual Mandarin Houston, TX Strategic Cuisines Account Executive",
+      "Sales",
+      "Houston, Texas, United States"
+    ],
+    [
+      "Senior Software Engineer, Android - Retail",
+      "Engineering",
+      "Remote, United States"
+    ],
+    [
+      "Growth Account Executive- Charlotte, NC",
+      "Sales",
+      "Charlotte, North Carolina, United States"
+    ],
+    [
+      "Senior Product Designer - Customer Support Experience",
+      "",
+      "United States"
+    ],
+    [
+      "Bloomington, Indiana Territory Account Executive",
+      "Sales",
+      "Bloomington, Indiana, United States"
+    ],
+    [
+      "Bilingual Business Development Representative (Mandarin)",
+      "Sales",
+      "Tampa, Florida, United States"
+    ],
+    [
+      "Bilingual Business Development Representative (Mandarin)",
+      "Sales",
+      "San Antonio, Texas, United States"
+    ],
+    [
+      "Senior Hardware Program Manager",
+      "Product",
+      "Taipei City, Taiwan"
+    ],
+    [
+      "Senior Software Engineer (Backend), Payments",
+      "Engineering",
+      "Boston, New York, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - ABQ, NM (Spanish/Bilingual)",
+      "Sales",
+      "Santa Fe, New Mexico, United States"
+    ],
+    [
+      "Vineland, NJ Territory Account Executive",
+      "Sales",
+      "Vineland, New Jersey, United States"
+    ],
+    [
+      "Principal Product Manager, Enterprise Systems",
+      "Enterprise Tech",
+      "Remote, United States"
+    ],
+    [
+      "Senior Associate, Strategic Finance",
+      "Finance",
+      "San Francisco, California, United States"
+    ],
+    [
+      "Vice President, Retail Sales",
+      "Sales",
+      "Remote, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Bellevue, WA",
+      "Sales",
+      "Bellevue, Washington, United States"
+    ],
+    [
+      "Growth Sales Account Executive",
+      "Sales",
+      "Oklahoma City, Oklahoma, United States"
+    ],
+    [
+      "Inside Account Executive(Mandarin), Strategic Cuisines - Remote, U.S.",
+      "Sales",
+      ""
+    ],
+    [
+      "Director - People Operations, Shared Services",
+      "People & Places",
+      "Chennai, Tamil Nadu, India"
+    ],
+    [
+      "Principal Software Engineer - Payments, Fraud & Risk",
+      "Engineering",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Principal Technical Program Manager",
+      "Product",
+      "Remote, United States"
+    ],
+    [
+      "West Orlando FL, Territory Account Executive",
+      "Sales",
+      "Orlando, Florida, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Lafayette, LA/Beaumont, TX",
+      "Sales",
+      "Lafayette, Louisiana, United States"
+    ],
+    [
+      "Growth Account Executive- Wilmington, NC",
+      "Sales",
+      "Wilmington, North Carolina, United States"
+    ],
+    [
+      "Growth Sales Account Executive",
+      "Sales",
+      "Springfield, Missouri, United States"
+    ],
+    [
+      "Onboarding Support Consultant I  - Logistics",
+      "Customer Success",
+      "Chennai, Tamil Nadu, India"
+    ],
+    [
+      "Staff System Engineer, Zuora Billing",
+      "Engineering",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Hybrid Development Representative",
+      "Sales",
+      "Dallas, Texas, United States"
+    ],
+    [
+      "Staff Software Engineer",
+      "Engineering",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Territory Account Executive, SMB - Oahu, HI",
+      "Sales",
+      "Honolulu County, Hawaii, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - East North Carolina",
+      "Sales",
+      "Myrtle Beach, South Carolina, United States"
+    ],
+    [
+      "Emerging Markets Business Development Representative (Mandarin)",
+      "Sales",
+      ""
+    ],
+    [
+      "Bilingual Sales Development Representative (Spanish)",
+      "Sales",
+      "San Francisco, California, United States"
+    ],
+    [
+      "Principal Revenue Data Analyst",
+      "Finance",
+      "San Francisco, California, United States"
+    ],
+    [
+      "Senior Software Engineer (Full Stack)",
+      "Engineering",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Customer Care Specialist - Retail",
+      "Customer Success : Customer Care : Retail",
+      "Omaha, Nebraska, United States"
+    ],
+    [
+      "Silver Spring, MD Territory Account Executive",
+      "Sales",
+      "Silver Spring, Maryland, United States"
+    ],
+    [
+      "Lead Salesforce Developer",
+      "Enterprise Tech",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Zuora Admin",
+      "Engineering",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Flex Growth Account Executive",
+      "Sales",
+      "Charlotte, North Carolina, United States"
+    ],
+    [
+      "Growth Flex Account Executive",
+      "Sales",
+      "San Diego, California, United States"
+    ],
+    [
+      "Bilingual Business Development Representative (Mandarin)",
+      "Sales",
+      "Columbus, Ohio, United States"
+    ],
+    [
+      "Analyst II, Payments Pricing & Operations",
+      "Fintech",
+      "Remote, United States"
+    ],
+    [
+      "Vice President of Retail Marketing",
+      "Marketing",
+      "Remote, United States"
+    ],
+    [
+      "Customer Care Specialist - Retail",
+      "Customer Success",
+      "Omaha, Nebraska, United States"
+    ],
+    [
+      "Product Lead, Toast Partner Ecosystem",
+      "Product",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Flex Strategic Cuisine Territory Account Executive (Spanish/Bilingual)-Central, USA",
+      "Sales",
+      "Lansing, Michigan, United States"
+    ],
+    [
+      "Territory Account Executive (Spanish), Strategic Cuisines - Jacksonville, FL",
+      "Sales",
+      "Jacksonville, Florida, United States"
+    ],
+    [
+      "Manager, Software Engineering",
+      "Engineering",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Hybrid Development Representative",
+      "Sales",
+      "San Francisco, California, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Northeast Houston, TX",
+      "Sales",
+      "Houston, Texas, United States"
+    ],
+    [
+      "Growth Account Executive- Pittsburgh, PA",
+      "Sales",
+      "Pittsburgh, Pennsylvania, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - St. Augustine, FL",
+      "Sales",
+      "St. Augustine, Florida, United States"
+    ],
+    [
+      "Bilingual Sales Development Representative (Spanish)",
+      "Sales",
+      "Philadelphia, Pennsylvania, United States"
+    ],
+    [
+      "Growth Sales Account Executive - Cherry Hill, NJ",
+      "Sales",
+      "Cherry Hill, New Jersey, United States"
+    ],
+    [
+      "Flex Growth Account Executive",
+      "Sales",
+      "Dallas, Texas, United States"
+    ],
+    [
+      "Senior Accounts Payable Specialist",
+      "Finance",
+      "Chennai, Tamil Nadu, India"
+    ],
+    [
+      "Software Engineer II-Full Stack",
+      "Engineering",
+      "Dublin, County Dublin, Ireland"
+    ],
+    [
+      "Senior Software Engineer, Supply Chain",
+      "Enterprise Tech",
+      "Remote, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Albany NY",
+      "Sales",
+      "Albany, New York, United States"
+    ],
+    [
+      "Senior Analyst, Model Risk Management",
+      "Legal",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Territory Account Executive, Retail - Charlotte, NC",
+      "Sales",
+      "Charlotte, North Carolina, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Colorado Springs, CO",
+      "Sales",
+      "Colorado Springs, Colorado, United States"
+    ],
+    [
+      "Territory Account Executive, SMB - Eastern Tennessee",
+      "Sales",
+      "Tennessee, United States"
+    ],
+    [
+      "Territory Account Executive, SMB - Strongsville, OH",
+      "Sales",
+      "Strongsville, Ohio, United States"
+    ],
+    [
+      "Territory Account Executive - Cleveland West, OH",
+      "Sales",
+      "Cleveland, Ohio, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Charleston, SC",
+      "Sales",
+      "Charleston, South Carolina, United States"
+    ],
+    [
+      "Hybrid Development Representative",
+      "Sales",
+      "Cleveland, Ohio, United States"
+    ],
+    [
+      "Manager, Consumer Protection & AI Compliance",
+      "Legal",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Hybrid Development Representative",
+      "Sales",
+      "Philadelphia, Pennsylvania, United States"
+    ],
+    [
+      "Territory Account Executive, SMB - Ventura, CA",
+      "Sales",
+      "Ventura, California, United States"
+    ],
+    [
+      "Growth Account Executive",
+      "Sales",
+      "Raleigh, North Carolina, United States"
+    ],
+    [
+      "Payroll Tax Manager II, Customer Care",
+      "Customer Success",
+      ""
+    ],
+    [
+      "Territory Account Executive , SMB- GTA West (Mississauga)",
+      "Sales",
+      "Mississauga, Ontario, Canada"
+    ],
+    [
+      "Senior HRIS Analyst",
+      "People & Places",
+      "Chennai, Tamil Nadu, India"
+    ],
+    [
+      "Bilingual Business Development Representative (Mandarin)",
+      "Sales",
+      "Remote, United States"
+    ],
+    [
+      "Bilingual Sales Development Representative (Spanish)",
+      "Sales",
+      "Miami, Florida, United States"
+    ],
+    [
+      "Senior Product Manager, GTM Revenue",
+      "Enterprise Tech",
+      "Remote, United States"
+    ],
+    [
+      "Bilingual Business Development Representative (Mandarin)",
+      "Sales",
+      "Austin, Texas, United States"
+    ],
+    [
+      "Staff Zuora Engineer",
+      "Enterprise Tech",
+      "Remote, United States"
+    ],
+    [
+      "Director of Product Management, Card Readers",
+      "Product",
+      "Dublin, County Dublin, Ireland"
+    ],
+    [
+      "Software Engineer I - Timekeeping",
+      "Engineering",
+      "Dublin, County Dublin, Ireland"
+    ],
+    [
+      "Staff Software Engineer, Enterprise",
+      "Engineering",
+      "Remote, United States"
+    ],
+    [
+      "District Manager, SMB - Atlanta, GA",
+      "Sales",
+      "Atlanta, Georgia, United States"
+    ],
+    [
+      "Director of Corporate Engineering",
+      "Enterprise Tech",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Senior Fullstack Engineer",
+      "Enterprise Tech",
+      "Remote, United States"
+    ],
+    [
+      "Bilingual Business Development Representative (Mandarin)",
+      "Sales",
+      "Orlando, Florida, United States"
+    ],
+    [
+      "Senior Full Stack Engineer, Help Center",
+      "",
+      "Dublin, County Dublin, Ireland"
+    ],
+    [
+      "West Coast - Inside Strategic Cuisines Account Executive - Spanish",
+      "Sales",
+      "San Diego, California, United States"
+    ],
+    [
+      "Product Analyst",
+      "Product",
+      "Remote, United States"
+    ],
+    [
+      "Territory Account Executive, SMB - Las Vegas, NV",
+      "Sales",
+      "Las Vegas, Nevada, United States"
+    ],
+    [
+      "Onboarding Consultant I, POS - Emerging Markets - Mandarin Speaking",
+      "Onboarding : Core : Strategic Cuisines",
+      "Remote, United States"
+    ],
+    [
+      "Tax Operations Specialist",
+      "Finance",
+      "Chennai, Tamil Nadu, India"
+    ],
+    [
+      "Territory Account Executive, Retail - ABQ, NM (Spanish/Bilingual)",
+      "Sales",
+      "Albuquerque, New Mexico, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Austin: San Antonio (Spanish/Bilingual)",
+      "Sales",
+      "New Braunfels, Texas, United States"
+    ],
+    [
+      "Territory Account Executive (Mandarin), Strategic Cuisines -LA North",
+      "Sales",
+      "Los Angeles, California, United States"
+    ],
+    [
+      "Senior Director, Software Engineering - Payments, Fraud & Risk",
+      "Engineering",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Territory Account Executive, Retail - East CT",
+      "Sales",
+      "Windham, Connecticut, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Jackson/Tuscaloosa",
+      "Sales",
+      "Jackson, Mississippi, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Shreveport, LA",
+      "Sales",
+      "Shreveport, Louisiana, United States"
+    ],
+    [
+      "Inside Sales Executive",
+      "Sales",
+      ""
+    ],
+    [
+      "Senior Software Engineer, Android",
+      "Engineering",
+      "Costa Mesa, California, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - East North Carolina",
+      "Sales",
+      "Wilmington, North Carolina, United States"
+    ],
+    [
+      "Territory Account Executive, SMB - Sacramento, CA",
+      "Sales",
+      "Sacramento, California, United States"
+    ],
+    [
+      "District Manager, SMB - Seattle, WA",
+      "Sales",
+      "Seattle, Washington, United States"
+    ],
+    [
+      "Jacksonville, FL Territory Account Executive",
+      "Sales",
+      "Jacksonville, Florida, United States"
+    ],
+    [
+      "Flex Growth Account Executive",
+      "Sales",
+      "Miami, Florida, United States"
+    ],
+    [
+      "Associate, Internal & External Event Marketing",
+      "Marketing",
+      "Remote, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Glendale, CA",
+      "Sales",
+      "Glendale, California, United States"
+    ],
+    [
+      "Staff Android Engineer, New Ventures",
+      "Engineering",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Senior Product Manager, Core Payments",
+      "Product",
+      "Remote, United States"
+    ],
+    [
+      "Senior Product Manager- Guest Engagement",
+      "Product",
+      "Dublin, County Dublin, Ireland"
+    ],
+    [
+      "Director, Care Analytics",
+      "Customer Success",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Manager, Privacy Specialist",
+      "Legal",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Growth Account Executive",
+      "Sales",
+      "Durham, North Carolina, United States"
+    ],
+    [
+      "Territory Account Executive, SMB - Tacoma, WA",
+      "Sales",
+      "Tacoma, Washington, United States"
+    ],
+    [
+      "Manager, Consumer Protection & AI Compliance",
+      "Legal",
+      "New York, United States"
+    ],
+    [
+      "Zuora Administrator",
+      "Enterprise Tech",
+      "Remote, United States"
+    ],
+    [
+      "Senior Automation Engineering Manager",
+      "Enterprise Tech",
+      "Bangalore, India"
+    ],
+    [
+      "Senior Revenue Accounting Manager",
+      "Finance",
+      "Remote, United States"
+    ],
+    [
+      "Territory Account Executive, SMB - Kansas City, MO",
+      "Sales",
+      "Kansas City, Missouri, United States"
+    ],
+    [
+      "Bilingual Business Development Representative (Mandarin)",
+      "Sales",
+      "Cincinnati, Ohio, United States"
+    ],
+    [
+      "Senior Software Engineer, Delivery Service",
+      "Engineering",
+      "United States"
+    ],
+    [
+      "Senior Data Analyst, Consumer",
+      "Product",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Senior Software Engineer",
+      "Engineering",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Principal Customer Success Analyst - AI and Advanced Customer Analytics",
+      "Customer Success",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Growth Sales Account Executive",
+      "Sales",
+      "Phoenix, Arizona, United States"
+    ],
+    [
+      "Senior Engineering Manager, Supply Chain",
+      "Enterprise Tech",
+      "Remote, United States"
+    ],
+    [
+      "Software Engineer II- Funds Management",
+      "Engineering",
+      "Dublin, County Dublin, Ireland"
+    ],
+    [
+      "AI Architect - People Products",
+      "People & Places",
+      "Chennai, Tamil Nadu, India"
+    ],
+    [
+      "Senior Associate, Strategic Finance",
+      "Finance",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Territory Account Executive, SMB - Orange County, CA",
+      "Sales",
+      "Orange County, California, United States"
+    ],
+    [
+      "Senior Software Engineer, Android",
+      "Engineering",
+      "Dublin, County Dublin, Ireland"
+    ],
+    [
+      "Sales District Manager, Toast Retail - Phoenix, AZ",
+      "Sales",
+      "Phoenix, Arizona, United States"
+    ],
+    [
+      "Manager, Paid Search",
+      "Marketing",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Product Designer, Guest",
+      "Design",
+      "Dublin, County Dublin, Ireland"
+    ],
+    [
+      "Senior Manager, Revenue Accounting",
+      "Finance",
+      "Chennai, Tamil Nadu, India"
+    ],
+    [
+      "Director, FinTech Counsel",
+      "Legal",
+      ""
+    ],
+    [
+      "Senior Manager, Digital Upsell Strategy",
+      "Marketing",
+      ""
+    ],
+    [
+      "Lakeland, FL Territory Account Executive",
+      "Sales",
+      "Lakeland, Florida, United States"
+    ],
+    [
+      "Senior Android Engineer",
+      "Engineering",
+      "Dublin, County Dublin, Ireland"
+    ],
+    [
+      "Principal Enablement Program Manager, AI & Self-Service",
+      "Customer Success",
+      ""
+    ],
+    [
+      "Flex Account Executive, SMB- Mountain West",
+      "Sales",
+      "Denver, Colorado, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - West Houston, TX",
+      "Sales",
+      "Missouri City, Texas, United States"
+    ],
+    [
+      "Senior Technical Program Manager, Business Technology",
+      "Enterprise Tech",
+      "Remote, United States"
+    ],
+    [
+      "Senior Software Engineer, Retail",
+      "Product",
+      "Remote, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Sioux Falls, SD",
+      "Sales",
+      "Sioux Falls, South Dakota, United States"
+    ],
+    [
+      "Senior Software Engineer (Frontend), Financial Management",
+      "Engineering",
+      "United States"
+    ],
+    [
+      "Senior Netsuite Developer",
+      "Enterprise Tech",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Territory Account Executive, SMB - Oklahoma City, OK",
+      "Sales",
+      "Oklahoma City, Oklahoma, United States"
+    ],
+    [
+      "Jersey City, NJ Mandarin Strategic Cuisines Account Executive",
+      "Sales",
+      "Jersey City, New Jersey, United States"
+    ],
+    [
+      "PeopleHub Partner",
+      "People & Places",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Territory Account Executive, SMB - Olympia, WA",
+      "Sales",
+      "Olympia, Washington, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - West Houston, TX",
+      "Sales",
+      "Houston, Texas, United States"
+    ],
+    [
+      "Territory Account Executive, SMB - Cleveland, OH",
+      "Sales",
+      "Cleveland, Ohio, United States"
+    ],
+    [
+      "Retail Account Executive - Augusta GA",
+      "Sales",
+      "Augusta, Georgia, United States"
+    ],
+    [
+      "Lead Credit Risk Strategist, Acquisition",
+      "Fintech",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Hybrid Development Representative",
+      "Sales",
+      "Jacksonville, Florida, United States"
+    ],
+    [
+      "Customer Care Expert - Retail",
+      "Customer Success : Customer Care : Retail",
+      "Omaha, Nebraska, United States"
+    ],
+    [
+      "Onboarding Consultant, Guest - Remote",
+      "",
+      "Remote, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Tacoma, WA",
+      "Sales",
+      "Tacoma, Washington, United States"
+    ],
+    [
+      "Sales District Manager, Toast Retail",
+      "Sales",
+      "San Diego, California, United States"
+    ],
+    [
+      "Bilingual Mandarin Strategic Cuisines Flex Account Executive - West Coast",
+      "Sales",
+      "Los Angeles, California, United States"
+    ],
+    [
+      "Inside Account Executive, SMB - Remote",
+      "Sales",
+      ""
+    ],
+    [
+      "Territory Account Executive , SMB - Waterbury, CT",
+      "Sales",
+      "Waterbury, Connecticut, United States"
+    ],
+    [
+      "Product Manager, Employee Compensation",
+      "Product",
+      "Remote, United States"
+    ],
+    [
+      "Senior Fullstack Engineer",
+      "Engineering",
+      "Remote, United States"
+    ],
+    [
+      "Senior Product Manager, Hardware",
+      "Product",
+      "Remote, United States"
+    ],
+    [
+      "Senior Software Engineer - Back End",
+      "Engineering",
+      "Chennai, Tamil Nadu, India"
+    ],
+    [
+      "Software Engineer II",
+      "Engineering",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Territory Account Executive (Spanish), Strategic Cuisines -LA Valley",
+      "Sales",
+      "Los Angeles, California, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Stockton/Modesto, CA",
+      "Sales",
+      "Livermore, California, United States"
+    ],
+    [
+      "Senior Technical Program Manager",
+      "Product",
+      "Dublin, County Dublin, Ireland"
+    ],
+    [
+      "Territory Account Executive, Retail - Central New England",
+      "Sales",
+      "Springfield, Massachusetts, United States"
+    ],
+    [
+      "Senior Software Engineer, Enterprise",
+      "Engineering",
+      "Toronto, Ontario, Canada"
+    ],
+    [
+      "Performance Creative Strategist & Copywriter, Demand Generation",
+      "Marketing",
+      "Remote, United States"
+    ],
+    [
+      "Technical Product Manager, People Products",
+      "People & Places",
+      ""
+    ],
+    [
+      "Onboarding Consultant II, Retail",
+      "",
+      "Remote, United States"
+    ],
+    [
+      "Customer Growth Account Executive",
+      "Sales",
+      "Seattle, Washington, United States"
+    ],
+    [
+      "Engineering Manager II, Supply Chain",
+      "Engineering",
+      "Remote, United States"
+    ],
+    [
+      "Flex (Mid Atlantic Region) Territory Account Executive",
+      "Sales",
+      "Washington, District of Columbia, United States"
     ],
     [
       "Territory Account Executive (Spanish), Strategic Cuisines - Dallas, TX",
@@ -2484,8 +2104,283 @@
       "Dallas, Texas, United States"
     ],
     [
-      "Customer Advocacy & Storytelling Lead",
+      "Territory Account Executive, Retail - North Atlanta, GA",
+      "Sales",
+      "Marietta, Georgia, United States"
+    ],
+    [
+      "Principal Fraud Analyst, Payments & Onboarding",
+      "Fintech",
+      "United States"
+    ],
+    [
+      "Principal Customer Success Analyst - AI and Advance Customer Analytics",
+      "Customer Success",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Manager, Consumer Protection & AI Compliance",
+      "Legal",
+      "Remote, United States"
+    ],
+    [
+      "Lead Risk Analyst - Commercial Risk Analyst Underwriting",
+      "Fintech",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Senior Software Engineer - Full Stack",
+      "Engineering",
+      "Chennai, Tamil Nadu, India"
+    ],
+    [
+      "Flex Strategic Cuisine Territory Account Executive (Spanish/Bilingual), West Coast, USA",
+      "Sales",
+      "San Francisco, California, United States"
+    ],
+    [
+      "Senior Data Engineer",
+      "Engineering",
+      "Dublin, County Dublin, Ireland"
+    ],
+    [
+      "Bilingual Sales Development Representative (Spanish)",
+      "Sales",
+      "San Diego, California, United States"
+    ],
+    [
+      "Senior Associate, Strategic Finance",
+      "Finance",
+      "New York, United States"
+    ],
+    [
+      "West Coast - Inside Strategic Cuisines Account Executive - Spanish",
+      "Sales",
+      "Seattle, Washington, United States"
+    ],
+    [
+      "Senior Manager, Enablement Project Management",
+      "Customer Success",
+      ""
+    ],
+    [
+      "Bilingual Business Development Representative (Mandarin)",
+      "Sales",
+      "Miami, Florida, United States"
+    ],
+    [
+      "Territory Account Executive (Mandarin), Strategic Cuisines - Las Vegas, NV",
+      "Sales",
+      "Las Vegas, Nevada, United States"
+    ],
+    [
+      "Senior Software Engineer",
+      "Engineering",
+      "Chennai, Tamil Nadu, India"
+    ],
+    [
+      "Senior Software Engineer, Menus",
+      "Engineering",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Customer Growth Account Executive",
+      "Sales",
+      "Portland, Oregon, United States"
+    ],
+    [
+      "Marketing Manager, SEO & Organic Growth",
       "Marketing",
+      "Remote, United States"
+    ],
+    [
+      "Territory Account Executive, SMB - Columbia/Jefferson City, MO",
+      "Sales",
+      "Jefferson City, Missouri, United States"
+    ],
+    [
+      "Senior Backend Engineer - Enterprise Financial Systems",
+      "Engineering",
+      "Remote, United States"
+    ],
+    [
+      "Sales District Manager, Retail - Phoenix, AZ",
+      "Sales",
+      "Phoenix, Arizona, United States"
+    ],
+    [
+      "Director, Data Engineering & Infrastructure (Customer Success)",
+      "Customer Success",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Hybrid Development Representative",
+      "Sales",
+      "San Diego, California, United States"
+    ],
+    [
+      "Territory Account Executive, SMB - San Francisco, CA",
+      "Sales",
+      "San Francisco, California, United States"
+    ],
+    [
+      "Flex Strategic Cuisine Territory Account Executive (Spanish/Bilingual)-East Coast, USA",
+      "Sales",
+      "Raleigh, North Carolina, United States"
+    ],
+    [
+      "Senior Automation Engineering Manager",
+      "Engineering",
+      "Bangalore, India"
+    ],
+    [
+      "Territory Account Executive, SMB - Greater Philadelphia, PA",
+      "Sales",
+      "Philadelphia, Pennsylvania, United States"
+    ],
+    [
+      "Accounting Manager",
+      "Finance",
+      "Chennai, Tamil Nadu, India"
+    ],
+    [
+      "Territory Account Executive SMB - San Diego, CA",
+      "Sales",
+      "San Diego, California, United States"
+    ],
+    [
+      "Bilingual Sales Development Representative (Spanish)",
+      "Sales",
+      "New York, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - East CT",
+      "Sales",
+      "New Haven, Connecticut, United States"
+    ],
+    [
+      "Associate Product Designer - Toast Retail",
+      "Product",
+      "United States"
+    ],
+    [
+      "AI Data Analyst - Customer Success",
+      "Customer Success",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Bilingual Thai Strategic Cuisines Account Executive - Northeast",
+      "Sales",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Flex Growth Account Executive",
+      "Sales",
+      "Chicago, Illinois, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Burlington, VT",
+      "Sales",
+      "Montpelier, Vermont, United States"
+    ],
+    [
+      "Territory Account Executive, SMB- Eugene, OR",
+      "Sales",
+      "Eugene, Oregon, United States"
+    ],
+    [
+      "Senior Salesforce Developer",
+      "Enterprise Tech",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Forward Deployment Engineer",
+      "Engineering",
+      "Remote, United States"
+    ],
+    [
+      "Principal Software Engineer - Payments",
+      "Engineering",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Territory Account Executive, Retail - Burbank, CA",
+      "Sales",
+      "Burbank, California, United States"
+    ],
+    [
+      "Flex Customer Growth Sales Account Executive",
+      "Sales",
+      "Charlotte, North Carolina, United States"
+    ],
+    [
+      "Growth Flex Account Executive",
+      "Sales",
+      "Phoenix, Arizona, United States"
+    ],
+    [
+      "Bilingual Sales Development Representative (Spanish)",
+      "Sales",
+      "Tampa, Florida, United States"
+    ],
+    [
+      "Staff Software Engineer - Retail Payments",
+      "Engineering",
+      "Dublin, County Dublin, Ireland"
+    ],
+    [
+      "Hybrid Development Representative",
+      "Sales",
+      "New York, United States"
+    ],
+    [
+      "Principal Fraud And Risk Strategy Analyst",
+      "Fintech",
+      "Bangalore, India"
+    ],
+    [
+      "Territory Account Executive, SMB - Toms River, NJ",
+      "Sales",
+      "Toms River, New Jersey, United States"
+    ],
+    [
+      "Territory Account Executive, SMB - North Minneapolis, MN",
+      "Sales",
+      "Minneapolis, Minnesota, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Cincinnati, OH",
+      "Sales",
+      "Cincinnati, Ohio, United States"
+    ],
+    [
+      "Staff Software Engineer, Guest Engagement",
+      "Engineering",
+      "Dublin, County Dublin, Ireland"
+    ],
+    [
+      "Manager, Content Partnerships",
+      "Marketing",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "North Atlantic Flex Account Executive",
+      "Sales",
+      "Philadelphia, Pennsylvania, United States"
+    ],
+    [
+      "Manager, Paid Social",
+      "Marketing",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Corporate Development Deal Lead",
+      "Finance",
+      "San Francisco, California, United States"
+    ],
+    [
+      "Senior Software Engineer, Enterprise",
+      "Product",
       "Remote, United States"
     ],
     [
@@ -2494,34 +2389,79 @@
       "Austin, Texas, United States"
     ],
     [
-      "Principal Customer Success Analyst - AI and Advanced Customer Analytics",
-      "Customer Success",
-      "Boston, Massachusetts, United States"
+      "Territory Account Executive, SMB - Red Bank, NJ",
+      "Sales",
+      "Red Bank, New Jersey, United States"
     ],
     [
-      "Senior Data Analyst (Finance, Strategy & Analytics)",
-      "Finance",
-      "New York, United States"
+      "Territory Account Executive, SMB - Benicia, CA",
+      "Sales",
+      "Benicia, California, United States"
     ],
     [
-      "Growth Account Executive",
+      "Territory Account Executive, Retail - Stockton/Modesto, CA",
+      "Sales",
+      "Tracy, California, United States"
+    ],
+    [
+      "Hybrid Development Representative",
+      "Sales",
+      "Tampa, Florida, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Montgomery, AL",
+      "Sales",
+      "Montgomery, Alabama, United States"
+    ],
+    [
+      "West Coast - Inside Strategic Cuisines Account Executive - Spanish",
+      "Sales",
+      "United States"
+    ],
+    [
+      "Bilingual Business Development Representative (Mandarin)",
       "Sales",
       "Houston, Texas, United States"
     ],
     [
-      "Growth Account Executive",
+      "Hybrid Development Representative",
+      "Sales",
+      "San Antonio, Texas, United States"
+    ],
+    [
+      "Territory Account Executive , Retail - Chicago, IL",
+      "Sales",
+      "Naperville, Illinois, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Metro Dallas South",
       "Sales",
       "Dallas, Texas, United States"
     ],
     [
-      "Sales District Manager, Retail - Phoenix, AZ",
-      "Sales",
-      "Phoenix, Arizona, United States"
+      "Staff Software Engineer, Enterprise",
+      "Engineering",
+      "Canada"
     ],
     [
-      "Territory Account Executive, SMB - Chicago, IL",
+      "Program Manager, Fintech",
+      "",
+      "Remote, United States"
+    ],
+    [
+      "Customer Care Tax Expert",
+      "Customer Success",
+      "Remote, United States"
+    ],
+    [
+      "Territory Account Executive, SMB - San Antonio, TX",
       "Sales",
-      "Chicago, Illinois, United States"
+      "San Antonio, Texas, United States"
+    ],
+    [
+      "Growth Account Executive - Pittsburgh, PA",
+      "Sales",
+      "Morgantown, West Virginia, United States"
     ],
     [
       "Territory Account Executive, Retail - Daytona, FL",
@@ -2529,9 +2469,119 @@
       "Daytona Beach, Florida, United States"
     ],
     [
-      "Bilingual Sales Development Representative (Spanish)",
+      "Territory Account Executive - Akron, OH",
       "Sales",
-      "Tampa, Florida, United States"
+      "Akron, Ohio, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Jackson/Tuscaloosa",
+      "Sales",
+      "Tuscaloosa, Alabama, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - ABQ, NM (Spanish/Bilingual)",
+      "Sales",
+      "El Paso, Texas, United States"
+    ],
+    [
+      "Staff Software Engineer",
+      "Engineering",
+      "Boston, Massachusetts, United States"
+    ],
+    [
+      "Territory Account Executive, SMB - Salem, WA",
+      "Sales",
+      "Washington, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Milwaukee, WI",
+      "Sales",
+      "Milwaukee, Wisconsin, United States"
+    ],
+    [
+      "Principal Workday Architect, Talent & Compensation",
+      "People & Places",
+      "Remote, United States"
+    ],
+    [
+      "Senior Data Analyst (Finance, Strategy & Analytics)",
+      "Finance",
+      "San Francisco, California, United States"
+    ],
+    [
+      "Corporate Development Deal Lead",
+      "Finance",
+      "New York, United States"
+    ],
+    [
+      "Bilingual Mandarin Strategic Cuisines Flex Account Executive - West Coast",
+      "Sales",
+      "San Francisco, California, United States"
+    ],
+    [
+      "Senior Revenue Accountant",
+      "Finance",
+      "Chennai, Tamil Nadu, India"
+    ],
+    [
+      "Marketing Services Manager",
+      "Marketing",
+      "Remote, United States"
+    ],
+    [
+      "Software Engineer II, Enterprise",
+      "Engineering",
+      "Canada"
+    ],
+    [
+      "Flex Growth Account Executive",
+      "Sales",
+      "Atlanta, Georgia, United States"
+    ],
+    [
+      "Manager II, Software Engineering",
+      "Engineering",
+      "Bengaluru, Karnataka, India"
+    ],
+    [
+      "Flex Growth Account Executive",
+      "Sales",
+      "Washington, District of Columbia, United States"
+    ],
+    [
+      "Principal Software Engineer",
+      "",
+      "Dublin, County Dublin, Ireland"
+    ],
+    [
+      "Mandarin Strategic Cuisines Inside Account Executive",
+      "Sales",
+      "Chicago, Illinois, United States"
+    ],
+    [
+      "Territory Account Executive, Retail - Stockton/Modesto, CA",
+      "Sales",
+      "Stockton, California, United States"
+    ],
+    [
+      "Senior Associate Retail, Event Marketing",
+      "Marketing",
+      ""
+    ],
+    [
+      "Territory Account Executive - Allentown PA",
+      "Sales",
+      "Allentown, Pennsylvania, United States"
+    ],
+    [
+      "Senior Software Engineer - Toast IQ",
+      "",
+      "Remote, United States"
+    ],
+    [
+      "Customer Care Specialist - xtraChef",
+      "Customer Success",
+      "Omaha, Nebraska, United States"
     ]
   ]
 }
