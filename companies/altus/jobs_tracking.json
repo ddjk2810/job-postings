@@ -1,12 +1,47 @@
 {
-  "last_updated": "2026-03-09T07:03:42.985864",
+  "last_updated": "2026-03-09T07:44:17.723215",
   "job_count": 31,
   "active_count": 21,
   "jobs": [
     [
-      "Consultant, Advisory (Commercial Real Estate)",
+      "Quantity Surveyor",
       "Not specified",
-      "New York, New York"
+      "Sydney, Australia"
+    ],
+    [
+      "Associate Analyst",
+      "Not specified",
+      "633 - Casablanca"
+    ],
+    [
+      "Senior Engineer I",
+      "Not specified",
+      "030 - Christchurch"
+    ],
+    [
+      "Stage/Internship \u2013 Consultant en finances locales - Paris",
+      "Not specified",
+      "Paris, France"
+    ],
+    [
+      "Director of Product Marketing & Competitive Intelligence",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Engineer III",
+      "Not specified",
+      "030 - Christchurch"
+    ],
+    [
+      "Sr. Analyst, Advisory",
+      "Not specified",
+      "835 -  New York"
+    ],
+    [
+      "Billing Coordinator",
+      "Not specified",
+      "Hyderabad, India"
     ],
     [
       "Technology Lead",
@@ -19,9 +54,24 @@
       "Calgary, Alberta"
     ],
     [
-      "Director, Client Engagement Group, Implementation/Integration",
+      "Director, Product Marketing",
       "Not specified",
-      "Houston, Texas"
+      "4 Locations"
+    ],
+    [
+      "Analyst, Loan Monitoring",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Associate Analyst, Managed Services",
+      "Not specified",
+      "Hyderabad, India"
+    ],
+    [
+      "Stage Customer Success Manager - Italian speaker",
+      "Not specified",
+      "2 Locations"
     ],
     [
       "Automation Test Engineer",
@@ -34,14 +84,9 @@
       "4 Locations"
     ],
     [
-      "Lead AI Engineer",
+      "Director, Client Engagement Group, Implementation/Integration",
       "Not specified",
-      "Toronto, Ontario"
-    ],
-    [
-      "Billing Coordinator",
-      "Not specified",
-      "Hyderabad, India"
+      "Houston, Texas"
     ],
     [
       "Customer Success Manager (m/w/d)",
@@ -49,104 +94,9 @@
       "Frankfurt, Germany"
     ],
     [
-      "Directeur(rice)",
-      "Not specified",
-      "Montr\u00e9al, Qu\u00e9bec"
-    ],
-    [
-      "Associate Analyst",
-      "Not specified",
-      "633 - Casablanca"
-    ],
-    [
-      "Engineer III",
-      "Not specified",
-      "030 - Christchurch"
-    ],
-    [
-      "Director of Product Marketing & Competitive Intelligence",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
       "Stagiaire Ing\u00e9nieur Commercial (Finance Active)",
       "Not specified",
       "2 Locations"
-    ],
-    [
-      "Associate Analyst, Managed Services",
-      "Not specified",
-      "Hyderabad, India"
-    ],
-    [
-      "Technical Engineering Manager (AWS, Cloud-Native, AI-Enabled)",
-      "Not specified",
-      "London, United Kingdom"
-    ],
-    [
-      "Senior Engineer I",
-      "Not specified",
-      "030 - Christchurch"
-    ],
-    [
-      "Real Estate Debt Valuation Analyst",
-      "Not specified",
-      "820 - Atlanta"
-    ],
-    [
-      "Assistant Manager, Valuation Advisory",
-      "Not specified",
-      "Hyderabad, India"
-    ],
-    [
-      "Account Executive, Scale",
-      "Not specified",
-      "937 - London (UK)"
-    ],
-    [
-      "Sr. Analyst, Advisory",
-      "Not specified",
-      "835 -  New York"
-    ],
-    [
-      "Senior Quantity Surveyor",
-      "Not specified",
-      "Sydney, Australia"
-    ],
-    [
-      "Stage Customer Success Manager - Italian speaker",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Director, Product Marketing",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Technical Manager/Principal Engineer \u2013 Client Enablement Group for ARGUS Software",
-      "Not specified",
-      "Houston, Texas"
-    ],
-    [
-      "Database Reliability Engineer",
-      "Not specified",
-      "Hyderabad, India"
-    ],
-    [
-      "Analyst, Loan Monitoring",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Quantity Surveyor",
-      "Not specified",
-      "Sydney, Australia"
-    ],
-    [
-      "Manager,  Daily Valuation & NAV Accounting",
-      "Not specified",
-      "5 Locations"
     ],
     [
       "Conseiller(\u00e8re) en immobilier",
@@ -154,9 +104,59 @@
       "Montr\u00e9al, Qu\u00e9bec"
     ],
     [
-      "Stage/Internship \u2013 Consultant en finances locales - Paris",
+      "Technical Manager/Principal Engineer \u2013 Client Enablement Group for ARGUS Software",
       "Not specified",
-      "Paris, France"
+      "Houston, Texas"
+    ],
+    [
+      "Account Executive, Scale",
+      "Not specified",
+      "937 - London (UK)"
+    ],
+    [
+      "Database Reliability Engineer",
+      "Not specified",
+      "Hyderabad, India"
+    ],
+    [
+      "Senior Quantity Surveyor",
+      "Not specified",
+      "Sydney, Australia"
+    ],
+    [
+      "Directeur(rice)",
+      "Not specified",
+      "Montr\u00e9al, Qu\u00e9bec"
+    ],
+    [
+      "Consultant, Advisory (Commercial Real Estate)",
+      "Not specified",
+      "New York, New York"
+    ],
+    [
+      "Real Estate Debt Valuation Analyst",
+      "Not specified",
+      "820 - Atlanta"
+    ],
+    [
+      "Technical Engineering Manager (AWS, Cloud-Native, AI-Enabled)",
+      "Not specified",
+      "London, United Kingdom"
+    ],
+    [
+      "Manager,  Daily Valuation & NAV Accounting",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Assistant Manager, Valuation Advisory",
+      "Not specified",
+      "Hyderabad, India"
+    ],
+    [
+      "Lead AI Engineer",
+      "Not specified",
+      "Toronto, Ontario"
     ]
   ]
 }
