@@ -1,685 +1,35 @@
 {
-  "last_updated": "2026-03-09T07:44:18.748214",
-  "job_count": 328,
-  "active_count": 197,
+  "last_updated": "2026-03-10T06:49:32.306809",
+  "job_count": 338,
+  "active_count": 200,
   "jobs": [
-    [
-      "Principal Engagement Manager, Professional Services, Upmarket (Remote)",
-      "Customer Success",
-      "Austin"
-    ],
-    [
-      "Senior Product Manager",
-      "Product",
-      "IE - Remote"
-    ],
-    [
-      "Project Coordinator, Professional Services (Remote)",
-      "Customer Success",
-      "Austin"
-    ],
-    [
-      "Manager, Information Systems Engineering",
-      "Information Technology",
-      "Austin"
-    ],
-    [
-      "Flex Design Lead",
-      "UI/UX",
-      "Bengaluru"
-    ],
-    [
-      "Senior Manager, Corporate Development",
-      "Business Operations",
-      "Austin"
-    ],
-    [
-      "Senior Product Marketing Manager",
-      "Marketing",
-      "Austin"
-    ],
-    [
-      "Senior Manager, Services and GTM FP&A (Remote)",
-      "Finance",
-      "Austin"
-    ],
-    [
-      "Senior Software Engineer - Data",
-      "Engineering",
-      "Maadi as Sarayat Al Gharbeyah"
-    ],
-    [
-      "Commercial Solutions Engineer, Owners (Remote)",
-      "Sales",
-      "Austin"
-    ],
-    [
-      "Customer Support Representative - French",
-      "Customer Solutions",
-      "Maadi as Sarayat Al Gharbeyah"
-    ],
-    [
-      "Commercial Sales Development Representative",
-      "Sales",
-      "Carpinteria"
-    ],
-    [
-      "Commercial Sales Development Representative",
-      "Austin",
-      "Carpinteria"
-    ],
-    [
-      "Director, Enterprise Account Management (Specialty Contractors)",
-      "Sales",
-      "Austin"
-    ],
-    [
-      "Staff Salesforce & Certinia Developer - Professional Services Automation",
-      "Information Technology",
-      "Austin"
-    ],
-    [
-      "Manager, Corporate FP&A",
-      "Finance",
-      "Austin"
-    ],
-    [
-      "Director, Strategic Channel Partnerships",
-      "Sales",
-      "Austin"
-    ],
-    [
-      "Senior QA Engineer - Manual & Automation",
-      "Engineering",
-      "Maadi as Sarayat Al Gharbeyah"
-    ],
-    [
-      "Senior Product Manager",
-      "Product",
-      "Austin"
-    ],
-    [
-      "Enterprise Account Executive - France",
-      "Sales",
-      "FR - Remote"
-    ],
-    [
-      "Strategic Product Consultant",
-      "Customer Success",
-      "London"
-    ],
-    [
-      "Senior Software Engineer - Android",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Senior Executive Assistant",
-      "Admin",
-      "Austin"
-    ],
-    [
-      "Recruiting Coordinator (Contract Assignment)",
-      "People",
-      "Heredia"
-    ],
-    [
-      "Solution Specialist, Data Center (Remote)",
-      "Sales",
-      "Austin"
-    ],
-    [
-      "Customer Support Representative - English",
-      "Customer Solutions",
-      "Maadi as Sarayat Al Gharbeyah"
-    ],
-    [
-      "Professional Services Solutions Consultant (Remote)",
-      "Customer Success",
-      "Austin"
-    ],
-    [
-      "Sr. Order Management Specialist (On-site)",
-      "Sales Operations",
-      "Heredia"
-    ],
-    [
-      "Senior Software Engineer - Android",
-      "Engineering",
-      "Maadi as Sarayat Al Gharbeyah"
-    ],
-    [
-      "Senior Software Engineer, Full Stack",
-      "Engineering",
-      "Edmonton"
-    ],
-    [
-      "Commercial Account Executive",
-      "Sales",
-      "Sandnes"
-    ],
-    [
-      "Partner Solutions Engineer",
-      "Austin",
-      "Carpinteria"
-    ],
-    [
-      "Product Manger - Owner Market",
-      "Product",
-      "Austin"
-    ],
-    [
-      "Senior Identity & Access Management Engineer",
-      "Information Technology",
-      "Bengaluru"
-    ],
-    [
-      "Office Operations Generalist",
-      "Facilities/Workplace Experience",
-      "Austin"
-    ],
-    [
-      "Staff Software Engineer, Fullstack",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Software Engineering Manager",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Commercial Sales Development Representative",
-      "Sales",
-      "Austin"
-    ],
-    [
-      "Solutions Engineer, Canada",
-      "Sales",
-      "Toronto"
-    ],
-    [
-      "Security Engineer I",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Strategic Account Executive, Federal Sales",
-      "Sales",
-      "US - Remote VA"
-    ],
-    [
-      "Senior Security Engineer",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Enterprise Account Executive, Specialty Contractors (East Territory, Fully Remote)",
-      "Sales",
-      "US - Remote NC"
-    ],
-    [
-      "Senior GRC Analyst - SOX",
-      "Information Technology",
-      "Austin"
-    ],
-    [
-      "Customer Support Representative",
-      "Austin",
-      "US - Remote FL"
-    ],
-    [
-      "Senior GTM Solutions Program Manager",
-      "Business Operations",
-      "Austin"
-    ],
-    [
-      "Enterprise Account Executive, Specialty Contractors (West Territory, Fully Remote)",
-      "Sales",
-      "US - Remote CA"
-    ],
-    [
-      "Senior Revenue Forecasting Analyst (Remote)",
-      "Sales Operations",
-      "Austin"
-    ],
-    [
-      "Beneficiary Verification Analyst",
-      "Finance",
-      "Austin"
-    ],
-    [
-      "PMO, Project Transformation Lead (Remote)",
-      "Customer Success",
-      "Austin"
-    ],
-    [
-      "VP, Partners",
-      "Sales",
-      "Austin"
-    ],
-    [
-      "Professional Services Solutions Consultant",
-      "Customer Success",
-      "Austin"
-    ],
-    [
-      "Principal Product Designer",
-      "UI/UX",
-      "Austin"
-    ],
-    [
-      "Enterprise Solutions Engineer",
-      "Sales",
-      "London"
-    ],
-    [
-      "Staff Database Reliability Engineer",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Commercial Account Manager (Remote)",
-      "Austin",
-      "Carpinteria"
-    ],
-    [
-      "Senior Analyst, Product Monetization",
-      "Business Operations",
-      "Austin"
-    ],
-    [
-      "Digital Customer Success Manager",
-      "Austin",
-      "New Orleans"
-    ],
-    [
-      "Enterprise Solution Specialist, Project Execution (Remote)",
-      "Austin",
-      "Carpinteria"
-    ],
-    [
-      "Sr Staff HR Consultant",
-      "US - Remote WA - Seattle",
-      "US - Remote CA - Bay Area"
-    ],
-    [
-      "Revenue Operations Manager",
-      "Sales Operations",
-      "Dubai"
-    ],
-    [
-      "Enterprise Sales Development Representative | French Speaking",
-      "Sales",
-      "Dublin 2"
-    ],
-    [
-      "Renewals Manager, SMB (Emerging)",
-      "Austin",
-      "Carpinteria"
-    ],
-    [
-      "Strategic 1:1 Account-Based Marketing Manager (Remote)",
-      "Marketing",
-      "US - Remote CA"
-    ],
-    [
-      "Commercial Solutions Specialist, Project Execution",
-      "Austin",
-      "Carpinteria"
-    ],
-    [
-      "Senior Software Engineer, IAM",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Commercial Account Executive, Specialty Contractor (Remote)",
-      "Sales",
-      "US - Remote FL"
-    ],
-    [
-      "Commercial Account Executive, Bilingual",
-      "Sales",
-      "Toronto"
-    ],
-    [
-      "Software Engineer-2",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Strategic Account-Based Marketing (1:1 ABM) Manager",
-      "Marketing",
-      "Austin"
-    ],
-    [
-      "Senior QA Engineer (Automation)",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Senior Manager, Customer Advocacy",
-      "Marketing",
-      "Austin"
-    ],
-    [
-      "Manager, QA Engineering",
-      "Engineering",
-      "Maadi as Sarayat Al Gharbeyah"
-    ],
-    [
-      "Commercial Account Executive, Specialty Contractor (Remote)",
-      "Sales",
-      "US - Remote CA"
-    ],
-    [
-      "Content Associate (Remote)",
-      "Customer Success",
-      "Austin"
-    ],
-    [
-      "Senior Director, Europe Growth Markets",
-      "Dublin 2",
-      "Paris"
-    ],
-    [
-      "Field Marketing Manager (Datagrid)",
-      "Marketing",
-      "Austin"
-    ],
-    [
-      "Salesforce Architect",
-      "Business Operations",
-      "Austin"
-    ],
-    [
-      "Customer Support Representative (Remote)",
-      "Austin",
-      "US - Remote FL"
-    ],
-    [
-      "Product Manager II - Documents",
-      "Product",
-      "Bengaluru"
-    ],
-    [
-      "Commercial Account Executive, Owners (Remote)",
-      "US - Remote NY",
-      "US - Remote IL"
-    ],
-    [
-      "Commercial Inside Sales Representative",
-      "Tampa",
-      "Carpinteria"
-    ],
     [
       "Senior Integration Developer",
       "Engineering",
       "Pune"
     ],
     [
-      "Senior Solutions Architect",
-      "Customer Success",
-      "Austin"
-    ],
-    [
-      "Senior Creative Technology Engineer",
-      "Product",
-      "Austin"
-    ],
-    [
-      "SaaS Project Delivery Lead, Professional Services (Remote)",
-      "Customer Success",
-      "Austin"
-    ],
-    [
-      "Senior Software Engineer, Full Stack",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Manager, Finance Systems Operations",
-      "Business Operations",
-      "Pune"
-    ],
-    [
-      "Staff Salesforce PRM Cloud Developer",
+      "Staff Integration & Application Developer",
       "Information Technology",
-      "Pune"
-    ],
-    [
-      "Executive Assistant",
-      "Admin",
       "Austin"
     ],
     [
-      "Staff Database Platform Engineer",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Senior Salesforce Application Developer \u2013 Sales Cloud",
-      "Information Technology",
-      "Pune"
-    ],
-    [
-      "Senior Technical Recruiter - Contract",
-      "People",
-      "Bengaluru"
-    ],
-    [
-      "Document Controller",
-      "Admin",
-      "New Orleans"
-    ],
-    [
-      "Manager, Install Base, SMB",
-      "Sales",
-      "Austin"
-    ],
-    [
-      "Principal Software Engineer - Strategic Integrations",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Enterprise Account Executive (Datagrid)",
-      "Sales",
-      "US - Remote CA - Bay Area"
-    ],
-    [
-      "Commercial, Account Executive",
-      "Sales",
-      "London"
-    ],
-    [
-      "Sales Director (Datagrid)",
-      "Sales",
-      "Austin"
-    ],
-    [
-      "Campaign Manager, Marketing (Remote)",
-      "Marketing",
-      "Austin"
-    ],
-    [
-      "Revenue Operations Analyst",
-      "Sales Operations",
-      "Heredia"
-    ],
-    [
-      "Software Engineer II - Backend",
+      "Manager, Software Engineering - Infrastructure Platform",
       "Engineering",
       "Maadi as Sarayat Al Gharbeyah"
     ],
     [
-      "Partner Account Executive, France",
-      "London",
-      "Paris"
-    ],
-    [
-      "Software Engineer II - Frontend",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Staff Software Engineer",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Product Manager \u2013 AI Data",
-      "Product",
+      "Access Control Specialist- Physical Security",
+      "Facilities/Workplace Experience",
       "Maadi as Sarayat Al Gharbeyah"
     ],
     [
-      "Senior Manager, Services and GTM FP&A",
-      "Finance",
-      "Austin"
-    ],
-    [
-      "Commercial Account Executive",
-      "US - Remote TX",
-      "US - Remote IL"
-    ],
-    [
-      "Senior Director, Sales (Datagrid)",
-      "Sales",
-      "Austin"
-    ],
-    [
-      "Manager, Solutions Engineering, Public Sector",
-      "Austin",
-      "Carpinteria"
-    ],
-    [
-      "Sales Cloud Application Developer",
-      "Information Technology",
-      "Pune"
-    ],
-    [
-      "Campaign Manager",
-      "Marketing",
-      "Dublin 2"
-    ],
-    [
-      "Staff Software Engineer",
+      "Senior DevOps Engineer, Streaming Data Infrastructure",
       "Engineering",
-      "Maadi as Sarayat Al Gharbeyah"
-    ],
-    [
-      "Product Enablement Specialist",
-      "Sales Operations",
-      "Dublin 2"
-    ],
-    [
-      "Manager, ERP Support (Hybrid)",
-      "Customer Solutions",
-      "Heredia"
-    ],
-    [
-      "Senior Director, Sales (Datagrid)",
-      "Sales",
-      "US - Remote CA - Bay Area"
+      "Bengaluru"
     ],
     [
       "Staff Software Engineer, Streaming Data Infrastructure",
-      "Engineering",
-      "Austin"
-    ],
-    [
-      "Customer Support Representative",
-      "Customer Solutions",
-      "CR - Remote"
-    ],
-    [
-      "Revenue Operations Business Partner, Strategic",
-      "US - Remote VA",
-      "Carpinteria"
-    ],
-    [
-      "Sales Development Representative | Nordics",
-      "Sales",
-      "Dublin 2"
-    ],
-    [
-      "Commercial Sales Development Representative, Public Sector",
-      "Sales",
-      "Carpinteria"
-    ],
-    [
-      "Enterprise Sales Development Representative, Bilingual",
-      "Sales",
-      "Toronto"
-    ],
-    [
-      "Recruiter [9 month FTC]",
-      "People",
-      "Dublin 2"
-    ],
-    [
-      "Strategic Solutions Engineer",
-      "Austin",
-      "Carpinteria"
-    ],
-    [
-      "Partner Systems and Process Manager",
-      "Business Operations",
-      "US - Remote CA"
-    ],
-    [
-      "Manager, Customer Success Engineers (Datagrid)",
-      "Customer Success",
-      "US - Remote CA - Bay Area"
-    ],
-    [
-      "Flex Design Lead",
-      "UI/UX",
-      "Maadi as Sarayat Al Gharbeyah"
-    ],
-    [
-      "Strategic 1:1 Account-Based Marketing Manager",
-      "Austin",
-      "US - Remote CA"
-    ],
-    [
-      "Software Engineering Manager",
-      "Engineering",
-      "Austin"
-    ],
-    [
-      "Senior Software Engineer, Full-Stack",
-      "Engineering",
-      "Austin"
-    ],
-    [
-      "Commercial Sales Development Representative",
-      "Tampa",
-      "Carpinteria"
-    ],
-    [
-      "Voice of the Customer Operations Manager",
-      "Marketing",
-      "Austin"
-    ],
-    [
-      "Manager, Account Management (Datagrid)",
-      "Sales",
-      "Austin"
-    ],
-    [
-      "Product Manager \u2013 Onboarding/Activation (AI)",
-      "Product",
-      "Maadi as Sarayat Al Gharbeyah"
-    ],
-    [
-      "Revenue Operations Associate, Owners",
-      "Austin",
-      "Carpinteria"
-    ],
-    [
-      "Senior DevOps Engineer, Mobile Platform",
       "Engineering",
       "Austin"
     ],
@@ -689,39 +39,29 @@
       "Bengaluru"
     ],
     [
-      "Director of Marketing (Datagrid)",
+      "Manager, Customer Success Engineers (Datagrid)",
+      "Customer Success",
+      "US - Remote CA - Bay Area"
+    ],
+    [
+      "Senior Web Producer, Marketing",
       "Marketing",
       "Austin"
     ],
     [
-      "Enterprise Account Executive - France",
+      "Solutions Engineer, SMB, GC",
       "Sales",
-      "Paris"
-    ],
-    [
-      "Partner Solutions Engineer (Remote)",
-      "Austin",
-      "Carpinteria"
-    ],
-    [
-      "Software Engineer II - Android",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Software Engineer - Frontend",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Senior Manager, Support and Services Tools (Service Cloud & Certinia)",
-      "Information Technology",
       "Austin"
     ],
     [
-      "Campaign Manager",
-      "London",
-      "Dublin 2"
+      "Staff Software Engineer Evangelist - Infrastructure Platform",
+      "Engineering",
+      "Maadi as Sarayat Al Gharbeyah"
+    ],
+    [
+      "Commercial Account Executive, Bilingual",
+      "Sales",
+      "Toronto"
     ],
     [
       "SMB Account Executive",
@@ -729,44 +69,159 @@
       "Dublin 2"
     ],
     [
-      "Enterprise Account Executive",
-      "Sales",
-      "FR - Remote"
-    ],
-    [
-      "SEO Specialist NAMER",
-      "Marketing",
-      "Austin"
-    ],
-    [
-      "Senior Salesforce Application Developer \u2013 Revenue Cloud(CPQ)",
-      "Information Technology",
-      "Pune"
-    ],
-    [
-      "Director of Marketing (Datagrid)",
-      "Marketing",
-      "US - Remote CA - Bay Area"
-    ],
-    [
-      "Customer Marketing Manager, EMEA",
-      "London",
-      "Dublin 2"
-    ],
-    [
-      "GTM Enablement Leader, North America",
+      "Manager, Strategic Inside Sales",
       "Austin",
       "Carpinteria"
     ],
     [
-      "Content Systems Lead",
-      "UI/UX",
+      "Commercial, Account Executive",
+      "Sales",
+      "London"
+    ],
+    [
+      "Field Marketing Manager",
+      "Marketing",
       "Austin"
     ],
     [
-      "Field Chief Operating Officer, Owners",
+      "Solution Specialist, Data Center (Remote)",
+      "Sales",
+      "Austin"
+    ],
+    [
+      "Recruiter [9 month FTC]",
+      "People",
+      "Dublin 2"
+    ],
+    [
+      "Project Coordinator, Professional Services (Remote)",
       "Customer Success",
       "Austin"
+    ],
+    [
+      "Field Marketing Manager (Remote)",
+      "Marketing",
+      "Austin"
+    ],
+    [
+      "Demand Generation Campaign Manager",
+      "Marketing",
+      "Austin"
+    ],
+    [
+      "Senior Manager, Customer Advocacy",
+      "Marketing",
+      "Austin"
+    ],
+    [
+      "Sales Development Representative (Datagrid)",
+      "Sales",
+      "Austin"
+    ],
+    [
+      "Senior Analyst, Product Monetization",
+      "Business Operations",
+      "Austin"
+    ],
+    [
+      "Commercial Account Executive",
+      "Sales",
+      "Sandnes"
+    ],
+    [
+      "Senior Data Engineer",
+      "Information Technology",
+      "Austin"
+    ],
+    [
+      "Revenue Operations Associate, Owners",
+      "Austin",
+      "Carpinteria"
+    ],
+    [
+      "Commercial Sales Development Representative",
+      "Sales",
+      "Carpinteria"
+    ],
+    [
+      "Commercial Solutions Specialist, Project Execution",
+      "Austin",
+      "Carpinteria"
+    ],
+    [
+      "Senior Software Engineer - iOS",
+      "Engineering",
+      "Maadi as Sarayat Al Gharbeyah"
+    ],
+    [
+      "Digital Customer Success Manager",
+      "Austin",
+      "New Orleans"
+    ],
+    [
+      "Professional Services Solutions Consultant (Remote)",
+      "Customer Success",
+      "Austin"
+    ],
+    [
+      "Software Engineer, Front End",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Senior QA Engineer (Automation)",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Partner Systems and Process Manager",
+      "Business Operations",
+      "US - Remote CA"
+    ],
+    [
+      "Senior Deal Desk Analyst",
+      "London",
+      "Dublin 2"
+    ],
+    [
+      "Senior Manager, EMEA Finance Business Partner",
+      "Finance",
+      "Dublin 2"
+    ],
+    [
+      "Commercial Solutions Specialist, Cost Management",
+      "Sales",
+      "Austin"
+    ],
+    [
+      "Partner Manager, Public Sector - Parsons",
+      "Austin",
+      "Carpinteria"
+    ],
+    [
+      "Commercial Account Manager",
+      "Sales",
+      "Dublin 2"
+    ],
+    [
+      "Solutions Engineer (Datagrid)",
+      "Sales",
+      "US - Remote CA - Bay Area"
+    ],
+    [
+      "Enterprise Software Implementation, Project Manager (Remote)",
+      "Customer Success",
+      "Austin"
+    ],
+    [
+      "Manager, QA Engineering",
+      "Engineering",
+      "Maadi as Sarayat Al Gharbeyah"
+    ],
+    [
+      "Software Engineering Manager",
+      "Engineering",
+      "Bengaluru"
     ],
     [
       "Staff People Partner",
@@ -774,13 +229,193 @@
       "Austin"
     ],
     [
+      "Senior Software Engineer - Frontend",
+      "Engineering",
+      "Austin"
+    ],
+    [
+      "Software Engineer II - Android",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Staff Software Engineer - iOS",
+      "Engineering",
+      "Maadi as Sarayat Al Gharbeyah"
+    ],
+    [
+      "Senior Software Engineer, IAM",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Enterprise Account Executive - France",
+      "Sales",
+      "FR - Remote"
+    ],
+    [
+      "Director, Government Affairs",
+      "Legal",
+      "US - Remote DC"
+    ],
+    [
+      "Manager, Forward Deployed Engineering (Datagrid)",
+      "Customer Success",
+      "Austin"
+    ],
+    [
+      "Flex Design Lead",
+      "UI/UX",
+      "Bengaluru"
+    ],
+    [
+      "Customer Support Representative",
+      "Austin",
+      "US - Remote FL"
+    ],
+    [
+      "Director of Learning & Development, Global GTM Enablement",
+      "Austin",
+      "Carpinteria"
+    ],
+    [
+      "Enterprise Solution Specialist, Project Execution (Remote)",
+      "Tampa",
+      "Carpinteria"
+    ],
+    [
+      "Demand Generation Campaign Manager (REMOTE)",
+      "Marketing",
+      "Austin"
+    ],
+    [
+      "Senior Product Manager",
+      "Product",
+      "IE - Remote"
+    ],
+    [
+      "Manager, ERP Support (Hybrid)",
+      "Customer Solutions",
+      "Heredia"
+    ],
+    [
+      "Software Engineer 2, Streaming Data Platform",
+      "Engineering",
+      "Austin"
+    ],
+    [
+      "Revenue Operations Business Partner, Strategic",
+      "US - Remote VA",
+      "Carpinteria"
+    ],
+    [
+      "Field Marketing Manager (Datagrid)",
+      "Marketing",
+      "Tampa"
+    ],
+    [
+      "Commercial Account Executive",
+      "US - Remote TX",
+      "US - Remote IL"
+    ],
+    [
+      "Renewals Manager, SMB (Emerging)",
+      "Tampa",
+      "Carpinteria"
+    ],
+    [
       "Senior Staff Systems Solutions Analyst, Certinia",
       "Business Operations",
       "US - Remote CA"
     ],
     [
-      "Staff Software Engineer Evangelist - Infrastructure Platform",
+      "Revenue Operations Business Partner, Growth Markets & Partnerships",
+      "Sales Operations",
+      "Dublin 2"
+    ],
+    [
+      "Recruiting Coordinator (Contract Assignment)",
+      "People",
+      "Maadi as Sarayat Al Gharbeyah"
+    ],
+    [
+      "Director & Head of Compliance, Money Transmission",
+      "Legal",
+      "Austin"
+    ],
+    [
+      "Forward Deployed Engineer (Datagrid)",
       "Engineering",
+      "US - Remote CA - Bay Area"
+    ],
+    [
+      "Senior Security Risk Analyst",
+      "Information Technology",
+      "Austin"
+    ],
+    [
+      "Enterprise Account Executive (Datagrid)",
+      "Sales",
+      "Austin"
+    ],
+    [
+      "Director, Strategic Channel Partnerships",
+      "Sales",
+      "Austin"
+    ],
+    [
+      "Senior Legal Operations Specialist, BI",
+      "Pune",
+      "Bengaluru"
+    ],
+    [
+      "Voice of the Customer Operations Manager",
+      "Marketing",
+      "Austin"
+    ],
+    [
+      "Principal Database Reliability Engineer",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Order Management Provisioning Specialist",
+      "Sales Operations",
+      "CR - Remote"
+    ],
+    [
+      "Sales Director (Datagrid)",
+      "Sales",
+      "Austin"
+    ],
+    [
+      "Director, Partner Operations",
+      "Sales",
+      "Austin"
+    ],
+    [
+      "Commercial Account Executive, Nordics",
+      "Sandnes",
+      "Oslo"
+    ],
+    [
+      "Senior QA Engineer - Manual & Automation",
+      "Engineering",
+      "Maadi as Sarayat Al Gharbeyah"
+    ],
+    [
+      "Customer Success Engineer II, Specialty Contractors (Remote)",
+      "Customer Success",
+      "Austin"
+    ],
+    [
+      "Senior Manager, Support and Services Tools (Service Cloud & Certinia)",
+      "Information Technology",
+      "Austin"
+    ],
+    [
+      "AI/BI Developer",
+      "Business Operations",
       "Maadi as Sarayat Al Gharbeyah"
     ],
     [
@@ -789,199 +424,59 @@
       "Bengaluru"
     ],
     [
-      "Premium Research & Data Administrator (Hybrid/Remote)",
-      "Sales Operations",
-      "New Orleans"
+      "Director of Marketing (Datagrid)",
+      "Marketing",
+      "US - Remote CA - Bay Area"
     ],
     [
-      "Manager, Software Engineering - Infrastructure Platform",
-      "Engineering",
-      "Maadi as Sarayat Al Gharbeyah"
-    ],
-    [
-      "Senior Manager, Software Engineering",
-      "Engineering",
-      "Austin"
-    ],
-    [
-      "Senior Salesforce Quality Assurance Engineer - Customer Support",
-      "Engineering",
-      "Pune"
-    ],
-    [
-      "GRC Analyst - IAM",
-      "Information Technology",
-      "Austin"
-    ],
-    [
-      "Principal Software Engineer",
-      "Engineering",
-      "Austin"
-    ],
-    [
-      "Salesforce Application Developer \u2013 Service Cloud",
-      "Information Technology",
-      "Pune"
-    ],
-    [
-      "Software Engineer, Front End",
+      "Senior Software Engineer",
       "Engineering",
       "Bengaluru"
     ],
     [
-      "Senior Manager, EMEA Finance Business Partner",
-      "Finance",
-      "Dublin 2"
+      "Principal Engagement Manager, Professional Services, Upmarket (Remote)",
+      "Customer Success",
+      "Austin"
     ],
     [
-      "Sales Activation Program Manager, Global GTM Enablement",
-      "Austin",
+      "Revenue Operations Associate, Owners",
+      "US - Remote CA",
       "Carpinteria"
     ],
     [
-      "Accountant",
-      "Finance",
+      "Sr. Order Management Specialist (On-site)",
+      "Sales Operations",
       "Heredia"
     ],
     [
-      "Manager, Value Consulting & Solutions Specialists",
-      "Sales",
-      "Dublin 2"
-    ],
-    [
-      "Commercial Account Executive, Nordics",
-      "Sandnes",
-      "Oslo"
-    ],
-    [
-      "Revenue Operations Business Partner, Public Sector",
-      "Sales Operations",
-      "Austin"
-    ],
-    [
-      "Solutions Consultant",
-      "Sales",
-      "Dublin 2"
-    ],
-    [
-      "Senior Software Engineer",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Security Architect",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Staff Product Designer, BIM",
-      "UI/UX",
-      "Austin"
-    ],
-    [
-      "Strategic Inside Sales Representative",
-      "Tampa",
-      "Carpinteria"
-    ],
-    [
-      "Software Engineer II, Full-Stack",
-      "Engineering",
-      "Austin"
-    ],
-    [
-      "Senior Software Engineer - Frontend",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Senior Software Engineer",
-      "Engineering",
-      "Maadi as Sarayat Al Gharbeyah"
-    ],
-    [
-      "Senior Deal Desk Analyst",
-      "London",
-      "Dublin 2"
-    ],
-    [
-      "Security Engineer 2",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Solutions Engineer (Datagrid)",
+      "Senior Director, Sales (Datagrid)",
       "Sales",
       "Austin"
     ],
     [
-      "Software Engineer II, Frontend",
-      "Engineering",
-      "Austin"
-    ],
-    [
-      "SMB Account Manager",
-      "Sales",
-      "Dublin 2"
-    ],
-    [
-      "Sr. Legal Ops Specialist, BI",
-      "Pune",
-      "Bengaluru"
-    ],
-    [
-      "Senior Software Engineer - Frontend",
-      "Engineering",
-      "Maadi as Sarayat Al Gharbeyah"
-    ],
-    [
-      "Recruiting Coordinator (Contract Assignment)",
-      "People",
-      "Maadi as Sarayat Al Gharbeyah"
-    ],
-    [
-      "Staff Software Engineer - iOS",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Revenue Operations Business Partner, Growth Markets & Partnerships",
-      "Sales Operations",
-      "Dublin 2"
-    ],
-    [
-      "Web Product Manager, Marketing",
-      "Marketing",
-      "Austin"
-    ],
-    [
-      "Solutions Engineer (Datagrid)",
-      "Sales",
+      "Customer Success Engineer (Datagrid)",
+      "Customer Success",
       "US - Remote CA - Bay Area"
     ],
     [
-      "Enterprise Solution Specialist, Project Execution (Remote)",
-      "Tampa",
-      "Carpinteria"
-    ],
-    [
-      "Strategic 1:1 Account-Based Marketing Manager",
-      "Marketing",
-      "US - Remote CA - Bay Area"
-    ],
-    [
-      "Product Owner, Sales Productivity Tools - Remote",
+      "Senior Manager, Corporate Development",
       "Business Operations",
-      "US - Remote CA - Bay Area"
+      "Austin"
     ],
     [
-      "Partner Account Executive, Iberia",
-      "London",
+      "Sales Development Representative | Nordics",
+      "Sales",
       "Dublin 2"
     ],
     [
-      "Staff Software Engineer - iOS",
-      "Engineering",
-      "Maadi as Sarayat Al Gharbeyah"
+      "Senior Revenue Forecasting Analyst (Remote)",
+      "Sales Operations",
+      "Austin"
+    ],
+    [
+      "Sr. Manager, Professional Services Delivery, APAC",
+      "Customer Success",
+      "Sydney"
     ],
     [
       "Sr Staff HR Consultant",
@@ -989,9 +484,29 @@
       "US - Remote CA - Bay Area"
     ],
     [
-      "Commercial Account Manager",
-      "Sales",
-      "Dublin 2"
+      "Principal Software Engineer (Full Stack)",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Senior Product Manager",
+      "Product",
+      "Austin"
+    ],
+    [
+      "Deal Desk Analyst",
+      "Finance",
+      "Austin"
+    ],
+    [
+      "PMO, Project Transformation Lead (Remote)",
+      "Customer Success",
+      "Austin"
+    ],
+    [
+      "Strategic 1:1 Account-Based Marketing Manager",
+      "Austin",
+      "US - Remote CA"
     ],
     [
       "Sr Staff HR Consultant",
@@ -1004,208 +519,23 @@
       "Dubai"
     ],
     [
-      "Revenue Operations Manager",
-      "Sales Operations",
-      "Dublin 2"
+      "Flex Design Lead",
+      "UI/UX",
+      "Maadi as Sarayat Al Gharbeyah"
     ],
     [
-      "Sr. Manager, Professional Services Delivery, APAC",
+      "Manager, Customer Success Engineers (Datagrid)",
       "Customer Success",
-      "Sydney"
-    ],
-    [
-      "Senior Data Engineer",
-      "Information Technology",
       "Austin"
     ],
     [
-      "Staff Legal Operations Specialist, BI",
-      "Pune",
-      "Bengaluru"
-    ],
-    [
-      "Senior Salesforce Automation Quality Engineer (CPQ)",
-      "Engineering",
+      "Manager, Finance Systems Operations",
+      "Business Operations",
       "Pune"
-    ],
-    [
-      "SMB New Logo Account Executive",
-      "Tampa",
-      "Carpinteria"
-    ],
-    [
-      "Senior Salesforce Automation Quality Engineer \u2013 Sales Cloud",
-      "Engineering",
-      "Pune"
-    ],
-    [
-      "Senior Software Engineer - Backend",
-      "Engineering",
-      "Maadi as Sarayat Al Gharbeyah"
-    ],
-    [
-      "Enterprise Account Executive",
-      "Sales",
-      "London"
-    ],
-    [
-      "Engineering Manager (Datagrid)",
-      "Engineering",
-      "US - Remote CA - Bay Area"
-    ],
-    [
-      "Commercial AE, MENA",
-      "Sales",
-      "Dubai"
-    ],
-    [
-      "Staff Software Engineer - Frontend",
-      "Engineering",
-      "Maadi as Sarayat Al Gharbeyah"
-    ],
-    [
-      "Integration Support Specialist, Tier 2 (Hybrid)",
-      "Customer Solutions",
-      "Heredia"
-    ],
-    [
-      "Principal Software Engineer (Full Stack)",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Sr. Program Manager, Culture & Employee Experience",
-      "People",
-      "Austin"
-    ],
-    [
-      "Strategic 1:1 Account-Based Marketing Manager (Remote)",
-      "US - Remote IL",
-      "US - Remote CA"
-    ],
-    [
-      "Manager Salesforce Application Development (Service Cloud & Certinia)",
-      "Information Technology",
-      "Pune"
-    ],
-    [
-      "Senior Software Engineer Evangelist - Infrastructure Platform",
-      "Engineering",
-      "Maadi as Sarayat Al Gharbeyah"
-    ],
-    [
-      "Sr. QA Engineer (Automation)",
-      "Engineering",
-      "Bengaluru"
     ],
     [
       "Manager, End User Services",
       "Information Technology",
-      "Austin"
-    ],
-    [
-      "Strategic Account Executive (Datagrid)",
-      "Sales",
-      "Austin"
-    ],
-    [
-      "Customer Success Engineer (Datagrid)",
-      "Customer Success",
-      "US - Remote CA - Bay Area"
-    ],
-    [
-      "Customer Support Representative",
-      "Customer Solutions",
-      "Austin"
-    ],
-    [
-      "Forward Deployed Engineer (Datagrid)",
-      "Engineering",
-      "US - Remote CA - Bay Area"
-    ],
-    [
-      "Enterprise Account Executive (Datagrid)",
-      "Sales",
-      "Austin"
-    ],
-    [
-      "Senior Legal Operations Specialist, BI",
-      "Pune",
-      "Bengaluru"
-    ],
-    [
-      "Manager, Sales Development [6 month FTC]",
-      "Sales",
-      "Dublin 2"
-    ],
-    [
-      "Staff Compensation Business Partner",
-      "People",
-      "Austin"
-    ],
-    [
-      "Renewals Manager, SMB (Emerging)",
-      "Tampa",
-      "Carpinteria"
-    ],
-    [
-      "Commercial Sales Development Representative, Owners, Canada",
-      "Sales",
-      "Toronto"
-    ],
-    [
-      "Senior DevOps Engineer, Streaming Data Infrastructure",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Value Consultant",
-      "Sales",
-      "Dublin 2"
-    ],
-    [
-      "Staff Software Engineer - RoR",
-      "Engineering",
-      "Maadi as Sarayat Al Gharbeyah"
-    ],
-    [
-      "Commercial/ Enterprise Inside Sales Representative",
-      "Tampa",
-      "Carpinteria"
-    ],
-    [
-      "Software Engineer II Evangelist Infrastructure Platform",
-      "Engineering",
-      "Maadi as Sarayat Al Gharbeyah"
-    ],
-    [
-      "Deal Desk Analyst (Remote)",
-      "Finance",
-      "Austin"
-    ],
-    [
-      "Account Manager (Datagrid)",
-      "Sales",
-      "Austin"
-    ],
-    [
-      "Software Engineer 2 - Android",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Observability Analyst",
-      "Information Technology",
-      "Bengaluru"
-    ],
-    [
-      "Software Engineer - iOS",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Commercial Solutions Specialist, Cost Management",
-      "Sales",
       "Austin"
     ],
     [
@@ -1214,14 +544,79 @@
       "Austin"
     ],
     [
-      "Senior Director, Procurement",
-      "Finance",
+      "Staff Software Engineer - Fullstack",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Commercial/ Enterprise Inside Sales Representative",
+      "Tampa",
+      "Carpinteria"
+    ],
+    [
+      "Customer Support Representative",
+      "Customer Solutions",
+      "CR - Remote"
+    ],
+    [
+      "Senior GTM Solutions Program Manager",
+      "Business Operations",
       "Austin"
     ],
     [
-      "Commercial Account Executive, Nordics",
+      "Partner Account Executive, France",
       "Sales",
-      "Sandnes"
+      "Paris"
+    ],
+    [
+      "Software Engineer II",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Solutions Consultant",
+      "Sales",
+      "Dublin 2"
+    ],
+    [
+      "Software Engineer 2 -iOS-1",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Staff Software Engineer",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Software Engineer 2 - Android",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Strategic Account Executive (Datagrid)",
+      "Sales",
+      "Austin"
+    ],
+    [
+      "Partner Account Executive, France",
+      "London",
+      "Paris"
+    ],
+    [
+      "Staff Compensation Business Partner",
+      "People",
+      "Austin"
+    ],
+    [
+      "Office Operation Generalist",
+      "Facilities/Workplace Experience",
+      "Maadi as Sarayat Al Gharbeyah"
+    ],
+    [
+      "Partner Systems and Process Manager",
+      "Business Operations",
+      "Austin"
     ],
     [
       "Principal Software Engineer Evangelist - Infrastructure Platform",
@@ -1229,19 +624,114 @@
       "Maadi as Sarayat Al Gharbeyah"
     ],
     [
-      "Director, Government Affairs",
-      "Legal",
-      "US - Remote DC"
+      "Senior Creative Technology Engineer",
+      "Product",
+      "Austin"
     ],
     [
-      "Senior People Services Coordinator",
-      "People",
+      "Sales Cloud Application Developer",
+      "Information Technology",
+      "Pune"
+    ],
+    [
+      "Premium Research & Data Administrator (Hybrid/Remote)",
+      "Sales Operations",
+      "New Orleans"
+    ],
+    [
+      "Deal Desk Analyst (Remote)",
+      "Finance",
+      "Austin"
+    ],
+    [
+      "Senior Commissions Analyst",
+      "Finance",
       "Bengaluru"
     ],
     [
-      "Senior Financial Analyst",
+      "Senior Software Engineer, Backend",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Senior Solutions Architect",
+      "Customer Success",
+      "Austin"
+    ],
+    [
+      "Senior Software Engineer Evangelist - Infrastructure Platform",
+      "Engineering",
+      "Maadi as Sarayat Al Gharbeyah"
+    ],
+    [
+      "Campaign Manager",
+      "Marketing",
+      "Dublin 2"
+    ],
+    [
+      "Director, Enterprise Account Management - Specialty Contractors (REMOTE)",
+      "Austin",
+      "Carpinteria"
+    ],
+    [
+      "Commercial Account Executive, Specialty Contractor (Remote)",
+      "Sales",
+      "US - Remote FL"
+    ],
+    [
+      "Commercial Sales Development Representative",
+      "Tampa",
+      "Carpinteria"
+    ],
+    [
+      "Commercial Inside Sales Representative",
+      "Tampa",
+      "Carpinteria"
+    ],
+    [
+      "Solutions Engineer (Datagrid)",
+      "Sales",
+      "Austin"
+    ],
+    [
+      "Sr. Legal Ops Specialist, BI",
+      "Pune",
+      "Bengaluru"
+    ],
+    [
+      "Senior Manager, Services and GTM FP&A (Remote)",
       "Finance",
       "Austin"
+    ],
+    [
+      "Commercial Sales Development Representative, Public Sector",
+      "Sales",
+      "Carpinteria"
+    ],
+    [
+      "Senior Software Engineer - Strategic Integrations",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Senior Software Engineer",
+      "Engineering",
+      "Maadi as Sarayat Al Gharbeyah"
+    ],
+    [
+      "GTM Enablement Leader, North America",
+      "Austin",
+      "Carpinteria"
+    ],
+    [
+      "Commercial Account Manager (Remote)",
+      "Austin",
+      "Carpinteria"
+    ],
+    [
+      "Recruiting Coordinator (Contract Assignment)",
+      "People",
+      "Heredia"
     ],
     [
       "Senior Salesforce Developer",
@@ -1249,8 +739,103 @@
       "Pune"
     ],
     [
-      "Director & Head of Compliance, Money Transmission",
-      "Legal",
+      "Campaign Manager, Marketing (Remote)",
+      "Marketing",
+      "Austin"
+    ],
+    [
+      "GRC Analyst - IAM",
+      "Information Technology",
+      "Austin"
+    ],
+    [
+      "Manager, Value Consulting & Solutions Specialists",
+      "Sales",
+      "Dublin 2"
+    ],
+    [
+      "Salesforce Application Developer \u2013 Customer Success",
+      "Information Technology",
+      "Pune"
+    ],
+    [
+      "Senior Director, Procurement",
+      "Finance",
+      "Austin"
+    ],
+    [
+      "Revenue Operations Analyst",
+      "Sales Operations",
+      "Heredia"
+    ],
+    [
+      "SMB Account Manager",
+      "Sales",
+      "Dublin 2"
+    ],
+    [
+      "Sales Activation Program Manager, Global GTM Enablement",
+      "Austin",
+      "Carpinteria"
+    ],
+    [
+      "Software Engineer II - iOS",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Commercial Account Executive, Owners (Remote)",
+      "US - Remote NY",
+      "US - Remote IL"
+    ],
+    [
+      "Manager, Forward Deployed Engineering (Datagrid)",
+      "Customer Success",
+      "US - Remote CA - Bay Area"
+    ],
+    [
+      "Enterprise Solution Specialist, Project Execution (Remote)",
+      "Austin",
+      "Carpinteria"
+    ],
+    [
+      "Accountant",
+      "Finance",
+      "Heredia"
+    ],
+    [
+      "Sr Staff HR Consultant",
+      "US - Remote WA - Seattle",
+      "US - Remote CA - Bay Area"
+    ],
+    [
+      "Content Associate (Remote)",
+      "Customer Success",
+      "Austin"
+    ],
+    [
+      "Senior Director, Europe Growth Markets",
+      "Dublin 2",
+      "Paris"
+    ],
+    [
+      "Manager, Account Management (Datagrid)",
+      "Sales",
+      "Austin"
+    ],
+    [
+      "Forward Deployed Engineer (Datagrid)",
+      "Engineering",
+      "Austin"
+    ],
+    [
+      "Field Chief Operating Officer, Owners",
+      "Customer Success",
+      "Austin"
+    ],
+    [
+      "Senior Software Engineer, Full-Stack",
+      "Engineering",
       "Austin"
     ],
     [
@@ -1259,34 +844,34 @@
       "Austin"
     ],
     [
-      "Manager, Customer Success Engineers (Datagrid)",
-      "Customer Success",
+      "Partner Solutions Engineer",
+      "Austin",
+      "Carpinteria"
+    ],
+    [
+      "Senior Business Systems Analyst - Order to Revenue/Finance Systems",
+      "Business Operations",
       "Austin"
     ],
     [
-      "Workplace Experience Specialist",
-      "Facilities/Workplace Experience",
-      "Tampa"
+      "Partner Account Executive, Iberia",
+      "London",
+      "Dublin 2"
     ],
     [
-      "Sales Development Representative (Datagrid)",
-      "Sales",
-      "Austin"
-    ],
-    [
-      "Commercial Inside Sales Representative",
-      "Sales",
-      "Toronto"
-    ],
-    [
-      "Salesforce Application Developer \u2013 Customer Success",
-      "Information Technology",
-      "Pune"
-    ],
-    [
-      "Senior Software Engineer - Ruby on Rails",
+      "Software Engineering Manager",
       "Engineering",
-      "Maadi as Sarayat Al Gharbeyah"
+      "Austin"
+    ],
+    [
+      "Strategic 1:1 Account-Based Marketing Manager (Remote)",
+      "US - Remote IL",
+      "US - Remote CA"
+    ],
+    [
+      "Observability Analyst",
+      "Information Technology",
+      "Bengaluru"
     ],
     [
       "Senior Business Systems Analyst, Procure-to-Pay",
@@ -1294,144 +879,34 @@
       "Austin"
     ],
     [
-      "Sales Development Representative (Datagrid)",
+      "Staff Software Engineer - Front End",
+      "Engineering",
+      "Austin"
+    ],
+    [
+      "Beneficiary Verification Analyst",
+      "Finance",
+      "Austin"
+    ],
+    [
+      "Enterprise Account Executive",
       "Sales",
-      "US - Remote CA - Bay Area"
+      "FR - Remote"
     ],
     [
-      "Principal Software Engineer - Backend",
+      "Staff Software Engineer - RoR",
       "Engineering",
       "Maadi as Sarayat Al Gharbeyah"
     ],
     [
-      "Software Engineer II",
+      "Senior Software Engineer - Backend",
       "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Customer Marketing Manager, EMEA",
-      "Marketing",
-      "London"
-    ],
-    [
-      "Senior Security Risk Analyst",
-      "Information Technology",
-      "Austin"
-    ],
-    [
-      "Field Marketing Manager (Remote)",
-      "Marketing",
-      "Austin"
-    ],
-    [
-      "Security Engineer II",
-      "Engineering",
-      "Austin"
-    ],
-    [
-      "Senior Software Engineer - iOS",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Senior Software Engineer - Strategic Integrations",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Power BI Developer",
-      "Business Operations",
       "Maadi as Sarayat Al Gharbeyah"
     ],
     [
-      "Staff Product Designer",
+      "Staff Product Designer, BIM",
       "UI/UX",
       "Austin"
-    ],
-    [
-      "Principal Database Reliability Engineer",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Senior Software Engineer",
-      "Engineering",
-      "Austin"
-    ],
-    [
-      "Senior Software Engineer - iOS",
-      "Engineering",
-      "Maadi as Sarayat Al Gharbeyah"
-    ],
-    [
-      "Manager, Sales Development",
-      "Sales",
-      "Austin"
-    ],
-    [
-      "Revenue Operations Associate, Owners",
-      "US - Remote CA",
-      "Carpinteria"
-    ],
-    [
-      "Senior Software Engineer - Frontend",
-      "Engineering",
-      "Austin"
-    ],
-    [
-      "Software Engineer 2 -iOS-1",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Director, Partner Operations",
-      "Sales",
-      "Austin"
-    ],
-    [
-      "Access Control Specialist- Physical Security",
-      "Facilities/Workplace Experience",
-      "Maadi as Sarayat Al Gharbeyah"
-    ],
-    [
-      "Staff Integration & Application Developer",
-      "Information Technology",
-      "Austin"
-    ],
-    [
-      "Staff Technical Program Manager",
-      "Product",
-      "Bengaluru"
-    ],
-    [
-      "Partner Account Executive, France",
-      "Sales",
-      "Paris"
-    ],
-    [
-      "Software Engineer, Backend",
-      "Engineering",
-      "Bengaluru"
-    ],
-    [
-      "Office Operation Generalist",
-      "Facilities/Workplace Experience",
-      "Maadi as Sarayat Al Gharbeyah"
-    ],
-    [
-      "Professional Services Consultant",
-      "Customer Success",
-      "London"
-    ],
-    [
-      "Integration Support Specialist, Tier 2 (Remote)",
-      "Customer Solutions",
-      "Austin"
-    ],
-    [
-      "Manager, Strategic Inside Sales",
-      "Austin",
-      "Carpinteria"
     ],
     [
       "Sales Development Representative | Nordics",
@@ -1439,33 +914,63 @@
       "Dublin 2"
     ],
     [
-      "Software Engineer II - iOS",
+      "Sr. Director, Revenue Performance COE (Remote)",
+      "Sales Operations",
+      "Austin"
+    ],
+    [
+      "Staff Software Engineer",
+      "Engineering",
+      "Maadi as Sarayat Al Gharbeyah"
+    ],
+    [
+      "Staff Software Engineer - Backend",
       "Engineering",
       "Bengaluru"
     ],
     [
-      "Director, Industry Expert & Evangelist (Datagrid)",
-      "Marketing",
+      "Product Manger - Owner Market",
+      "Product",
       "Austin"
     ],
     [
-      "Manager, Corporate FP&A (Remote)",
-      "Finance",
-      "Austin"
+      "Senior Software Engineer - Android",
+      "Engineering",
+      "Bengaluru"
     ],
     [
-      "Director of Learning & Development, Global GTM Enablement",
-      "Austin",
-      "Carpinteria"
+      "Staff Software Engineer - Frontend",
+      "Engineering",
+      "Maadi as Sarayat Al Gharbeyah"
     ],
     [
-      "Horizontal & Transportation Solution Specialist (Remote)",
+      "VP, Partners",
       "Sales",
       "Austin"
     ],
     [
-      "Senior Incentive Compensation Analyst",
-      "Finance",
+      "Staff Product Designer",
+      "UI/UX",
+      "Austin"
+    ],
+    [
+      "Staff Salesforce & Certinia Developer - Professional Services Automation",
+      "Information Technology",
+      "Austin"
+    ],
+    [
+      "Enterprise Account Executive",
+      "Sales",
+      "London"
+    ],
+    [
+      "Senior DevOps Engineer, Mobile Platform",
+      "Engineering",
+      "Austin"
+    ],
+    [
+      "Sr. Program Manager, Culture & Employee Experience",
+      "People",
       "Austin"
     ],
     [
@@ -1474,19 +979,19 @@
       "Austin"
     ],
     [
-      "Customer Support Representative",
-      "Customer Solutions",
-      "Heredia"
-    ],
-    [
-      "Senior Commissions Analyst",
-      "Finance",
+      "Software Engineer I",
+      "Engineering",
       "Bengaluru"
     ],
     [
-      "Senior Application Development Engineer",
-      "Information Technology",
-      "Pune"
+      "Senior Director, Sales (Datagrid)",
+      "Sales",
+      "US - Remote CA - Bay Area"
+    ],
+    [
+      "Senior Technical Recruiter - Contract",
+      "People",
+      "Bengaluru"
     ],
     [
       "Software Engineer 1",
@@ -1494,69 +999,44 @@
       "Pune"
     ],
     [
-      "Solutions Engineer, SMB, GC",
+      "Salesforce Application Developer \u2013 Service Cloud",
+      "Information Technology",
+      "Pune"
+    ],
+    [
+      "Enterprise Account Executive, Specialty Contractors (West Territory, Fully Remote)",
       "Sales",
-      "Austin"
+      "US - Remote CA"
     ],
     [
-      "Director, Enterprise Account Management - Specialty Contractors (REMOTE)",
-      "Austin",
-      "Carpinteria"
-    ],
-    [
-      "Manager, Forward Deployed Engineering (Datagrid)",
-      "Customer Success",
-      "Austin"
-    ],
-    [
-      "Software Engineer I",
+      "Principal Software Engineer - Strategic Integrations",
       "Engineering",
       "Bengaluru"
     ],
     [
-      "Revenue Operations Business Partner, Strategic",
-      "Austin",
-      "Carpinteria"
-    ],
-    [
-      "Senior People Partner",
-      "People",
-      "Dublin 2"
-    ],
-    [
-      "Manager, Forward Deployed Engineering (Datagrid)",
+      "Professional Services Solutions Consultant",
       "Customer Success",
-      "US - Remote CA - Bay Area"
-    ],
-    [
-      "Staff Compensation Business Partner",
-      "People",
-      "US - Remote MN"
-    ],
-    [
-      "Administrative Coordinator II",
-      "Admin",
       "Austin"
     ],
     [
-      "Staff Data Analyst",
-      "Business Operations",
-      "Austin"
-    ],
-    [
-      "Senior Web Producer, Marketing",
+      "Director, Industry Expert & Evangelist (Datagrid)",
       "Marketing",
       "Austin"
     ],
     [
-      "Manager, Security Engineering",
+      "Senior Salesforce Automation Quality Engineer \u2013 Sales Cloud",
       "Engineering",
-      "Austin"
+      "Pune"
     ],
     [
-      "Enterprise Software Implementation, Project Manager (Remote)",
-      "Customer Success",
-      "Austin"
+      "Staff Database Platform Engineer",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Senior Salesforce Application Developer \u2013 Revenue Cloud(CPQ)",
+      "Information Technology",
+      "Pune"
     ],
     [
       "Senior Salesforce Developer",
@@ -1564,42 +1044,112 @@
       "Austin"
     ],
     [
-      "Deal Desk Analyst",
-      "Finance",
+      "Software Engineer II, Frontend",
+      "Engineering",
       "Austin"
     ],
     [
-      "Demand Generation Campaign Manager",
-      "Marketing",
-      "Austin"
+      "Security Engineer 2",
+      "Engineering",
+      "Bengaluru"
     ],
     [
-      "Field Marketing Manager (Datagrid)",
-      "Marketing",
-      "Tampa"
+      "Customer Support Representative - English",
+      "Customer Solutions",
+      "Maadi as Sarayat Al Gharbeyah"
     ],
     [
-      "Field Marketing Manager",
+      "Senior Software Engineer - Data",
+      "Engineering",
+      "Maadi as Sarayat Al Gharbeyah"
+    ],
+    [
+      "Senior Salesforce Application Developer \u2013 Sales Cloud",
+      "Information Technology",
+      "Pune"
+    ],
+    [
+      "Customer Marketing Manager, EMEA",
+      "London",
+      "Dublin 2"
+    ],
+    [
+      "Staff Software Engineer, Fullstack",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Strategic 1:1 Account-Based Marketing Manager",
       "Marketing",
-      "Austin"
+      "US - Remote CA - Bay Area"
+    ],
+    [
+      "Software Engineer - iOS",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Software Engineer II - Frontend",
+      "Engineering",
+      "Bengaluru"
     ],
     [
       "Senior Software Engineer",
       "Engineering",
-      "Pune"
-    ],
-    [
-      "Order Management Provisioning Specialist",
-      "Sales Operations",
-      "CR - Remote"
-    ],
-    [
-      "Sr. Director, Revenue Performance COE (Remote)",
-      "Sales Operations",
       "Austin"
     ],
     [
-      "Principal Database Platform Engineer",
+      "Principal Software Engineer - Backend",
+      "Engineering",
+      "Maadi as Sarayat Al Gharbeyah"
+    ],
+    [
+      "Principal Product Designer",
+      "UI/UX",
+      "Austin"
+    ],
+    [
+      "Software Engineer II Evangelist Infrastructure Platform",
+      "Engineering",
+      "Maadi as Sarayat Al Gharbeyah"
+    ],
+    [
+      "Strategic Product Consultant",
+      "Customer Success",
+      "London"
+    ],
+    [
+      "Power BI Developer",
+      "Business Operations",
+      "Maadi as Sarayat Al Gharbeyah"
+    ],
+    [
+      "SEO Specialist NAMER",
+      "Marketing",
+      "Austin"
+    ],
+    [
+      "Data Engineer - II",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Senior Salesforce Quality Assurance Engineer - Customer Support",
+      "Engineering",
+      "Pune"
+    ],
+    [
+      "Office Operations Generalist",
+      "Facilities/Workplace Experience",
+      "Austin"
+    ],
+    [
+      "Administrative Coordinator II",
+      "Admin",
+      "Austin"
+    ],
+    [
+      "Security Engineer I",
       "Engineering",
       "Bengaluru"
     ],
@@ -1609,19 +1159,164 @@
       "Austin"
     ],
     [
-      "Customer Success Engineer II, Specialty Contractors (Remote)",
-      "Customer Success",
-      "Austin"
-    ],
-    [
-      "Customer Success Engineer (Datagrid)",
-      "Customer Success",
-      "Austin"
-    ],
-    [
-      "Partner Manager, Public Sector - Parsons",
+      "Manager, Solutions Engineering, Public Sector",
       "Austin",
       "Carpinteria"
+    ],
+    [
+      "Manager, Security Engineering",
+      "Engineering",
+      "Austin"
+    ],
+    [
+      "Horizontal & Transportation Solution Specialist (Remote)",
+      "Sales",
+      "Austin"
+    ],
+    [
+      "Revenue Operations Manager",
+      "Sales Operations",
+      "Dubai"
+    ],
+    [
+      "Director, Enterprise Account Management (Specialty Contractors)",
+      "Sales",
+      "Austin"
+    ],
+    [
+      "Document Controller",
+      "Admin",
+      "New Orleans"
+    ],
+    [
+      "Executive Assistant",
+      "Admin",
+      "Austin"
+    ],
+    [
+      "Enterprise Solutions Engineer",
+      "Sales",
+      "London"
+    ],
+    [
+      "Strategic Solutions Engineer",
+      "Austin",
+      "Carpinteria"
+    ],
+    [
+      "Senior Software Engineer, Full Stack",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Senior Manager, Software Engineering",
+      "Engineering",
+      "Austin"
+    ],
+    [
+      "Senior Manager, Services and GTM FP&A",
+      "Finance",
+      "Austin"
+    ],
+    [
+      "Senior Financial Analyst",
+      "Finance",
+      "Austin"
+    ],
+    [
+      "Commercial Inside Sales Representative",
+      "Sales",
+      "Toronto"
+    ],
+    [
+      "Enterprise Account Executive - France",
+      "Sales",
+      "Paris"
+    ],
+    [
+      "Senior Software Engineer - Frontend",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "SaaS Project Delivery Lead, Professional Services (Remote)",
+      "Customer Success",
+      "Austin"
+    ],
+    [
+      "Senior Software Engineer - Android",
+      "Engineering",
+      "Maadi as Sarayat Al Gharbeyah"
+    ],
+    [
+      "Commercial Sales Development Representative",
+      "Austin",
+      "Carpinteria"
+    ],
+    [
+      "Workplace Experience Specialist",
+      "Facilities/Workplace Experience",
+      "Tampa"
+    ],
+    [
+      "Partner Solutions Engineer (Remote)",
+      "Austin",
+      "Carpinteria"
+    ],
+    [
+      "Enterprise Sales Development Representative, Bilingual",
+      "Sales",
+      "Toronto"
+    ],
+    [
+      "Staff Salesforce PRM Cloud Developer",
+      "Information Technology",
+      "Pune"
+    ],
+    [
+      "Software Engineer II - Backend",
+      "Engineering",
+      "Maadi as Sarayat Al Gharbeyah"
+    ],
+    [
+      "Senior People Partner",
+      "People",
+      "Dublin 2"
+    ],
+    [
+      "Security Engineer II",
+      "Engineering",
+      "Austin"
+    ],
+    [
+      "Professional Services Consultant",
+      "Customer Success",
+      "London"
+    ],
+    [
+      "Integration Support Specialist, Tier 2 (Hybrid)",
+      "Customer Solutions",
+      "Heredia"
+    ],
+    [
+      "Sales Development Representative (Datagrid)",
+      "Sales",
+      "US - Remote CA - Bay Area"
+    ],
+    [
+      "Customer Support Representative (Remote)",
+      "Austin",
+      "US - Remote FL"
+    ],
+    [
+      "Senior Executive Assistant",
+      "Admin",
+      "Austin"
+    ],
+    [
+      "Engineering Manager (Datagrid)",
+      "Engineering",
+      "US - Remote CA - Bay Area"
     ],
     [
       "Staff Software Engineer",
@@ -1629,19 +1324,374 @@
       "Austin"
     ],
     [
-      "Demand Generation Campaign Manager (REMOTE)",
+      "Product Manager \u2013 Onboarding/Activation (AI)",
+      "Product",
+      "Maadi as Sarayat Al Gharbeyah"
+    ],
+    [
+      "Revenue Operations Manager",
+      "Sales Operations",
+      "Dublin 2"
+    ],
+    [
+      "Senior Software Engineer, Full Stack",
+      "Engineering",
+      "Edmonton"
+    ],
+    [
+      "Product Enablement Specialist",
+      "Sales Operations",
+      "Dublin 2"
+    ],
+    [
+      "Customer Support Representative - French",
+      "Customer Solutions",
+      "Maadi as Sarayat Al Gharbeyah"
+    ],
+    [
+      "Commercial Solutions Engineer, Owners (Remote)",
+      "Sales",
+      "Austin"
+    ],
+    [
+      "Manager, Sales Development [6 month FTC]",
+      "Sales",
+      "Dublin 2"
+    ],
+    [
+      "Campaign Manager",
+      "London",
+      "Dublin 2"
+    ],
+    [
+      "Strategic Account-Based Marketing (1:1 ABM) Manager",
       "Marketing",
       "Austin"
     ],
     [
-      "Forward Deployed Engineer (Datagrid)",
+      "Content Systems Lead",
+      "UI/UX",
+      "Austin"
+    ],
+    [
+      "Commercial Account Executive, Nordics",
+      "Sales",
+      "Sandnes"
+    ],
+    [
+      "Senior People Services Coordinator",
+      "People",
+      "Bengaluru"
+    ],
+    [
+      "Product Manager \u2013 AI Data",
+      "Product",
+      "Maadi as Sarayat Al Gharbeyah"
+    ],
+    [
+      "Commercial Sales Development Representative, Owners, Canada",
+      "Sales",
+      "Toronto"
+    ],
+    [
+      "Staff Legal Operations Specialist, BI",
+      "Pune",
+      "Bengaluru"
+    ],
+    [
+      "Software Engineer, Backend",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Revenue Operations Business Partner, Public Sector",
+      "Sales Operations",
+      "Austin"
+    ],
+    [
+      "Manager Salesforce Application Development (Service Cloud & Certinia)",
+      "Information Technology",
+      "Pune"
+    ],
+    [
+      "Senior GRC Analyst - SOX",
+      "Information Technology",
+      "Austin"
+    ],
+    [
+      "Staff Data Analyst",
+      "Business Operations",
+      "Austin"
+    ],
+    [
+      "Customer Support Representative",
+      "Customer Solutions",
+      "Austin"
+    ],
+    [
+      "Sr. QA Engineer (Automation)",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Senior Salesforce Automation Quality Engineer (CPQ)",
+      "Engineering",
+      "Pune"
+    ],
+    [
+      "Senior Application Development Engineer",
+      "Information Technology",
+      "Pune"
+    ],
+    [
+      "Revenue Operations Business Partner, Strategic",
+      "Austin",
+      "Carpinteria"
+    ],
+    [
+      "Manager, Corporate FP&A",
+      "Finance",
+      "Austin"
+    ],
+    [
+      "Senior Software Engineer",
+      "Engineering",
+      "Pune"
+    ],
+    [
+      "Account Manager (Datagrid)",
+      "Sales",
+      "Austin"
+    ],
+    [
+      "Senior Incentive Compensation Analyst",
+      "Finance",
+      "Austin"
+    ],
+    [
+      "Senior Security Engineer",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Web Product Manager, Marketing",
+      "Marketing",
+      "Austin"
+    ],
+    [
+      "Principal Software Engineer",
       "Engineering",
       "Austin"
+    ],
+    [
+      "Senior Identity & Access Management Engineer",
+      "Information Technology",
+      "Bengaluru"
+    ],
+    [
+      "Product Owner, Sales Productivity Tools - Remote",
+      "Business Operations",
+      "US - Remote CA - Bay Area"
+    ],
+    [
+      "Renewals Manager, SMB (Emerging)",
+      "Austin",
+      "Carpinteria"
+    ],
+    [
+      "Integration Support Specialist, Tier 2 (Remote)",
+      "Customer Solutions",
+      "Austin"
+    ],
+    [
+      "Strategic Inside Sales Representative",
+      "Tampa",
+      "Carpinteria"
+    ],
+    [
+      "Customer Support Representative",
+      "Customer Solutions",
+      "Heredia"
+    ],
+    [
+      "Software Engineer-2",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Staff Database Reliability Engineer",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Salesforce Architect",
+      "Business Operations",
+      "Austin"
+    ],
+    [
+      "Manager, Sales Development",
+      "Sales",
+      "Austin"
+    ],
+    [
+      "Staff Compensation Business Partner",
+      "People",
+      "US - Remote MN"
+    ],
+    [
+      "Enterprise Account Executive (Datagrid)",
+      "Sales",
+      "US - Remote CA - Bay Area"
+    ],
+    [
+      "Software Engineer II, Full-Stack",
+      "Engineering",
+      "Austin"
+    ],
+    [
+      "Security Architect",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Commercial Sales Development Representative",
+      "Sales",
+      "Austin"
+    ],
+    [
+      "Commercial Account Executive, Specialty Contractor (Remote)",
+      "Sales",
+      "US - Remote CA"
+    ],
+    [
+      "Manager, Corporate FP&A (Remote)",
+      "Finance",
+      "Austin"
+    ],
+    [
+      "Senior Software Engineer - Frontend",
+      "Engineering",
+      "Maadi as Sarayat Al Gharbeyah"
+    ],
+    [
+      "Senior Software Engineer - iOS",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Enterprise Account Executive, Specialty Contractors (East Territory, Fully Remote)",
+      "Sales",
+      "US - Remote NC"
+    ],
+    [
+      "Manager, Install Base, SMB",
+      "Sales",
+      "Austin"
+    ],
+    [
+      "Product Manager II - Documents",
+      "Product",
+      "Bengaluru"
+    ],
+    [
+      "Value Consultant",
+      "Sales",
+      "Dublin 2"
+    ],
+    [
+      "Software Engineer - Frontend",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Director of Marketing (Datagrid)",
+      "Marketing",
+      "Austin"
+    ],
+    [
+      "Strategic 1:1 Account-Based Marketing Manager (Remote)",
+      "Marketing",
+      "US - Remote CA"
     ],
     [
       "Senior QA Engineer (Performance Testing)",
       "Engineering",
       "Bengaluru"
+    ],
+    [
+      "Customer Marketing Manager, EMEA",
+      "Marketing",
+      "London"
+    ],
+    [
+      "Field Marketing Manager (Datagrid)",
+      "Marketing",
+      "Austin"
+    ],
+    [
+      "Principal Database Platform Engineer",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Manager, Information Systems Engineering",
+      "Information Technology",
+      "Austin"
+    ],
+    [
+      "SMB New Logo Account Executive",
+      "Tampa",
+      "Carpinteria"
+    ],
+    [
+      "Customer Success Engineer (Datagrid)",
+      "Customer Success",
+      "Austin"
+    ],
+    [
+      "Strategic Account Executive, Federal Sales",
+      "Sales",
+      "US - Remote VA"
+    ],
+    [
+      "Senior Release Engineer",
+      "Engineering",
+      "Pune"
+    ],
+    [
+      "Senior Product Marketing Manager",
+      "Marketing",
+      "Austin"
+    ],
+    [
+      "Commercial AE, MENA",
+      "Sales",
+      "Dubai"
+    ],
+    [
+      "Staff Technical Program Manager",
+      "Product",
+      "Bengaluru"
+    ],
+    [
+      "Staff Software Engineer - iOS",
+      "Engineering",
+      "Bengaluru"
+    ],
+    [
+      "Senior Software Engineer - Ruby on Rails",
+      "Engineering",
+      "Maadi as Sarayat Al Gharbeyah"
+    ],
+    [
+      "Enterprise Sales Development Representative | French Speaking",
+      "Sales",
+      "Dublin 2"
+    ],
+    [
+      "Solutions Engineer, Canada",
+      "Sales",
+      "Toronto"
     ]
   ]
 }
