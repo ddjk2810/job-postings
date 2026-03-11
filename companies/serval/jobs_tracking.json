@@ -1,85 +1,20 @@
 {
-  "last_updated": "2026-03-10T07:34:21.515436",
+  "last_updated": "2026-03-11T06:53:06.293953",
   "job_count": 37,
   "active_count": 29,
   "jobs": [
+    [
+      "Applied AI Engineer",
+      "Engineering",
+      "San Francisco"
+    ],
     [
       "Senior Events Marketing Manager",
       "Marketing",
       "San Francisco"
     ],
     [
-      "Integrated Growth Marketer",
-      "Marketing",
-      "San Francisco"
-    ],
-    [
-      "Enterprise Account Executive",
-      "Sales",
-      "San Francisco"
-    ],
-    [
-      "Senior Field Marketing & ABM Manager, West",
-      "Marketing",
-      "San Francisco"
-    ],
-    [
-      "Growth Associate",
-      "Marketing",
-      "San Francisco"
-    ],
-    [
-      "Customer Success Engineer",
-      "Engineering",
-      "San Francisco"
-    ],
-    [
-      "Growth Marketer",
-      "Marketing",
-      "San Francisco"
-    ],
-    [
-      "Sr. Technical Recruiter",
-      "Talent",
-      "San Francisco"
-    ],
-    [
-      "Recruiting Coordinator",
-      "Talent",
-      "San Francisco"
-    ],
-    [
-      "Head of AI Engineering",
-      "Engineering",
-      "San Francisco"
-    ],
-    [
-      "Sr. Technical Recruiter",
-      "Recruiting",
-      "San Francisco"
-    ],
-    [
-      "GTM Engineer",
-      "Marketing",
-      "San Francisco"
-    ],
-    [
-      "Emerging Talent Recruiter",
-      "Talent",
-      "San Francisco"
-    ],
-    [
-      "Senior Software Engineer, Infrastructure",
-      "Engineering",
-      "San Francisco"
-    ],
-    [
-      "Mid-Market Account Executive",
-      "Sales",
-      "San Francisco"
-    ],
-    [
-      "Senior Software Engineer, Frontend",
+      "Software Engineer Intern",
       "Engineering",
       "San Francisco"
     ],
@@ -89,8 +24,28 @@
       "San Francisco"
     ],
     [
-      "Senior Product GTM Builder",
-      "Marketing",
+      "Sr. Technical Recruiter",
+      "Talent",
+      "San Francisco"
+    ],
+    [
+      "Revenue Strategy & Operations Lead",
+      "Sales",
+      "San Francisco"
+    ],
+    [
+      "Sr. Technical Recruiter",
+      "Recruiting",
+      "San Francisco"
+    ],
+    [
+      "Senior Software Engineer, Frontend",
+      "Engineering",
+      "San Francisco"
+    ],
+    [
+      "Sr. GTM Recruiter",
+      "Recruiting",
       "San Francisco"
     ],
     [
@@ -99,13 +54,23 @@
       "San Francisco"
     ],
     [
-      "Office Manager",
-      "G&A",
+      "Sr. GTM Recruiter",
+      "Talent",
       "San Francisco"
     ],
     [
-      "Forward Deployed Engineer",
-      "Engineering",
+      "Senior Field Marketing & ABM Manager, West",
+      "Marketing",
+      "San Francisco"
+    ],
+    [
+      "Growth Marketer",
+      "Marketing",
+      "San Francisco"
+    ],
+    [
+      "Emerging Talent Recruiter",
+      "Talent",
       "San Francisco"
     ],
     [
@@ -114,18 +79,23 @@
       "San Francisco"
     ],
     [
-      "Software Engineer Intern",
+      "Growth Associate",
+      "Marketing",
+      "San Francisco"
+    ],
+    [
+      "Senior Software Engineer, Fullstack",
       "Engineering",
       "San Francisco"
     ],
     [
-      "Sr. GTM Recruiter",
+      "Recruiting Coordinator",
       "Talent",
       "San Francisco"
     ],
     [
-      "Senior Software Engineer, Backend",
-      "Engineering",
+      "Office Manager",
+      "G&A",
       "San Francisco"
     ],
     [
@@ -134,8 +104,38 @@
       "San Francisco"
     ],
     [
-      "Revenue Strategy & Operations Lead",
+      "Senior Software Engineer, Backend",
+      "Engineering",
+      "San Francisco"
+    ],
+    [
+      "Mid-Market Account Executive",
       "Sales",
+      "San Francisco"
+    ],
+    [
+      "Deployment Strategist",
+      "Engineering",
+      "San Francisco"
+    ],
+    [
+      "Head of Forward Deployed Engineering",
+      "Engineering",
+      "San Francisco"
+    ],
+    [
+      "Integrated Growth Marketer",
+      "Marketing",
+      "San Francisco"
+    ],
+    [
+      "GTM Engineer",
+      "Marketing",
+      "San Francisco"
+    ],
+    [
+      "Forward Deployed Engineer",
+      "Engineering",
       "San Francisco"
     ],
     [
@@ -149,8 +149,33 @@
       "San Francisco"
     ],
     [
-      "Sr. GTM Recruiter",
-      "Recruiting",
+      "Head of AI Engineering",
+      "Engineering",
+      "San Francisco"
+    ],
+    [
+      "Manager, Account Executive | Mid-Market",
+      "Sales",
+      "San Francisco"
+    ],
+    [
+      "Enterprise Account Executive",
+      "Sales",
+      "San Francisco"
+    ],
+    [
+      "Senior Product GTM Builder",
+      "Marketing",
+      "San Francisco"
+    ],
+    [
+      "Customer Success Engineer",
+      "Engineering",
+      "San Francisco"
+    ],
+    [
+      "Senior Software Engineer, Infrastructure",
+      "Engineering",
       "San Francisco"
     ],
     [
@@ -162,31 +187,6 @@
       "Senior Field Marketing & ABM Manager, East",
       "Marketing",
       "New York"
-    ],
-    [
-      "Manager, Account Executive | Mid-Market",
-      "Sales",
-      "San Francisco"
-    ],
-    [
-      "Applied AI Engineer",
-      "Engineering",
-      "San Francisco"
-    ],
-    [
-      "Head of Forward Deployed Engineering",
-      "Engineering",
-      "San Francisco"
-    ],
-    [
-      "Senior Software Engineer, Fullstack",
-      "Engineering",
-      "San Francisco"
-    ],
-    [
-      "Deployment Strategist",
-      "Engineering",
-      "San Francisco"
     ]
   ]
 }
