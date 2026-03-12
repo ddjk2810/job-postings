@@ -1,250 +1,10 @@
 {
-  "last_updated": "2026-03-12T06:55:38.317343",
+  "last_updated": "2026-03-12T07:40:06.881834",
   "job_count": 93,
   "active_count": 20,
   "jobs": [
     [
-      "Lead Development Representative",
-      "",
-      ""
-    ],
-    [
-      "Manager, Mobile Software Engineering",
-      "",
-      ""
-    ],
-    [
-      "Talent Program Manager",
-      "",
-      ""
-    ],
-    [
-      "Customer Success Manager, Enterprise",
-      "",
-      ""
-    ],
-    [
-      "Enterprise Implementation Consultant",
-      "",
-      ""
-    ],
-    [
-      "Events Sr. Specialist (Contractor)",
-      "",
-      ""
-    ],
-    [
-      "Strategic Events Manager, Private Equity",
-      "",
-      ""
-    ],
-    [
-      "Senior Product Designer(Fixed Term Contract)",
-      "",
-      ""
-    ],
-    [
-      "Senior Staff Software Engineer",
-      "",
-      ""
-    ],
-    [
-      "Senior Talent Business Partner",
-      "",
-      ""
-    ],
-    [
-      "Contract Events Associate",
-      "",
-      ""
-    ],
-    [
-      "Senior Manager, AI Engineering",
-      "",
-      ""
-    ],
-    [
-      "Pro Product Specialist, Field Pro",
-      "",
-      ""
-    ],
-    [
-      "Senior Manager, Software Engineering",
-      "",
-      ""
-    ],
-    [
-      "Executive Assistant",
-      "",
-      ""
-    ],
-    [
-      "Customer Support Advocate I",
-      "",
-      ""
-    ],
-    [
-      "Staff Product Designer, Comm+",
-      "",
-      ""
-    ],
-    [
-      "Staff Software Engineer",
-      "",
-      ""
-    ],
-    [
-      "Solutions Architect",
-      "",
-      ""
-    ],
-    [
-      "Training Specialist",
-      "",
-      ""
-    ],
-    [
-      "Channel Partnerships Delivery Manager",
-      "",
-      ""
-    ],
-    [
-      "Technical Support Specialist - Telecom",
-      "",
-      ""
-    ],
-    [
-      "Video Editor",
-      "",
-      ""
-    ],
-    [
-      "Field Sales Development Representative",
-      "",
-      ""
-    ],
-    [
-      "Associate Strategic Development Manager",
-      "",
-      ""
-    ],
-    [
-      "Manager, Software Engineering (Fintech)",
-      "",
-      ""
-    ],
-    [
-      "People Business Partner, Employee Relations Lead",
-      "",
-      ""
-    ],
-    [
-      "Account Executive",
-      "",
-      ""
-    ],
-    [
-      "Data Reconciliation Specialist I",
-      "",
-      ""
-    ],
-    [
-      "Senior Software Engineer, Mobile",
-      "",
-      ""
-    ],
-    [
-      "Manager I, Sales Development",
-      "",
-      ""
-    ],
-    [
-      "ProProduct Sales Development Representative",
-      "",
-      ""
-    ],
-    [
-      "Senior Product Designer (Document Template Engine)",
-      "",
-      ""
-    ],
-    [
-      "Senior Compliance Manager, Trust & Assurance",
-      "",
-      ""
-    ],
-    [
-      "Fintech Support Associate",
-      "",
-      ""
-    ],
-    [
-      "Senior Manager, Workplace Technology",
-      "",
-      ""
-    ],
-    [
-      "Director, Software Engineering",
-      "",
-      ""
-    ],
-    [
-      "Principal Software Engineer",
-      "",
-      ""
-    ],
-    [
-      "Director, Product Monetization & Commercialization",
-      "",
-      ""
-    ],
-    [
-      "Manager, Customer Community",
-      "",
-      ""
-    ],
-    [
-      "Director, Customer Success (Property Care)",
-      "",
-      ""
-    ],
-    [
-      "Senior Manager, Strategic Customer Success",
-      "",
-      ""
-    ],
-    [
-      "Sr. Automation Quality Assurance Engineer",
-      "",
-      ""
-    ],
-    [
-      "Staff AI Engineer",
-      "",
-      ""
-    ],
-    [
-      "Sales Development Representative",
-      "",
-      ""
-    ],
-    [
-      "Lead Software Engineer",
-      "",
-      ""
-    ],
-    [
-      "Staff Site Reliability Engineer",
-      "",
-      ""
-    ],
-    [
-      "Customer Success Manager, Strategic",
-      "",
-      ""
-    ],
-    [
-      "Account Executive, Strategic Customer Sales",
+      "Pro Account Manager",
       "",
       ""
     ],
@@ -254,207 +14,17 @@
       ""
     ],
     [
-      "Lead, Data Quality",
-      "",
-      ""
-    ],
-    [
-      "Senior Director, Portfolio Commercialization & Monetization",
-      "",
-      ""
-    ],
-    [
-      "Fintech Solutions Associate",
-      "",
-      ""
-    ],
-    [
-      "Events Specialist",
-      "",
-      ""
-    ],
-    [
-      "Associate Data Quality Analyst",
-      "",
-      ""
-    ],
-    [
-      "Senior Software Engineer",
-      "",
-      ""
-    ],
-    [
-      "Senior Financial Analyst, FP&A",
-      "",
-      ""
-    ],
-    [
-      "Delivery Manager",
-      "",
-      ""
-    ],
-    [
-      "Senior Events Project Manager",
-      "",
-      ""
-    ],
-    [
-      "Senior Data Scientist",
-      "",
-      ""
-    ],
-    [
-      "Associate Social Media Listener",
-      "",
-      ""
-    ],
-    [
-      "Executive Social Media Manager",
-      "",
-      ""
-    ],
-    [
-      "Staff Product Manager, Australia",
-      "",
-      ""
-    ],
-    [
-      "Senior Product Manager, Identity and User Management",
-      "",
-      ""
-    ],
-    [
-      "Senior Engineering Manager",
-      "",
-      ""
-    ],
-    [
-      "GTM Operations Specialist, AI Automation",
-      "",
-      ""
-    ],
-    [
-      "Customer Success Manager",
-      "",
-      ""
-    ],
-    [
-      "Manager, Fintech Sales",
-      "",
-      ""
-    ],
-    [
-      "Account Executive, Pro Products",
-      "",
-      ""
-    ],
-    [
-      "Principal Data Platform Engineer",
-      "",
-      ""
-    ],
-    [
-      "Manager, Customer Success Enterprise",
-      "",
-      ""
-    ],
-    [
-      "Senior Software Engineer, Full-Stack",
-      "",
-      ""
-    ],
-    [
-      "Senior Workday Engineer, Automation",
-      "",
-      ""
-    ],
-    [
-      "Staff Product Designer, Equipment",
-      "",
-      ""
-    ],
-    [
-      "Pro Account Manager",
-      "",
-      ""
-    ],
-    [
-      "Pro Product Development Representative",
-      "",
-      ""
-    ],
-    [
-      "Pro Product Specialist - Field Pro",
-      "",
-      ""
-    ],
-    [
-      "Seasonal Live Services Agent",
-      "",
-      ""
-    ],
-    [
-      "Lead Product Analyst",
-      "",
-      ""
-    ],
-    [
       "Program Facilitator",
       "",
       ""
     ],
     [
-      "Senior Full Stack Engineer",
-      "",
-      ""
-    ],
-    [
-      "Technical Support Specialist",
-      "",
-      ""
-    ],
-    [
-      "Solutions Engineering, Enterprise Property Care",
-      "",
-      ""
-    ],
-    [
-      "Lead Analyst, People Technology (Total Rewards)",
-      "",
-      ""
-    ],
-    [
-      "Senior Corporate Security Engineer",
-      "",
-      ""
-    ],
-    [
-      "Director, Go-to-Market Monetization & Commercialization",
-      "",
-      ""
-    ],
-    [
-      "Manager, Partner Solutions Consultant",
-      "",
-      ""
-    ],
-    [
-      "Senior Identity Governance Analyst",
-      "",
-      ""
-    ],
-    [
-      "Solutions Engineer, Enterprise",
+      "Senior Manager, Workplace Technology",
       "",
       ""
     ],
     [
       "Lead, Data Governance",
-      "",
-      ""
-    ],
-    [
-      "Events Specialist, Field Events",
       "",
       ""
     ],
@@ -465,6 +35,436 @@
     ],
     [
       "Staff Product Designer (Aspire)",
+      "",
+      ""
+    ],
+    [
+      "Solutions Architect",
+      "",
+      ""
+    ],
+    [
+      "Senior Product Designer (Document Template Engine)",
+      "",
+      ""
+    ],
+    [
+      "Director, Go-to-Market Monetization & Commercialization",
+      "",
+      ""
+    ],
+    [
+      "Field Sales Development Representative",
+      "",
+      ""
+    ],
+    [
+      "GTM Operations Specialist, AI Automation",
+      "",
+      ""
+    ],
+    [
+      "Senior Financial Analyst, FP&A",
+      "",
+      ""
+    ],
+    [
+      "Senior Talent Business Partner",
+      "",
+      ""
+    ],
+    [
+      "Seasonal Live Services Agent",
+      "",
+      ""
+    ],
+    [
+      "Senior Full Stack Engineer",
+      "",
+      ""
+    ],
+    [
+      "Senior Director, Portfolio Commercialization & Monetization",
+      "",
+      ""
+    ],
+    [
+      "Data Reconciliation Specialist I",
+      "",
+      ""
+    ],
+    [
+      "Senior Engineering Manager",
+      "",
+      ""
+    ],
+    [
+      "Senior Compliance Manager, Trust & Assurance",
+      "",
+      ""
+    ],
+    [
+      "Senior Software Engineer, Full-Stack",
+      "",
+      ""
+    ],
+    [
+      "Manager, Mobile Software Engineering",
+      "",
+      ""
+    ],
+    [
+      "Senior Software Engineer, Mobile",
+      "",
+      ""
+    ],
+    [
+      "Staff AI Engineer",
+      "",
+      ""
+    ],
+    [
+      "Senior Software Engineer",
+      "",
+      ""
+    ],
+    [
+      "Manager, Customer Community",
+      "",
+      ""
+    ],
+    [
+      "Manager, Fintech Sales",
+      "",
+      ""
+    ],
+    [
+      "Channel Partnerships Delivery Manager",
+      "",
+      ""
+    ],
+    [
+      "Principal Data Platform Engineer",
+      "",
+      ""
+    ],
+    [
+      "Lead Product Analyst",
+      "",
+      ""
+    ],
+    [
+      "Manager, Partner Solutions Consultant",
+      "",
+      ""
+    ],
+    [
+      "Customer Support Advocate I",
+      "",
+      ""
+    ],
+    [
+      "Staff Site Reliability Engineer",
+      "",
+      ""
+    ],
+    [
+      "Senior Events Project Manager",
+      "",
+      ""
+    ],
+    [
+      "Pro Product Specialist - Field Pro",
+      "",
+      ""
+    ],
+    [
+      "Fintech Solutions Associate",
+      "",
+      ""
+    ],
+    [
+      "People Business Partner, Employee Relations Lead",
+      "",
+      ""
+    ],
+    [
+      "Lead Software Engineer",
+      "",
+      ""
+    ],
+    [
+      "Technical Support Specialist",
+      "",
+      ""
+    ],
+    [
+      "Sales Development Representative",
+      "",
+      ""
+    ],
+    [
+      "Solutions Engineer, Enterprise",
+      "",
+      ""
+    ],
+    [
+      "Customer Success Manager, Strategic",
+      "",
+      ""
+    ],
+    [
+      "Technical Support Specialist - Telecom",
+      "",
+      ""
+    ],
+    [
+      "Senior Product Designer(Fixed Term Contract)",
+      "",
+      ""
+    ],
+    [
+      "Executive Assistant",
+      "",
+      ""
+    ],
+    [
+      "Pro Product Development Representative",
+      "",
+      ""
+    ],
+    [
+      "Lead Analyst, People Technology (Total Rewards)",
+      "",
+      ""
+    ],
+    [
+      "Staff Product Designer, Comm+",
+      "",
+      ""
+    ],
+    [
+      "Director, Customer Success (Property Care)",
+      "",
+      ""
+    ],
+    [
+      "Account Executive, Pro Products",
+      "",
+      ""
+    ],
+    [
+      "Associate Strategic Development Manager",
+      "",
+      ""
+    ],
+    [
+      "Staff Product Designer, Equipment",
+      "",
+      ""
+    ],
+    [
+      "Strategic Events Manager, Private Equity",
+      "",
+      ""
+    ],
+    [
+      "Director, Software Engineering",
+      "",
+      ""
+    ],
+    [
+      "Manager, Customer Success Enterprise",
+      "",
+      ""
+    ],
+    [
+      "Solutions Engineering, Enterprise Property Care",
+      "",
+      ""
+    ],
+    [
+      "Customer Success Manager, Enterprise",
+      "",
+      ""
+    ],
+    [
+      "Senior Workday Engineer, Automation",
+      "",
+      ""
+    ],
+    [
+      "Lead Development Representative",
+      "",
+      ""
+    ],
+    [
+      "Senior Manager, Software Engineering",
+      "",
+      ""
+    ],
+    [
+      "Pro Product Specialist, Field Pro",
+      "",
+      ""
+    ],
+    [
+      "Senior Manager, Strategic Customer Success",
+      "",
+      ""
+    ],
+    [
+      "Senior Data Scientist",
+      "",
+      ""
+    ],
+    [
+      "Principal Software Engineer",
+      "",
+      ""
+    ],
+    [
+      "Sr. Automation Quality Assurance Engineer",
+      "",
+      ""
+    ],
+    [
+      "Associate Data Quality Analyst",
+      "",
+      ""
+    ],
+    [
+      "Delivery Manager",
+      "",
+      ""
+    ],
+    [
+      "Video Editor",
+      "",
+      ""
+    ],
+    [
+      "Training Specialist",
+      "",
+      ""
+    ],
+    [
+      "Lead, Data Quality",
+      "",
+      ""
+    ],
+    [
+      "Events Sr. Specialist (Contractor)",
+      "",
+      ""
+    ],
+    [
+      "ProProduct Sales Development Representative",
+      "",
+      ""
+    ],
+    [
+      "Events Specialist, Field Events",
+      "",
+      ""
+    ],
+    [
+      "Senior Corporate Security Engineer",
+      "",
+      ""
+    ],
+    [
+      "Staff Software Engineer",
+      "",
+      ""
+    ],
+    [
+      "Manager I, Sales Development",
+      "",
+      ""
+    ],
+    [
+      "Enterprise Implementation Consultant",
+      "",
+      ""
+    ],
+    [
+      "Account Executive, Strategic Customer Sales",
+      "",
+      ""
+    ],
+    [
+      "Associate Social Media Listener",
+      "",
+      ""
+    ],
+    [
+      "Senior Product Manager, Identity and User Management",
+      "",
+      ""
+    ],
+    [
+      "Manager, Software Engineering (Fintech)",
+      "",
+      ""
+    ],
+    [
+      "Senior Staff Software Engineer",
+      "",
+      ""
+    ],
+    [
+      "Fintech Support Associate",
+      "",
+      ""
+    ],
+    [
+      "Senior Manager, AI Engineering",
+      "",
+      ""
+    ],
+    [
+      "Account Executive",
+      "",
+      ""
+    ],
+    [
+      "Staff Product Manager, Australia",
+      "",
+      ""
+    ],
+    [
+      "Contract Events Associate",
+      "",
+      ""
+    ],
+    [
+      "Executive Social Media Manager",
+      "",
+      ""
+    ],
+    [
+      "Senior Identity Governance Analyst",
+      "",
+      ""
+    ],
+    [
+      "Director, Product Monetization & Commercialization",
+      "",
+      ""
+    ],
+    [
+      "Events Specialist",
+      "",
+      ""
+    ],
+    [
+      "Talent Program Manager",
+      "",
+      ""
+    ],
+    [
+      "Customer Success Manager",
       "",
       ""
     ]
