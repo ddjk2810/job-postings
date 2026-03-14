@@ -1,32 +1,22 @@
 {
-  "last_updated": "2026-03-13T07:38:43.851560",
+  "last_updated": "2026-03-14T06:47:01.728277",
   "job_count": 68,
   "active_count": 40,
   "jobs": [
     [
-      "Mobile Software Engineer II",
+      "Growth Business Development Representative - SMB",
       "Not specified",
-      "7 Locations"
+      "2 Locations"
     ],
     [
-      "Sr. Machine Learning Engineer - Realm-X",
+      "Digital Marketing Manager, Generative Engine Optimization",
       "Not specified",
       "9 Locations"
     ],
     [
-      "Director, Software Engineering",
+      "Manager, Onboarding Services",
       "Not specified",
-      "Santa Barbara, California"
-    ],
-    [
-      "Associate Product Support Specialist - LiveEasy",
-      "Not specified",
-      "Columbus, Ohio"
-    ],
-    [
-      "Sr. Data Science Engineer, GTM",
-      "Not specified",
-      "9 Locations"
+      "8 Locations"
     ],
     [
       "Business Development Representative - SMB Investment Manager",
@@ -34,54 +24,9 @@
       "2 Locations"
     ],
     [
-      "Staff HRIS Analyst",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
       "Product Support Specialist I - Smart Maintenance",
       "Not specified",
       "Remote, United States"
-    ],
-    [
-      "Technology Risk & Controls Manager",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Sr. Software Engineer - Resident Concierge",
-      "Not specified",
-      "9 Locations"
-    ],
-    [
-      "Manager, Software Engineering - Platform",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Sr. Manager, Internal Audit",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Digital Marketing Manager, Generative Engine Optimization",
-      "Not specified",
-      "9 Locations"
-    ],
-    [
-      "Manager, User Experience Design - ML",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Staff Data Science Engineer, Data Operations",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Business Development Representative - SMB",
-      "Not specified",
-      "Santa Barbara, California"
     ],
     [
       "CCaaS Administrator",
@@ -89,84 +34,9 @@
       "Santa Barbara, California"
     ],
     [
-      "Software Engineer II",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Sr. Software Engineer - Platform",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Team Lead, Concierge - LiveEasy",
-      "Not specified",
-      "Columbus, Ohio"
-    ],
-    [
-      "Business Development Representative - Upmarket",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Director, Corporate Finance",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Software Engineer II - Accounting Entities",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Sr. Events Technology Manager",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Software Engineer II - Investment Manager",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Sr. Site Reliability Engineer - Observability",
+      "Software Engineer II - Resident Concierge",
       "Not specified",
       "9 Locations"
-    ],
-    [
-      "Account Executive - Upmarket (West)",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Growth Account Executive - SMB",
-      "Not specified",
-      "Santa Barbara, California"
-    ],
-    [
-      "Sr. Software Engineer - Deployment Platform",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Manager, Software Engineering",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Sr. Software Engineer - Performance Insights",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Sr. Account Executive - SMB",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Software Engineer II - Accounting Receivables",
-      "Not specified",
-      "8 Locations"
     ],
     [
       "Sr. Manager, Events",
@@ -174,29 +44,19 @@
       "8 Locations"
     ],
     [
-      "Sr. Software Engineer - Data Query",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Sr. Revenue Operations Manager",
-      "Not specified",
-      "9 Locations"
-    ],
-    [
-      "Lead Data Science Engineer, Data Operations",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Manager, Business Development",
+      "Customer Growth Specialist - Resident Services",
       "Not specified",
       "2 Locations"
     ],
     [
-      "Digital Marketing Manager, Generative Engine Optimization",
+      "Sr. Billing Specialist",
       "Not specified",
-      "Santa Barbara, California"
+      "2 Locations"
+    ],
+    [
+      "Staff Data Science Engineer, Data Operations",
+      "Not specified",
+      "5 Locations"
     ],
     [
       "Manager, Upmarket Business Development",
@@ -204,7 +64,57 @@
       "San Diego, California"
     ],
     [
-      "Staff Software Engineer, Enterprise Integration",
+      "Knowledge Management Director",
+      "Not specified",
+      "Santa Barbara, California"
+    ],
+    [
+      "Sr. Revenue Operations Manager",
+      "Not specified",
+      "9 Locations"
+    ],
+    [
+      "Sr. Software Engineer - Performance Insights",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Director, Software Engineering",
+      "Not specified",
+      "Santa Barbara, California"
+    ],
+    [
+      "Director, Corporate Finance",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Manager, Software Engineering - Platform",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Account Executive - Upmarket (West)",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Account Executive - SMB",
+      "Not specified",
+      "Santa Barbara, California"
+    ],
+    [
+      "SVP, Client Services",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Corporate Counsel, Product",
+      "Not specified",
+      "Santa Barbara, California"
+    ],
+    [
+      "Software Engineer II - Accounting Receivables",
       "Not specified",
       "8 Locations"
     ],
@@ -219,54 +129,14 @@
       "8 Locations"
     ],
     [
-      "Staff Software Engineer - Communications",
-      "Not specified",
-      "9 Locations"
-    ],
-    [
-      "Staff Software Engineer - AppFolio Stack",
-      "Not specified",
-      "Santa Barbara, California"
-    ],
-    [
-      "Corporate Counsel, Product",
-      "Not specified",
-      "Santa Barbara, California"
-    ],
-    [
-      "Real-Time Data Engineer II",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Sr. Product Manager",
-      "Not specified",
-      "8 Locations"
-    ],
-    [
-      "Sr. Billing Specialist",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Customer Growth Specialist - Resident Services",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Software Engineer II - Resident Concierge",
-      "Not specified",
-      "9 Locations"
-    ],
-    [
       "Vendor Operations Specialist",
       "Not specified",
       "10 Locations"
     ],
     [
-      "SVP, Client Services",
+      "Lead Data Science Engineer, Data Operations",
       "Not specified",
-      "8 Locations"
+      "5 Locations"
     ],
     [
       "Business Development Representative - SMB",
@@ -274,34 +144,34 @@
       "Dallas, Texas"
     ],
     [
-      "Account Executive - Horizon",
+      "Sr. Manager, Internal Audit",
       "Not specified",
       "4 Locations"
     ],
     [
-      "Account Executive - SMB",
-      "Not specified",
-      "Santa Barbara, California"
-    ],
-    [
-      "Sr. Tax Manager",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Customer Success Manager",
+      "Software Engineer II - Accounting Entities",
       "Not specified",
       "8 Locations"
     ],
     [
-      "User Experience Designer",
+      "Sr. Software Engineer - FolioScreen",
       "Not specified",
       "8 Locations"
     ],
     [
-      "Knowledge Management Director",
+      "Sr. Software Engineer - Deployment Platform",
       "Not specified",
-      "Santa Barbara, California"
+      "8 Locations"
+    ],
+    [
+      "Sr. Product Manager, Data Platform",
+      "Not specified",
+      "Remote, United States"
+    ],
+    [
+      "Technology Risk & Controls Manager",
+      "Not specified",
+      "4 Locations"
     ],
     [
       "Sr. Software Engineer - Affordable Housing",
@@ -309,7 +179,47 @@
       "8 Locations"
     ],
     [
-      "Manager, Onboarding Services",
+      "Associate Product Support Specialist - LiveEasy",
+      "Not specified",
+      "Columbus, Ohio"
+    ],
+    [
+      "Sr. Events Technology Manager",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Staff Software Engineer - Communications",
+      "Not specified",
+      "9 Locations"
+    ],
+    [
+      "Sr. Software Engineer - Resident Concierge",
+      "Not specified",
+      "9 Locations"
+    ],
+    [
+      "Software Engineer II - Investment Manager",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Account Executive - Horizon",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "User Experience Designer",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Software Engineer II",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Staff HRIS Analyst",
       "Not specified",
       "8 Locations"
     ],
@@ -319,19 +229,34 @@
       "4 Locations"
     ],
     [
-      "Growth Business Development Representative - SMB",
+      "Manager, Business Development",
       "Not specified",
       "2 Locations"
     ],
     [
-      "Sr. Product Manager, Data Platform",
+      "Business Development Representative - SMB",
       "Not specified",
-      "Remote, United States"
+      "Santa Barbara, California"
     ],
     [
-      "Sr. Software Engineer - FolioScreen",
+      "Customer Success Manager",
       "Not specified",
       "8 Locations"
+    ],
+    [
+      "Digital Marketing Manager, Generative Engine Optimization",
+      "Not specified",
+      "Santa Barbara, California"
+    ],
+    [
+      "Manager, User Experience Design - ML",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Site Reliability Engineer I",
+      "Not specified",
+      "7 Locations"
     ],
     [
       "Account Executive - SMB",
@@ -339,7 +264,82 @@
       "2 Locations"
     ],
     [
-      "Site Reliability Engineer I",
+      "Staff Software Engineer - AppFolio Stack",
+      "Not specified",
+      "Santa Barbara, California"
+    ],
+    [
+      "Sr. Product Manager",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Manager, Software Engineering",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Growth Account Executive - SMB",
+      "Not specified",
+      "Santa Barbara, California"
+    ],
+    [
+      "Sr. Account Executive - SMB",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Sr. Tax Manager",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Team Lead, Concierge - LiveEasy",
+      "Not specified",
+      "Columbus, Ohio"
+    ],
+    [
+      "Sr. Software Engineer - Platform",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Staff Software Engineer, Enterprise Integration",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Sr. Site Reliability Engineer - Observability",
+      "Not specified",
+      "9 Locations"
+    ],
+    [
+      "Real-Time Data Engineer II",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Sr. Machine Learning Engineer - Realm-X",
+      "Not specified",
+      "9 Locations"
+    ],
+    [
+      "Sr. Data Science Engineer, GTM",
+      "Not specified",
+      "9 Locations"
+    ],
+    [
+      "Business Development Representative - Upmarket",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sr. Software Engineer - Data Query",
+      "Not specified",
+      "8 Locations"
+    ],
+    [
+      "Mobile Software Engineer II",
       "Not specified",
       "7 Locations"
     ]

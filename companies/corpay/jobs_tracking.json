@@ -1,153 +1,8 @@
 {
-  "last_updated": "2026-03-13T07:38:44.154198",
-  "job_count": 95,
+  "last_updated": "2026-03-14T06:47:02.118896",
+  "job_count": 96,
   "active_count": 56,
   "jobs": [
-    [
-      "Commercial Analyst",
-      "Not specified",
-      "Auckland - IVP"
-    ],
-    [
-      "Technical Sales Support Lead",
-      "Not specified",
-      "Chennai - Cross Border"
-    ],
-    [
-      "Distressed Passenger Agent",
-      "Not specified",
-      "Mexico Remote - Lodging"
-    ],
-    [
-      "Account Manager",
-      "Not specified",
-      "Auckland - IVP"
-    ],
-    [
-      "Sales Executive",
-      "Not specified",
-      "Swindon"
-    ],
-    [
-      "Senior Partner Relationship Manager",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Client Account Manager",
-      "Not specified",
-      "Boulogne - Parking"
-    ],
-    [
-      "Customer Support Associate",
-      "Not specified",
-      "Nagpur - Payables"
-    ],
-    [
-      "Customer Success Manager",
-      "Not specified",
-      "Copenhagen"
-    ],
-    [
-      "Senior Growth Marketing Manager - APAC",
-      "Not specified",
-      "Melbourne - IVP"
-    ],
-    [
-      "Regulatory Compliance Officer \u2013 Portugal",
-      "Not specified",
-      "Madrid Genova - Cross Border"
-    ],
-    [
-      "Paid Media Manager",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Not specified",
-      "Not specified",
-      "Not specified"
-    ],
-    [
-      "Senior Product Manager, Customer Tools",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Client Project Executive",
-      "Not specified",
-      "Hatfield - Parking"
-    ],
-    [
-      "Inbound Sales Executive",
-      "Not specified",
-      "Melbourne - IVP"
-    ],
-    [
-      "Outbound Sales Executive",
-      "Not specified",
-      "Melbourne - IVP"
-    ],
-    [
-      "Business Title IT Dev Senior (Software Engineer) - Contractor",
-      "Not specified",
-      "Europe Remote - Parking"
-    ],
-    [
-      "Regulatory Compliance Officer \u2013 France",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Manager, FP&A",
-      "Not specified",
-      "Vancouver - Parking"
-    ],
-    [
-      "Junior HR Employee Experience Partner",
-      "Not specified",
-      "Knaresborough"
-    ],
-    [
-      "Power BI Developer Lead",
-      "Not specified",
-      "Chennai - Cross Border"
-    ],
-    [
-      "Account Manager",
-      "Not specified",
-      "UK Remote - Lodging"
-    ],
-    [
-      "Marketing Communications Manager - APAC",
-      "Not specified",
-      "Melbourne - IVP"
-    ],
-    [
-      "Office Support Executive",
-      "Not specified",
-      "Meriden"
-    ],
-    [
-      "Collections Officer",
-      "Not specified",
-      "Ipswich"
-    ],
-    [
-      "IT Dev Senior (Software Engineer) - Contractor",
-      "Not specified",
-      "Europe Remote - Parking"
-    ],
-    [
-      "Payments Compliance Analyst",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Compliance Analyst",
-      "Not specified",
-      "Singapore - Cross Border"
-    ],
     [
       "Team Lead Accounting with German",
       "Not specified",
@@ -159,69 +14,14 @@
       "Hatfield - Parking"
     ],
     [
-      "IT Infr Senior (software engineer) - Contractor",
+      "Customer Support Associate",
       "Not specified",
-      "Europe Remote - Parking"
+      "Nagpur - Payables"
     ],
     [
-      "AR Accountant",
+      "Marketing & Communications Manager",
       "Not specified",
-      "Prague"
-    ],
-    [
-      "Product Application Specialist",
-      "Not specified",
-      "Meriden"
-    ],
-    [
-      "Card Product Manager",
-      "Not specified",
-      "London Vincent Square - IVP"
-    ],
-    [
-      "AP Accountant",
-      "Not specified",
-      "Prague"
-    ],
-    [
-      "Customer Support Agent",
-      "Not specified",
-      "Copenhagen"
-    ],
-    [
-      "Full Stack Developer",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Insight Analyst",
-      "Not specified",
-      "Swindon"
-    ],
-    [
-      "Implementation Manager",
-      "Not specified",
-      "London Vincent Square - IVP"
-    ],
-    [
-      "Sales Development Representative",
-      "Not specified",
-      "Swindon"
-    ],
-    [
-      "Senior Manager, Sales Transformation",
-      "Not specified",
-      "London Vincent Square - IVP"
-    ],
-    [
-      "Senior Regulatory Reporting Analyst",
-      "Not specified",
-      "Chennai - Cross Border"
-    ],
-    [
-      "Payroll Specialist",
-      "Not specified",
-      "Prague"
+      "Melbourne - IVP"
     ],
     [
       "Global Payroll Specialist",
@@ -229,22 +29,132 @@
       "Auckland - IVP"
     ],
     [
+      "Business Development Representative",
+      "Not specified",
+      "Copenhagen"
+    ],
+    [
+      "Insight Analyst",
+      "Not specified",
+      "Swindon"
+    ],
+    [
+      "Staff CloudOps Developer",
+      "Not specified",
+      "Vancouver - Parking"
+    ],
+    [
+      "Marketing Communications Manager - APAC",
+      "Not specified",
+      "Melbourne - IVP"
+    ],
+    [
+      "Junior HR Employee Experience Partner",
+      "Not specified",
+      "Knaresborough"
+    ],
+    [
+      "Variable Sales - Compensation Analyst",
+      "Not specified",
+      "Chennai - Cross Border"
+    ],
+    [
+      "Payments Compliance Analyst",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Sales Executive",
+      "Not specified",
+      "Swindon"
+    ],
+    [
+      "Compliance Analyst",
+      "Not specified",
+      "Singapore - Cross Border"
+    ],
+    [
+      "Customer Support Advisor",
+      "Not specified",
+      "Meriden"
+    ],
+    [
+      "Growth Marketing Manager UKF",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Senior Regulatory Reporting Analyst",
+      "Not specified",
+      "Chennai - Cross Border"
+    ],
+    [
+      "Inbound Sales Executive",
+      "Not specified",
+      "Melbourne - IVP"
+    ],
+    [
+      "Account Manager",
+      "Not specified",
+      "Auckland - IVP"
+    ],
+    [
+      "Sales Development Representative",
+      "Not specified",
+      "Swindon"
+    ],
+    [
+      "Senior SEO Manager",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Product Application Specialist",
+      "Not specified",
+      "Meriden"
+    ],
+    [
+      "Regulatory Compliance Officer \u2013 Portugal",
+      "Not specified",
+      "Madrid Genova - Cross Border"
+    ],
+    [
+      "FP&A Analyst",
+      "Not specified",
+      "Prague"
+    ],
+    [
+      "Senior Commercial Analyst",
+      "Not specified",
+      "Melbourne - IVP"
+    ],
+    [
       "Master Data Management Data Steward",
       "Not specified",
       "Nagpur - Payables"
     ],
     [
-      "Team Lead Accounting with German",
+      "Full Stack Developer",
       "Not specified",
-      "Berlin - IVP"
+      "2 Locations"
     ],
     [
-      "Inside Sales Representative",
+      "Sales Enablement Manager",
       "Not specified",
-      "Almere"
+      "2 Locations"
     ],
     [
-      "Accounts Receivable Coordinator",
+      "Collections Specialist",
+      "Not specified",
+      "Dublin - Lodging"
+    ],
+    [
+      "Technical Sales Support Lead",
+      "Not specified",
+      "Chennai - Cross Border"
+    ],
+    [
+      "Manager, FP&A",
       "Not specified",
       "Vancouver - Parking"
     ],
@@ -254,54 +164,24 @@
       "Vancouver - Parking"
     ],
     [
-      "Senior Operations Manager",
-      "Not specified",
-      "Chennai - Cross Border"
-    ],
-    [
-      "Sales Enablement Manager",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Senior SEO Manager",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Senior Flutter Developer",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Chief of Staff",
-      "Not specified",
-      "Chennai - Cross Border"
-    ],
-    [
-      "Partner Manager",
-      "Not specified",
-      "Almere"
-    ],
-    [
       "Process Associate",
       "Not specified",
       "Nagpur - Payables"
     ],
     [
-      "FX Developer",
+      "Customer Service Back Office (Maternity Cover)",
       "Not specified",
-      "Madrid Genova - Cross Border"
+      "Prague"
     ],
     [
-      "Inside Sales Professional",
+      "Business Development Manager",
       "Not specified",
       "2 Locations"
     ],
     [
-      "Roaming Operations Manager",
+      "AR Accountant",
       "Not specified",
-      "2 Locations"
+      "Prague"
     ],
     [
       "Marketing Cloud Specialist - Contract",
@@ -314,117 +194,32 @@
       "2 Locations"
     ],
     [
-      "Senior Test Automation Engineer",
-      "Not specified",
-      "Auckland - IVP"
-    ],
-    [
-      "Director Global Strategy",
-      "Not specified",
-      "London Vincent Square - IVP"
-    ],
-    [
-      "Staff CloudOps Developer",
-      "Not specified",
-      "Vancouver - Parking"
-    ],
-    [
-      "Customer Support Advisor",
-      "Not specified",
-      "Meriden"
-    ],
-    [
-      "Business Development Executive",
-      "Not specified",
-      "Swindon"
-    ],
-    [
-      "Business Development Manager",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Salesforce Developer",
-      "Not specified",
-      "Chennai - Cross Border"
-    ],
-    [
-      "Enterprise Architect",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Senior Product Manager (15 month FTC - Maternity cover)",
-      "Not specified",
-      "Vancouver - Parking"
-    ],
-    [
-      "Business Development Representative",
-      "Not specified",
-      "Copenhagen"
-    ],
-    [
-      "Collections Specialist",
-      "Not specified",
-      "Dublin - Lodging"
-    ],
-    [
-      "Risk Support Analyst",
-      "Not specified",
-      "Swindon"
-    ],
-    [
-      "Salesforce CRM Manager",
-      "Not specified",
-      "Auckland - IVP"
-    ],
-    [
-      "Business Development Executive",
+      "Outbound Sales Consultant \u2013 Fuelcards",
       "Not specified",
       "Melbourne - IVP"
     ],
     [
-      "Senior Commercial Analyst",
-      "Not specified",
-      "Melbourne - IVP"
-    ],
-    [
-      "Finance Manager",
-      "Not specified",
-      "Chennai - Cross Border"
-    ],
-    [
-      "Collections Officer - Part-Time",
+      "Collections Officer",
       "Not specified",
       "Ipswich"
     ],
     [
-      "Compliance Analyst",
+      "Power BI Developer Lead",
       "Not specified",
       "Chennai - Cross Border"
     ],
     [
-      "FP&A Analyst",
+      "IT Infr Senior (software engineer) - Contractor",
       "Not specified",
-      "Prague"
+      "Europe Remote - Parking"
     ],
     [
-      "Marketing & Communications Manager",
+      "Distressed Passenger Agent",
       "Not specified",
-      "Melbourne - IVP"
+      "Mexico Remote - Lodging"
     ],
     [
-      "Senior Revenue Financial Analyst",
-      "Not specified",
-      "Meriden"
-    ],
-    [
-      "Senior Application Support Engineer",
-      "Not specified",
-      "Mexico City - Lodging"
-    ],
-    [
-      "Sales Trainer",
+      "Business Development Executive",
       "Not specified",
       "Swindon"
     ],
@@ -434,9 +229,44 @@
       "Swindon"
     ],
     [
-      "Sales Executive",
+      "Paid Media Manager",
       "Not specified",
-      "Knaresborough"
+      "2 Locations"
+    ],
+    [
+      "IT Dev Senior (Software Engineer) - Contractor",
+      "Not specified",
+      "Europe Remote - Parking"
+    ],
+    [
+      "Chief of Staff",
+      "Not specified",
+      "Chennai - Cross Border"
+    ],
+    [
+      "General Counsel",
+      "Not specified",
+      "Vancouver - Parking"
+    ],
+    [
+      "Inside Sales Professional",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Business Title IT Dev Senior (Software Engineer) - Contractor",
+      "Not specified",
+      "Europe Remote - Parking"
+    ],
+    [
+      "Salesforce Developer",
+      "Not specified",
+      "Chennai - Cross Border"
+    ],
+    [
+      "Senior Product Manager (15 month FTC - Maternity cover)",
+      "Not specified",
+      "Vancouver - Parking"
     ],
     [
       "Customer Services Advisor",
@@ -444,24 +274,44 @@
       "Swindon"
     ],
     [
-      "Variable Sales - Compensation Analyst",
+      "Finance Manager",
       "Not specified",
       "Chennai - Cross Border"
     ],
     [
-      "Customer Service Back Office (Maternity Cover)",
+      "Office Support Executive",
       "Not specified",
-      "Prague"
+      "Meriden"
     ],
     [
-      "QA Engineer II",
+      "Senior Flutter Developer",
       "Not specified",
-      "Nagpur - Payables"
+      "3 Locations"
     ],
     [
-      "Outbound Sales Consultant \u2013 Fuelcards",
+      "Accounts Receivable Coordinator",
+      "Not specified",
+      "Vancouver - Parking"
+    ],
+    [
+      "Risk Support Analyst",
+      "Not specified",
+      "Swindon"
+    ],
+    [
+      "Senior Growth Marketing Manager - APAC",
       "Not specified",
       "Melbourne - IVP"
+    ],
+    [
+      "Business Development Executive",
+      "Not specified",
+      "Melbourne - IVP"
+    ],
+    [
+      "Payroll Specialist",
+      "Not specified",
+      "Prague"
     ],
     [
       "Head of FP&A",
@@ -469,14 +319,169 @@
       "Prague"
     ],
     [
-      "Business Development Manager",
+      "Account Manager",
+      "Not specified",
+      "UK Remote - Lodging"
+    ],
+    [
+      "Senior Manager, Sales Transformation",
+      "Not specified",
+      "London Vincent Square - IVP"
+    ],
+    [
+      "Collections Officer - Part-Time",
+      "Not specified",
+      "Ipswich"
+    ],
+    [
+      "Enterprise Architect",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Senior Partner Relationship Manager",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Senior Test Automation Engineer",
+      "Not specified",
+      "Auckland - IVP"
+    ],
+    [
+      "Regulatory Compliance Officer \u2013 France",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Client Account Manager",
+      "Not specified",
+      "Boulogne - Parking"
+    ],
+    [
+      "AP Accountant",
+      "Not specified",
+      "Prague"
+    ],
+    [
+      "Card Product Manager",
+      "Not specified",
+      "London Vincent Square - IVP"
+    ],
+    [
+      "Compliance Analyst",
+      "Not specified",
+      "Chennai - Cross Border"
+    ],
+    [
+      "Customer Support Agent",
+      "Not specified",
+      "Copenhagen"
+    ],
+    [
+      "Sales Executive",
+      "Not specified",
+      "Knaresborough"
+    ],
+    [
+      "Customer Success Manager",
+      "Not specified",
+      "Copenhagen"
+    ],
+    [
+      "Sales Trainer",
+      "Not specified",
+      "Swindon"
+    ],
+    [
+      "Senior Product Manager, Customer Tools",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Commercial Analyst",
+      "Not specified",
+      "Auckland - IVP"
+    ],
+    [
+      "Outbound Sales Executive",
+      "Not specified",
+      "Melbourne - IVP"
+    ],
+    [
+      "Salesforce CRM Manager",
+      "Not specified",
+      "Auckland - IVP"
+    ],
+    [
+      "Director Global Strategy",
+      "Not specified",
+      "London Vincent Square - IVP"
+    ],
+    [
+      "Client Project Executive",
+      "Not specified",
+      "Hatfield - Parking"
+    ],
+    [
+      "FX Developer",
+      "Not specified",
+      "Madrid Genova - Cross Border"
+    ],
+    [
+      "Senior Application Support Engineer",
+      "Not specified",
+      "Mexico City - Lodging"
+    ],
+    [
+      "Partner Manager",
+      "Not specified",
+      "Almere"
+    ],
+    [
+      "Senior Revenue Financial Analyst",
       "Not specified",
       "Meriden"
     ],
     [
-      "General Counsel",
+      "QA Engineer II",
       "Not specified",
-      "Vancouver - Parking"
+      "Nagpur - Payables"
+    ],
+    [
+      "Implementation Manager",
+      "Not specified",
+      "London Vincent Square - IVP"
+    ],
+    [
+      "Not specified",
+      "Not specified",
+      "Not specified"
+    ],
+    [
+      "Inside Sales Representative",
+      "Not specified",
+      "Almere"
+    ],
+    [
+      "Senior Operations Manager",
+      "Not specified",
+      "Chennai - Cross Border"
+    ],
+    [
+      "Team Lead Accounting with German",
+      "Not specified",
+      "Berlin - IVP"
+    ],
+    [
+      "Roaming Operations Manager",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Business Development Manager",
+      "Not specified",
+      "Meriden"
     ]
   ]
 }
