@@ -1,132 +1,22 @@
 {
-  "last_updated": "2026-03-15T06:58:30.659555",
+  "last_updated": "2026-03-15T07:39:09.076302",
   "job_count": 135,
   "active_count": 83,
   "jobs": [
-    [
-      "Product Owner",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Senior Fraud Intelligence Analyst",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Director of Fraud Escalations",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Software Engineer",
-      "Not specified",
-      "Cary, North Carolina"
-    ],
-    [
-      "Senior Compensation Analyst",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Customer Marketing Programs Manager",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Associate Customer Success Manager",
-      "Not specified",
-      "Austin, TX"
-    ],
     [
       "Business Consultant",
       "Not specified",
       "3 Locations"
     ],
     [
-      "Senior Marketing Manager",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "FP&A Manager, Financial Operations",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Staff Developer Experience Platform Engineer",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "Senior Software Developer in Test",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "Financial Analyst",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "2026 Summer Internship - Product Management",
-      "Not specified",
-      "Not specified"
-    ],
-    [
-      "Manager, Sales - Innovation Studio",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Not specified",
-      "Not specified",
-      "Not specified"
-    ],
-    [
-      "Senior Regional Sales Manager",
+      "Senior Customer Success Manager",
       "Not specified",
       "5 Locations"
     ],
     [
-      "Director, Technical Customer Support",
+      "Revenue Accountant",
       "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Marketing Communications Specialist",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Business Analyst - Card Processing",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Manager, Software Engineer",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "Financial Analyst",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Senior Strategic Business Advisor",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Senior Product Marketer",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Operations Project Manager",
-      "Not specified",
-      "Austin, TX"
+      "Remote, Mexico"
     ],
     [
       "Senior Account Based Marketing Manager",
@@ -134,14 +24,34 @@
       "Austin, TX"
     ],
     [
-      "Staff Software Engineer",
+      "Senior Regional Sales Manager, Symphonix",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "2026 Summer Internship - Sales/Customer Success",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Manager, Software Engineering",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Manager, Sales - Innovation Studio",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Application Support Analyst",
       "Not specified",
       "Bangalore, India"
     ],
     [
-      "Senior Tax Accountant - US Sales Tax",
+      "Contracts Administrator",
       "Not specified",
-      "Bangalore, India"
+      "Austin, TX"
     ],
     [
       "Strategic Alliance Partner Manager",
@@ -149,47 +59,12 @@
       "5 Locations"
     ],
     [
-      "Revenue Accountant",
+      "Senior Relationship Development Specialist",
       "Not specified",
-      "2 Locations"
+      "Sydney, Australia"
     ],
     [
-      "2026 Summer Internship - Marketing",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Regulatory Compliance Analyst",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Senior End User Adoption Specialist",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Customer Experience Manager",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "System Administrator",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Manager, Software Engineering",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "Site Reliability Engineer",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Implementation Business Analyst - Quote & SOW",
+      "FP&A Manager, Financial Operations",
       "Not specified",
       "Austin, TX"
     ],
@@ -199,24 +74,114 @@
       "Austin, TX"
     ],
     [
-      "Associate Contract Specialist",
+      "Senior Product Owner",
       "Not specified",
       "Bangalore, India"
     ],
     [
-      "Application Support Analyst",
+      "Customer Success Manager",
       "Not specified",
       "Austin, TX"
     ],
     [
-      "Manager Software Engineering",
+      "Operations Project Manager",
       "Not specified",
-      "2 Locations"
+      "Austin, TX"
     ],
     [
-      "Senior Regional Sales Manager, Symphonix",
+      "Growth Marketing Manager",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Senior Fraud Intelligence Analyst",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Software Engineer",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Senior Strategic Business Advisor",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Senior Program Manager",
       "Not specified",
       "5 Locations"
+    ],
+    [
+      "Sr. Director, Product Security & Engineering",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Senior Solutions Consultant",
+      "Not specified",
+      "Sydney, Australia"
+    ],
+    [
+      "Application Support Analyst",
+      "Not specified",
+      "Remote, Mexico"
+    ],
+    [
+      "Lead Enterprise Application Engineer",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "Senior Quality Engineer",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "Director, Product Management",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "Customer Experience Manager",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Developer Experience Platform Engineer",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "Senior Software Engineer",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Tradeshow and Events Associate",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "RFQ Analyst",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Director of Fraud Escalations",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Enterprise Leadership & Performance Management Specialist",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Senior Operations Project Manager",
+      "Not specified",
+      "2 Locations"
     ],
     [
       "Enterprise Application Engineer",
@@ -224,32 +189,47 @@
       "2 Locations"
     ],
     [
-      "Financial Analyst",
+      "Relationship Development Specialist",
       "Not specified",
-      "Remote, Mexico"
+      "Sydney, Australia"
     ],
     [
-      "Manager, Software Engineering",
+      "Associate Contract Specialist",
       "Not specified",
-      "Austin, TX"
+      "Bangalore, India"
     ],
     [
-      "Contracts Administrator",
+      "Senior Developer Experience Platform Engineer",
       "Not specified",
-      "Austin, TX"
+      "Bangalore, India"
     ],
     [
-      "Quality Engineer",
-      "Not specified",
-      "3 Locations"
-    ],
-    [
-      "Senior Manager, Software Engineer",
+      "Director, Technical Customer Support",
       "Not specified",
       "Austin, TX"
     ],
     [
-      "Senior Implementations Engineer",
+      "Product Owner",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Senior End User Adoption Specialist",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Senior Solutions Consultant - Symphonix",
+      "Not specified",
+      "Sydney, Australia"
+    ],
+    [
+      "Program Manager, Transformation",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Senior Internal Auditor \u2013 IT Risk Audit (Enterprise Risk Assessment)",
       "Not specified",
       "Bangalore, India"
     ],
@@ -261,255 +241,40 @@
     [
       "Implementation Engineer",
       "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Manager Software Engineering",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Data Platform Engineer",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "System Administrator",
+      "Not specified",
       "Austin, TX"
     ],
     [
-      "Senior Product Owner",
+      "Financial Analyst",
       "Not specified",
-      "Bangalore, India"
+      "Austin, TX"
     ],
     [
       "Product Owner",
       "Not specified",
-      "5 Locations"
+      "3 Locations"
     ],
     [
-      "Technical Writer",
+      "Financial Analyst",
       "Not specified",
       "2 Locations"
-    ],
-    [
-      "Relationship Development Specialist",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Manager, Customer Support",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "Growth Marketing Manager",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Application Support Analyst",
-      "Not specified",
-      "Remote, Mexico"
-    ],
-    [
-      "Associate Data Engineer",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "Tradeshow and Events Associate",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Enterprise Leadership & Performance Management Specialist",
-      "Not specified",
-      "Austin, TX"
     ],
     [
       "Intermediate Software Engineer",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "RFQ Analyst",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Lead DevOps Engineer",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "Senior Regional Sales Manager, Relationship Pricing",
-      "Not specified",
-      "6 Locations"
-    ],
-    [
-      "Strategic Business Advisor",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "2026 Summer Internship - Software Engineering/Data Science",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Senior Operations Project Manager",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Staff Software Engineer",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Senior Client Experience Manager",
-      "Not specified",
-      "Austin, Texas"
-    ],
-    [
-      "Senior Data Engineer",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "Senior Site Reliability Engineer",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "Senior Solutions Consultant",
-      "Not specified",
-      "Sydney, Australia"
-    ],
-    [
-      "Senior Software Engineer",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "Associate Software Developer in Test",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "Customer Programs Manager",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Senior Staff Software Engineer",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "Senior  Staff Database Engineer",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "Sr. Director, Product Security & Engineering",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Associate Marketing Operations Specialist",
-      "Not specified",
-      "Remote, Mexico"
-    ],
-    [
-      "Senior Internal Auditor \u2013 IT Risk Audit (Enterprise Risk Assessment)",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "Senior Software Engineer",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Senior Manager, Software Engineering",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Revenue Accountant",
-      "Not specified",
-      "Remote, Mexico"
-    ],
-    [
-      "Senior Quality Engineer",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "2026 Summer Internship - Sales/Customer Success",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Software Engineer",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "Contract Specialist",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Program Manager, Transformation",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Application Support Engineer",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Developer Experience Platform Engineer",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "Fraud Analyst",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Lead Enterprise Application Engineer",
-      "Not specified",
-      "Bangalore, India"
-    ],
-    [
-      "Principal Engineer",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Sales Operations Analyst",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Senior Solutions Consultant",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Senior Marketing Adoption Strategist",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Senior Program Manager",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Senior Financial Analyst",
-      "Not specified",
-      "Remote, Mexico"
-    ],
-    [
-      "Implementation Engineer",
-      "Not specified",
-      "4 Locations"
-    ],
-    [
-      "Senior Lead - Developer Experience Platform Engineering",
       "Not specified",
       "Bangalore, India"
     ],
@@ -519,12 +284,192 @@
       "Austin, TX"
     ],
     [
-      "Product Owner",
+      "Senior Marketing Adoption Strategist",
+      "Not specified",
+      "4 Locations"
+    ],
+    [
+      "Senior Manager, Software Engineer",
       "Not specified",
       "Austin, TX"
     ],
     [
+      "Business Analyst",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Associate Customer Success Manager",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Financial Analyst",
+      "Not specified",
+      "Remote, Mexico"
+    ],
+    [
+      "Sr. Director, Customer Support",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Customer Marketing Programs Manager",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Product Owner",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Application Support Analyst",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Principal Transformation Partner",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Lead DevOps Engineer",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "Revenue Accountant",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Regulatory Compliance Analyst",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Strategic Business Advisor",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Senior Software Engineer - C#/.Net",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "Application Support Analyst",
+      "Not specified",
+      "Lincoln, Nebraska"
+    ],
+    [
+      "Senior Staff Software Engineer",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "Relationship Development Specialist",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Site Reliability Engineer",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Field Marketing Manager",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Senior Regional Sales Manager",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Staff Software Engineer",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "2026 Summer Internship - Product Management",
+      "Not specified",
+      "Not specified"
+    ],
+    [
+      "Senior Solutions Consultant",
+      "Not specified",
+      "5 Locations"
+    ],
+    [
+      "Business Analyst - Card Processing",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Senior Regional Sales Manager, Relationship Pricing",
+      "Not specified",
+      "6 Locations"
+    ],
+    [
+      "Data Migration Engineer",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Product Readiness Manager",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Manager, Customer Support",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
       "Sr. Software Engineer in Test",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Marketing Communications Specialist",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Senior Product Marketer",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "2026 Summer Internship - Marketing",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Associate Software Developer in Test",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "Senior Application Analyst - GitHub/GitLab",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "Staff Developer Experience Platform Engineer",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "Technical Writer",
+      "Not specified",
+      "2 Locations"
+    ],
+    [
+      "Fraud Analyst",
       "Not specified",
       "Austin, TX"
     ],
@@ -534,57 +479,52 @@
       "5 Locations"
     ],
     [
-      "Revenue Accountant",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Relationship Development Specialist",
-      "Not specified",
-      "Sydney, Australia"
-    ],
-    [
-      "Principal Transformation Partner",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Data Migration Engineer",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Sr. Director, Customer Support",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "2026 Summer Internship - Finance",
-      "Not specified",
-      "Not specified"
-    ],
-    [
-      "Lead Operations Analyst",
+      "Senior Enterprise Application Support Engineer",
       "Not specified",
       "Bangalore, India"
     ],
     [
-      "Senior Manager, Support Operations Enablement",
+      "Senior Site Reliability Engineer",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "2026 Summer Internship - Software Engineering/Data Science",
       "Not specified",
       "Austin, TX"
     ],
     [
-      "Senior Solutions Consultant - Symphonix",
+      "Senior Financial Analyst",
       "Not specified",
-      "Sydney, Australia"
+      "Remote, Mexico"
     ],
     [
-      "Data Platform Engineer",
+      "Associate Data Engineer",
       "Not specified",
-      "2 Locations"
+      "Bangalore, India"
     ],
     [
-      "Senior Enterprise Application Support Engineer",
+      "Manager, Software Engineering",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "Senior Manager, Software Engineering",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Contract Specialist",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Senior  Staff Database Engineer",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "Senior Lead - Developer Experience Platform Engineering",
       "Not specified",
       "Bangalore, India"
     ],
@@ -594,7 +534,82 @@
       "Bangalore, India"
     ],
     [
-      "Customer Success Manager",
+      "2026 Summer Internship - Finance",
+      "Not specified",
+      "Not specified"
+    ],
+    [
+      "Senior Tax Accountant - US Sales Tax",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "Senior Software Developer in Test",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "Implementation Engineer",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Software Engineer",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "Senior Business Analyst",
+      "Not specified",
+      "Sydney, Australia"
+    ],
+    [
+      "Customer Programs Manager",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Senior Staff- Developer Experience Platform Engineering",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "Staff Software Engineer",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Manager, Software Engineer",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "Application Support Engineer",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Associate Marketing Operations Specialist",
+      "Not specified",
+      "Remote, Mexico"
+    ],
+    [
+      "Senior Software Engineer",
+      "Not specified",
+      "Bangalore, India"
+    ],
+    [
+      "Quality Engineer",
+      "Not specified",
+      "3 Locations"
+    ],
+    [
+      "Senior Manager, Support Operations Enablement",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Sales Operations Analyst",
       "Not specified",
       "Austin, TX"
     ],
@@ -604,44 +619,49 @@
       "Austin, TX"
     ],
     [
-      "Senior Business Analyst",
-      "Not specified",
-      "Sydney, Australia"
-    ],
-    [
-      "Senior Application Analyst - GitHub/GitLab",
+      "Senior Data Engineer",
       "Not specified",
       "Bangalore, India"
     ],
     [
-      "Product Readiness Manager",
-      "Not specified",
-      "2 Locations"
-    ],
-    [
-      "Senior Customer Success Manager",
-      "Not specified",
-      "5 Locations"
-    ],
-    [
-      "Senior Software Engineer - C#/.Net",
+      "Lead Operations Analyst",
       "Not specified",
       "Bangalore, India"
     ],
     [
-      "Senior Staff- Developer Experience Platform Engineering",
+      "Senior Implementations Engineer",
       "Not specified",
       "Bangalore, India"
     ],
     [
-      "Director, Product Management",
       "Not specified",
-      "Bangalore, India"
+      "Not specified",
+      "Not specified"
     ],
     [
-      "Application Support Analyst",
+      "Principal Engineer",
       "Not specified",
-      "Bangalore, India"
+      "Austin, TX"
+    ],
+    [
+      "Senior Client Experience Manager",
+      "Not specified",
+      "Austin, Texas"
+    ],
+    [
+      "Senior Compensation Analyst",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Senior Marketing Manager",
+      "Not specified",
+      "Austin, TX"
+    ],
+    [
+      "Software Engineer",
+      "Not specified",
+      "Cary, North Carolina"
     ],
     [
       "Unified Communications Specialist",
@@ -649,34 +669,14 @@
       "Austin, TX"
     ],
     [
-      "Application Support Analyst",
-      "Not specified",
-      "Lincoln, Nebraska"
-    ],
-    [
-      "Senior Relationship Development Specialist",
-      "Not specified",
-      "Sydney, Australia"
-    ],
-    [
-      "Business Analyst",
+      "Implementation Business Analyst - Quote & SOW",
       "Not specified",
       "Austin, TX"
     ],
     [
-      "Software Engineer",
+      "Revenue Accountant",
       "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Field Marketing Manager",
-      "Not specified",
-      "Austin, TX"
-    ],
-    [
-      "Senior Developer Experience Platform Engineer",
-      "Not specified",
-      "Bangalore, India"
+      "2 Locations"
     ]
   ]
 }

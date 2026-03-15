@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-03-14T07:29:25.922871",
+  "last_updated": "2026-03-15T07:39:08.003384",
   "job_count": 10,
   "active_count": 7,
   "jobs": [
-    [
-      "Program Manager - Kings Dominion",
-      "Not specified",
-      "Doswell, Virginia, United States"
-    ],
-    [
-      "Senior Software Engineer",
-      "Not specified",
-      "Milan, Italy"
-    ],
     [
       "Client Success Manager",
       "Not specified",
@@ -24,19 +14,24 @@
       "All Locations"
     ],
     [
+      "Senior Software Engineer",
+      "Not specified",
+      "Milan, Italy"
+    ],
+    [
+      "Program Manager - Kings Dominion",
+      "Not specified",
+      "Doswell, Virginia, United States"
+    ],
+    [
+      "Director of Operations",
+      "Not specified",
+      "Dubai, United Arab Emirates"
+    ],
+    [
       "Program Manager - Carowinds",
       "Not specified",
       "Charlotte, North Carolina, United States"
-    ],
-    [
-      "Senior Software Engineer",
-      "Not specified",
-      "London, England, United Kingdom"
-    ],
-    [
-      "Product Marketing Manager",
-      "Not specified",
-      "United States"
     ],
     [
       "Flash Pass Program Manager - Six Flags Great America",
@@ -44,14 +39,19 @@
       "Gurnee, Illinois, United States"
     ],
     [
-      "Sales Director - Live Events",
+      "Product Marketing Manager",
       "Not specified",
       "United States"
     ],
     [
-      "Director of Operations",
+      "Senior Software Engineer",
       "Not specified",
-      "Dubai, United Arab Emirates"
+      "London, England, United Kingdom"
+    ],
+    [
+      "Sales Director - Live Events",
+      "Not specified",
+      "United States"
     ]
   ]
 }
